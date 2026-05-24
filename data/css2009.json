@@ -1,0 +1,6627 @@
+[
+  {
+    "event": "CSS2009",
+    "session": "特別講演１",
+    "id": "SP1-1",
+    "title": "近世における「情報」の社会的・文化的意味 ― 「富山売薬」の活動を通して ―",
+    "authors": [
+      {
+        "name": "米原 寛",
+        "affiliations": [
+          "富山県〔立山博物館〕館長"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "SP1-1 近世における「情報」の社会的・文化的意味 ― 「富山売薬」の活動を通して ― 米原 寛 富山県〔立山博物館〕館長"
+  },
+  {
+    "event": "CSS2009",
+    "session": "特別講演２",
+    "id": "SP2-1",
+    "title": "滅多に起こらないことはよく起こる",
+    "authors": [
+      {
+        "name": "竹内 郁雄",
+        "affiliations": [
+          "東京大学大学院 情報理工学系研究科 創造情報学専攻 教授"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "SP2-1 滅多に起こらないことはよく起こる 竹内 郁雄 東京大学大学院 情報理工学系研究科 創造情報学専攻 教授"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ａ１：攻撃元データ（1）",
+    "id": "A1-1",
+    "title": "ボット対策の状況",
+    "authors": [
+      {
+        "name": "則武 智",
+        "affiliations": [
+          "(財"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "A1-1 ボット対策の状況 則武 智 (財"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ａ１：攻撃元データ（1）",
+    "id": "A1-2",
+    "title": "マルウェア対策のための研究用データセットとワークショップを通じた研究成果の共有",
+    "authors": [
+      {
+        "name": "畑田 充弘",
+        "affiliations": [
+          "ＮＴＴコミュニケーションズ株式会社"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "中津留 勇",
+        "affiliations": [
+          "一般社団法人 JPCERTコーディネーションセンター"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "寺田 真敏",
+        "affiliations": [
+          "株式会社 日立製作所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "篠田 陽一",
+        "affiliations": [
+          "北陸先端科学技術大学院大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "A1-2 マルウェア対策のための研究用データセットとワークショップを通じた研究成果の共有 畑田 充弘 中津留 勇 寺田 真敏 篠田 陽一 ＮＴＴコミュニケーションズ株式会社 一般社団法人 JPCERTコーディネーションセンター 株式会社 日立製作所 北陸先端科学技術大学院大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ａ１：攻撃元データ（1）",
+    "id": "A1-3",
+    "title": "CCC DATAset 2009 によるマルウェア配布元の可視化",
+    "authors": [
+      {
+        "name": "松木 隆宏",
+        "affiliations": [
+          "株式会社ラック"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "新井 悠",
+        "affiliations": [
+          "株式会社ラック"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "A1-3 CCC DATAset 2009 によるマルウェア配布元の可視化 松木 隆宏 新井 悠 株式会社ラック 株式会社ラック"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ａ１：攻撃元データ（1）",
+    "id": "A1-4",
+    "title": "ウイルスの時間的な関連性に注目した見える化",
+    "authors": [
+      {
+        "name": "小櫻 文彦",
+        "affiliations": [
+          "富士通研究所"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "津田 宏",
+        "affiliations": [
+          "富士通研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "鳥居 悟",
+        "affiliations": [
+          "富士通研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "A1-4 ウイルスの時間的な関連性に注目した見える化 小櫻 文彦 津田 宏 鳥居 悟 富士通研究所 富士通研究所 富士通研究所"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ａ２：攻撃元データ（2）",
+    "id": "A2-1",
+    "title": "ボットネットはいくつあるか？ダウンロードログからの線形独立な基底数",
+    "authors": [
+      {
+        "name": "松尾 峻治",
+        "affiliations": [
+          "東海大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "菊池 浩明",
+        "affiliations": [
+          "東海大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "寺田 真敏",
+        "affiliations": [
+          "日立製作所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "A2-1 ボットネットはいくつあるか？ダウンロードログからの線形独立な基底数 松尾 峻治 菊池 浩明 寺田 真敏 東海大学 東海大学 日立製作所"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ａ２：攻撃元データ（2）",
+    "id": "A2-2",
+    "title": "観測網の大小に基づく結果の比較とマルウェア対策に関する一考察",
+    "authors": [
+      {
+        "name": "永尾 禎啓",
+        "affiliations": [
+          "株式会社インターネットイニシアティブ"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "鈴木 博志",
+        "affiliations": [
+          "株式会社インターネットイニシアティブ"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "加藤 雅彦",
+        "affiliations": [
+          "株式会社インターネットイニシアティブ"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "齋藤 衛",
+        "affiliations": [
+          "株式会社インターネットイニシアティブ"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "A2-2 観測網の大小に基づく結果の比較とマルウェア対策に関する一考察 永尾 禎啓 鈴木 博志 加藤 雅彦 齋藤 衛 株式会社インターネットイニシアティブ 株式会社インターネットイニシアティブ 株式会社インターネットイニシアティブ 株式会社インターネットイニシアティブ"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ａ２：攻撃元データ（2）",
+    "id": "A2-3",
+    "title": "分散ハニーポット観測からのダウンロードサーバ間の相関ルール抽出",
+    "authors": [
+      {
+        "name": "大類 将之",
+        "affiliations": [
+          "東海大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "菊池 浩明",
+        "affiliations": [
+          "東海大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "寺田 真敏",
+        "affiliations": [
+          "日立製作所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "A2-3 分散ハニーポット観測からのダウンロードサーバ間の相関ルール抽出 大類 将之 菊池 浩明 寺田 真敏 東海大学 東海大学 日立製作所"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ａ２：攻撃元データ（2）",
+    "id": "A2-4",
+    "title": "多地点分散型ハニーポットによる攻撃発生および被害予報システムの検討",
+    "authors": [
+      {
+        "name": "須藤 年章",
+        "affiliations": [
+          "NTTコミュニケーションズ株式会社"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "畑田 充弘",
+        "affiliations": [
+          "NTTコミュニケーションズ株式会社"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "A2-4 多地点分散型ハニーポットによる攻撃発生および被害予報システムの検討 須藤 年章 畑田 充弘 NTTコミュニケーションズ株式会社 NTTコミュニケーションズ株式会社"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ａ４：攻撃通信データ(1)",
+    "id": "A4-1",
+    "title": "今後脅威となりうるマルウェア配布元ホストの早期発見に関する一考察",
+    "authors": [
+      {
+        "name": "大井 俊介",
+        "affiliations": [
+          "岩手県立大学大学院 ソフトウェア情報学研究科"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "加藤 貴司",
+        "affiliations": [
+          "岩手県立大学大学院 ソフトウェア情報学研究科"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "ベッド バハドゥール ビスタ",
+        "affiliations": [
+          "岩手県立大学大学院 ソフトウェア情報学研究科"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "高田 豊雄",
+        "affiliations": [
+          "岩手県立大学大学院 ソフトウェア情報学研究科"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "A4-1 今後脅威となりうるマルウェア配布元ホストの早期発見に関する一考察 大井 俊介 加藤 貴司 ベッド バハドゥール ビスタ 高田 豊雄 岩手県立大学大学院 ソフトウェア情報学研究科 岩手県立大学大学院 ソフトウェア情報学研究科 岩手県立大学大学院 ソフトウェア情報学研究科 岩手県立大学大学院 ソフトウェア情報学研究科"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ａ４：攻撃通信データ(1)",
+    "id": "A4-2",
+    "title": "ファイアウォールログを利用したマルウェア活動の検出手法について",
+    "authors": [
+      {
+        "name": "加藤 淳也",
+        "affiliations": [
+          "NTTコミュニケーションズ株式会社 セキュリティオペレーションセンタ"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "門田 剛",
+        "affiliations": [
+          "NTTコミュニケーションズ株式会社 セキュリティオペレーションセンタ"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "畑田 充弘",
+        "affiliations": [
+          "NTTコミュニケーションズ株式会社 先端IPアーキテクチャセンタ"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "竹内 文孝",
+        "affiliations": [
+          "NTTコミュニケーションズ株式会社 セキュリティオペレーションセンタ"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "A4-2 ファイアウォールログを利用したマルウェア活動の検出手法について 加藤 淳也 門田 剛 畑田 充弘 竹内 文孝 NTTコミュニケーションズ株式会社 セキュリティオペレーションセンタ NTTコミュニケーションズ株式会社 セキュリティオペレーションセンタ NTTコミュニケーションズ株式会社 先端IPアーキテクチャセンタ NTTコミュニケーションズ株式会社 セキュリティオペレーションセンタ"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ａ４：攻撃通信データ(1)",
+    "id": "A4-3",
+    "title": "マルウェア解析のための通信視覚化",
+    "authors": [
+      {
+        "name": "清野 祥之",
+        "affiliations": [
+          "電気通信大学 大学院情報システム学研究科"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "小池 英樹",
+        "affiliations": [
+          "電気通信大学 大学院情報システム学研究科"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "A4-3 マルウェア解析のための通信視覚化 清野 祥之 小池 英樹 電気通信大学 大学院情報システム学研究科 電気通信大学 大学院情報システム学研究科"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ａ４：攻撃通信データ(1)",
+    "id": "A4-4",
+    "title": "通信トラフィックの時系列分析によるボット活動の可視化と特徴検出",
+    "authors": [
+      {
+        "name": "池田 潤一",
+        "affiliations": [
+          "早稲田大学大学院基幹理工研究科情報理工学専攻"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "岩村 誠",
+        "affiliations": [
+          "NTT 情報流通プラットフォーム研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "秋岡 明香",
+        "affiliations": [
+          "電気通信大学情報システム学研究科情報ネットワークシステム学専攻"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "村岡 洋一",
+        "affiliations": [
+          "早稲田大学理工学術院"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "A4-4 通信トラフィックの時系列分析によるボット活動の可視化と特徴検出 池田 潤一 岩村 誠 秋岡 明香 村岡 洋一 早稲田大学大学院基幹理工研究科情報理工学専攻 NTT 情報流通プラットフォーム研究所 電気通信大学情報システム学研究科情報ネットワークシステム学専攻 早稲田大学理工学術院"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ａ５：攻撃通信データ(2)",
+    "id": "A5-1",
+    "title": "マルウェア感染時のトラヒック特徴に関する一考察",
+    "authors": [
+      {
+        "name": "森 悠樹",
+        "affiliations": [
+          "早稲田大学理工学術院"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "市野 将嗣",
+        "affiliations": [
+          "早稲田大学理工学術院"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "畑田 充弘",
+        "affiliations": [
+          "NTTコミュニケーションズ株式会社"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "小松 尚久",
+        "affiliations": [
+          "早稲田大学理工学術院"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "A5-1 マルウェア感染時のトラヒック特徴に関する一考察 森 悠樹 市野 将嗣 畑田 充弘 小松 尚久 早稲田大学理工学術院 早稲田大学理工学術院 NTTコミュニケーションズ株式会社 早稲田大学理工学術院"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ａ５：攻撃通信データ(2)",
+    "id": "A5-2",
+    "title": "メタデータ作成によるマルウェア解析手法の提案",
+    "authors": [
+      {
+        "name": "榊 辰哉",
+        "affiliations": [
+          "慶應義塾大学 環境情報学部 村井研究室"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "水谷 正慶",
+        "affiliations": [
+          "慶應義塾大学 政策メディア研究科"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "武田 圭史",
+        "affiliations": [
+          "慶應義塾大学 環境情報学部 村井研究室"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "村井 純",
+        "affiliations": [
+          "慶應義塾大学 環境情報学部 村井研究室"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "A5-2 メタデータ作成によるマルウェア解析手法の提案 榊 辰哉 水谷 正慶 武田 圭史 村井 純 慶應義塾大学 環境情報学部 村井研究室 慶應義塾大学 政策メディア研究科 慶應義塾大学 環境情報学部 村井研究室 慶應義塾大学 環境情報学部 村井研究室"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ａ５：攻撃通信データ(2)",
+    "id": "A5-3",
+    "title": "パケットキャプチャーから感染種類を判定する発見的手法について",
+    "authors": [
+      {
+        "name": "桑原 和也",
+        "affiliations": [
+          "東海大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "菊池 浩明",
+        "affiliations": [
+          "東海大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "寺田 真敏",
+        "affiliations": [
+          "日立製作所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "藤原 将志",
+        "affiliations": [
+          "日立製作所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "A5-3 パケットキャプチャーから感染種類を判定する発見的手法について 桑原 和也 菊池 浩明 寺田 真敏 藤原 将志 東海大学 東海大学 日立製作所 日立製作所"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ａ５：攻撃通信データ(2)",
+    "id": "A5-4",
+    "title": "TCP セッションの特徴に基づくボット制御通信の検知方式の検討",
+    "authors": [
+      {
+        "name": "東角 芳樹",
+        "affiliations": [
+          "株式会社富士通研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "鳥居 悟",
+        "affiliations": [
+          "株式会社富士通研究所"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      }
+    ],
+    "search_text": "A5-4 TCP セッションの特徴に基づくボット制御通信の検知方式の検討 東角 芳樹 鳥居 悟 株式会社富士通研究所 株式会社富士通研究所"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ａ５：攻撃通信データ(2)",
+    "id": "A5-5",
+    "title": "マルウェア通信活動抑制のためのネットワーク制御",
+    "authors": [
+      {
+        "name": "竹森 敬祐",
+        "affiliations": [
+          "ＫＤＤＩ研究所"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "酒井 崇裕",
+        "affiliations": [
+          "静岡大学創造科学技術大学院"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "西垣 正勝",
+        "affiliations": [
+          "静岡大学創造科学技術大学院"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "安藤 類央",
+        "affiliations": [
+          "独立行政法人情報通信研究機構"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "三宅 優",
+        "affiliations": [
+          "ＫＤＤＩ研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "A5-5 マルウェア通信活動抑制のためのネットワーク制御 竹森 敬祐 酒井 崇裕 西垣 正勝 安藤 類央 三宅 優 ＫＤＤＩ研究所 静岡大学創造科学技術大学院 静岡大学創造科学技術大学院 独立行政法人情報通信研究機構 ＫＤＤＩ研究所"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ａ６：攻撃通信データ(3)",
+    "id": "A6-1",
+    "title": "数量化理論とCCCDATAset2009を利用したボットネットのC&Cサーバ特定手法の提案と評価",
+    "authors": [
+      {
+        "name": "三原 元",
+        "affiliations": [
+          "東京電機大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "佐々木 良一",
+        "affiliations": [
+          "東京電機大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "A6-1 数量化理論とCCCDATAset2009を利用したボットネットのC&Cサーバ特定手法の提案と評価 三原 元 佐々木 良一 東京電機大学 東京電機大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ａ６：攻撃通信データ(3)",
+    "id": "A6-2",
+    "title": "TCPフィンガープリントによる悪意のある通信の分析",
+    "authors": [
+      {
+        "name": "木佐森 幸太",
+        "affiliations": [
+          "早稲田大学理工学術院 基幹理工学研究科"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "下田 晃弘",
+        "affiliations": [
+          "早稲田大学理工学術院 基幹理工学研究科"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "森 達哉",
+        "affiliations": [
+          "NTTサービスインテグレーション基盤研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "後藤 滋樹",
+        "affiliations": [
+          "早稲田大学理工学術院 基幹理工学研究科"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "A6-2 TCPフィンガープリントによる悪意のある通信の分析 木佐森 幸太 下田 晃弘 森 達哉 後藤 滋樹 早稲田大学理工学術院 基幹理工学研究科 早稲田大学理工学術院 基幹理工学研究科 NTTサービスインテグレーション基盤研究所 早稲田大学理工学術院 基幹理工学研究科"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ａ６：攻撃通信データ(3)",
+    "id": "A6-3",
+    "title": "標的型攻撃検知システムの評価",
+    "authors": [
+      {
+        "name": "北澤 繁樹",
+        "affiliations": [
+          "三菱電機株式会社 情報技術総合研究所"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "祢宜 知孝",
+        "affiliations": [
+          "三菱電機株式会社 情報技術総合研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "河内 清人",
+        "affiliations": [
+          "三菱電機株式会社 情報技術総合研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "榊原 裕之",
+        "affiliations": [
+          "三菱電機株式会社 情報技術総合研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "藤井 誠司",
+        "affiliations": [
+          "三菱電機株式会社 情報技術総合研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "A6-3 標的型攻撃検知システムの評価 北澤 繁樹 祢宜 知孝 河内 清人 榊原 裕之 藤井 誠司 三菱電機株式会社 情報技術総合研究所 三菱電機株式会社 情報技術総合研究所 三菱電機株式会社 情報技術総合研究所 三菱電機株式会社 情報技術総合研究所 三菱電機株式会社 情報技術総合研究所"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ａ６：攻撃通信データ(3)",
+    "id": "A6-4",
+    "title": "トラヒック解析とVirtual Machine Introspectionの連携によるボット検知方式",
+    "authors": [
+      {
+        "name": "川口 信隆",
+        "affiliations": [
+          "（株"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "大河内 一弥",
+        "affiliations": [
+          "（株"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "仲小路 博史",
+        "affiliations": [
+          "（株"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "鬼頭 哲郎",
+        "affiliations": [
+          "（株"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "重本 倫宏",
+        "affiliations": [
+          "（株"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "寺田 真敏",
+        "affiliations": [
+          "（株"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "A6-4 トラヒック解析とVirtual Machine Introspectionの連携によるボット検知方式 川口 信隆 大河内 一弥 仲小路 博史 鬼頭 哲郎 重本 倫宏 寺田 真敏 （株 （株 （株 （株 （株 （株"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ａ７：マルウェア検体(1)",
+    "id": "A7-1",
+    "title": "Automated deduction systemを用いたマルウェア外部観測ログ解析の自動化",
+    "authors": [
+      {
+        "name": "安藤 類央",
+        "affiliations": [
+          "情報通信研究機構"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "門林 雄基",
+        "affiliations": [
+          "情報通信研究機構"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "篠田 陽一",
+        "affiliations": [
+          "情報通信研究機構"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "A7-1 Automated deduction systemを用いたマルウェア外部観測ログ解析の自動化 安藤 類央 門林 雄基 篠田 陽一 情報通信研究機構 情報通信研究機構 情報通信研究機構"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ａ７：マルウェア検体(1)",
+    "id": "A7-2",
+    "title": "擬似クライアントを用いたサーバ応答蓄積型マルウェア動的解析システム",
+    "authors": [
+      {
+        "name": "笠間 貴弘",
+        "affiliations": [
+          "横浜国立大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "吉岡 克成",
+        "affiliations": [
+          "横浜国立大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "松本 勉",
+        "affiliations": [
+          "横浜国立大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "山形 昌也",
+        "affiliations": [
+          "NEC 共通基盤ソフトウェア研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "衛藤 将史",
+        "affiliations": [
+          "独立行政法人 情報通信研究機構"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "中尾 康二",
+        "affiliations": [
+          "独立行政法人 情報通信研究機構"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "A7-2 擬似クライアントを用いたサーバ応答蓄積型マルウェア動的解析システム 笠間 貴弘 吉岡 克成 松本 勉 山形 昌也 衛藤 将史 中尾 康二 横浜国立大学 横浜国立大学 横浜国立大学 NEC 共通基盤ソフトウェア研究所 独立行政法人 情報通信研究機構 独立行政法人 情報通信研究機構"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ａ７：マルウェア検体(1)",
+    "id": "A7-3",
+    "title": "半透性仮想インターネットによるマルウェアの動的解析",
+    "authors": [
+      {
+        "name": "青木 一史",
+        "affiliations": [
+          "NTT情報流通プラットフォーム研究所"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "川古谷 裕平",
+        "affiliations": [
+          "NTT情報流通プラットフォーム研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "岩村 誠",
+        "affiliations": [
+          "NTT情報流通プラットフォーム研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "伊藤 光恭",
+        "affiliations": [
+          "NTT情報流通プラットフォーム研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "A7-3 半透性仮想インターネットによるマルウェアの動的解析 青木 一史 川古谷 裕平 岩村 誠 伊藤 光恭 NTT情報流通プラットフォーム研究所 NTT情報流通プラットフォーム研究所 NTT情報流通プラットフォーム研究所 NTT情報流通プラットフォーム研究所"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ａ７：マルウェア検体(1)",
+    "id": "A7-4",
+    "title": "多様な感染経路に対応したマルウェア収集・解析環境の構築",
+    "authors": [
+      {
+        "name": "水谷 正慶",
+        "affiliations": [
+          "慶應義塾大学大学院 政策・メディア研究科 村井研究室"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "武田 圭史",
+        "affiliations": [
+          "慶應義塾大学 環境情報学部"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "村井 純",
+        "affiliations": [
+          "慶應義塾大学 環境情報学部"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "A7-4 多様な感染経路に対応したマルウェア収集・解析環境の構築 水谷 正慶 武田 圭史 村井 純 慶應義塾大学大学院 政策・メディア研究科 村井研究室 慶應義塾大学 環境情報学部 慶應義塾大学 環境情報学部"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ａ８：マルウェア検体(2)",
+    "id": "A8-1",
+    "title": "侵入挙動の反復性によるボット検知方式",
+    "authors": [
+      {
+        "name": "酒井 崇裕",
+        "affiliations": [
+          "静岡大学大学院情報学研究科"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "竹森 敬祐",
+        "affiliations": [
+          "株式会社KDDI研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "安藤 類央",
+        "affiliations": [
+          "独立行政法人 情報通信研究機構情報通信セキュリティ研究センター"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "西垣 正勝",
+        "affiliations": [
+          "静岡大学創造科学技術大学院"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "A8-1 侵入挙動の反復性によるボット検知方式 酒井 崇裕 竹森 敬祐 安藤 類央 西垣 正勝 静岡大学大学院情報学研究科 株式会社KDDI研究所 独立行政法人 情報通信研究機構情報通信セキュリティ研究センター 静岡大学創造科学技術大学院"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ａ８：マルウェア検体(2)",
+    "id": "A8-2",
+    "title": "仮想計算機モニタを使ったマルウェアの挙動解析",
+    "authors": [
+      {
+        "name": "野村 和裕",
+        "affiliations": [
+          "立命館大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "吉村 拓也",
+        "affiliations": [
+          "立命館大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "毛利 公一",
+        "affiliations": [
+          "立命館大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "A8-2 仮想計算機モニタを使ったマルウェアの挙動解析 野村 和裕 吉村 拓也 毛利 公一 立命館大学 立命館大学 立命館大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ａ８：マルウェア検体(2)",
+    "id": "A8-3",
+    "title": "統合仮想化システムモニタを用いたマルウェアのプロファイリング",
+    "authors": [
+      {
+        "name": "安藤 類央",
+        "affiliations": [
+          "情報通信研究機構"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "高橋 一志",
+        "affiliations": [
+          "東京大学 大学院 情報理工学系研究科"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "田端 利宏",
+        "affiliations": [
+          "岡山大学大学院自然科学研究科"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "須崎 有康",
+        "affiliations": [
+          "産業技術総合研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "A8-3 統合仮想化システムモニタを用いたマルウェアのプロファイリング 安藤 類央 高橋 一志 田端 利宏 須崎 有康 情報通信研究機構 東京大学 大学院 情報理工学系研究科 岡山大学大学院自然科学研究科 産業技術総合研究所"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ａ８：マルウェア検体(2)",
+    "id": "A8-4",
+    "title": "機械語命令列の類似性に基づく自動マルウェア分類システム",
+    "authors": [
+      {
+        "name": "岩村 誠",
+        "affiliations": [
+          "ＮＴＴ情報流通プラットフォーム研究所"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "伊藤 光恭",
+        "affiliations": [
+          "ＮＴＴ情報流通プラットフォーム研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "村岡 洋一",
+        "affiliations": [
+          "早稲田大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "A8-4 機械語命令列の類似性に基づく自動マルウェア分類システム 岩村 誠 伊藤 光恭 村岡 洋一 ＮＴＴ情報流通プラットフォーム研究所 ＮＴＴ情報流通プラットフォーム研究所 早稲田大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ａ９：マルウェア検体(3)",
+    "id": "A9-1",
+    "title": "マルウェア解析の効率化手法の検討",
+    "authors": [
+      {
+        "name": "山口 和晃",
+        "affiliations": [
+          "情報セキュリティ大学院大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "田中 英彦",
+        "affiliations": [
+          "情報セキュリティ大学院大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "堀合 啓一",
+        "affiliations": [
+          "情報セキュリティ大学院大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "A9-1 マルウェア解析の効率化手法の検討 山口 和晃 田中 英彦 堀合 啓一 情報セキュリティ大学院大学 情報セキュリティ大学院大学 情報セキュリティ大学院大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ａ９：マルウェア検体(3)",
+    "id": "A9-2",
+    "title": "小規模攻撃再現テストベッドによる動作記録データセットの生成",
+    "authors": [
+      {
+        "name": "三輪 信介",
+        "affiliations": [
+          "独立行政法人 情報通信研究機構"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "門林 雄基",
+        "affiliations": [
+          "独立行政法人 情報通信研究機構"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "篠田陽一",
+        "affiliations": [
+          "独立行政法人 情報通信研究機構"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "A9-2 小規模攻撃再現テストベッドによる動作記録データセットの生成 三輪 信介 門林 雄基 篠田陽一 独立行政法人 情報通信研究機構 独立行政法人 情報通信研究機構 独立行政法人 情報通信研究機構"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ａ９：マルウェア検体(3)",
+    "id": "A9-3",
+    "title": "（パネル）MWSの新たな展開に向けて：動作記録データセットを用いたマルウェア対策研究",
+    "authors": [
+      {
+        "name": "コーディネータ：門林 雄基",
+        "affiliations": [
+          "奈良先端科学技術大学院大学，(独"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "パネラー：真鍋 敬士",
+        "affiliations": [
+          "JPCERT コーディネーションセンター"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "岩村 誠",
+        "affiliations": [
+          "NTT情報流通プラットフォーム研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "畑田 充弘",
+        "affiliations": [
+          "NTTコミュニケーションズ(株"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "佐々木 良一",
+        "affiliations": [
+          "東京電機大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "A9-3 （パネル）MWSの新たな展開に向けて：動作記録データセットを用いたマルウェア対策研究 コーディネータ：門林 雄基 パネラー：真鍋 敬士 岩村 誠 畑田 充弘 佐々木 良一 奈良先端科学技術大学院大学，(独 JPCERT コーディネーションセンター NTT情報流通プラットフォーム研究所 NTTコミュニケーションズ(株 東京電機大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ａ９：マルウェア検体(3)",
+    "id": "A9-4",
+    "title": "MWSCup表彰式",
+    "authors": [],
+    "search_text": "A9-4 MWSCup表彰式  "
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｂ１：公開鍵暗号(1)",
+    "id": "B1-1",
+    "title": "GF(3^6)のn次拡大体における関数体篩法の実装実験",
+    "authors": [
+      {
+        "name": "林 卓也",
+        "affiliations": [
+          "公立はこだて未来大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "白勢 政明",
+        "affiliations": [
+          "公立はこだて未来大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "高木 剛",
+        "affiliations": [
+          "公立はこだて未来大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "B1-1 GF(3^6)のn次拡大体における関数体篩法の実装実験 林 卓也 白勢 政明 高木 剛 公立はこだて未来大学 公立はこだて未来大学 公立はこだて未来大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｂ１：公開鍵暗号(1)",
+    "id": "B1-2",
+    "title": "種数の大きな超楕円曲線上の指数計算法の計算機実験",
+    "authors": [
+      {
+        "name": "古林 靖規",
+        "affiliations": [
+          "公立はこだて未来大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "高木 剛",
+        "affiliations": [
+          "公立はこだて未来大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "B1-2 種数の大きな超楕円曲線上の指数計算法の計算機実験 古林 靖規 高木 剛 公立はこだて未来大学 公立はこだて未来大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｂ１：公開鍵暗号(1)",
+    "id": "B1-3",
+    "title": "素体GF(p)上の数体篩法における多項式選択方法",
+    "authors": [
+      {
+        "name": "早坂 健一郎",
+        "affiliations": [
+          "公立はこだて未来大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "高木 剛",
+        "affiliations": [
+          "公立はこだて未来大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "B1-3 素体GF(p)上の数体篩法における多項式選択方法 早坂 健一郎 高木 剛 公立はこだて未来大学 公立はこだて未来大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｂ１：公開鍵暗号(1)",
+    "id": "B1-4",
+    "title": "Freeman 曲線を用いた Xate および R-ate ペアリングのための定義体における乗算アルゴリズム",
+    "authors": [
+      {
+        "name": "根角 健太",
+        "affiliations": [
+          "岡山大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "湯浅 達也",
+        "affiliations": [
+          "岡山大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "野上 保之",
+        "affiliations": [
+          "岡山大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "森川 良孝",
+        "affiliations": [
+          "岡山大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "B1-4 Freeman 曲線を用いた Xate および R-ate ペアリングのための定義体における乗算アルゴリズム 根角 健太 湯浅 達也 野上 保之 森川 良孝 岡山大学 岡山大学 岡山大学 岡山大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｂ２：公開鍵暗号(2)",
+    "id": "B2-1",
+    "title": "幅３の共同疎形式",
+    "authors": [
+      {
+        "name": "桶屋 勝幸",
+        "affiliations": [
+          "（株"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      }
+    ],
+    "search_text": "B2-1 幅３の共同疎形式 桶屋 勝幸 （株"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｂ２：公開鍵暗号(2)",
+    "id": "B2-2",
+    "title": "係数が固定されているPairing-friendly楕円曲線",
+    "authors": [
+      {
+        "name": "白勢 政明",
+        "affiliations": [
+          "公立はこだて未来大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      }
+    ],
+    "search_text": "B2-2 係数が固定されているPairing-friendly楕円曲線 白勢 政明 公立はこだて未来大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｂ２：公開鍵暗号(2)",
+    "id": "B2-3",
+    "title": "Takagi's RSA 暗号に対する Small Secret-key Attack",
+    "authors": [
+      {
+        "name": "篠原 直行",
+        "affiliations": [
+          "情報通信研究機構"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "伊豆 哲也",
+        "affiliations": [
+          "株式会社富士通研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "國廣 昇",
+        "affiliations": [
+          "東京大学大学院"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "B2-3 Takagi's RSA 暗号に対する Small Secret-key Attack 篠原 直行 伊豆 哲也 國廣 昇 情報通信研究機構 株式会社富士通研究所 東京大学大学院"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｂ４：プロトコル(1)",
+    "id": "B4-1",
+    "title": "環境に応じた暗号プロトコルの動的変更方式の実装・評価",
+    "authors": [
+      {
+        "name": "太田 陽基",
+        "affiliations": [
+          "（株"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "清本 晋作",
+        "affiliations": [
+          "（株"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "田中 俊昭",
+        "affiliations": [
+          "（株"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "B4-1 環境に応じた暗号プロトコルの動的変更方式の実装・評価 太田 陽基 清本 晋作 田中 俊昭 （株 （株 （株"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｂ４：プロトコル(1)",
+    "id": "B4-2",
+    "title": "多人数環境を考慮したSigncryptionの簡潔な一般的構成法",
+    "authors": [
+      {
+        "name": "松田 隆宏",
+        "affiliations": [
+          "東京大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "シュルツ ヤコブ",
+        "affiliations": [
+          "東京大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "松浦 幹太",
+        "affiliations": [
+          "東京大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "B4-2 多人数環境を考慮したSigncryptionの簡潔な一般的構成法 松田 隆宏 シュルツ ヤコブ 松浦 幹太 東京大学 東京大学 東京大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｂ４：プロトコル(1)",
+    "id": "B4-3",
+    "title": "Secret Handshake における管理者に対する新たな匿名性の提案",
+    "authors": [
+      {
+        "name": "川合 豊",
+        "affiliations": [
+          "東京大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "國廣 昇",
+        "affiliations": [
+          "東京大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "B4-3 Secret Handshake における管理者に対する新たな匿名性の提案 川合 豊 國廣 昇 東京大学 東京大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｂ４：プロトコル(1)",
+    "id": "B4-4",
+    "title": "Decision Diffie-Hellman仮定に基づくTimed-Release Encryptionの構成法について",
+    "authors": [
+      {
+        "name": "加藤 聡子",
+        "affiliations": [
+          "横浜国立大学大学院環境情報学府",
+          "研究院"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "四方 順司",
+        "affiliations": [
+          "横浜国立大学大学院環境情報学府",
+          "研究院"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "松本 勉",
+        "affiliations": [
+          "横浜国立大学大学院環境情報学府",
+          "研究院"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "B4-4 Decision Diffie-Hellman仮定に基づくTimed-Release Encryptionの構成法について 加藤 聡子 四方 順司 松本 勉 横浜国立大学大学院環境情報学府 研究院 横浜国立大学大学院環境情報学府 研究院 横浜国立大学大学院環境情報学府 研究院"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｂ５：電子署名・PKI",
+    "id": "B5-1",
+    "title": "QCプロファイルの整合的な利用法",
+    "authors": [
+      {
+        "name": "宮川 寧夫",
+        "affiliations": [
+          "独立行政法人情報処理推進機構"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "松本 泰",
+        "affiliations": [
+          "独立行政法人情報処理推進機構"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "B5-1 QCプロファイルの整合的な利用法 宮川 寧夫 松本 泰 独立行政法人情報処理推進機構 独立行政法人情報処理推進機構"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｂ５：電子署名・PKI",
+    "id": "B5-2",
+    "title": "次世代PKIへの移行がスムーズな公開鍵証明書",
+    "authors": [
+      {
+        "name": "須賀 祐治",
+        "affiliations": [
+          "株式会社インターネットイニシアティブ"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      }
+    ],
+    "search_text": "B5-2 次世代PKIへの移行がスムーズな公開鍵証明書 須賀 祐治 株式会社インターネットイニシアティブ"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｂ５：電子署名・PKI",
+    "id": "B5-3",
+    "title": "署名偽造攻撃の次世代電子パスポートへの適用",
+    "authors": [
+      {
+        "name": "酒見 由美",
+        "affiliations": [
+          "岡山大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "伊豆 哲也",
+        "affiliations": [
+          "株式会社富士通研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "武仲 正彦",
+        "affiliations": [
+          "株式会社富士通研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "野上 保之",
+        "affiliations": [
+          "岡山大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "森川 良孝",
+        "affiliations": [
+          "岡山大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "B5-3 署名偽造攻撃の次世代電子パスポートへの適用 酒見 由美 伊豆 哲也 武仲 正彦 野上 保之 森川 良孝 岡山大学 株式会社富士通研究所 株式会社富士通研究所 岡山大学 岡山大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｂ５：電子署名・PKI",
+    "id": "B5-4",
+    "title": "複数指定検証者署名の安全性について",
+    "authors": [
+      {
+        "name": "伊豆 哲也",
+        "affiliations": [
+          "富士通研究所"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "武仲 正彦",
+        "affiliations": [
+          "富士通研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "牛田 芽生恵",
+        "affiliations": [
+          "電気通信大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "太田和夫",
+        "affiliations": [
+          "電気通信大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "B5-4 複数指定検証者署名の安全性について 伊豆 哲也 武仲 正彦 牛田 芽生恵 太田和夫 富士通研究所 富士通研究所 電気通信大学 電気通信大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｂ６：プロトコル(2)",
+    "id": "B6-1",
+    "title": "PIRに基づく匿名認証とその応用",
+    "authors": [
+      {
+        "name": "中村 徹",
+        "affiliations": [
+          "九州大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "稲永 俊介",
+        "affiliations": [
+          "九州大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "池田 大輔",
+        "affiliations": [
+          "九州大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "馬場 謙介",
+        "affiliations": [
+          "九州大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "安浦 寛人",
+        "affiliations": [
+          "九州大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "B6-1 PIRに基づく匿名認証とその応用 中村 徹 稲永 俊介 池田 大輔 馬場 謙介 安浦 寛人 九州大学 九州大学 九州大学 九州大学 九州大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｂ６：プロトコル(2)",
+    "id": "B6-2",
+    "title": "連接キーワード検索可能なIDベース暗号文キーワード検索可能暗号方式",
+    "authors": [
+      {
+        "name": "片山 貴充",
+        "affiliations": [
+          "公立はこだて未来大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "高木 剛",
+        "affiliations": [
+          "公立はこだて未来大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "B6-2 連接キーワード検索可能なIDベース暗号文キーワード検索可能暗号方式 片山 貴充 高木 剛 公立はこだて未来大学 公立はこだて未来大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｂ６：プロトコル(2)",
+    "id": "B6-3",
+    "title": "ポリシーを秘匿した自動トラスト交渉",
+    "authors": [
+      {
+        "name": "菊池 浩明",
+        "affiliations": [
+          "東海大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "Tangtisanon Pikulkaew",
+        "affiliations": [
+          "東海大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      }
+    ],
+    "search_text": "B6-3 ポリシーを秘匿した自動トラスト交渉 菊池 浩明 Tangtisanon Pikulkaew 東海大学 東海大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｂ６：プロトコル(2)",
+    "id": "B6-4",
+    "title": "照合タグを用いた秘匿共通集合計算プロトコルとその応用",
+    "authors": [
+      {
+        "name": "千田 浩司",
+        "affiliations": [
+          "日本電信電話（株"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "五十嵐 大",
+        "affiliations": [
+          "日本電信電話（株"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "高橋 克巳",
+        "affiliations": [
+          "日本電信電話（株"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "B6-4 照合タグを用いた秘匿共通集合計算プロトコルとその応用 千田 浩司 五十嵐 大 高橋 克巳 日本電信電話（株 日本電信電話（株 日本電信電話（株"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｂ７：ストリーム暗号",
+    "id": "B7-1",
+    "title": "ストリーム暗号を用いて特定符号を回避する暗号化方式に関する提案",
+    "authors": [
+      {
+        "name": "池田 裕樹",
+        "affiliations": [
+          "東京理科大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "岩村 惠市",
+        "affiliations": [
+          "東京理科大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "B7-1 ストリーム暗号を用いて特定符号を回避する暗号化方式に関する提案 池田 裕樹 岩村 惠市 東京理科大学 東京理科大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｂ７：ストリーム暗号",
+    "id": "B7-2",
+    "title": "RC4の弱鍵の一般化",
+    "authors": [
+      {
+        "name": "寺村 亮一",
+        "affiliations": [
+          "神戸大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "大東 俊博",
+        "affiliations": [
+          "広島大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "桑門 秀典",
+        "affiliations": [
+          "神戸大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "森井 昌克",
+        "affiliations": [
+          "神戸大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "B7-2 RC4の弱鍵の一般化 寺村 亮一 大東 俊博 桑門 秀典 森井 昌克 神戸大学 広島大学 神戸大学 神戸大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｂ７：ストリーム暗号",
+    "id": "B7-3",
+    "title": "圧縮関数ＡＢＳＧを用いた高速乱数生成器の開発",
+    "authors": [
+      {
+        "name": "仲神 秀彦",
+        "affiliations": [
+          "神戸大学大学院工学研究科"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "森井 昌克",
+        "affiliations": [
+          "神戸大学大学院工学研究科"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "B7-3 圧縮関数ＡＢＳＧを用いた高速乱数生成器の開発 仲神 秀彦 森井 昌克 神戸大学大学院工学研究科 神戸大学大学院工学研究科"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｂ７：ストリーム暗号",
+    "id": "B7-4",
+    "title": "出力破棄の時刻を利用したABSGの解析",
+    "authors": [
+      {
+        "name": "恩賀 嶺",
+        "affiliations": [
+          "神戸大学大学院工学研究科"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "森井 昌克",
+        "affiliations": [
+          "神戸大学大学院工学研究科"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "B7-4 出力破棄の時刻を利用したABSGの解析 恩賀 嶺 森井 昌克 神戸大学大学院工学研究科 神戸大学大学院工学研究科"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｂ８：プロトコル(3)",
+    "id": "B8-1",
+    "title": "無線LAN暗号化方式WPA-TKIPの脆弱性とそれを用いた攻撃方法の提案",
+    "authors": [
+      {
+        "name": "小澤 勇騎",
+        "affiliations": [
+          "神戸大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "大東 俊博",
+        "affiliations": [
+          "広島大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "森井 昌克",
+        "affiliations": [
+          "神戸大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "B8-1 無線LAN暗号化方式WPA-TKIPの脆弱性とそれを用いた攻撃方法の提案 小澤 勇騎 大東 俊博 森井 昌克 神戸大学 広島大学 神戸大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｂ８：プロトコル(3)",
+    "id": "B8-2",
+    "title": "Understanding Server-Compromise Impersonation Attacks in Augmented PAKE",
+    "authors": [
+      {
+        "name": "辛 星漢",
+        "affiliations": [
+          "産業技術総合研究所情報セキュリティ研究センター"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "古原 和邦",
+        "affiliations": [
+          "産業技術総合研究所情報セキュリティ研究センター"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "今井 秀樹",
+        "affiliations": [
+          "中央大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "B8-2 Understanding Server-Compromise Impersonation Attacks in Augmented PAKE 辛 星漢 古原 和邦 今井 秀樹 産業技術総合研究所情報セキュリティ研究センター 産業技術総合研究所情報セキュリティ研究センター 中央大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｂ８：プロトコル(3)",
+    "id": "B8-3",
+    "title": "効率的な耐故障性をもつ鍵共有方式",
+    "authors": [
+      {
+        "name": "波多野 哲也",
+        "affiliations": [
+          "北陸先端科学技術大学院大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "宮地 充子",
+        "affiliations": [
+          "北陸先端科学技術大学院大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "B8-3 効率的な耐故障性をもつ鍵共有方式 波多野 哲也 宮地 充子 北陸先端科学技術大学院大学 北陸先端科学技術大学院大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｂ８：プロトコル(3)",
+    "id": "B8-4",
+    "title": "TESLA鍵へのIDの埋め込みについて",
+    "authors": [
+      {
+        "name": "面 和成",
+        "affiliations": [
+          "北陸先端科学技術大学院大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      }
+    ],
+    "search_text": "B8-4 TESLA鍵へのIDの埋め込みについて 面 和成 北陸先端科学技術大学院大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｂ９：ハッシュ関数・秘密分散",
+    "id": "B9-1",
+    "title": "ＧＰＵを用いたハッシュ関数ＪＨの実装",
+    "authors": [
+      {
+        "name": "別所 佑樹",
+        "affiliations": [
+          "神戸大学大学院工学研究科"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "桑門 秀典",
+        "affiliations": [
+          "神戸大学大学院工学研究科"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "森井 昌克",
+        "affiliations": [
+          "神戸大学大学院工学研究科"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "B9-1 ＧＰＵを用いたハッシュ関数ＪＨの実装 別所 佑樹 桑門 秀典 森井 昌克 神戸大学大学院工学研究科 神戸大学大学院工学研究科 神戸大学大学院工学研究科"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｂ９：ハッシュ関数・秘密分散",
+    "id": "B9-2",
+    "title": "ハッシュ関数Luffaの非線形置換における高階差分特性",
+    "authors": [
+      {
+        "name": "山田 剛",
+        "affiliations": [
+          "東京理科大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "渡辺 大",
+        "affiliations": [
+          "(株"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "秦野 康生",
+        "affiliations": [
+          "(株"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "金子 敏信",
+        "affiliations": [
+          "東京理科大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "B9-2 ハッシュ関数Luffaの非線形置換における高階差分特性 山田 剛 渡辺 大 秦野 康生 金子 敏信 東京理科大学 (株 (株 東京理科大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｂ９：ハッシュ関数・秘密分散",
+    "id": "B9-3",
+    "title": "XORを用いた高速な(k,L,n)ランプ型秘密分散法に関する研究",
+    "authors": [
+      {
+        "name": "高荒 亮",
+        "affiliations": [
+          "東京理科大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "岩村 惠市",
+        "affiliations": [
+          "東京理科大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "B9-3 XORを用いた高速な(k,L,n)ランプ型秘密分散法に関する研究 高荒 亮 岩村 惠市 東京理科大学 東京理科大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｂ９：ハッシュ関数・秘密分散",
+    "id": "B9-4",
+    "title": "Verifiable Multi-secret sharing in the applied picalculus",
+    "authors": [
+      {
+        "name": "Hui Zhao",
+        "affiliations": [
+          "Dalian University of Technology, School of Software"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "Mingchu Li",
+        "affiliations": [
+          "Dalian University of Technology, School of Software"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "Yizhi Ren",
+        "affiliations": [
+          "Kyushu University, Dept. of Computer Science and Communication Engineering"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "Kouichi Sakurai",
+        "affiliations": [
+          "Kyushu University, Dept. of Computer Science and Communication Engineering"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "B9-4 Verifiable Multi-secret sharing in the applied picalculus Hui Zhao Mingchu Li Yizhi Ren Kouichi Sakurai Dalian University of Technology, School of Software Dalian University of Technology, School of Software Kyushu University, Dept. of Computer Science and Communication Engineering Kyushu University, Dept. of Computer Science and Communication Engineering"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｂ９：ハッシュ関数・秘密分散",
+    "id": "B9-5",
+    "title": "Construction of Dynamic Threshold Scheme and It's Applications",
+    "authors": [
+      {
+        "name": "Cheng Guo",
+        "affiliations": [
+          "Dalian University of Technology, School of Software"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "Mingchu Li",
+        "affiliations": [
+          "Dalian University of Technology, School of Software"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "Yizhi Ren",
+        "affiliations": [
+          "Kyushu University, Dept. of Computer Science and Communication Engineering"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "Kouichi Sakurai",
+        "affiliations": [
+          "Kyushu University, Dept. of Computer Science and Communication Engineering"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "B9-5 Construction of Dynamic Threshold Scheme and It's Applications Cheng Guo Mingchu Li Yizhi Ren Kouichi Sakurai Dalian University of Technology, School of Software Dalian University of Technology, School of Software Kyushu University, Dept. of Computer Science and Communication Engineering Kyushu University, Dept. of Computer Science and Communication Engineering"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｃ１：情報ハイディング(1)",
+    "id": "C1-1",
+    "title": "可逆電子透かしの埋め込み容量に関する一考察",
+    "authors": [
+      {
+        "name": "矢部 裕久",
+        "affiliations": [
+          "東京理科大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "岩村 惠市",
+        "affiliations": [
+          "東京理科大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "C1-1 可逆電子透かしの埋め込み容量に関する一考察 矢部 裕久 岩村 惠市 東京理科大学 東京理科大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｃ１：情報ハイディング(1)",
+    "id": "C1-2",
+    "title": "可視型電子透かしに関する提案とその安全性の評価",
+    "authors": [
+      {
+        "name": "片岡 謙一朗",
+        "affiliations": [
+          "東京理科大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "岩村 惠市",
+        "affiliations": [
+          "東京理科大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "C1-2 可視型電子透かしに関する提案とその安全性の評価 片岡 謙一朗 岩村 惠市 東京理科大学 東京理科大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｃ１：情報ハイディング(1)",
+    "id": "C1-3",
+    "title": "結託耐性符号の雑音による影響解析",
+    "authors": [
+      {
+        "name": "門田 宜也",
+        "affiliations": [
+          "神戸大学大学院工学研究科"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "栗林 稔",
+        "affiliations": [
+          "神戸大学大学院工学研究科"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "森井 昌克",
+        "affiliations": [
+          "神戸大学大学院工学研究科"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "C1-3 結託耐性符号の雑音による影響解析 門田 宜也 栗林 稔 森井 昌克 神戸大学大学院工学研究科 神戸大学大学院工学研究科 神戸大学大学院工学研究科"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｃ１：情報ハイディング(1)",
+    "id": "C1-4",
+    "title": "電子指紋技術における量子化誤差が与える影響の解析",
+    "authors": [
+      {
+        "name": "加藤 寛史",
+        "affiliations": [
+          "神戸大学大学院工学研究科"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "栗林 稔",
+        "affiliations": [
+          "神戸大学大学院工学研究科"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "森井 昌克",
+        "affiliations": [
+          "神戸大学大学院工学研究科"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "C1-4 電子指紋技術における量子化誤差が与える影響の解析 加藤 寛史 栗林 稔 森井 昌克 神戸大学大学院工学研究科 神戸大学大学院工学研究科 神戸大学大学院工学研究科"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｃ２：情報ハイディング(2)",
+    "id": "C2-1",
+    "title": "CDMA技術に基づく電子指紋方式の電子指紋プロトコルへの実装",
+    "authors": [
+      {
+        "name": "栗林 稔",
+        "affiliations": [
+          "神戸大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "森井 昌克",
+        "affiliations": [
+          "神戸大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      }
+    ],
+    "search_text": "C2-1 CDMA技術に基づく電子指紋方式の電子指紋プロトコルへの実装 栗林 稔 森井 昌克 神戸大学 神戸大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｃ２：情報ハイディング(2)",
+    "id": "C2-2",
+    "title": "音源テーブル切替えによる実時間音響透かしとその性能評価",
+    "authors": [
+      {
+        "name": "山本 紘太郎",
+        "affiliations": [
+          "防衛大学校"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "岩切 宗利",
+        "affiliations": [
+          "防衛大学校"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "C2-2 音源テーブル切替えによる実時間音響透かしとその性能評価 山本 紘太郎 岩切 宗利 防衛大学校 防衛大学校"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｃ２：情報ハイディング(2)",
+    "id": "C2-3",
+    "title": "新聞紙面向け電子透かし応用システム技術の開発",
+    "authors": [
+      {
+        "name": "海老澤 竜",
+        "affiliations": [
+          "日立製作所システム開発研究所"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "山田 隆亮",
+        "affiliations": [
+          "日立製作所システム開発研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "C2-3 新聞紙面向け電子透かし応用システム技術の開発 海老澤 竜 山田 隆亮 日立製作所システム開発研究所 日立製作所システム開発研究所"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｃ４：セキュリティ評価・監査",
+    "id": "C4-1",
+    "title": "既存脆弱性情報を利用したクライアント向け脆弱性検査システムの提案と評価",
+    "authors": [
+      {
+        "name": "藤堂 洋介",
+        "affiliations": [
+          "神戸大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "朝倉 康生",
+        "affiliations": [
+          "神戸大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "森井 昌克",
+        "affiliations": [
+          "神戸大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "C4-1 既存脆弱性情報を利用したクライアント向け脆弱性検査システムの提案と評価 藤堂 洋介 朝倉 康生 森井 昌克 神戸大学 神戸大学 神戸大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｃ４：セキュリティ評価・監査",
+    "id": "C4-2",
+    "title": "2008年のDebian OpenSSLインシデントにみるオープンソースソフトウェアのセキュリティ分析",
+    "authors": [
+      {
+        "name": "西村 健",
+        "affiliations": [
+          "国立情報学研究所"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "佐藤 周行",
+        "affiliations": [
+          "東京大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "C4-2 2008年のDebian OpenSSLインシデントにみるオープンソースソフトウェアのセキュリティ分析 西村 健 佐藤 周行 国立情報学研究所 東京大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｃ４：セキュリティ評価・監査",
+    "id": "C4-3",
+    "title": "Challenges and design considerations for the authorization analysis of a software framework",
+    "authors": [
+      {
+        "name": "シン ウク",
+        "affiliations": [
+          "KDDI 研究所"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "清本 晋作",
+        "affiliations": [
+          "KDDI 研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "福島 和英",
+        "affiliations": [
+          "KDDI 研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "田中 俊昭",
+        "affiliations": [
+          "KDDI 研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "C4-3 Challenges and design considerations for the authorization analysis of a software framework シン ウク 清本 晋作 福島 和英 田中 俊昭 KDDI 研究所 KDDI 研究所 KDDI 研究所 KDDI 研究所"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｃ５：セキュリティ教育・法律",
+    "id": "C5-1",
+    "title": "脆弱性対策教育のためのe ラーニングシステムの開発と評価",
+    "authors": [
+      {
+        "name": "竹下 数明",
+        "affiliations": [
+          "東京電機大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "小林 偉昭",
+        "affiliations": [
+          "独立行政法人情報処理推進機構"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "佐々木 良一",
+        "affiliations": [
+          "東京電機大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "C5-1 脆弱性対策教育のためのe ラーニングシステムの開発と評価 竹下 数明 小林 偉昭 佐々木 良一 東京電機大学 独立行政法人情報処理推進機構 東京電機大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｃ５：セキュリティ教育・法律",
+    "id": "C5-2",
+    "title": "情報セキュリティ教育のためのeラーニング教材作成システムELSECの開発",
+    "authors": [
+      {
+        "name": "川上 昌俊",
+        "affiliations": [
+          "東京電機大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "安田 浩",
+        "affiliations": [
+          "東京電機大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "佐々木 良一",
+        "affiliations": [
+          "東京電機大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "C5-2 情報セキュリティ教育のためのeラーニング教材作成システムELSECの開発 川上 昌俊 安田 浩 佐々木 良一 東京電機大学 東京電機大学 東京電機大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｃ５：セキュリティ教育・法律",
+    "id": "C5-3",
+    "title": "情報セキュリティ教育のためのeラーニング教材作成システムELSECのフィッシング対策教育への適用",
+    "authors": [
+      {
+        "name": "川上 昌俊",
+        "affiliations": [
+          "東京電機大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "佐々木 良一",
+        "affiliations": [
+          "東京電機大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "C5-3 情報セキュリティ教育のためのeラーニング教材作成システムELSECのフィッシング対策教育への適用 川上 昌俊 佐々木 良一 東京電機大学 東京電機大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｃ５：セキュリティ教育・法律",
+    "id": "C5-4",
+    "title": "我が国のセキュリティ関連法制の展望",
+    "authors": [
+      {
+        "name": "須川 賢洋",
+        "affiliations": [
+          "新潟大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      }
+    ],
+    "search_text": "C5-4 我が国のセキュリティ関連法制の展望 須川 賢洋 新潟大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｃ５：セキュリティ教育・法律",
+    "id": "C5-5",
+    "title": "インターネット上の違法有害情報問題の動向と利用者意識の調査分析に基づく対応策の考察",
+    "authors": [
+      {
+        "name": "千葉 直子",
+        "affiliations": [
+          "日本電信電話株式会社 NTT情報流通プラットフォーム研究所"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "高橋 克巳",
+        "affiliations": [
+          "日本電信電話株式会社 NTT情報流通プラットフォーム研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "C5-5 インターネット上の違法有害情報問題の動向と利用者意識の調査分析に基づく対応策の考察 千葉 直子 高橋 克巳 日本電信電話株式会社 NTT情報流通プラットフォーム研究所 日本電信電話株式会社 NTT情報流通プラットフォーム研究所"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｃ６：コンテンツ保護(1)",
+    "id": "C6-1",
+    "title": "JPIPより得られるJPEG 2000画像に適した画像認証システム",
+    "authors": [
+      {
+        "name": "小出 雅史",
+        "affiliations": [
+          "東京理科大学大学院 工学研究科 電気工学専攻 岩村研究室"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "岩村 惠市",
+        "affiliations": [
+          "東京理科大学大学院 工学研究科 電気工学専攻 岩村研究室"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "C6-1 JPIPより得られるJPEG 2000画像に適した画像認証システム 小出 雅史 岩村 惠市 東京理科大学大学院 工学研究科 電気工学専攻 岩村研究室 東京理科大学大学院 工学研究科 電気工学専攻 岩村研究室"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｃ６：コンテンツ保護(1)",
+    "id": "C6-2",
+    "title": "実用的観点からの秘密分散方式の安全性に関する一考察",
+    "authors": [
+      {
+        "name": "青野 成俊",
+        "affiliations": [
+          "東京理科大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "岩村 惠市",
+        "affiliations": [
+          "東京理科大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "C6-2 実用的観点からの秘密分散方式の安全性に関する一考察 青野 成俊 岩村 惠市 東京理科大学 東京理科大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｃ６：コンテンツ保護(1)",
+    "id": "C6-3",
+    "title": "実行可能プログラムのコード変換による脆弱性の検知手法の提案",
+    "authors": [
+      {
+        "name": "境 顕宏",
+        "affiliations": [
+          "九州大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "堀 良彰",
+        "affiliations": [
+          "九州大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "櫻井 幸一",
+        "affiliations": [
+          "九州大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "C6-3 実行可能プログラムのコード変換による脆弱性の検知手法の提案 境 顕宏 堀 良彰 櫻井 幸一 九州大学 九州大学 九州大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｃ６：コンテンツ保護(1)",
+    "id": "C6-4",
+    "title": "難視性パターンを用いた情報付加手法における前景耐性の向上",
+    "authors": [
+      {
+        "name": "鬼頭 祐太",
+        "affiliations": [
+          "東京理科大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "金田 北洋",
+        "affiliations": [
+          "東京理科大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "C6-4 難視性パターンを用いた情報付加手法における前景耐性の向上 鬼頭 祐太 金田 北洋 東京理科大学 東京理科大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｃ７：コンテンツ保護(2)",
+    "id": "C7-1",
+    "title": "ベンフォードの法則に基づく電子透かし埋め込み方式のカラー画像への適用に関する検討",
+    "authors": [
+      {
+        "name": "野田 和臣",
+        "affiliations": [
+          "九州大学大学院システム情報科学府"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "櫻井 幸一",
+        "affiliations": [
+          "九州大学大学院システム情報科学研究院"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "堀 良彰",
+        "affiliations": [
+          "九州大学大学院システム情報科学研究院"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "C7-1 ベンフォードの法則に基づく電子透かし埋め込み方式のカラー画像への適用に関する検討 野田 和臣 櫻井 幸一 堀 良彰 九州大学大学院システム情報科学府 九州大学大学院システム情報科学研究院 九州大学大学院システム情報科学研究院"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｃ７：コンテンツ保護(2)",
+    "id": "C7-2",
+    "title": "デジタル教材の著作権管理に関する研究―新電子教科書プロジェクト―",
+    "authors": [
+      {
+        "name": "源 直人",
+        "affiliations": [
+          "情報セキュリティ大学院大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "石井 夏生利",
+        "affiliations": [
+          "情報セキュリティ大学院大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "辻 秀典",
+        "affiliations": [
+          "株式会社 情報技研"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "田中 英彦",
+        "affiliations": [
+          "情報セキュリティ大学院大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "C7-2 デジタル教材の著作権管理に関する研究―新電子教科書プロジェクト― 源 直人 石井 夏生利 辻 秀典 田中 英彦 情報セキュリティ大学院大学 情報セキュリティ大学院大学 株式会社 情報技研 情報セキュリティ大学院大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｃ７：コンテンツ保護(2)",
+    "id": "C7-3",
+    "title": "生体とデバイスの感度の違いを利用した映像の盗撮防止方式",
+    "authors": [
+      {
+        "name": "山田 隆行",
+        "affiliations": [
+          "総合研究大学院大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "合志 清一",
+        "affiliations": [
+          "シャープ株式会社 ディスプレイシステム研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "越前 功",
+        "affiliations": [
+          "総合研究大学院大学",
+          "国立情報学研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "C7-3 生体とデバイスの感度の違いを利用した映像の盗撮防止方式 山田 隆行 合志 清一 越前 功 総合研究大学院大学 シャープ株式会社 ディスプレイシステム研究所 総合研究大学院大学 国立情報学研究所"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｃ８：トラスト(1)",
+    "id": "C8-1",
+    "title": "Clustering Agent Based on Preference Measure for Reputation Systems",
+    "authors": [
+      {
+        "name": "Yizhi Ren",
+        "affiliations": [
+          "Kyushu University, Department of Electrical Engineering and Computer Science"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "Mingchu Li",
+        "affiliations": [
+          "Dalian University of Technology, School of Software"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "Yongrui Cui",
+        "affiliations": [
+          "Dalian University of Technology, School of Software"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "Kouichi Sakurai",
+        "affiliations": [
+          "Kyushu University, Department of Electrical Engineering and Computer Science"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "C8-1 Clustering Agent Based on Preference Measure for Reputation Systems Yizhi Ren Mingchu Li Yongrui Cui Kouichi Sakurai Kyushu University, Department of Electrical Engineering and Computer Science Dalian University of Technology, School of Software Dalian University of Technology, School of Software Kyushu University, Department of Electrical Engineering and Computer Science"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｃ８：トラスト(1)",
+    "id": "C8-2",
+    "title": "A New Sensitive and Robust Grid Reputation System Based on Rating of Recommenders",
+    "authors": [
+      {
+        "name": "Yongrui Cui",
+        "affiliations": [
+          "Dalian University of Technology, School of Software"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "Mingchu Li",
+        "affiliations": [
+          "Dalian University of Technology, School of Software"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "Yizhi Ren",
+        "affiliations": [
+          "Kyushu University, Dept. of Computer Science and Communication Engineering"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "Kouichi Sakurai",
+        "affiliations": [
+          "Kyushu University, Dept. of Computer Science and Communication Engineering"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "C8-2 A New Sensitive and Robust Grid Reputation System Based on Rating of Recommenders Yongrui Cui Mingchu Li Yizhi Ren Kouichi Sakurai Dalian University of Technology, School of Software Dalian University of Technology, School of Software Kyushu University, Dept. of Computer Science and Communication Engineering Kyushu University, Dept. of Computer Science and Communication Engineering"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｃ８：トラスト(1)",
+    "id": "C8-3",
+    "title": "トラックドライバの安心に関する質問紙の開発",
+    "authors": [
+      {
+        "name": "藤原 康宏",
+        "affiliations": [
+          "岩手県立大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "植草 理",
+        "affiliations": [
+          "日産ディーゼル工業"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "加藤 幸祐",
+        "affiliations": [
+          "日産ディーゼル工業"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "村山 優子",
+        "affiliations": [
+          "岩手県立大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "C8-3 トラックドライバの安心に関する質問紙の開発 藤原 康宏 植草 理 加藤 幸祐 村山 優子 岩手県立大学 日産ディーゼル工業 日産ディーゼル工業 岩手県立大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｃ８：トラスト(1)",
+    "id": "C8-4",
+    "title": "KJ法を用いた情報セキュリティ技術に対する安心感の質問項目の検討",
+    "authors": [
+      {
+        "name": "西岡 大",
+        "affiliations": [
+          "岩手県立大学大学院 ソフトウェア情報学研究科"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "藤原 康宏",
+        "affiliations": [
+          "岩手県立大学大学院 ソフトウェア情報学研究科"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "村山 優子",
+        "affiliations": [
+          "岩手県立大学大学院 ソフトウェア情報学研究科"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "C8-4 KJ法を用いた情報セキュリティ技術に対する安心感の質問項目の検討 西岡 大 藤原 康宏 村山 優子 岩手県立大学大学院 ソフトウェア情報学研究科 岩手県立大学大学院 ソフトウェア情報学研究科 岩手県立大学大学院 ソフトウェア情報学研究科"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｃ９：トラスト(2)",
+    "id": "C9-1",
+    "title": "P2Pファイル交換ソフトウェア環境向け注意喚起メッセージングシステムの提案",
+    "authors": [
+      {
+        "name": "寺田 真敏",
+        "affiliations": [
+          "株式会社日立製作所"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "仲小路 博史",
+        "affiliations": [
+          "株式会社日立製作所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "鬼頭 哲郎",
+        "affiliations": [
+          "株式会社日立製作所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "甲斐根 功",
+        "affiliations": [
+          "(株"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "宮川 雄一",
+        "affiliations": [
+          "(株"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "湯川 隆二",
+        "affiliations": [
+          "(株"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "松岡 正明",
+        "affiliations": [
+          "(株"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "松木 隆宏",
+        "affiliations": [
+          "(株"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "鵜飼 裕司",
+        "affiliations": [
+          "(株"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "C9-1 P2Pファイル交換ソフトウェア環境向け注意喚起メッセージングシステムの提案 寺田 真敏 仲小路 博史 鬼頭 哲郎 甲斐根 功 宮川 雄一 湯川 隆二 松岡 正明 松木 隆宏 鵜飼 裕司 株式会社日立製作所 株式会社日立製作所 株式会社日立製作所 (株 (株 (株 (株 (株 (株"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｃ９：トラスト(2)",
+    "id": "C9-2",
+    "title": "企業における内部者の故意による 情報セキュリティインシデントへの対策に関する一考察",
+    "authors": [
+      {
+        "name": "沼田 晋作",
+        "affiliations": [
+          "NTT情報流通プラットフォーム研究所"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "柴田 賢介",
+        "affiliations": [
+          "NTT情報流通プラットフォーム研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "岡崎 聖人",
+        "affiliations": [
+          "NTT情報流通プラットフォーム研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "高橋 克巳",
+        "affiliations": [
+          "NTT情報流通プラットフォーム研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "C9-2 企業における内部者の故意による 情報セキュリティインシデントへの対策に関する一考察 沼田 晋作 柴田 賢介 岡崎 聖人 高橋 克巳 NTT情報流通プラットフォーム研究所 NTT情報流通プラットフォーム研究所 NTT情報流通プラットフォーム研究所 NTT情報流通プラットフォーム研究所"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｃ９：トラスト(2)",
+    "id": "C9-3",
+    "title": "防護動機理論に基づく情報セキュリティリスク解明モデルの一検討",
+    "authors": [
+      {
+        "name": "猪俣 敦夫",
+        "affiliations": [
+          "奈良先端科学技術大学院大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "東 結香",
+        "affiliations": [
+          "奈良先端科学技術大学院大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "上田 昌史",
+        "affiliations": [
+          "国立情報学研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "藤川 和利",
+        "affiliations": [
+          "奈良先端科学技術大学院大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "砂原 秀樹",
+        "affiliations": [
+          "慶應義塾大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "C9-3 防護動機理論に基づく情報セキュリティリスク解明モデルの一検討 猪俣 敦夫 東 結香 上田 昌史 藤川 和利 砂原 秀樹 奈良先端科学技術大学院大学 奈良先端科学技術大学院大学 国立情報学研究所 奈良先端科学技術大学院大学 慶應義塾大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｃ９：トラスト(2)",
+    "id": "C9-4",
+    "title": "インターネットにおける不安発生のモデル化とその検証について",
+    "authors": [
+      {
+        "name": "山本 太郎",
+        "affiliations": [
+          "日本電信電話株式会社 NTT情報流通プラットフォーム研究所"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "千葉 直子",
+        "affiliations": [
+          "日本電信電話株式会社 NTT情報流通プラットフォーム研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "間形 文彦",
+        "affiliations": [
+          "日本電信電話株式会社 NTT情報流通プラットフォーム研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "高橋 克巳",
+        "affiliations": [
+          "日本電信電話株式会社 NTT情報流通プラットフォーム研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "関谷 直也",
+        "affiliations": [
+          "東洋大学 社会学部"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "中村 功",
+        "affiliations": [
+          "東洋大学 社会学部"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "小笠原 盛浩",
+        "affiliations": [
+          "東京大学大学院 情報学環"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "橋元 良明",
+        "affiliations": [
+          "東京大学大学院 情報学環"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "C9-4 インターネットにおける不安発生のモデル化とその検証について 山本 太郎 千葉 直子 間形 文彦 高橋 克巳 関谷 直也 中村 功 小笠原 盛浩 橋元 良明 日本電信電話株式会社 NTT情報流通プラットフォーム研究所 日本電信電話株式会社 NTT情報流通プラットフォーム研究所 日本電信電話株式会社 NTT情報流通プラットフォーム研究所 日本電信電話株式会社 NTT情報流通プラットフォーム研究所 東洋大学 社会学部 東洋大学 社会学部 東京大学大学院 情報学環 東京大学大学院 情報学環"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｃ９：トラスト(2)",
+    "id": "C9-5",
+    "title": "ネット・セキュリティにおける不安の構造",
+    "authors": [
+      {
+        "name": "関谷 直也",
+        "affiliations": [
+          "東洋大学社会学部"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "橋元 良明",
+        "affiliations": [
+          "東京大学大学院 情報学環"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "小笠原 盛浩",
+        "affiliations": [
+          "東京大学大学院 情報学環"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "中村 功",
+        "affiliations": [
+          "東洋大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "高橋 克己",
+        "affiliations": [
+          "日本電信電話株式会社 NTT情報流通プラットフォーム研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "間形 文彦",
+        "affiliations": [
+          "日本電信電話株式会社 NTT情報流通プラットフォーム研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "山本 太郎",
+        "affiliations": [
+          "日本電信電話株式会社 NTT情報流通プラットフォーム研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "千葉 直子",
+        "affiliations": [
+          "日本電信電話株式会社 NTT情報流通プラットフォーム研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "C9-5 ネット・セキュリティにおける不安の構造 関谷 直也 橋元 良明 小笠原 盛浩 中村 功 高橋 克己 間形 文彦 山本 太郎 千葉 直子 東洋大学社会学部 東京大学大学院 情報学環 東京大学大学院 情報学環 東洋大学 日本電信電話株式会社 NTT情報流通プラットフォーム研究所 日本電信電話株式会社 NTT情報流通プラットフォーム研究所 日本電信電話株式会社 NTT情報流通プラットフォーム研究所 日本電信電話株式会社 NTT情報流通プラットフォーム研究所"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｄ１：ユーザ認証(1)",
+    "id": "D1-1",
+    "title": "複数認証可能なワンタイムパスワード生成器の提案と評価",
+    "authors": [
+      {
+        "name": "足立 周介",
+        "affiliations": [
+          "神戸大学大学院工学研究科"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "伊沢 亮一",
+        "affiliations": [
+          "神戸大学大学院自然科学研究科"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "森井 昌克",
+        "affiliations": [
+          "神戸大学大学院工学研究科"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "D1-1 複数認証可能なワンタイムパスワード生成器の提案と評価 足立 周介 伊沢 亮一 森井 昌克 神戸大学大学院工学研究科 神戸大学大学院自然科学研究科 神戸大学大学院工学研究科"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｄ１：ユーザ認証(1)",
+    "id": "D1-2",
+    "title": "平仮名ランダム文字列を用いたワンタイムパスワードキーストローク認証に関する一検討",
+    "authors": [
+      {
+        "name": "中村 優",
+        "affiliations": [
+          "東京理科大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "齋藤 詩織",
+        "affiliations": [
+          "東京理科大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "藤澤 匡哉",
+        "affiliations": [
+          "東京理科大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "D1-2 平仮名ランダム文字列を用いたワンタイムパスワードキーストローク認証に関する一検討 中村 優 齋藤 詩織 藤澤 匡哉 東京理科大学 東京理科大学 東京理科大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｄ１：ユーザ認証(1)",
+    "id": "D1-3",
+    "title": "認証済みCookie情報の端末間での連携技術の開発と評価",
+    "authors": [
+      {
+        "name": "梅澤 克之",
+        "affiliations": [
+          "（株"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "加藤 崇利",
+        "affiliations": [
+          "（株"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "田代 卓",
+        "affiliations": [
+          "（株"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "D1-3 認証済みCookie情報の端末間での連携技術の開発と評価 梅澤 克之 加藤 崇利 田代 卓 （株 （株 （株"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｄ１：ユーザ認証(1)",
+    "id": "D1-4",
+    "title": "携帯端末上でのID管理技術に関する検討",
+    "authors": [
+      {
+        "name": "渡辺 龍",
+        "affiliations": [
+          "株式会社ＫＤＤＩ研究所"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "仲野 有登",
+        "affiliations": [
+          "株式会社ＫＤＤＩ研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "田中 俊明",
+        "affiliations": [
+          "株式会社ＫＤＤＩ研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "D1-4 携帯端末上でのID管理技術に関する検討 渡辺 龍 仲野 有登 田中 俊明 株式会社ＫＤＤＩ研究所 株式会社ＫＤＤＩ研究所 株式会社ＫＤＤＩ研究所"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｄ２：ユーザ認証(2)",
+    "id": "D2-1",
+    "title": "メンタルタスク時の脳波を用いた個人認証の研究",
+    "authors": [
+      {
+        "name": "中西 功",
+        "affiliations": [
+          "鳥取大学大学院"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "宮本 千正",
+        "affiliations": [
+          "鳥取大学大学院"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "馬場 貞尚",
+        "affiliations": [
+          "鳥取大学大学院"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "D2-1 メンタルタスク時の脳波を用いた個人認証の研究 中西 功 宮本 千正 馬場 貞尚 鳥取大学大学院 鳥取大学大学院 鳥取大学大学院"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｄ２：ユーザ認証(2)",
+    "id": "D2-2",
+    "title": "パスワードとの闘い - パスワードなし認証システムの運用報告",
+    "authors": [
+      {
+        "name": "増井 俊之",
+        "affiliations": [
+          "慶應義塾大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      }
+    ],
+    "search_text": "D2-2 パスワードとの闘い - パスワードなし認証システムの運用報告 増井 俊之 慶應義塾大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｄ２：ユーザ認証(2)",
+    "id": "D2-3",
+    "title": "機械翻訳CAPTCHA（その2）",
+    "authors": [
+      {
+        "name": "山本 匠",
+        "affiliations": [
+          "静岡大学創造科学技術大学院"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "Doug Tygar",
+        "affiliations": [
+          "Ｃｏｍｐｕｔｅｒ Ｓｃｉｅｎｃｅ Ｄｉｖｉｓｉｏｎ， Ｕｎｉｖｅｒｓｉｔｙ ｏｆ Ｃａｌｉｆｏｒｎｉａ， Ｂｅｒｋｅｌｅｙ"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "西垣 正勝",
+        "affiliations": [
+          "静岡大学創造科学技術大学院"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "D2-3 機械翻訳CAPTCHA（その2） 山本 匠 Doug Tygar 西垣 正勝 静岡大学創造科学技術大学院 Ｃｏｍｐｕｔｅｒ Ｓｃｉｅｎｃｅ Ｄｉｖｉｓｉｏｎ， Ｕｎｉｖｅｒｓｉｔｙ ｏｆ Ｃａｌｉｆｏｒｎｉａ， Ｂｅｒｋｅｌｅｙ 静岡大学創造科学技術大学院"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｄ４：生体認証",
+    "id": "D4-1",
+    "title": "Fuzzy Commitment Scheme を指紋マニューシャマッチングに適用した実験と評価",
+    "authors": [
+      {
+        "name": "武藤 祐貴",
+        "affiliations": [
+          "中央大学理工学研究科"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "姜 玄浩",
+        "affiliations": [
+          "中央大学研究開発機構"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "井沼 学",
+        "affiliations": [
+          "産業技術総合研究所情報セキュリティ研究センター"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "今井 秀樹",
+        "affiliations": [
+          "中央大学理工学研究科"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "D4-1 Fuzzy Commitment Scheme を指紋マニューシャマッチングに適用した実験と評価 武藤 祐貴 姜 玄浩 井沼 学 今井 秀樹 中央大学理工学研究科 中央大学研究開発機構 産業技術総合研究所情報セキュリティ研究センター 中央大学理工学研究科"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｄ４：生体認証",
+    "id": "D4-2",
+    "title": "多項式の類似度を利用した非対称生体認証",
+    "authors": [
+      {
+        "name": "菊池 浩明",
+        "affiliations": [
+          "東海大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "尾形 わかは",
+        "affiliations": [
+          "東京工業大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "西垣 正勝",
+        "affiliations": [
+          "静岡大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "D4-2 多項式の類似度を利用した非対称生体認証 菊池 浩明 尾形 わかは 西垣 正勝 東海大学 東京工業大学 静岡大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｄ４：生体認証",
+    "id": "D4-3",
+    "title": "Wolf及びLambに対する安全性の高い生体認証の提案",
+    "authors": [
+      {
+        "name": "村上 隆夫",
+        "affiliations": [
+          "（株"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "高橋 健太",
+        "affiliations": [
+          "（株"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "D4-3 Wolf及びLambに対する安全性の高い生体認証の提案 村上 隆夫 高橋 健太 （株 （株"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｄ４：生体認証",
+    "id": "D4-4",
+    "title": "合成ウルフを用いた安全性評価に関する一考察",
+    "authors": [
+      {
+        "name": "米澤 祥子",
+        "affiliations": [
+          "産業技術総合研究所"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "姜 玄浩",
+        "affiliations": [
+          "中央大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "大塚 玲",
+        "affiliations": [
+          "産業技術総合研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "今井 秀樹",
+        "affiliations": [
+          "中央大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "D4-4 合成ウルフを用いた安全性評価に関する一考察 米澤 祥子 姜 玄浩 大塚 玲 今井 秀樹 産業技術総合研究所 中央大学 産業技術総合研究所 中央大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｄ５：アクセス制御・情報共有",
+    "id": "D5-1",
+    "title": "権限集合の類似度を用いたアクセスルールのクラスタリングに基づくロール抽出方式",
+    "authors": [
+      {
+        "name": "古川 諒",
+        "affiliations": [
+          "NEC 共通基盤ソフトウェア研究所"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "中江 政行",
+        "affiliations": [
+          "NEC 共通基盤ソフトウェア研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "小川 隆一",
+        "affiliations": [
+          "NEC 共通基盤ソフトウェア研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "D5-1 権限集合の類似度を用いたアクセスルールのクラスタリングに基づくロール抽出方式 古川 諒 中江 政行 小川 隆一 NEC 共通基盤ソフトウェア研究所 NEC 共通基盤ソフトウェア研究所 NEC 共通基盤ソフトウェア研究所"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｄ５：アクセス制御・情報共有",
+    "id": "D5-2",
+    "title": "状況変化を考慮した利用者個人情報のアクセス制御モデルの構築",
+    "authors": [
+      {
+        "name": "笠井 敬介",
+        "affiliations": [
+          "立命館大学大学院 理工学研究科"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "川越 恭二",
+        "affiliations": [
+          "立命館大学 情報理工学部"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "D5-2 状況変化を考慮した利用者個人情報のアクセス制御モデルの構築 笠井 敬介 川越 恭二 立命館大学大学院 理工学研究科 立命館大学 情報理工学部"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｄ５：アクセス制御・情報共有",
+    "id": "D5-3",
+    "title": "様々なサービスへの対応を可能とするサーバ連携型ICカードシステムの実現方式の検討",
+    "authors": [
+      {
+        "name": "本間 祐次",
+        "affiliations": [
+          "東京工業大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "小尾 高史",
+        "affiliations": [
+          "東京工業大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "谷内田 益義",
+        "affiliations": [
+          "東京工業大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "李 中淳",
+        "affiliations": [
+          "東京工業大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "大山 永昭",
+        "affiliations": [
+          "東京工業大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "D5-3 様々なサービスへの対応を可能とするサーバ連携型ICカードシステムの実現方式の検討 本間 祐次 小尾 高史 谷内田 益義 李 中淳 大山 永昭 東京工業大学 東京工業大学 東京工業大学 東京工業大学 東京工業大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｄ５：アクセス制御・情報共有",
+    "id": "D5-4",
+    "title": "情報共有における認証・認可機能構成の一考察",
+    "authors": [
+      {
+        "name": "宮木 一郎",
+        "affiliations": [
+          "情報セキュリティ大学院大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "関 良明",
+        "affiliations": [
+          "日本電信電話株式会社 NTT情報流通プラットフォーム研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "冨士 仁",
+        "affiliations": [
+          "日本電信電話株式会社 NTT情報流通プラットフォーム研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "平田 真一",
+        "affiliations": [
+          "日本電信電話株式会社 NTT情報流通プラットフォーム研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "板倉 征男",
+        "affiliations": [
+          "情報セキュリティ大学院大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "D5-4 情報共有における認証・認可機能構成の一考察 宮木 一郎 関 良明 冨士 仁 平田 真一 板倉 征男 情報セキュリティ大学院大学 日本電信電話株式会社 NTT情報流通プラットフォーム研究所 日本電信電話株式会社 NTT情報流通プラットフォーム研究所 日本電信電話株式会社 NTT情報流通プラットフォーム研究所 情報セキュリティ大学院大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｄ５：アクセス制御・情報共有",
+    "id": "D5-5",
+    "title": "情報絃──情報の安全な共有方法に関する一考察",
+    "authors": [
+      {
+        "name": "諸橋 玄武",
+        "affiliations": [
+          "日本電信電話株式会社 ＮＴＴ情報流通プラットフォーム研究所"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "小田 哲",
+        "affiliations": [
+          "日本電信電話株式会社 ＮＴＴ情報流通プラットフォーム研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "福永 利徳",
+        "affiliations": [
+          "日本電信電話株式会社 ＮＴＴ情報流通プラットフォーム研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "冨士 仁",
+        "affiliations": [
+          "日本電信電話株式会社 ＮＴＴ情報流通プラットフォーム研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "D5-5 情報絃──情報の安全な共有方法に関する一考察 諸橋 玄武 小田 哲 福永 利徳 冨士 仁 日本電信電話株式会社 ＮＴＴ情報流通プラットフォーム研究所 日本電信電話株式会社 ＮＴＴ情報流通プラットフォーム研究所 日本電信電話株式会社 ＮＴＴ情報流通プラットフォーム研究所 日本電信電話株式会社 ＮＴＴ情報流通プラットフォーム研究所"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｄ７：セキュリティ開発手法",
+    "id": "D7-1",
+    "title": "アクタ関係表に基づくセキュリティ要求分析手法（ＳＡＲＭ）の提案",
+    "authors": [
+      {
+        "name": "金子 朋子",
+        "affiliations": [
+          "情報セキュリティ大学院大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "山本 修一郎",
+        "affiliations": [
+          "(株"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "田中 英彦",
+        "affiliations": [
+          "情報セキュリティ大学院大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "D7-1 アクタ関係表に基づくセキュリティ要求分析手法（ＳＡＲＭ）の提案 金子 朋子 山本 修一郎 田中 英彦 情報セキュリティ大学院大学 (株 情報セキュリティ大学院大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｄ７：セキュリティ開発手法",
+    "id": "D7-2",
+    "title": "アンチウィルスソフトの改善に関する一提案",
+    "authors": [
+      {
+        "name": "澤村 隆志",
+        "affiliations": [
+          "岩手県立大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "吉本 道隆",
+        "affiliations": [
+          "清泉女学院大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "加藤 貴司",
+        "affiliations": [
+          "岩手県立大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "Bista Bhed Bahadur",
+        "affiliations": [
+          "岩手県立大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "高田 豊雄",
+        "affiliations": [
+          "岩手県立大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "D7-2 アンチウィルスソフトの改善に関する一提案 澤村 隆志 吉本 道隆 加藤 貴司 Bista Bhed Bahadur 高田 豊雄 岩手県立大学 清泉女学院大学 岩手県立大学 岩手県立大学 岩手県立大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｄ７：セキュリティ開発手法",
+    "id": "D7-3",
+    "title": "アジャイル型開発におけるセキュリティの早期実装とテストを実現する手法の提案",
+    "authors": [
+      {
+        "name": "大久保 隆夫",
+        "affiliations": [
+          "株式会社富士通研究所"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      }
+    ],
+    "search_text": "D7-3 アジャイル型開発におけるセキュリティの早期実装とテストを実現する手法の提案 大久保 隆夫 株式会社富士通研究所"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｄ７：セキュリティ開発手法",
+    "id": "D7-4",
+    "title": "Web予約システムのセキュリティ要求分析におけるインクリメンタル的なアプローチについて",
+    "authors": [
+      {
+        "name": "武川 宏",
+        "affiliations": [
+          "情報セキュリティ大学院大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "田中 英彦",
+        "affiliations": [
+          "情報セキュリティ大学院大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "D7-4 Web予約システムのセキュリティ要求分析におけるインクリメンタル的なアプローチについて 武川 宏 田中 英彦 情報セキュリティ大学院大学 情報セキュリティ大学院大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｄ８：セキュリティプロトコル・検証",
+    "id": "D8-1",
+    "title": "DHCPを用いたグループ鍵共有プロトコルに関する研究",
+    "authors": [
+      {
+        "name": "増山 一光",
+        "affiliations": [
+          "情報セキュリティ大学院大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "佐藤 直",
+        "affiliations": [
+          "情報セキュリティ大学院大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "D8-1 DHCPを用いたグループ鍵共有プロトコルに関する研究 増山 一光 佐藤 直 情報セキュリティ大学院大学 情報セキュリティ大学院大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｄ８：セキュリティプロトコル・検証",
+    "id": "D8-2",
+    "title": "組込みシステムのモード制御機構に対するモデル検査の適用",
+    "authors": [
+      {
+        "name": "石黒 正揮",
+        "affiliations": [
+          "三菱総合研究所"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      }
+    ],
+    "search_text": "D8-2 組込みシステムのモード制御機構に対するモデル検査の適用 石黒 正揮 三菱総合研究所"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｄ８：セキュリティプロトコル・検証",
+    "id": "D8-3",
+    "title": "IPv6導入に伴うセキュリティリスクに関する分析",
+    "authors": [
+      {
+        "name": "武田 圭史",
+        "affiliations": [
+          "慶應義塾大学 環境情報学部"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "水谷 正慶",
+        "affiliations": [
+          "慶應義塾大学大学院 政策・メディア研究科"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "中井 研",
+        "affiliations": [
+          "慶應義塾大学 環境情報学部"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "D8-3 IPv6導入に伴うセキュリティリスクに関する分析 武田 圭史 水谷 正慶 中井 研 慶應義塾大学 環境情報学部 慶應義塾大学大学院 政策・メディア研究科 慶應義塾大学 環境情報学部"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｄ８：セキュリティプロトコル・検証",
+    "id": "D8-4",
+    "title": "Ban Logic を利用したMISプロトコルの形式的セキュリティ解析",
+    "authors": [
+      {
+        "name": "堀 良彰",
+        "affiliations": [
+          "九州大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "柳 壹善",
+        "affiliations": [
+          "韓國聖書大學校"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "櫻井 幸一",
+        "affiliations": [
+          "九州大学",
+          "財団法人九州先端科学技術研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "D8-4 Ban Logic を利用したMISプロトコルの形式的セキュリティ解析 堀 良彰 柳 壹善 櫻井 幸一 九州大学 韓國聖書大學校 九州大学 財団法人九州先端科学技術研究所"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｄ９：セキュリティ実装",
+    "id": "D9-1",
+    "title": "An Implementation of a Generic Unpacking Method on Bochs Emulator",
+    "authors": [
+      {
+        "name": "金 亨燦",
+        "affiliations": [
+          "情報通信研究機構"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "井上 大介",
+        "affiliations": [
+          "情報通信研究機構"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "衛藤 将史",
+        "affiliations": [
+          "情報通信研究機構"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "宋 中錫",
+        "affiliations": [
+          "情報通信研究機構"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "中尾 康二",
+        "affiliations": [
+          "情報通信研究機構"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "D9-1 An Implementation of a Generic Unpacking Method on Bochs Emulator 金 亨燦 井上 大介 衛藤 将史 宋 中錫 中尾 康二 情報通信研究機構 情報通信研究機構 情報通信研究機構 情報通信研究機構 情報通信研究機構"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｄ９：セキュリティ実装",
+    "id": "D9-2",
+    "title": "トラストアンカー回復技術について",
+    "authors": [
+      {
+        "name": "海上 勇二",
+        "affiliations": [
+          "パナソニック株式会社"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "前田 学",
+        "affiliations": [
+          "パナソニック株式会社"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "布田 裕一",
+        "affiliations": [
+          "パナソニック株式会社"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "長谷川 真吾",
+        "affiliations": [
+          "東北大学 大学院情報科学研究科"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "磯辺 秀司",
+        "affiliations": [
+          "東北大学 大学院情報科学研究科"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "小泉 英介",
+        "affiliations": [
+          "東北大学 大学院情報科学研究科"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "酒井 正夫",
+        "affiliations": [
+          "東北大学 大学院情報科学研究科"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "静谷 啓樹",
+        "affiliations": [
+          "東北大学 大学院情報科学研究科"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "D9-2 トラストアンカー回復技術について 海上 勇二 前田 学 布田 裕一 長谷川 真吾 磯辺 秀司 小泉 英介 酒井 正夫 静谷 啓樹 パナソニック株式会社 パナソニック株式会社 パナソニック株式会社 東北大学 大学院情報科学研究科 東北大学 大学院情報科学研究科 東北大学 大学院情報科学研究科 東北大学 大学院情報科学研究科 東北大学 大学院情報科学研究科"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｄ９：セキュリティ実装",
+    "id": "D9-3",
+    "title": "モバイルコードを用いた動的ポートランダマイズドVPN方式の評価",
+    "authors": [
+      {
+        "name": "竹久 達也",
+        "affiliations": [
+          "ジャパンデータコム株式会社"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "廣友 雅徳",
+        "affiliations": [
+          "神戸大学大学院工学研究科"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "伊沢 亮一",
+        "affiliations": [
+          "株式会社クリプト"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "森井 昌克",
+        "affiliations": [
+          "神戸大学大学院工学研究科"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "中尾 康二",
+        "affiliations": [
+          "独立行政法人情報通信研究機構"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "D9-3 モバイルコードを用いた動的ポートランダマイズドVPN方式の評価 竹久 達也 廣友 雅徳 伊沢 亮一 森井 昌克 中尾 康二 ジャパンデータコム株式会社 神戸大学大学院工学研究科 株式会社クリプト 神戸大学大学院工学研究科 独立行政法人情報通信研究機構"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｄ９：セキュリティ実装",
+    "id": "D9-4",
+    "title": "ID連携技術を応用した複数ドメイン間のIDベース暗号利用について",
+    "authors": [
+      {
+        "name": "金岡 晃",
+        "affiliations": [
+          "筑波大学大学院"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "島岡 政基",
+        "affiliations": [
+          "セコム株式会社"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "岡本 栄司",
+        "affiliations": [
+          "筑波大学大学院"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "D9-4 ID連携技術を応用した複数ドメイン間のIDベース暗号利用について 金岡 晃 島岡 政基 岡本 栄司 筑波大学大学院 セコム株式会社 筑波大学大学院"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｅ１：ディジタルフォレンジクス(1)",
+    "id": "E1-1",
+    "title": "証跡管理基盤におけるサービス事実証明のための要件に関する一検討",
+    "authors": [
+      {
+        "name": "橋本 正一",
+        "affiliations": [
+          "ＮＴＴ情報流通プラットフォーム研究所"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "坂本 昌史",
+        "affiliations": [
+          "ＮＴＴ情報流通プラットフォーム研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "中原 慎一",
+        "affiliations": [
+          "ＮＴＴ情報流通プラットフォーム研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "平田 真一",
+        "affiliations": [
+          "ＮＴＴ情報流通プラットフォーム研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "E1-1 証跡管理基盤におけるサービス事実証明のための要件に関する一検討 橋本 正一 坂本 昌史 中原 慎一 平田 真一 ＮＴＴ情報流通プラットフォーム研究所 ＮＴＴ情報流通プラットフォーム研究所 ＮＴＴ情報流通プラットフォーム研究所 ＮＴＴ情報流通プラットフォーム研究所"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｅ１：ディジタルフォレンジクス(1)",
+    "id": "E1-2",
+    "title": "情報セキュリティ事件の証拠となるログを収集する情報システムの要件に関する一考察",
+    "authors": [
+      {
+        "name": "間形 文彦",
+        "affiliations": [
+          "ＮＴＴ情報流通プラットフォーム研究所"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "高橋 克巳",
+        "affiliations": [
+          "ＮＴＴ情報流通プラットフォーム研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "E1-2 情報セキュリティ事件の証拠となるログを収集する情報システムの要件に関する一考察 間形 文彦 高橋 克巳 ＮＴＴ情報流通プラットフォーム研究所 ＮＴＴ情報流通プラットフォーム研究所"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｅ１：ディジタルフォレンジクス(1)",
+    "id": "E1-3",
+    "title": "訴訟リスクを考慮した情報セキュリティ対策選定方式に関する検討",
+    "authors": [
+      {
+        "name": "臼井 佑真",
+        "affiliations": [
+          "静岡大学大学院情報学研究科"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "山本 匠",
+        "affiliations": [
+          "静岡大学創造科学技術大学院"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "間形 文彦",
+        "affiliations": [
+          "日本電信電話株式会社NTT情報流通プラットフォーム研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "佐々木 良一",
+        "affiliations": [
+          "東京電機大学未来科学部"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "勅使河原 可海",
+        "affiliations": [
+          "創価大学大学院工学研究科"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "西垣 正勝",
+        "affiliations": [
+          "静岡大学創造科学技術大学院"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "E1-3 訴訟リスクを考慮した情報セキュリティ対策選定方式に関する検討 臼井 佑真 山本 匠 間形 文彦 佐々木 良一 勅使河原 可海 西垣 正勝 静岡大学大学院情報学研究科 静岡大学創造科学技術大学院 日本電信電話株式会社NTT情報流通プラットフォーム研究所 東京電機大学未来科学部 創価大学大学院工学研究科 静岡大学創造科学技術大学院"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｅ１：ディジタルフォレンジクス(1)",
+    "id": "E1-4",
+    "title": "訴訟対応のためのログの組合せと安定性対策の選定手法に関する検討",
+    "authors": [
+      {
+        "name": "濱口 昌宏",
+        "affiliations": [
+          "創価大学大学院工学研究科"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "加藤 弘一",
+        "affiliations": [
+          "創価大学大学院工学研究科"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "間形 文彦",
+        "affiliations": [
+          "NTT情報流通プラットフォーム研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "西垣 正勝",
+        "affiliations": [
+          "静岡大学創造科学技術大学院"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "佐々木 良一",
+        "affiliations": [
+          "東京電機大学未来科学部"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "勅使河原 可海",
+        "affiliations": [
+          "創価大学大学院工学研究科"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "E1-4 訴訟対応のためのログの組合せと安定性対策の選定手法に関する検討 濱口 昌宏 加藤 弘一 間形 文彦 西垣 正勝 佐々木 良一 勅使河原 可海 創価大学大学院工学研究科 創価大学大学院工学研究科 NTT情報流通プラットフォーム研究所 静岡大学創造科学技術大学院 東京電機大学未来科学部 創価大学大学院工学研究科"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｅ２：ディジタルフォレンジクス(2)",
+    "id": "E2-1",
+    "title": "ネットワークから切り離されるPC群に対しても集中的証拠性保全が可能なシステムの提案",
+    "authors": [
+      {
+        "name": "山中 徹也",
+        "affiliations": [
+          "東京電機大学大学院 未来科学研究科 情報メディア学専攻 情報セキュリティ研究室"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "芦野 佑樹",
+        "affiliations": [
+          "NEC共通基盤ソフトウェア研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "上原 哲太郎",
+        "affiliations": [
+          "京都大学 学術情報メディアセンター"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "吉浦 裕",
+        "affiliations": [
+          "電気通信大学大学院 電気通信学研究科"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "佐々木 良一",
+        "affiliations": [
+          "東京電機大学大学院 未来科学研究科 情報メディア学専攻 情報セキュリティ研究室"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "E2-1 ネットワークから切り離されるPC群に対しても集中的証拠性保全が可能なシステムの提案 山中 徹也 芦野 佑樹 上原 哲太郎 吉浦 裕 佐々木 良一 東京電機大学大学院 未来科学研究科 情報メディア学専攻 情報セキュリティ研究室 NEC共通基盤ソフトウェア研究所 京都大学 学術情報メディアセンター 電気通信大学大学院 電気通信学研究科 東京電機大学大学院 未来科学研究科 情報メディア学専攻 情報セキュリティ研究室"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｅ２：ディジタルフォレンジクス(2)",
+    "id": "E2-2",
+    "title": "大容量耐タンパ装置HiGATEの試作とe-Discoveryへの適用",
+    "authors": [
+      {
+        "name": "桜井 裕唯",
+        "affiliations": [
+          "東京電機大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "佐々木良一",
+        "affiliations": [
+          "東京電機大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "芦野 祐樹",
+        "affiliations": [
+          "日本電気"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "上原 哲太郎",
+        "affiliations": [
+          "京都大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "吉浦 裕",
+        "affiliations": [
+          "電気通信大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "E2-2 大容量耐タンパ装置HiGATEの試作とe-Discoveryへの適用 桜井 裕唯 佐々木良一 芦野 祐樹 上原 哲太郎 吉浦 裕 東京電機大学 東京電機大学 日本電気 京都大学 電気通信大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｅ２：ディジタルフォレンジクス(2)",
+    "id": "E2-3",
+    "title": "TPMとTSSを用いたエンドホストのロギング機構",
+    "authors": [
+      {
+        "name": "福田 洋治",
+        "affiliations": [
+          "愛知教育大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "白石 善明",
+        "affiliations": [
+          "名古屋工業大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "毛利 公美",
+        "affiliations": [
+          "岐阜大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "溝渕 昭二",
+        "affiliations": [
+          "近畿大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "野口 亮司",
+        "affiliations": [
+          "株式会社豊通シスコム"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "E2-3 TPMとTSSを用いたエンドホストのロギング機構 福田 洋治 白石 善明 毛利 公美 溝渕 昭二 野口 亮司 愛知教育大学 名古屋工業大学 岐阜大学 近畿大学 株式会社豊通シスコム"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｅ２：ディジタルフォレンジクス(2)",
+    "id": "E2-4",
+    "title": "ログファイル分散管理方式の検討",
+    "authors": [
+      {
+        "name": "江藤 文治",
+        "affiliations": [
+          "財団法人 九州先端科学技術研究所"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "高橋 健一",
+        "affiliations": [
+          "財団法人 九州先端科学技術研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "堀 良彰",
+        "affiliations": [
+          "九州大学大学院システム情報科学研究院"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "櫻井 幸一",
+        "affiliations": [
+          "九州大学大学院システム情報科学研究院"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "E2-4 ログファイル分散管理方式の検討 江藤 文治 高橋 健一 堀 良彰 櫻井 幸一 財団法人 九州先端科学技術研究所 財団法人 九州先端科学技術研究所 九州大学大学院システム情報科学研究院 九州大学大学院システム情報科学研究院"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｅ４：ユビキタスセキュリティ(1)",
+    "id": "E4-1",
+    "title": "BREW携帯電話におけるR-ateペアリングの実装",
+    "authors": [
+      {
+        "name": "井山 政志",
+        "affiliations": [
+          "公立はこだて未来大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "清本 晋作",
+        "affiliations": [
+          "KDDI研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "福島 和英",
+        "affiliations": [
+          "KDDI研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "田中 俊昭",
+        "affiliations": [
+          "KDDI研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "高木 剛",
+        "affiliations": [
+          "公立はこだて未来大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "E4-1 BREW携帯電話におけるR-ateペアリングの実装 井山 政志 清本 晋作 福島 和英 田中 俊昭 高木 剛 公立はこだて未来大学 KDDI研究所 KDDI研究所 KDDI研究所 公立はこだて未来大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｅ４：ユビキタスセキュリティ(1)",
+    "id": "E4-2",
+    "title": "MICAz上でのηTペアリング高速実装",
+    "authors": [
+      {
+        "name": "北村 晃輔",
+        "affiliations": [
+          "公立はこだて未来大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "白勢 政明",
+        "affiliations": [
+          "公立はこだて未来大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "E4-2 MICAz上でのηTペアリング高速実装 北村 晃輔 白勢 政明 公立はこだて未来大学 公立はこだて未来大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｅ４：ユビキタスセキュリティ(1)",
+    "id": "E4-3",
+    "title": "自己消去を可能にするHDD認証強化",
+    "authors": [
+      {
+        "name": "二村 和明",
+        "affiliations": [
+          "株式会社富士通研究所"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "矢崎 孝一",
+        "affiliations": [
+          "株式会社富士通研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "中村 洋介",
+        "affiliations": [
+          "株式会社富士通研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "郭 兆功",
+        "affiliations": [
+          "株式会社富士通研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "山田 勇",
+        "affiliations": [
+          "株式会社富士通研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "E4-3 自己消去を可能にするHDD認証強化 二村 和明 矢崎 孝一 中村 洋介 郭 兆功 山田 勇 株式会社富士通研究所 株式会社富士通研究所 株式会社富士通研究所 株式会社富士通研究所 株式会社富士通研究所"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｅ５：ユビキタスセキュリティ(2)",
+    "id": "E5-1",
+    "title": "多重帰属VPNサービスにおけるセキュリティアーキテクチャ",
+    "authors": [
+      {
+        "name": "谷本 茂明",
+        "affiliations": [
+          "千葉工業大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "村山 純一",
+        "affiliations": [
+          "NTT情報流通プラットフォーム研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "関 良明",
+        "affiliations": [
+          "NTT情報流通プラットフォーム研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "E5-1 多重帰属VPNサービスにおけるセキュリティアーキテクチャ 谷本 茂明 村山 純一 関 良明 千葉工業大学 NTT情報流通プラットフォーム研究所 NTT情報流通プラットフォーム研究所"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｅ５：ユビキタスセキュリティ(2)",
+    "id": "E5-2",
+    "title": "サーバなりすまし攻撃に対し安全なRFIDセキュリティ方式",
+    "authors": [
+      {
+        "name": "丹羽 弘和",
+        "affiliations": [
+          "公立はこだて未来大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "高木 剛",
+        "affiliations": [
+          "公立はこだて未来大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "高橋 修",
+        "affiliations": [
+          "公立はこだて未来大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "E5-2 サーバなりすまし攻撃に対し安全なRFIDセキュリティ方式 丹羽 弘和 高木 剛 高橋 修 公立はこだて未来大学 公立はこだて未来大学 公立はこだて未来大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｅ５：ユビキタスセキュリティ(2)",
+    "id": "E5-3",
+    "title": "ユビキタスセンサネットワークにおけるプライバシー保護と高品質サービスを実現するユーザ要求抽出インタフェースの試作",
+    "authors": [
+      {
+        "name": "中川 紘志",
+        "affiliations": [
+          "創価大学大学院工学研究科"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "一枚田 隆史",
+        "affiliations": [
+          "創価大学大学院工学研究科"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "加藤 弘一",
+        "affiliations": [
+          "創価大学大学院工学研究科"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "勅使河原 可海",
+        "affiliations": [
+          "創価大学大学院工学研究科"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "E5-3 ユビキタスセンサネットワークにおけるプライバシー保護と高品質サービスを実現するユーザ要求抽出インタフェースの試作 中川 紘志 一枚田 隆史 加藤 弘一 勅使河原 可海 創価大学大学院工学研究科 創価大学大学院工学研究科 創価大学大学院工学研究科 創価大学大学院工学研究科"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｅ５：ユビキタスセキュリティ(2)",
+    "id": "E5-4",
+    "title": "ユビキタスセンサネットワークにおけるプライバシー保護と高品質サービスを実現する最適センサ組合せ決定システムの試作",
+    "authors": [
+      {
+        "name": "一枚田 隆史",
+        "affiliations": [
+          "創価大学大学院工学研究科"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "中川 紘志",
+        "affiliations": [
+          "創価大学大学院工学研究科"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "加藤 弘一",
+        "affiliations": [
+          "創価大学大学院工学研究科"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "勅使河原 可海",
+        "affiliations": [
+          "創価大学大学院工学研究科"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "E5-4 ユビキタスセンサネットワークにおけるプライバシー保護と高品質サービスを実現する最適センサ組合せ決定システムの試作 一枚田 隆史 中川 紘志 加藤 弘一 勅使河原 可海 創価大学大学院工学研究科 創価大学大学院工学研究科 創価大学大学院工学研究科 創価大学大学院工学研究科"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｅ６：プライバシー保護と属性管理",
+    "id": "E6-1",
+    "title": "アイテム間類似度に基づくプライバシ保護協調フィルタリングの提案",
+    "authors": [
+      {
+        "name": "多田 美奈子",
+        "affiliations": [
+          "東海大学大学院総合理工学研究科"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "菊池 浩明",
+        "affiliations": [
+          "東海大学情報通信学部"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "E6-1 アイテム間類似度に基づくプライバシ保護協調フィルタリングの提案 多田 美奈子 菊池 浩明 東海大学大学院総合理工学研究科 東海大学情報通信学部"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｅ６：プライバシー保護と属性管理",
+    "id": "E6-2",
+    "title": "表計算ソフトをフロントエンドとした委託型2パーティ秘匿回路計算システム",
+    "authors": [
+      {
+        "name": "柴田 賢介",
+        "affiliations": [
+          "NTT情報流通プラットフォーム研究所"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "千田 浩司",
+        "affiliations": [
+          "NTT情報流通プラットフォーム研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "五十嵐 大",
+        "affiliations": [
+          "NTT情報流通プラットフォーム研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "山本 太郎",
+        "affiliations": [
+          "NTT情報流通プラットフォーム研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "高橋 克巳",
+        "affiliations": [
+          "NTT情報流通プラットフォーム研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "E6-2 表計算ソフトをフロントエンドとした委託型2パーティ秘匿回路計算システム 柴田 賢介 千田 浩司 五十嵐 大 山本 太郎 高橋 克巳 NTT情報流通プラットフォーム研究所 NTT情報流通プラットフォーム研究所 NTT情報流通プラットフォーム研究所 NTT情報流通プラットフォーム研究所 NTT情報流通プラットフォーム研究所"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｅ６：プライバシー保護と属性管理",
+    "id": "E6-3",
+    "title": "プライバシー保護クロス集計における行列演算のGPUによる最適化",
+    "authors": [
+      {
+        "name": "永井 彰",
+        "affiliations": [
+          "日本電信電話株式会社"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "五十嵐 大",
+        "affiliations": [
+          "日本電信電話株式会社"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "松林 達史",
+        "affiliations": [
+          "日本電信電話株式会社"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "山本 剛",
+        "affiliations": [
+          "日本電信電話株式会社"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "E6-3 プライバシー保護クロス集計における行列演算のGPUによる最適化 永井 彰 五十嵐 大 松林 達史 山本 剛 日本電信電話株式会社 日本電信電話株式会社 日本電信電話株式会社 日本電信電話株式会社"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｅ６：プライバシー保護と属性管理",
+    "id": "E6-4",
+    "title": "属性登録と属性交換の保証についての考察",
+    "authors": [
+      {
+        "name": "柿崎 淑郎",
+        "affiliations": [
+          "東京理科大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "岩村 惠市",
+        "affiliations": [
+          "東京理科大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "E6-4 属性登録と属性交換の保証についての考察 柿崎 淑郎 岩村 惠市 東京理科大学 東京理科大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｅ７：プライバシープリザービングデータマイニング",
+    "id": "E7-1",
+    "title": "プライベートグラフにおける安全なPageRank型ランキング",
+    "authors": [
+      {
+        "name": "佐久間 淳",
+        "affiliations": [
+          "筑波大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "小林 重信",
+        "affiliations": [
+          "東京工業大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "E7-1 プライベートグラフにおける安全なPageRank型ランキング 佐久間 淳 小林 重信 筑波大学 東京工業大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｅ７：プライバシープリザービングデータマイニング",
+    "id": "E7-2",
+    "title": "移動履歴を保持する際の k-匿名性の考え方",
+    "authors": [
+      {
+        "name": "山口",
+        "affiliations": [
+          "繁富"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "副田俊介",
+        "affiliations": [
+          "産業技術総合研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "E7-2 移動履歴を保持する際の k-匿名性の考え方 山口 副田俊介 繁富 産業技術総合研究所"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｅ７：プライバシープリザービングデータマイニング",
+    "id": "E7-3",
+    "title": "プライバシー保護データ活用技術の現状と課題",
+    "authors": [
+      {
+        "name": "高橋 克巳",
+        "affiliations": [
+          "日本電信電話株式会社"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "廣田 啓一",
+        "affiliations": [
+          "日本電信電話株式会社"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "千田 浩司",
+        "affiliations": [
+          "日本電信電話株式会社"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "五十嵐 大",
+        "affiliations": [
+          "日本電信電話株式会社"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "E7-3 プライバシー保護データ活用技術の現状と課題 高橋 克巳 廣田 啓一 千田 浩司 五十嵐 大 日本電信電話株式会社 日本電信電話株式会社 日本電信電話株式会社 日本電信電話株式会社"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｅ７：プライバシープリザービングデータマイニング",
+    "id": "E7-4",
+    "title": "k-匿名性の確率的指標への拡張とその適用例",
+    "authors": [
+      {
+        "name": "五十嵐 大",
+        "affiliations": [
+          "日本電信電話（株"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "千田 浩司",
+        "affiliations": [
+          "日本電信電話（株"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "高橋 克巳",
+        "affiliations": [
+          "日本電信電話（株"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "E7-4 k-匿名性の確率的指標への拡張とその適用例 五十嵐 大 千田 浩司 高橋 克巳 日本電信電話（株 日本電信電話（株 日本電信電話（株"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｅ８：匿名通信",
+    "id": "E8-1",
+    "title": "匿名通信システムTorに対する指紋攻撃",
+    "authors": [
+      {
+        "name": "施 屹",
+        "affiliations": [
+          "東京大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "松浦 幹太",
+        "affiliations": [
+          "東京大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "E8-1 匿名通信システムTorに対する指紋攻撃 施 屹 松浦 幹太 東京大学 東京大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｅ８：匿名通信",
+    "id": "E8-2",
+    "title": "DHTを用いたスケーラブルな匿名通信手法の提案",
+    "authors": [
+      {
+        "name": "及川 一樹",
+        "affiliations": [
+          "岩手県立大学大学院"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "王 家宏",
+        "affiliations": [
+          "岩手県立大学大学院"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "児玉 英一郎",
+        "affiliations": [
+          "岩手県立大学大学院"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "高田 豊雄",
+        "affiliations": [
+          "岩手県立大学大学院"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "E8-2 DHTを用いたスケーラブルな匿名通信手法の提案 及川 一樹 王 家宏 児玉 英一郎 高田 豊雄 岩手県立大学大学院 岩手県立大学大学院 岩手県立大学大学院 岩手県立大学大学院"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｅ８：匿名通信",
+    "id": "E8-3",
+    "title": "匿名通信路のノード離脱に対する通信路継続方式",
+    "authors": [
+      {
+        "name": "石黒 聖久",
+        "affiliations": [
+          "名古屋工業大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "田中 寛之",
+        "affiliations": [
+          "名古屋工業大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "近藤 正基",
+        "affiliations": [
+          "名古屋工業大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "斎藤 彰一",
+        "affiliations": [
+          "名古屋工業大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "松尾 啓志",
+        "affiliations": [
+          "名古屋工業大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "E8-3 匿名通信路のノード離脱に対する通信路継続方式 石黒 聖久 田中 寛之 近藤 正基 斎藤 彰一 松尾 啓志 名古屋工業大学 名古屋工業大学 名古屋工業大学 名古屋工業大学 名古屋工業大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｅ８：匿名通信",
+    "id": "E8-4",
+    "title": "通信用公開鍵配布機能と並列送信機能を有する匿名通信方式の提案と評価",
+    "authors": [
+      {
+        "name": "田中 寛之",
+        "affiliations": [
+          "名古屋工業大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "石黒 聖久",
+        "affiliations": [
+          "名古屋工業大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "近藤 正基",
+        "affiliations": [
+          "名古屋工業大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "齋藤 彰一",
+        "affiliations": [
+          "名古屋工業大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "松尾 啓志",
+        "affiliations": [
+          "名古屋工業大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "E8-4 通信用公開鍵配布機能と並列送信機能を有する匿名通信方式の提案と評価 田中 寛之 石黒 聖久 近藤 正基 齋藤 彰一 松尾 啓志 名古屋工業大学 名古屋工業大学 名古屋工業大学 名古屋工業大学 名古屋工業大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｅ９：個人情報の管理と保護",
+    "id": "E9-1",
+    "title": "アクセストークンを用いた情報交換と制御方式",
+    "authors": [
+      {
+        "name": "五味 秀仁",
+        "affiliations": [
+          "ヤフーＪＡＰＡＮ研究所"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      }
+    ],
+    "search_text": "E9-1 アクセストークンを用いた情報交換と制御方式 五味 秀仁 ヤフーＪＡＰＡＮ研究所"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｅ９：個人情報の管理と保護",
+    "id": "E9-2",
+    "title": "SaaS/ASP型の証跡管理システムにおける個人情報保護に関する考察",
+    "authors": [
+      {
+        "name": "坂本 昌史",
+        "affiliations": [
+          "ＮＴＴ情報流通プラットフォーム研究所"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "廣田 啓一",
+        "affiliations": [
+          "ＮＴＴ情報流通プラットフォーム研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "中原 慎一",
+        "affiliations": [
+          "ＮＴＴ情報流通プラットフォーム研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "平田 真一",
+        "affiliations": [
+          "ＮＴＴ情報流通プラットフォーム研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "橋本 正一",
+        "affiliations": [
+          "ＮＴＴ情報流通プラットフォーム研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "E9-2 SaaS/ASP型の証跡管理システムにおける個人情報保護に関する考察 坂本 昌史 廣田 啓一 中原 慎一 平田 真一 橋本 正一 ＮＴＴ情報流通プラットフォーム研究所 ＮＴＴ情報流通プラットフォーム研究所 ＮＴＴ情報流通プラットフォーム研究所 ＮＴＴ情報流通プラットフォーム研究所 ＮＴＴ情報流通プラットフォーム研究所"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｅ９：個人情報の管理と保護",
+    "id": "E9-3",
+    "title": "国民電子私書箱の基本機能とシステム要件",
+    "authors": [
+      {
+        "name": "谷内田 益義",
+        "affiliations": [
+          "東京工業大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "小尾 高史",
+        "affiliations": [
+          "東京工業大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "中井 俊文",
+        "affiliations": [
+          "シャープ株式会社"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "鳥光 淳子",
+        "affiliations": [
+          "東芝ソリューション株式会社"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "野村 真義",
+        "affiliations": [
+          "凸版印刷株式会社"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "田中 祐耕",
+        "affiliations": [
+          "日本電気株式会社"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "庭野 栄一",
+        "affiliations": [
+          "日本電信電話株式会社"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "石川 清彦",
+        "affiliations": [
+          "NHK放送技術研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "中村 信次",
+        "affiliations": [
+          "株式会社日立製作所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "伊東 明",
+        "affiliations": [
+          "富士通株式会社"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "酒井 正仁",
+        "affiliations": [
+          "大日本印刷株式会社"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "E9-3 国民電子私書箱の基本機能とシステム要件 谷内田 益義 小尾 高史 中井 俊文 鳥光 淳子 野村 真義 田中 祐耕 庭野 栄一 石川 清彦 中村 信次 伊東 明 酒井 正仁 東京工業大学 東京工業大学 シャープ株式会社 東芝ソリューション株式会社 凸版印刷株式会社 日本電気株式会社 日本電信電話株式会社 NHK放送技術研究所 株式会社日立製作所 富士通株式会社 大日本印刷株式会社"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｅ９：個人情報の管理と保護",
+    "id": "E9-4",
+    "title": "国民電子私書箱を利用した退職ワンストップサービスの検討",
+    "authors": [
+      {
+        "name": "小尾 高史",
+        "affiliations": [
+          "東京工業大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "谷内田 益義",
+        "affiliations": [
+          "東京工業大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "本間 祐次",
+        "affiliations": [
+          "東京工業大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "山本 寛繁",
+        "affiliations": [
+          "東京工業大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "李 中淳",
+        "affiliations": [
+          "東京工業大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "大山 永昭",
+        "affiliations": [
+          "東京工業大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "E9-4 国民電子私書箱を利用した退職ワンストップサービスの検討 小尾 高史 谷内田 益義 本間 祐次 山本 寛繁 李 中淳 大山 永昭 東京工業大学 東京工業大学 東京工業大学 東京工業大学 東京工業大学 東京工業大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｆ１：OS・仮想化",
+    "id": "F1-1",
+    "title": "Erlang並行システムのSSH分散トランスポート",
+    "authors": [
+      {
+        "name": "力武 健次",
+        "affiliations": [
+          "情報通信研究機構"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "中尾 康二",
+        "affiliations": [
+          "情報通信研究機構"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "F1-1 Erlang並行システムのSSH分散トランスポート 力武 健次 中尾 康二 情報通信研究機構 情報通信研究機構"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｆ１：OS・仮想化",
+    "id": "F1-2",
+    "title": "Windows OS上でのフィルタドライバを用いたセキュアアクセス制御機構の構築",
+    "authors": [
+      {
+        "name": "安藤 類央",
+        "affiliations": [
+          "情報通信研究機構"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "井上 宣子",
+        "affiliations": [
+          "サイエンスパーク株式会社"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "須崎 有康",
+        "affiliations": [
+          "産業技術総合研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "F1-2 Windows OS上でのフィルタドライバを用いたセキュアアクセス制御機構の構築 安藤 類央 井上 宣子 須崎 有康 情報通信研究機構 サイエンスパーク株式会社 産業技術総合研究所"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｆ１：OS・仮想化",
+    "id": "F1-3",
+    "title": "クラウド環境を想定した仮想計算機リソース管理におけるセキュリティフレームワークの提案",
+    "authors": [
+      {
+        "name": "岡本 慶大",
+        "affiliations": [
+          "奈良先端科学技術大学院大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "森川 泰揮",
+        "affiliations": [
+          "奈良先端科学技術大学院大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "野口 悟",
+        "affiliations": [
+          "奈良先端科学技術大学院大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "池部 実",
+        "affiliations": [
+          "奈良先端科学技術大学院大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "猪俣 敦夫",
+        "affiliations": [
+          "奈良先端科学技術大学院大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "河合 栄治",
+        "affiliations": [
+          "情報通信研究機構"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "藤川 和利",
+        "affiliations": [
+          "奈良先端科学技術大学院大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "砂原 秀樹",
+        "affiliations": [
+          "慶應義塾大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "F1-3 クラウド環境を想定した仮想計算機リソース管理におけるセキュリティフレームワークの提案 岡本 慶大 森川 泰揮 野口 悟 池部 実 猪俣 敦夫 河合 栄治 藤川 和利 砂原 秀樹 奈良先端科学技術大学院大学 奈良先端科学技術大学院大学 奈良先端科学技術大学院大学 奈良先端科学技術大学院大学 奈良先端科学技術大学院大学 情報通信研究機構 奈良先端科学技術大学院大学 慶應義塾大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｆ１：OS・仮想化",
+    "id": "F1-4",
+    "title": "仮想化技術を用いたセキュアクライアントの提案",
+    "authors": [
+      {
+        "name": "山本 一樹",
+        "affiliations": [
+          "東京都市大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "安井 浩之",
+        "affiliations": [
+          "東京都市大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "横山 孝典",
+        "affiliations": [
+          "東京都市大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "F1-4 仮想化技術を用いたセキュアクライアントの提案 山本 一樹 安井 浩之 横山 孝典 東京都市大学 東京都市大学 東京都市大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｆ２：ネットワーク監視・追跡(1)",
+    "id": "F2-1",
+    "title": "Integration Misuse and Anomaly Detection Techniques on Distributed Sensors",
+    "authors": [
+      {
+        "name": "杜 詩怡",
+        "affiliations": [
+          "資訊教育研究所 国立高雄師範大学 台湾"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "楊 中皇",
+        "affiliations": [
+          "資訊教育研究所 国立高雄師範大学 台湾"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "櫻井 幸一",
+        "affiliations": [
+          "九州大学大学院システム情報科学研究院"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "F2-1 Integration Misuse and Anomaly Detection Techniques on Distributed Sensors 杜 詩怡 楊 中皇 櫻井 幸一 資訊教育研究所 国立高雄師範大学 台湾 資訊教育研究所 国立高雄師範大学 台湾 九州大学大学院システム情報科学研究院"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｆ２：ネットワーク監視・追跡(1)",
+    "id": "F2-2",
+    "title": "インターネットにおけるトレースバック・システムの ISP実ネットワークにおける大規模実証実験の紹介",
+    "authors": [
+      {
+        "name": "若狭 賢",
+        "affiliations": [
+          "財団法人日本データ通信協会"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "山形 昌也",
+        "affiliations": [
+          "日本電気株式会社"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "大島 龍之介",
+        "affiliations": [
+          "株式会社クルィツト"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "甲斐 俊文",
+        "affiliations": [
+          "パナソニック電工株式会社"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "橋口 輝",
+        "affiliations": [
+          "パナソニック電工株式会社"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "藤長 昌彦",
+        "affiliations": [
+          "株式会社KDDI研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "竹森 敬祐",
+        "affiliations": [
+          "株式会社KDDI研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "櫨山 寛章",
+        "affiliations": [
+          "奈良先端大学院大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "門林 雄基",
+        "affiliations": [
+          "奈良先端大学院大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "F2-2 インターネットにおけるトレースバック・システムの ISP実ネットワークにおける大規模実証実験の紹介 若狭 賢 山形 昌也 大島 龍之介 甲斐 俊文 橋口 輝 藤長 昌彦 竹森 敬祐 櫨山 寛章 門林 雄基 財団法人日本データ通信協会 日本電気株式会社 株式会社クルィツト パナソニック電工株式会社 パナソニック電工株式会社 株式会社KDDI研究所 株式会社KDDI研究所 奈良先端大学院大学 奈良先端大学院大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｆ４：コンピュータウイルス(1)",
+    "id": "F4-1",
+    "title": "静的解析によるマルウェアのAPI推移の抽出とクラスタ解析",
+    "authors": [
+      {
+        "name": "岩本 一樹",
+        "affiliations": [
+          "日本コンピュータセキュリティリサーチ株式会社"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "和崎 克己",
+        "affiliations": [
+          "信州大学大学院工学系研究科"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "F4-1 静的解析によるマルウェアのAPI推移の抽出とクラスタ解析 岩本 一樹 和崎 克己 日本コンピュータセキュリティリサーチ株式会社 信州大学大学院工学系研究科"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｆ４：コンピュータウイルス(1)",
+    "id": "F4-2",
+    "title": "クライアント側PCでのサーバ的振舞によるボット検出法",
+    "authors": [
+      {
+        "name": "湯浅 紘一",
+        "affiliations": [
+          "長崎大学大学院生産科学研究科"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "小林 和朝",
+        "affiliations": [
+          "長崎大学工学部"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "高田 寛之",
+        "affiliations": [
+          "長崎大学工学部"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "F4-2 クライアント側PCでのサーバ的振舞によるボット検出法 湯浅 紘一 小林 和朝 高田 寛之 長崎大学大学院生産科学研究科 長崎大学工学部 長崎大学工学部"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｆ４：コンピュータウイルス(1)",
+    "id": "F4-3",
+    "title": "P2P ファイル交換ネットワーク環境におけるマルウェアの検出手法の提案",
+    "authors": [
+      {
+        "name": "四本木 正男",
+        "affiliations": [
+          "情報セキュリティ大学院大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "堀合 啓一",
+        "affiliations": [
+          "情報セキュリティ大学院大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "田中 英彦",
+        "affiliations": [
+          "情報セキュリティ大学院大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "F4-3 P2P ファイル交換ネットワーク環境におけるマルウェアの検出手法の提案 四本木 正男 堀合 啓一 田中 英彦 情報セキュリティ大学院大学 情報セキュリティ大学院大学 情報セキュリティ大学院大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｆ４：コンピュータウイルス(1)",
+    "id": "F4-4",
+    "title": "マルウェア解析システムにおけるクライアントサーバモデルを用いた復元方法の提案とその実装",
+    "authors": [
+      {
+        "name": "朝倉 康生",
+        "affiliations": [
+          "神戸大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "曽根 直人",
+        "affiliations": [
+          "鳴門教育大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "森井 昌克",
+        "affiliations": [
+          "神戸大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "F4-4 マルウェア解析システムにおけるクライアントサーバモデルを用いた復元方法の提案とその実装 朝倉 康生 曽根 直人 森井 昌克 神戸大学 鳴門教育大学 神戸大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｆ５：コンピュータウイルス(2)",
+    "id": "F5-1",
+    "title": "マルウェア動的解析オンラインサービスの脆弱性",
+    "authors": [
+      {
+        "name": "吉岡 克成",
+        "affiliations": [
+          "横浜国立大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "細渕 嘉彦",
+        "affiliations": [
+          "横浜国立大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "織井 達憲",
+        "affiliations": [
+          "横浜国立大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "松本 勉",
+        "affiliations": [
+          "横浜国立大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "F5-1 マルウェア動的解析オンラインサービスの脆弱性 吉岡 克成 細渕 嘉彦 織井 達憲 松本 勉 横浜国立大学 横浜国立大学 横浜国立大学 横浜国立大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｆ５：コンピュータウイルス(2)",
+    "id": "F5-2",
+    "title": "クライアントハニーポットにおける攻撃検知手法の実装と評価",
+    "authors": [
+      {
+        "name": "秋山 満昭",
+        "affiliations": [
+          "NTT情報流通プラットフォーム研究所"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "川古谷 裕平",
+        "affiliations": [
+          "NTT情報流通プラットフォーム研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "岩村 誠",
+        "affiliations": [
+          "NTT情報流通プラットフォーム研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "青木 一史",
+        "affiliations": [
+          "NTT情報流通プラットフォーム研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "伊藤 光恭",
+        "affiliations": [
+          "NTT情報流通プラットフォーム研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "F5-2 クライアントハニーポットにおける攻撃検知手法の実装と評価 秋山 満昭 川古谷 裕平 岩村 誠 青木 一史 伊藤 光恭 NTT情報流通プラットフォーム研究所 NTT情報流通プラットフォーム研究所 NTT情報流通プラットフォーム研究所 NTT情報流通プラットフォーム研究所 NTT情報流通プラットフォーム研究所"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｆ５：コンピュータウイルス(2)",
+    "id": "F5-3",
+    "title": "自動攻撃型マルウェアによるDDOS攻撃被害の長期間化問題の解析とその対策に関する検討",
+    "authors": [
+      {
+        "name": "須藤 年章",
+        "affiliations": [
+          "NTTコミュニケーションズ株式会社"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      }
+    ],
+    "search_text": "F5-3 自動攻撃型マルウェアによるDDOS攻撃被害の長期間化問題の解析とその対策に関する検討 須藤 年章 NTTコミュニケーションズ株式会社"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｆ５：コンピュータウイルス(2)",
+    "id": "F5-4",
+    "title": "マルウェアの類似度による機能推定",
+    "authors": [
+      {
+        "name": "小篠 裕子",
+        "affiliations": [
+          "神戸大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "勝手 壮馬",
+        "affiliations": [
+          "神戸大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "森井 昌克",
+        "affiliations": [
+          "神戸大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "中尾 康二",
+        "affiliations": [
+          "独立行政法人情報通信研究機構"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "F5-4 マルウェアの類似度による機能推定 小篠 裕子 勝手 壮馬 森井 昌克 中尾 康二 神戸大学 神戸大学 神戸大学 独立行政法人情報通信研究機構"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｆ６：ハードウェア",
+    "id": "F6-1",
+    "title": "組み込み型相関電力解析",
+    "authors": [
+      {
+        "name": "駒野 雄一",
+        "affiliations": [
+          "(株"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "清水 秀夫",
+        "affiliations": [
+          "(株"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "川村 信一",
+        "affiliations": [
+          "(株"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "F6-1 組み込み型相関電力解析 駒野 雄一 清水 秀夫 川村 信一 (株 (株 (株"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｆ６：ハードウェア",
+    "id": "F6-2",
+    "title": "重回帰分析を用いたサイドチャネル攻撃の高精度化",
+    "authors": [
+      {
+        "name": "金 用大",
+        "affiliations": [
+          "東北大学大学院情報科学研究科"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "菅原 健",
+        "affiliations": [
+          "東北大学大学院情報科学研究科"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "林 優一",
+        "affiliations": [
+          "東北大学大学院情報科学研究科"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "本間 尚文",
+        "affiliations": [
+          "東北大学大学院情報科学研究科"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "青木 孝文",
+        "affiliations": [
+          "東北大学大学院情報科学研究科"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "佐藤 証",
+        "affiliations": [
+          "独立行政法人産業技術総合研究所 情報セキュリティ研究センター"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "F6-2 重回帰分析を用いたサイドチャネル攻撃の高精度化 金 用大 菅原 健 林 優一 本間 尚文 青木 孝文 佐藤 証 東北大学大学院情報科学研究科 東北大学大学院情報科学研究科 東北大学大学院情報科学研究科 東北大学大学院情報科学研究科 東北大学大学院情報科学研究科 独立行政法人産業技術総合研究所 情報セキュリティ研究センター"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｆ７：ネットワーク監視・追跡(2)",
+    "id": "F7-1",
+    "title": "パケットヘッダ情報を用いた仮想ユーザ識別システムの提案",
+    "authors": [
+      {
+        "name": "上原 雄貴",
+        "affiliations": [
+          "慶應義塾大学総合政策学部"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "水谷 正慶",
+        "affiliations": [
+          "慶応義塾大学政策メディア研究科"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "武田 圭史",
+        "affiliations": [
+          "慶応義塾大学政策メディア研究科"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "村井 純",
+        "affiliations": [
+          "慶応義塾大学環境情報学部"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "F7-1 パケットヘッダ情報を用いた仮想ユーザ識別システムの提案 上原 雄貴 水谷 正慶 武田 圭史 村井 純 慶應義塾大学総合政策学部 慶応義塾大学政策メディア研究科 慶応義塾大学政策メディア研究科 慶応義塾大学環境情報学部"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｆ７：ネットワーク監視・追跡(2)",
+    "id": "F7-2",
+    "title": "ＩＰネットワークのセキュリティ機能高度化の検討",
+    "authors": [
+      {
+        "name": "小宮 康裕",
+        "affiliations": [
+          "情報セキュリティ大学院大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "西川 康宏",
+        "affiliations": [
+          "情報セキュリティ大学院大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "堀 琢磨",
+        "affiliations": [
+          "情報セキュリティ大学院大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "岡田 康義",
+        "affiliations": [
+          "情報セキュリティ大学院大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "佐藤 直",
+        "affiliations": [
+          "情報セキュリティ大学院大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "F7-2 ＩＰネットワークのセキュリティ機能高度化の検討 小宮 康裕 西川 康宏 堀 琢磨 岡田 康義 佐藤 直 情報セキュリティ大学院大学 情報セキュリティ大学院大学 情報セキュリティ大学院大学 情報セキュリティ大学院大学 情報セキュリティ大学院大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｆ８：ネットワーク監視・追跡(3)",
+    "id": "F8-1",
+    "title": "セキュリティ対策変更に適応可能なネットワーク監視システムの設計",
+    "authors": [
+      {
+        "name": "西村 啓渡",
+        "affiliations": [
+          "創価大学大学院工学研究科"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "加藤 弘一",
+        "affiliations": [
+          "創価大学大学院工学研究科"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "勅使河原 可海",
+        "affiliations": [
+          "創価大学大学院工学研究科"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "F8-1 セキュリティ対策変更に適応可能なネットワーク監視システムの設計 西村 啓渡 加藤 弘一 勅使河原 可海 創価大学大学院工学研究科 創価大学大学院工学研究科 創価大学大学院工学研究科"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｆ８：ネットワーク監視・追跡(3)",
+    "id": "F8-2",
+    "title": "パケットキャプチャによる画像の収集と表示手法の研究",
+    "authors": [
+      {
+        "name": "窪田 幸",
+        "affiliations": [
+          "慶應義塾大学 大学院政策・メディア研究科"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "小池 英樹",
+        "affiliations": [
+          "電気通信大学 大学院情報システム学研究科"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "安村 通晃",
+        "affiliations": [
+          "慶應義塾大学 大学院政策・メディア研究科"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "F8-2 パケットキャプチャによる画像の収集と表示手法の研究 窪田 幸 小池 英樹 安村 通晃 慶應義塾大学 大学院政策・メディア研究科 電気通信大学 大学院情報システム学研究科 慶應義塾大学 大学院政策・メディア研究科"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｆ８：ネットワーク監視・追跡(3)",
+    "id": "F8-3",
+    "title": "インターネットのトポロジ特性を考慮した確率的パケットマーキング手法の提案",
+    "authors": [
+      {
+        "name": "國分 淳次",
+        "affiliations": [
+          "筑波大学大学院システム情報工学研究科"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "金岡 晃",
+        "affiliations": [
+          "筑波大学大学院システム情報工学研究科"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "岡本 栄司",
+        "affiliations": [
+          "筑波大学大学院システム情報工学研究科"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "F8-3 インターネットのトポロジ特性を考慮した確率的パケットマーキング手法の提案 國分 淳次 金岡 晃 岡本 栄司 筑波大学大学院システム情報工学研究科 筑波大学大学院システム情報工学研究科 筑波大学大学院システム情報工学研究科"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｆ８：ネットワーク監視・追跡(3)",
+    "id": "F8-4",
+    "title": "モバイルエージェントを用いたSYN Flood攻撃に対する分散型検知手法",
+    "authors": [
+      {
+        "name": "成田 匡輝",
+        "affiliations": [
+          "岩手県立大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "加藤 貴司",
+        "affiliations": [
+          "岩手県立大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "ビスタ ベッド バハドゥール",
+        "affiliations": [
+          "岩手県立大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "高田 豊雄",
+        "affiliations": [
+          "岩手県立大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "F8-4 モバイルエージェントを用いたSYN Flood攻撃に対する分散型検知手法 成田 匡輝 加藤 貴司 ビスタ ベッド バハドゥール 高田 豊雄 岩手県立大学 岩手県立大学 岩手県立大学 岩手県立大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｆ９：Web・メールセキュリティ",
+    "id": "F9-1",
+    "title": "Ajaxアプリケーション診断方式の提案と評価",
+    "authors": [
+      {
+        "name": "祢宜 知孝",
+        "affiliations": [
+          "三菱電機株式会社"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "河内 清人",
+        "affiliations": [
+          "三菱電機株式会社"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "北澤 繁樹",
+        "affiliations": [
+          "三菱電機株式会社"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "藤井 誠司",
+        "affiliations": [
+          "三菱電機株式会社"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "F9-1 Ajaxアプリケーション診断方式の提案と評価 祢宜 知孝 河内 清人 北澤 繁樹 藤井 誠司 三菱電機株式会社 三菱電機株式会社 三菱電機株式会社 三菱電機株式会社"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｆ９：Web・メールセキュリティ",
+    "id": "F9-2",
+    "title": "高対話型Webハニーポットにおける攻撃情報収集方式の改善",
+    "authors": [
+      {
+        "name": "八木 毅",
+        "affiliations": [
+          "日本電信電話株式会社"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "谷本 直人",
+        "affiliations": [
+          "日本電信電話株式会社"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "針生 剛男",
+        "affiliations": [
+          "日本電信電話株式会社"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "伊藤 光恭",
+        "affiliations": [
+          "日本電信電話株式会社"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "F9-2 高対話型Webハニーポットにおける攻撃情報収集方式の改善 八木 毅 谷本 直人 針生 剛男 伊藤 光恭 日本電信電話株式会社 日本電信電話株式会社 日本電信電話株式会社 日本電信電話株式会社"
+  },
+  {
+    "event": "CSS2009",
+    "session": "Ｆ９：Web・メールセキュリティ",
+    "id": "F9-3",
+    "title": "改ざんサイト自動検知システムDICE(Detection of Injected Site using Cyber search Engine)の開発",
+    "authors": [
+      {
+        "name": "田中 達哉",
+        "affiliations": [
+          "東京電機大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "田村 佑輔",
+        "affiliations": [
+          "セイコーエプソン株式会社"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "甲斐 俊文",
+        "affiliations": [
+          "パナソニック電工株式会社"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "佐々木 良一",
+        "affiliations": [
+          "東京電機大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "F9-3 改ざんサイト自動検知システムDICE(Detection of Injected Site using Cyber search Engine)の開発 田中 達哉 田村 佑輔 甲斐 俊文 佐々木 良一 東京電機大学 セイコーエプソン株式会社 パナソニック電工株式会社 東京電機大学"
+  },
+  {
+    "event": "CSS2009",
+    "session": "IWSEC招待講演（２）",
+    "id": "IWSEC2-1",
+    "title": "11:00-12:00 October 29 (Thu), 2009",
+    "authors": [
+      {
+        "name": "The Future of Cryptographic Algorithms Bart Preneel",
+        "affiliations": [
+          "Katholieke Universiteit Leuven"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "http://www.iwsec.org/2009/invited_talk.html",
+        "affiliations": [],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "IWSEC2-1 11:00-12:00 October 29 (Thu), 2009 The Future of Cryptographic Algorithms Bart Preneel http://www.iwsec.org/2009/invited_talk.html Katholieke Universiteit Leuven"
+  }
+]

@@ -1,0 +1,1561 @@
+[
+  {
+    "event": "CSS1999",
+    "session": "会場 A :Session 1A(暗号) - 座長 : 松本 勉 \n\n(横浜国立大)",
+    "id": "1A-1",
+    "title": "分散機関の相対的時刻印を利用した絶対的時刻印生成プロトコル",
+    "authors": [
+      {
+        "name": "陣内 勝",
+        "affiliations": [
+          "九州大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "櫻井 幸一",
+        "affiliations": [
+          "九州大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "1A-1 分散機関の相対的時刻印を利用した絶対的時刻印生成プロトコル 陣内 勝 櫻井 幸一 九州大 九州大"
+  },
+  {
+    "event": "CSS1999",
+    "session": "会場 A :Session 1A(暗号) - 座長 : 松本 勉 \n\n(横浜国立大)",
+    "id": "1A-2",
+    "title": "Gaudry's variant の Cab 曲線への適用",
+    "authors": [
+      {
+        "name": "有田正剛",
+        "affiliations": [
+          "NEC"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      }
+    ],
+    "search_text": "1A-2 Gaudry's variant の Cab 曲線への適用 有田正剛 NEC"
+  },
+  {
+    "event": "CSS1999",
+    "session": "会場 A :Session 1A(暗号) - 座長 : 松本 勉 \n\n(横浜国立大)",
+    "id": "1A-3",
+    "title": "平文暗号の考察（暗号の犯罪利用の一形態について）",
+    "authors": [
+      {
+        "name": "五十嵐 育弘",
+        "affiliations": [],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      }
+    ],
+    "search_text": "1A-3 平文暗号の考察（暗号の犯罪利用の一形態について） 五十嵐 育弘 "
+  },
+  {
+    "event": "CSS1999",
+    "session": "会場 A :Session 1A(暗号) - 座長 : 松本 勉 \n\n(横浜国立大)",
+    "id": "1A-4",
+    "title": "署名依頼者のメッセージ復元に基づく委任署名",
+    "authors": [
+      {
+        "name": "岡本 健",
+        "affiliations": [
+          "北陸先端大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "多田 充",
+        "affiliations": [
+          "北陸先端大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "宮地 充子",
+        "affiliations": [
+          "北陸先端大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "1A-4 署名依頼者のメッセージ復元に基づく委任署名 岡本 健 多田 充 宮地 充子 北陸先端大 北陸先端大 北陸先端大"
+  },
+  {
+    "event": "CSS1999",
+    "session": "会場 A :Session 1A(暗号) - 座長 : 松本 勉 \n\n(横浜国立大)",
+    "id": "1A-5",
+    "title": "安全性が強化されたElGamal型暗号の安全性に関する考察",
+    "authors": [
+      {
+        "name": "嶋田 博一",
+        "affiliations": [
+          "東北大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "千田 栄幸",
+        "affiliations": [
+          "東北大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "満保 雅浩",
+        "affiliations": [
+          "東北大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "静谷 啓樹",
+        "affiliations": [
+          "東北大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "1A-5 安全性が強化されたElGamal型暗号の安全性に関する考察 嶋田 博一 千田 栄幸 満保 雅浩 静谷 啓樹 東北大 東北大 東北大 東北大"
+  },
+  {
+    "event": "CSS1999",
+    "session": "会場 B :Session 1B(ソフトウェア保護・プライバシ保護) - 座長 : \n\n佐々木 良一 (日立)",
+    "id": "1B-1",
+    "title": "公平な到達確認プロトコル",
+    "authors": [
+      {
+        "name": "佐本 陽一",
+        "affiliations": [
+          "NTT"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "中原 慎一",
+        "affiliations": [
+          "NTT"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "1B-1 公平な到達確認プロトコル 佐本 陽一 中原 慎一 NTT NTT"
+  },
+  {
+    "event": "CSS1999",
+    "session": "会場 B :Session 1B(ソフトウェア保護・プライバシ保護) - 座長 : \n\n佐々木 良一 (日立)",
+    "id": "1B-2",
+    "title": "環状経路を用いた匿名性と位置情報プライバシの保護",
+    "authors": [
+      {
+        "name": "長野 悟",
+        "affiliations": [
+          "北陸先端大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "北澤 繁樹",
+        "affiliations": [
+          "北陸先端大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "双紙 正和",
+        "affiliations": [
+          "北陸先端大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "宮地 充子",
+        "affiliations": [
+          "北陸先端大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "1B-2 環状経路を用いた匿名性と位置情報プライバシの保護 長野 悟 北澤 繁樹 双紙 正和 宮地 充子 北陸先端大 北陸先端大 北陸先端大 北陸先端大"
+  },
+  {
+    "event": "CSS1999",
+    "session": "会場 B :Session 1B(ソフトウェア保護・プライバシ保護) - 座長 : \n\n佐々木 良一 (日立)",
+    "id": "1B-3",
+    "title": "耐タンパ・移動エージェントの提案",
+    "authors": [
+      {
+        "name": "岩井 俊弥",
+        "affiliations": [
+          "ISD"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "文 武",
+        "affiliations": [
+          "東京理科大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "溝口 文雄",
+        "affiliations": [
+          "東京理科大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "1B-3 耐タンパ・移動エージェントの提案 岩井 俊弥 文 武 溝口 文雄 ISD 東京理科大 東京理科大"
+  },
+  {
+    "event": "CSS1999",
+    "session": "会場 B :Session 1B(ソフトウェア保護・プライバシ保護) - 座長 : \n\n佐々木 良一 (日立)",
+    "id": "1B-4",
+    "title": "IC カードから CPU への秘密情報の送信",
+    "authors": [
+      {
+        "name": "井熊 徹",
+        "affiliations": [
+          "静岡大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "西垣 正勝",
+        "affiliations": [
+          "静岡大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "曽我 正和",
+        "affiliations": [
+          "岩手県立大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "田窪 昭夫",
+        "affiliations": [
+          "三菱"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "1B-4 IC カードから CPU への秘密情報の送信 井熊 徹 西垣 正勝 曽我 正和 田窪 昭夫 静岡大 静岡大 岩手県立大 三菱"
+  },
+  {
+    "event": "CSS1999",
+    "session": "会場 B :Session 1B(ソフトウェア保護・プライバシ保護) - 座長 : \n\n佐々木 良一 (日立)",
+    "id": "1B-5",
+    "title": "Micr",
+    "authors": [
+      {
+        "name": "s○ft ○ffice 2000のディジタル証明によるマクロウイルス対策実験○千石 靖",
+        "affiliations": [
+          "金沢工大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "服部 進実",
+        "affiliations": [
+          "金沢工大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "1B-5 Micr s○ft ○ffice 2000のディジタル証明によるマクロウイルス対策実験○千石 靖 服部 進実 金沢工大 金沢工大"
+  },
+  {
+    "event": "CSS1999",
+    "session": "会場 A :Session S1(特別講演 \n\n1) - 座長 : 林 彬 (金沢工大)",
+    "id": "S1-1",
+    "title": "西暦2000年問題の法的側面",
+    "authors": [
+      {
+        "name": "大谷 和子",
+        "affiliations": [
+          "(株) 日本総研法務部長"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      }
+    ],
+    "search_text": "S1-1 西暦2000年問題の法的側面 大谷 和子 (株) 日本総研法務部長"
+  },
+  {
+    "event": "CSS1999",
+    "session": "会場 B :Session 2B(ネットワークセキュリティ 1) - 座長 : 宮地 充子 \n\n(北陸先端大)",
+    "id": "2B-1",
+    "title": "New Results",
+    "authors": [
+      {
+        "name": "n M○del Checking Authenticati○n Pr○t○c○ls○Wen Wu",
+        "affiliations": [
+          "Science University ○f T○ky○"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "Miz○guchi Fumi○",
+        "affiliations": [
+          "Science University ○f T○ky○"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "2B-1 New Results n M○del Checking Authenticati○n Pr○t○c○ls○Wen Wu Miz○guchi Fumi○ Science University ○f T○ky○ Science University ○f T○ky○"
+  },
+  {
+    "event": "CSS1999",
+    "session": "会場 B :Session 2B(ネットワークセキュリティ 1) - 座長 : 宮地 充子 \n\n(北陸先端大)",
+    "id": "2B-2",
+    "title": "柔軟なメールアドレス化に伴うアクセス制御の問題",
+    "authors": [
+      {
+        "name": "村山 優子",
+        "affiliations": [
+          "岩手県立大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      }
+    ],
+    "search_text": "2B-2 柔軟なメールアドレス化に伴うアクセス制御の問題 村山 優子 岩手県立大"
+  },
+  {
+    "event": "CSS1999",
+    "session": "会場 B :Session 2B(ネットワークセキュリティ 1) - 座長 : 宮地 充子 \n\n(北陸先端大)",
+    "id": "2B-3",
+    "title": "データ・ハイディングの遠隔データ解析に対する影響",
+    "authors": [
+      {
+        "name": "松浦 幹太",
+        "affiliations": [
+          "東京大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      }
+    ],
+    "search_text": "2B-3 データ・ハイディングの遠隔データ解析に対する影響 松浦 幹太 東京大"
+  },
+  {
+    "event": "CSS1999",
+    "session": "会場 A :Session 3A(電子商取引・電子入札) - 座長 : 白石 高義 (広島修道大)",
+    "id": "3A-1",
+    "title": "電子申請に適用可能な電子印紙システム",
+    "authors": [
+      {
+        "name": "加藤 岳久",
+        "affiliations": [
+          "東芝"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "新保 淳",
+        "affiliations": [
+          "東芝"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "堀 智美",
+        "affiliations": [
+          "東芝"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "才所 敏明",
+        "affiliations": [
+          "東芝"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "3A-1 電子申請に適用可能な電子印紙システム 加藤 岳久 新保 淳 堀 智美 才所 敏明 東芝 東芝 東芝 東芝"
+  },
+  {
+    "event": "CSS1999",
+    "session": "会場 A :Session 3A(電子商取引・電子入札) - 座長 : 白石 高義 (広島修道大)",
+    "id": "3A-2",
+    "title": "権利流通基盤実現のための汎用デジタルチケットシステム",
+    "authors": [
+      {
+        "name": "水野 康尚",
+        "affiliations": [
+          "NTT"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "千綿 伸之",
+        "affiliations": [
+          "NTT"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "大嶋 嘉人",
+        "affiliations": [
+          "NTT"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "松山 一雄",
+        "affiliations": [
+          "NTT"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "3A-2 権利流通基盤実現のための汎用デジタルチケットシステム 水野 康尚 千綿 伸之 大嶋 嘉人 松山 一雄 NTT NTT NTT NTT"
+  },
+  {
+    "event": "CSS1999",
+    "session": "会場 A :Session 3A(電子商取引・電子入札) - 座長 : 白石 高義 (広島修道大)",
+    "id": "3A-3",
+    "title": "権利流通基盤実現のための原本性保証方式",
+    "authors": [
+      {
+        "name": "寺田 雅之",
+        "affiliations": [
+          "NTT"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "久野 浩",
+        "affiliations": [
+          "NTT"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "花舘 蔵之",
+        "affiliations": [
+          "NTT"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "3A-3 権利流通基盤実現のための原本性保証方式 寺田 雅之 久野 浩 花舘 蔵之 NTT NTT NTT"
+  },
+  {
+    "event": "CSS1999",
+    "session": "会場 A :Session 3A(電子商取引・電子入札) - 座長 : 白石 高義 (広島修道大)",
+    "id": "3A-4",
+    "title": "権利流通基盤実現のための権利情報定義言語",
+    "authors": [
+      {
+        "name": "中嶋 良彰",
+        "affiliations": [
+          "NTT"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "藤村 考",
+        "affiliations": [
+          "NTT"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "関根 純",
+        "affiliations": [
+          "NTT"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "3A-4 権利流通基盤実現のための権利情報定義言語 中嶋 良彰 藤村 考 関根 純 NTT NTT NTT"
+  },
+  {
+    "event": "CSS1999",
+    "session": "会場 A :Session 3A(電子商取引・電子入札) - 座長 : 白石 高義 (広島修道大)",
+    "id": "3A-5",
+    "title": "オフライン電子マネーに関する一考察",
+    "authors": [
+      {
+        "name": "小出 篤史",
+        "affiliations": [
+          "北陸先端大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "広橋 浩司",
+        "affiliations": [
+          "PFU"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "多田 充",
+        "affiliations": [
+          "北陸先端大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "宮地 充子",
+        "affiliations": [
+          "北陸先端大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "3A-5 オフライン電子マネーに関する一考察 小出 篤史 広橋 浩司 多田 充 宮地 充子 北陸先端大 PFU 北陸先端大 北陸先端大"
+  },
+  {
+    "event": "CSS1999",
+    "session": "会場 A :Session 3A(電子商取引・電子入札) - 座長 : 白石 高義 (広島修道大)",
+    "id": "3A-6",
+    "title": "グループ鍵を用いた匿名電子入札方式",
+    "authors": [
+      {
+        "name": "宮崎 真悟",
+        "affiliations": [
+          "東芝"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "櫻井 幸一",
+        "affiliations": [
+          "九州大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "3A-6 グループ鍵を用いた匿名電子入札方式 宮崎 真悟 櫻井 幸一 東芝 九州大"
+  },
+  {
+    "event": "CSS1999",
+    "session": "会場 A :Session 3A(電子商取引・電子入札) - 座長 : 白石 高義 (広島修道大)",
+    "id": "3A-7",
+    "title": "匿名オークションを実現する分散システムの実装と評",
+    "authors": [
+      {
+        "name": "価菊池 浩明",
+        "affiliations": [
+          "東海大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "掘田 信司",
+        "affiliations": [
+          "東海大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "安部 謙介",
+        "affiliations": [
+          "東海大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "中西 祥八郎",
+        "affiliations": [
+          "東海大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "3A-7 匿名オークションを実現する分散システムの実装と評 価菊池 浩明 掘田 信司 安部 謙介 中西 祥八郎 東海大 東海大 東海大 東海大"
+  },
+  {
+    "event": "CSS1999",
+    "session": "会場 B :Session 3B(不正アクセス対策) - 座長 : 松浦 幹太 (東京大)",
+    "id": "3B-1",
+    "title": "パケット監視によるネットワーク侵入検出システムの実装と評価",
+    "authors": [
+      {
+        "name": "武田 圭史",
+        "affiliations": [
+          "慶応大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "武藤 佳恭",
+        "affiliations": [
+          "慶応大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "3B-1 パケット監視によるネットワーク侵入検出システムの実装と評価 武田 圭史 武藤 佳恭 慶応大 慶応大"
+  },
+  {
+    "event": "CSS1999",
+    "session": "会場 B :Session 3B(不正アクセス対策) - 座長 : 松浦 幹太 (東京大)",
+    "id": "3B-2",
+    "title": "侵入解析用ビジュアルブラウザ",
+    "authors": [
+      {
+        "name": "の設計 カッコウエッグプロジェクト○溝口 文雄",
+        "affiliations": [
+          "東京理科大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "3B-2 侵入解析用ビジュアルブラウザ の設計 カッコウエッグプロジェクト○溝口 文雄 東京理科大"
+  },
+  {
+    "event": "CSS1999",
+    "session": "会場 B :Session 3B(不正アクセス対策) - 座長 : 松浦 幹太 (東京大)",
+    "id": "3B-3",
+    "title": "定義ファイルを用いた不正アクセス対策検査ツールの開発",
+    "authors": [
+      {
+        "name": "寺田 真敏",
+        "affiliations": [
+          "日立"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "甲斐 賢",
+        "affiliations": [
+          "日立"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "熊谷仁志",
+        "affiliations": [
+          "日立"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "3B-3 定義ファイルを用いた不正アクセス対策検査ツールの開発 寺田 真敏 甲斐 賢 熊谷仁志 日立 日立 日立"
+  },
+  {
+    "event": "CSS1999",
+    "session": "会場 B :Session 3B(不正アクセス対策) - 座長 : 松浦 幹太 (東京大)",
+    "id": "3B-4",
+    "title": "操作権認証と操作コマンドフィルタリング機能を有する情報系−制御系連携のためのファイアウォール",
+    "authors": [
+      {
+        "name": "古谷 雅年",
+        "affiliations": [
+          "日立"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "加藤 博光",
+        "affiliations": [
+          "日立"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "瀬古沢 照治",
+        "affiliations": [
+          "日立"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "小泉 岳",
+        "affiliations": [
+          "リアルテック"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "3B-4 操作権認証と操作コマンドフィルタリング機能を有する情報系−制御系連携のためのファイアウォール 古谷 雅年 加藤 博光 瀬古沢 照治 小泉 岳 日立 日立 日立 リアルテック"
+  },
+  {
+    "event": "CSS1999",
+    "session": "会場 B :Session 3B(不正アクセス対策) - 座長 : 松浦 幹太 (東京大)",
+    "id": "3B-5",
+    "title": "オープンベンダ不正アクセス対策システムにおける統合フレームワークの提案",
+    "authors": [
+      {
+        "name": "鳥居 悟",
+        "affiliations": [
+          "富士通"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "小村 昌弘",
+        "affiliations": [
+          "富士通"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "小谷野 修",
+        "affiliations": [
+          "富士通"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "塩崎 哲夫",
+        "affiliations": [
+          "富士通"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "勝山 光太郎",
+        "affiliations": [
+          "三菱"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "藤井 誠司",
+        "affiliations": [
+          "三菱"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "寺田 真敏",
+        "affiliations": [
+          "日立"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "伊藤 武",
+        "affiliations": [
+          "日立"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "3B-5 オープンベンダ不正アクセス対策システムにおける統合フレームワークの提案 鳥居 悟 小村 昌弘 小谷野 修 塩崎 哲夫 勝山 光太郎 藤井 誠司 寺田 真敏 伊藤 武 富士通 富士通 富士通 富士通 三菱 三菱 日立 日立"
+  },
+  {
+    "event": "CSS1999",
+    "session": "会場 B :Session 3B(不正アクセス対策) - 座長 : 松浦 幹太 (東京大)",
+    "id": "3B-6",
+    "title": "オープンベンダ不正アクセス対策システムにおけるモジュール間通信方式の提案",
+    "authors": [
+      {
+        "name": "萱島 信",
+        "affiliations": [
+          "日立"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "礒川 弘実",
+        "affiliations": [
+          "日立"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "妹尾 徹",
+        "affiliations": [
+          "日立"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "藤井 誠司",
+        "affiliations": [
+          "三菱"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "勝山 光太郎",
+        "affiliations": [
+          "三菱"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "小村 昌弘",
+        "affiliations": [
+          "富士通"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "塩崎 哲夫",
+        "affiliations": [
+          "富士通"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "3B-6 オープンベンダ不正アクセス対策システムにおけるモジュール間通信方式の提案 萱島 信 礒川 弘実 妹尾 徹 藤井 誠司 勝山 光太郎 小村 昌弘 塩崎 哲夫 日立 日立 日立 三菱 三菱 富士通 富士通"
+  },
+  {
+    "event": "CSS1999",
+    "session": "会場 B :Session 3B(不正アクセス対策) - 座長 : 松浦 幹太 (東京大)",
+    "id": "3B-7",
+    "title": "オープンベンダ不正アクセス対策システムにおけるネットワークモニタ実装方式の検討",
+    "authors": [
+      {
+        "name": "藤井 誠司",
+        "affiliations": [
+          "三菱"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "大越 丈弘",
+        "affiliations": [
+          "三菱"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "鈴木 博",
+        "affiliations": [
+          "三菱"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "鳥居 悟",
+        "affiliations": [
+          "富士通"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "小谷野 修",
+        "affiliations": [
+          "富士通"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "妹尾 徹",
+        "affiliations": [
+          "日立"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "3B-7 オープンベンダ不正アクセス対策システムにおけるネットワークモニタ実装方式の検討 藤井 誠司 大越 丈弘 鈴木 博 鳥居 悟 小谷野 修 妹尾 徹 三菱 三菱 三菱 富士通 富士通 日立"
+  },
+  {
+    "event": "CSS1999",
+    "session": "会場 A :Session S2(特別講演 2) - 座長 : 武部 幹 (金沢工大)",
+    "id": "S2-1",
+    "title": "ハイテク犯罪の現状と対策",
+    "authors": [
+      {
+        "name": "田中 昌之",
+        "affiliations": [
+          "石川県警本部ハイテク犯罪捜査指導官"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      }
+    ],
+    "search_text": "S2-1 ハイテク犯罪の現状と対策 田中 昌之 石川県警本部ハイテク犯罪捜査指導官"
+  },
+  {
+    "event": "CSS1999",
+    "session": "会場 A :Session 4A(認証・識別) - 座長 : 岡本 栄司 (ウィスコンシン大)",
+    "id": "4A-1",
+    "title": "A Verificati",
+    "authors": [
+      {
+        "name": "n T○○l ○f Authenticati○n Pr○t○c○ls○齋藤 孝道",
+        "affiliations": [
+          "東京理科大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "月村 賢治",
+        "affiliations": [
+          "東京理科大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "Wu Wen",
+        "affiliations": [
+          "東京理科大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "4A-1 A Verificati n T○○l ○f Authenticati○n Pr○t○c○ls○齋藤 孝道 月村 賢治 Wu Wen 東京理科大 東京理科大 東京理科大"
+  },
+  {
+    "event": "CSS1999",
+    "session": "会場 A :Session 4A(認証・識別) - 座長 : 岡本 栄司 (ウィスコンシン大)",
+    "id": "4A-2",
+    "title": "電子公証システムに要求される認証技術",
+    "authors": [
+      {
+        "name": "橋本 正一",
+        "affiliations": [
+          "NTT"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "中原 慎一",
+        "affiliations": [
+          "NTT"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "4A-2 電子公証システムに要求される認証技術 橋本 正一 中原 慎一 NTT NTT"
+  },
+  {
+    "event": "CSS1999",
+    "session": "会場 A :Session 4A(認証・識別) - 座長 : 岡本 栄司 (ウィスコンシン大)",
+    "id": "4A-3",
+    "title": "バイオメトリクス装置とICカードを使った本人認証システムに関する一考察",
+    "authors": [
+      {
+        "name": "森尻 智昭",
+        "affiliations": [
+          "東芝"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "山田 貢己",
+        "affiliations": [
+          "東芝"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "才所 敏明",
+        "affiliations": [
+          "東芝"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "4A-3 バイオメトリクス装置とICカードを使った本人認証システムに関する一考察 森尻 智昭 山田 貢己 才所 敏明 東芝 東芝 東芝"
+  },
+  {
+    "event": "CSS1999",
+    "session": "会場 B :Session 4B(電子透かし 1) - 座長 : 岩村 恵一 \n\n(キヤノン)",
+    "id": "4B-1",
+    "title": "音楽ソフトへの電子透かしの検出法に関する一考察",
+    "authors": [
+      {
+        "name": "岩切 宗利",
+        "affiliations": [
+          "防衛大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "松井 甲子雄",
+        "affiliations": [
+          "防衛大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "4B-1 音楽ソフトへの電子透かしの検出法に関する一考察 岩切 宗利 松井 甲子雄 防衛大 防衛大"
+  },
+  {
+    "event": "CSS1999",
+    "session": "会場 B :Session 4B(電子透かし 1) - 座長 : 岩村 恵一 \n\n(キヤノン)",
+    "id": "4B-2",
+    "title": "周波数変換係数比を用いた濃淡画像への可変表示型電子透かし",
+    "authors": [
+      {
+        "name": "山田 隆行",
+        "affiliations": [
+          "防衛大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "松井 甲子雄",
+        "affiliations": [
+          "防衛大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "4B-2 周波数変換係数比を用いた濃淡画像への可変表示型電子透かし 山田 隆行 松井 甲子雄 防衛大 防衛大"
+  },
+  {
+    "event": "CSS1999",
+    "session": "会場 B :Session 4B(電子透かし 1) - 座長 : 岩村 恵一 \n\n(キヤノン)",
+    "id": "4B-3",
+    "title": "埋め込み位置を考慮した Wavelet 変換による電子透かし",
+    "authors": [
+      {
+        "name": "村上 健自",
+        "affiliations": [
+          "創価大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "上野 義人",
+        "affiliations": [
+          "創価大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "4B-3 埋め込み位置を考慮した Wavelet 変換による電子透かし 村上 健自 上野 義人 創価大 創価大"
+  },
+  {
+    "event": "CSS1999",
+    "session": "会場 A :Session 5A(ネットワークセキュリティ 2) - 座長 : \n\n鳥居 悟 (富士通)",
+    "id": "5A-1",
+    "title": "閉域通信グループの実現を容易にするグループ探索プロトコルの提案",
+    "authors": [
+      {
+        "name": "渡邊 晃",
+        "affiliations": [
+          "三菱"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "稲田 徹",
+        "affiliations": [
+          "三菱"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "井手口 哲夫",
+        "affiliations": [
+          "愛知県立大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "笹瀬 巌",
+        "affiliations": [
+          "慶応大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "5A-1 閉域通信グループの実現を容易にするグループ探索プロトコルの提案 渡邊 晃 稲田 徹 井手口 哲夫 笹瀬 巌 三菱 三菱 愛知県立大 慶応大"
+  },
+  {
+    "event": "CSS1999",
+    "session": "会場 A :Session 5A(ネットワークセキュリティ 2) - 座長 : \n\n鳥居 悟 (富士通)",
+    "id": "5A-2",
+    "title": "認証局を使用しない公開鍵配布方式の設計",
+    "authors": [
+      {
+        "name": "佐藤 信",
+        "affiliations": [
+          "岩手大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "千葉 則茂",
+        "affiliations": [
+          "岩手大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "5A-2 認証局を使用しない公開鍵配布方式の設計 佐藤 信 千葉 則茂 岩手大 岩手大"
+  },
+  {
+    "event": "CSS1999",
+    "session": "会場 A :Session 5A(ネットワークセキュリティ 2) - 座長 : \n\n鳥居 悟 (富士通)",
+    "id": "5A-3",
+    "title": "モバイルコードの対話型安全性証明",
+    "authors": [
+      {
+        "name": "塚田 恭章",
+        "affiliations": [
+          "NTT"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      }
+    ],
+    "search_text": "5A-3 モバイルコードの対話型安全性証明 塚田 恭章 NTT"
+  },
+  {
+    "event": "CSS1999",
+    "session": "会場 A :Session 5A(ネットワークセキュリティ 2) - 座長 : \n\n鳥居 悟 (富士通)",
+    "id": "5A-4",
+    "title": "秘密鍵の漏洩を考慮したSSL通信プロトコルの提案",
+    "authors": [
+      {
+        "name": "藤永 卓人",
+        "affiliations": [
+          "筑波大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "木村 成伴",
+        "affiliations": [
+          "筑波大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "海老原 義彦",
+        "affiliations": [
+          "筑波大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "5A-4 秘密鍵の漏洩を考慮したSSL通信プロトコルの提案 藤永 卓人 木村 成伴 海老原 義彦 筑波大 筑波大 筑波大"
+  },
+  {
+    "event": "CSS1999",
+    "session": "会場 A :Session 5A(ネットワークセキュリティ 2) - 座長 : \n\n鳥居 悟 (富士通)",
+    "id": "5A-5",
+    "title": "リニューアル可能な暗号認証システムの検討",
+    "authors": [
+      {
+        "name": "栃窪 孝也",
+        "affiliations": [
+          "東芝"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "岡田 光司",
+        "affiliations": [
+          "東芝"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "遠藤 直樹",
+        "affiliations": [
+          "東芝"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "岡本 栄司",
+        "affiliations": [
+          "ウィスコンシン大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "5A-5 リニューアル可能な暗号認証システムの検討 栃窪 孝也 岡田 光司 遠藤 直樹 岡本 栄司 東芝 東芝 東芝 ウィスコンシン大"
+  },
+  {
+    "event": "CSS1999",
+    "session": "会場 A :Session 5A(ネットワークセキュリティ 2) - 座長 : \n\n鳥居 悟 (富士通)",
+    "id": "5A-6",
+    "title": "X.509 証明書を用いた安全な情報機器のコントロール",
+    "authors": [
+      {
+        "name": "冨岡 和陽",
+        "affiliations": [
+          "東京理科大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "文 武",
+        "affiliations": [
+          "東京理科大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "溝口 文雄",
+        "affiliations": [
+          "東京理科大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "5A-6 X.509 証明書を用いた安全な情報機器のコントロール 冨岡 和陽 文 武 溝口 文雄 東京理科大 東京理科大 東京理科大"
+  },
+  {
+    "event": "CSS1999",
+    "session": "会場 A :Session 5A(ネットワークセキュリティ 2) - 座長 : \n\n鳥居 悟 (富士通)",
+    "id": "5A-7",
+    "title": "クッキーを用いた情報ハイディング方式とその実",
+    "authors": [
+      {
+        "name": "装松本 勉",
+        "affiliations": [
+          "横浜国大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "池田 竜朗",
+        "affiliations": [
+          "横浜国大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "牧野 京子",
+        "affiliations": [
+          "三菱"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "佐藤 明男",
+        "affiliations": [
+          "三菱"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "村瀬 一郎",
+        "affiliations": [
+          "三菱"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "5A-7 クッキーを用いた情報ハイディング方式とその実 装松本 勉 池田 竜朗 牧野 京子 佐藤 明男 村瀬 一郎 横浜国大 横浜国大 三菱 三菱 三菱"
+  },
+  {
+    "event": "CSS1999",
+    "session": "会場 B :Session 5B(電子透かし 2・アーキテクチャ) - 座長 : \n\n松崎 なつめ (AMSL)",
+    "id": "5B-1",
+    "title": "コンテンツ再配布に適した電子透かしシステム",
+    "authors": [
+      {
+        "name": "加藤 拓",
+        "affiliations": [
+          "東芝"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "村谷 博文",
+        "affiliations": [
+          "東芝"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "5B-1 コンテンツ再配布に適した電子透かしシステム 加藤 拓 村谷 博文 東芝 東芝"
+  },
+  {
+    "event": "CSS1999",
+    "session": "会場 B :Session 5B(電子透かし 2・アーキテクチャ) - 座長 : \n\n松崎 なつめ (AMSL)",
+    "id": "5B-2",
+    "title": "動画像符号化手順 H.263 への電子透かしの提案",
+    "authors": [
+      {
+        "name": "ウィセッスト ピヤピスト",
+        "affiliations": [
+          "防衛大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "松井 甲子雄",
+        "affiliations": [
+          "防衛大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "5B-2 動画像符号化手順 H.263 への電子透かしの提案 ウィセッスト ピヤピスト 松井 甲子雄 防衛大 防衛大"
+  },
+  {
+    "event": "CSS1999",
+    "session": "会場 B :Session 5B(電子透かし 2・アーキテクチャ) - 座長 : \n\n松崎 なつめ (AMSL)",
+    "id": "5B-3",
+    "title": "バンプマッピングによる３次元CGに対する電子透かし",
+    "authors": [
+      {
+        "name": "水本 匡",
+        "affiliations": [
+          "防衛大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "松井 甲子雄",
+        "affiliations": [
+          "防衛大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "5B-3 バンプマッピングによる３次元CGに対する電子透かし 水本 匡 松井 甲子雄 防衛大 防衛大"
+  },
+  {
+    "event": "CSS1999",
+    "session": "会場 B :Session 5B(電子透かし 2・アーキテクチャ) - 座長 : \n\n松崎 なつめ (AMSL)",
+    "id": "5B-4",
+    "title": "ブロック間相関を利用した電子すかし法の JPEG 圧縮画像への応用",
+    "authors": [
+      {
+        "name": "崔 潤基",
+        "affiliations": [
+          "東京大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "相澤 清晴",
+        "affiliations": [
+          "東京大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "5B-4 ブロック間相関を利用した電子すかし法の JPEG 圧縮画像への応用 崔 潤基 相澤 清晴 東京大 東京大"
+  },
+  {
+    "event": "CSS1999",
+    "session": "会場 B :Session 5B(電子透かし 2・アーキテクチャ) - 座長 : \n\n松崎 なつめ (AMSL)",
+    "id": "5B-5",
+    "title": "著作権保護機能つきディジタルカメラの試作",
+    "authors": [
+      {
+        "name": "森藤 元",
+        "affiliations": [
+          "日立"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "安細 康介",
+        "affiliations": [
+          "日立"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "吉浦 裕",
+        "affiliations": [
+          "日立"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "金野 千里",
+        "affiliations": [
+          "日立"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "5B-5 著作権保護機能つきディジタルカメラの試作 森藤 元 安細 康介 吉浦 裕 金野 千里 日立 日立 日立 日立"
+  },
+  {
+    "event": "CSS1999",
+    "session": "会場 B :Session 5B(電子透かし 2・アーキテクチャ) - 座長 : \n\n松崎 なつめ (AMSL)",
+    "id": "5B-6",
+    "title": "Java カードを共通的に利用するためのミドルウエアとそのセキュリティ機能の提案",
+    "authors": [
+      {
+        "name": "石原 達也",
+        "affiliations": [
+          "東芝"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "麻野間 利行",
+        "affiliations": [
+          "東芝"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "青木 恵",
+        "affiliations": [
+          "東芝"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "才所 敏明",
+        "affiliations": [
+          "東芝"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "5B-6 Java カードを共通的に利用するためのミドルウエアとそのセキュリティ機能の提案 石原 達也 麻野間 利行 青木 恵 才所 敏明 東芝 東芝 東芝 東芝"
+  },
+  {
+    "event": "CSS1999",
+    "session": "会場 B :Session 5B(電子透かし 2・アーキテクチャ) - 座長 : \n\n松崎 なつめ (AMSL)",
+    "id": "5B-7",
+    "title": "セキュリティ・アーキテクチャに基づくIT設計",
+    "authors": [
+      {
+        "name": "佐藤 慶浩",
+        "affiliations": [
+          "日本ヒューレット・パッカード"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      }
+    ],
+    "search_text": "5B-7 セキュリティ・アーキテクチャに基づくIT設計 佐藤 慶浩 日本ヒューレット・パッカード"
+  }
+]

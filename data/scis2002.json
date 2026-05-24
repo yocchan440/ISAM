@@ -1,0 +1,6058 @@
+[
+  {
+    "event": "SCIS2002",
+    "session": "2A 秘密分散 (1)1/29 14:30-15:50",
+    "id": "2A-1",
+    "title": "Discussions on Unconditionally Secure VSS",
+    "authors": [
+      {
+        "name": "Akira Otsuka",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "Junji Shikata",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "Hideki Imai",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "2A-1 Discussions on Unconditionally Secure VSS Akira Otsuka Junji Shikata Hideki Imai 東大 東大 東大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "2A 秘密分散 (1)1/29 14:30-15:50",
+    "id": "2A-2",
+    "title": "グラフ分割法による視覚復号型秘密分散方式の構成",
+    "authors": [
+      {
+        "name": "須賀 祐治",
+        "affiliations": [
+          "キャノン"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "岩村 恵市",
+        "affiliations": [
+          "キャノン"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "櫻井 幸一",
+        "affiliations": [
+          "九大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "2A-2 グラフ分割法による視覚復号型秘密分散方式の構成 須賀 祐治 岩村 恵市 櫻井 幸一 キャノン キャノン 九大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "2A 秘密分散 (1)1/29 14:30-15:50",
+    "id": "2A-3",
+    "title": "忘却情報復元問題",
+    "authors": [
+      {
+        "name": "笠原 正雄",
+        "affiliations": [
+          "大阪学院大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      }
+    ],
+    "search_text": "2A-3 忘却情報復元問題 笠原 正雄 大阪学院大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "2B 共通鍵暗号 (1)1/29 14:30-15:50",
+    "id": "2B-1",
+    "title": "ユーザによる S-Box 更新法の提案とそのリコンフィギャラブル・ロジックによる実装",
+    "authors": [
+      {
+        "name": "山口 晃由",
+        "affiliations": [
+          "名大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "橋山 智訓",
+        "affiliations": [
+          "名古屋市立大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "大熊 繁",
+        "affiliations": [
+          "名大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "2B-1 ユーザによる S-Box 更新法の提案とそのリコンフィギャラブル・ロジックによる実装 山口 晃由 橋山 智訓 大熊 繁 名大 名古屋市立大 名大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "2B 共通鍵暗号 (1)1/29 14:30-15:50",
+    "id": "2B-2",
+    "title": "証明可能安全性を持つブロック暗号への可変鍵の適用について",
+    "authors": [
+      {
+        "name": "反町 亨",
+        "affiliations": [
+          "三菱電機"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "市川 哲也",
+        "affiliations": [
+          "三菱電機"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "松井 充",
+        "affiliations": [
+          "三菱電機"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "2B-2 証明可能安全性を持つブロック暗号への可変鍵の適用について 反町 亨 市川 哲也 松井 充 三菱電機 三菱電機 三菱電機"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "2B 共通鍵暗号 (1)1/29 14:30-15:50",
+    "id": "2B-3",
+    "title": "算術型圧縮暗号化法の JBIG2 への実装",
+    "authors": [
+      {
+        "name": "石橋 弘行",
+        "affiliations": [
+          "信州大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "田中 清",
+        "affiliations": [
+          "信州大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "坂無 英徳",
+        "affiliations": [
+          "産総研"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "樋口 哲也",
+        "affiliations": [
+          "産総研"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "2B-3 算術型圧縮暗号化法の JBIG2 への実装 石橋 弘行 田中 清 坂無 英徳 樋口 哲也 信州大 信州大 産総研 産総研"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "2B 共通鍵暗号 (1)1/29 14:30-15:50",
+    "id": "2B-4",
+    "title": "ストリーム型カオス暗号システム",
+    "authors": [
+      {
+        "name": "川本 俊治",
+        "affiliations": [
+          "大阪府立大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "堀内 健志",
+        "affiliations": [
+          "大阪府立大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "2B-4 ストリーム型カオス暗号システム 川本 俊治 堀内 健志 大阪府立大 大阪府立大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "2D 量子暗号(1)1/29 14:30-15:50",
+    "id": "2D-1",
+    "title": "On the bound of quantum coin flipping protocol",
+    "authors": [
+      {
+        "name": "Yuki Tokunaga",
+        "affiliations": [
+          "NTT"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      }
+    ],
+    "search_text": "2D-1 On the bound of quantum coin flipping protocol Yuki Tokunaga NTT"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "2D 量子暗号(1)1/29 14:30-15:50",
+    "id": "2D-2",
+    "title": "環流型量子鍵配布",
+    "authors": [
+      {
+        "name": "西岡 毅",
+        "affiliations": [
+          "三菱電機"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "石塚 裕一",
+        "affiliations": [
+          "三菱電機"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "長谷川 俊夫",
+        "affiliations": [
+          "三菱電機"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "安部 淳一",
+        "affiliations": [
+          "三菱電機"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "2D-2 環流型量子鍵配布 西岡 毅 石塚 裕一 長谷川 俊夫 安部 淳一 三菱電機 三菱電機 三菱電機 三菱電機"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "2D 量子暗号(1)1/29 14:30-15:50",
+    "id": "2D-3",
+    "title": "量子暗号における共有鍵のエラー除去処理",
+    "authors": [
+      {
+        "name": "長谷川 俊夫",
+        "affiliations": [
+          "三菱電機"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "西岡 毅",
+        "affiliations": [
+          "三菱電機"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "石塚 裕一",
+        "affiliations": [
+          "三菱電機"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "2D-3 量子暗号における共有鍵のエラー除去処理 長谷川 俊夫 西岡 毅 石塚 裕一 三菱電機 三菱電機 三菱電機"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "3A 計算法・数理応用 (1)1/29 16:00-17:00",
+    "id": "3A-1",
+    "title": "Batch 検証と大規模冪乗アルゴリズムについて",
+    "authors": [
+      {
+        "name": "星野 文学",
+        "affiliations": [
+          "NTT"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "阿部 正幸",
+        "affiliations": [
+          "NTT"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "3A-1 Batch 検証と大規模冪乗アルゴリズムについて 星野 文学 阿部 正幸 NTT NTT"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "3A 計算法・数理応用 (1)1/29 16:00-17:00",
+    "id": "3A-2",
+    "title": "多倍精度演算をもつ計算機での高速素数生成",
+    "authors": [
+      {
+        "name": "鮫島 吉喜",
+        "affiliations": [
+          "日立ソフト"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "才所 秀明",
+        "affiliations": [
+          "日立ソフト"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "松本 勉",
+        "affiliations": [
+          "横浜国大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "3A-2 多倍精度演算をもつ計算機での高速素数生成 鮫島 吉喜 才所 秀明 松本 勉 日立ソフト 日立ソフト 横浜国大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "3A 計算法・数理応用 (1)1/29 16:00-17:00",
+    "id": "3A-3",
+    "title": "中国人剰余定理に基づく高速剰余乗算アルゴリズムの改良",
+    "authors": [
+      {
+        "name": "宮崎 真悟",
+        "affiliations": [
+          "東芝"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "丹羽 朗人",
+        "affiliations": [
+          "東芝"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "3A-3 中国人剰余定理に基づく高速剰余乗算アルゴリズムの改良 宮崎 真悟 丹羽 朗人 東芝 東芝"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "3B セキュリティマネージメント・法律1/29 16:00-17:00",
+    "id": "3B-1",
+    "title": "電子セキュリティトークンのモデル化と応用",
+    "authors": [
+      {
+        "name": "松浦 幹太",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      }
+    ],
+    "search_text": "3B-1 電子セキュリティトークンのモデル化と応用 松浦 幹太 東大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "3B セキュリティマネージメント・法律1/29 16:00-17:00",
+    "id": "3B-2",
+    "title": "刑事事件の解決に役立つ匿名の情報提供方式",
+    "authors": [
+      {
+        "name": "藤村 明子",
+        "affiliations": [
+          "NTT"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      }
+    ],
+    "search_text": "3B-2 刑事事件の解決に役立つ匿名の情報提供方式 藤村 明子 NTT"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "3B セキュリティマネージメント・法律1/29 16:00-17:00",
+    "id": "3B-3",
+    "title": "米国の例に見る学協会のハッカーへの取り組み",
+    "authors": [
+      {
+        "name": "山根 信二",
+        "affiliations": [
+          "岩手県立大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "村山 優子",
+        "affiliations": [
+          "岩手県立大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "3B-3 米国の例に見る学協会のハッカーへの取り組み 山根 信二 村山 優子 岩手県立大 岩手県立大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "3C 標準1/29 16:00-17:00",
+    "id": "3C-1",
+    "title": "XML 署名のための復号化変換とその実装",
+    "authors": [
+      {
+        "name": "今村 剛",
+        "affiliations": [
+          "日本アイ・ビー・エム"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "丸山 宏",
+        "affiliations": [
+          "日本アイ・ビー・エム"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "3C-1 XML 署名のための復号化変換とその実装 今村 剛 丸山 宏 日本アイ・ビー・エム 日本アイ・ビー・エム"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "3C 標準1/29 16:00-17:00",
+    "id": "3C-2",
+    "title": "2-Key XCBC: 2 つの鍵を用いて構成した任意長のメッセージを扱える CBC MAC",
+    "authors": [
+      {
+        "name": "盛合 志帆",
+        "affiliations": [
+          "NTT"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "今井 秀樹",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "3C-2 2-Key XCBC: 2 つの鍵を用いて構成した任意長のメッセージを扱える CBC MAC 盛合 志帆 今井 秀樹 NTT 東大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "3C 標準1/29 16:00-17:00",
+    "id": "3C-3",
+    "title": "審査能力について考慮した多次元トラストメトリックに関する考察",
+    "authors": [
+      {
+        "name": "田村 仁",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "松浦 幹太",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "今井 秀樹",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "3C-3 審査能力について考慮した多次元トラストメトリックに関する考察 田村 仁 松浦 幹太 今井 秀樹 東大 東大 東大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "3D 量子暗号(2)1/29 16:00-17:00",
+    "id": "3D-1",
+    "title": "Efficient Algorithms Based on NMR Quantum Computers",
+    "authors": [
+      {
+        "name": "Noboru Kunihiro",
+        "affiliations": [
+          "NTT"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "Shigeru Yamashita",
+        "affiliations": [
+          "ERATO",
+          "NTT"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "3D-1 Efficient Algorithms Based on NMR Quantum Computers Noboru Kunihiro Shigeru Yamashita NTT ERATO NTT"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "3D 量子暗号(2)1/29 16:00-17:00",
+    "id": "3D-2",
+    "title": "Impossibility Results on Bit Commitment Reductions",
+    "authors": [
+      {
+        "name": "Anderson C. A. Nascimento",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      }
+    ],
+    "search_text": "3D-2 Impossibility Results on Bit Commitment Reductions Anderson C. A. Nascimento 東大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "3D 量子暗号(2)1/29 16:00-17:00",
+    "id": "3D-3",
+    "title": "無限次元量子テレポーテーションにおけるレーザー場の位相不確定性",
+    "authors": [
+      {
+        "name": "Joern Mueller-Quade",
+        "affiliations": [
+          "Universitat Karlsruhe Institut"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "Hideki Imai",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "3D-3 無限次元量子テレポーテーションにおけるレーザー場の位相不確定性 Joern Mueller-Quade Hideki Imai Universitat Karlsruhe Institut 東大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "4A 公開鍵暗号 (1)1/30 9:00-10:20",
+    "id": "4A-1",
+    "title": "公開鍵暗号系への選択暗号文攻撃について",
+    "authors": [
+      {
+        "name": "小柴 健史",
+        "affiliations": [
+          "富士通研"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      }
+    ],
+    "search_text": "4A-1 公開鍵暗号系への選択暗号文攻撃について 小柴 健史 富士通研"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "4A 公開鍵暗号 (1)1/30 9:00-10:20",
+    "id": "4A-2",
+    "title": "SHP 暗号の安全性に関する二, 三の考察",
+    "authors": [
+      {
+        "name": "服部 保",
+        "affiliations": [
+          "京都工繊大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "村上 恭通",
+        "affiliations": [
+          "FAIT"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "笠原 正雄",
+        "affiliations": [
+          "大阪学院大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "4A-2 SHP 暗号の安全性に関する二, 三の考察 服部 保 村上 恭通 笠原 正雄 京都工繊大 FAIT 大阪学院大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "4A 公開鍵暗号 (1)1/30 9:00-10:20",
+    "id": "4A-3",
+    "title": "公開鍵暗号系の頑強性の定式化について",
+    "authors": [
+      {
+        "name": "小森 康司",
+        "affiliations": [
+          "奈良先端大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "鈴木 亜香",
+        "affiliations": [
+          "奈良先端大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "楫 勇一",
+        "affiliations": [
+          "奈良先端大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      }
+    ],
+    "search_text": "4A-3 公開鍵暗号系の頑強性の定式化について 小森 康司 鈴木 亜香 楫 勇一 奈良先端大 奈良先端大 奈良先端大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "4A 公開鍵暗号 (1)1/30 9:00-10:20",
+    "id": "4A-4",
+    "title": "強 RSA 仮定の妥当性について",
+    "authors": [
+      {
+        "name": "板垣 真太郎",
+        "affiliations": [
+          "東北大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "満保 雅浩",
+        "affiliations": [
+          "東北大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "静谷 啓樹",
+        "affiliations": [
+          "東北大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "4A-4 強 RSA 仮定の妥当性について 板垣 真太郎 満保 雅浩 静谷 啓樹 東北大 東北大 東北大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "4B 楕円曲線暗号(1)1/30 9:00-10:20",
+    "id": "4B-1",
+    "title": "An improved baby step giant step algorithm for point counting of hyperelliptic curves over finite fields",
+    "authors": [
+      {
+        "name": "Kazuto Matsuo",
+        "affiliations": [
+          "中大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "Jinhui Chao",
+        "affiliations": [
+          "中大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "Shigeo Tsujii",
+        "affiliations": [
+          "中大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "4B-1 An improved baby step giant step algorithm for point counting of hyperelliptic curves over finite fields Kazuto Matsuo Jinhui Chao Shigeo Tsujii 中大 中大 中大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "4B 楕円曲線暗号(1)1/30 9:00-10:20",
+    "id": "4B-2",
+    "title": "種数 2 の超楕円曲線における Harley アルゴリズムの改良について",
+    "authors": [
+      {
+        "name": "高橋 昌史",
+        "affiliations": [
+          "日立"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      }
+    ],
+    "search_text": "4B-2 種数 2 の超楕円曲線における Harley アルゴリズムの改良について 高橋 昌史 日立"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "4B 楕円曲線暗号(1)1/30 9:00-10:20",
+    "id": "4B-3",
+    "title": "モンゴメリトリックを用いた効率的な前計算による高速な楕円曲線マルチスカラー倍計",
+    "authors": [
+      {
+        "name": "算方法",
+        "affiliations": [],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "4B-3 モンゴメリトリックを用いた効率的な前計算による高速な楕円曲線マルチスカラー倍計 算方法 "
+  },
+  {
+    "event": "SCIS2002",
+    "session": "4B 楕円曲線暗号(1)1/30 9:00-10:20",
+    "id": "4B-4",
+    "title": "暗号に利用可能なモンゴメリ型楕円曲線の存在数に関する一考察",
+    "authors": [
+      {
+        "name": "桶屋 勝幸",
+        "affiliations": [
+          "日立"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "宮崎 邦彦",
+        "affiliations": [
+          "日立"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "櫻井 幸一",
+        "affiliations": [
+          "九大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "4B-4 暗号に利用可能なモンゴメリ型楕円曲線の存在数に関する一考察 桶屋 勝幸 宮崎 邦彦 櫻井 幸一 日立 日立 九大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "4C ディジタル署名(1)1/30 9:00-10:20",
+    "id": "4C-1",
+    "title": "A note on order-specified multisignature schemes",
+    "authors": [
+      {
+        "name": "Mitsuru Tada",
+        "affiliations": [
+          "千葉大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      }
+    ],
+    "search_text": "4C-1 A note on order-specified multisignature schemes Mitsuru Tada 千葉大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "4C ディジタル署名(1)1/30 9:00-10:20",
+    "id": "4C-2",
+    "title": "Fair Exchange of Digital Signatures Using Conditional Signature",
+    "authors": [
+      {
+        "name": "Byoungcheon Lee",
+        "affiliations": [
+          "ICU"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "Kwangjo Kim",
+        "affiliations": [
+          "ICU"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "4C-2 Fair Exchange of Digital Signatures Using Conditional Signature Byoungcheon Lee Kwangjo Kim ICU ICU"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "4C ディジタル署名(1)1/30 9:00-10:20",
+    "id": "4C-3",
+    "title": "ブレイド群による署名系",
+    "authors": [
+      {
+        "name": "寺西 勇",
+        "affiliations": [
+          "東工大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      }
+    ],
+    "search_text": "4C-3 ブレイド群による署名系 寺西 勇 東工大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "4C ディジタル署名(1)1/30 9:00-10:20",
+    "id": "4C-4",
+    "title": "証明長が短い 1-out-of-n 証明",
+    "authors": [
+      {
+        "name": "大久保 美也子",
+        "affiliations": [
+          "中大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "阿部 正幸",
+        "affiliations": [
+          "NTT"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "鈴木 幸太郎",
+        "affiliations": [
+          "NTT"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "辻井 重雄",
+        "affiliations": [
+          "中大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "4C-4 証明長が短い 1-out-of-n 証明 大久保 美也子 阿部 正幸 鈴木 幸太郎 辻井 重雄 中大 NTT NTT 中大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "4D 量子暗号(3)1/30 9:00-10:20",
+    "id": "4D-1",
+    "title": "量子鍵配送における誤り訂正について",
+    "authors": [
+      {
+        "name": "渡辺 曜大",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "今井 秀樹",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "4D-1 量子鍵配送における誤り訂正について 渡辺 曜大 今井 秀樹 東大 東大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "4D 量子暗号(3)1/30 9:00-10:20",
+    "id": "4D-2",
+    "title": "量子カード配布",
+    "authors": [
+      {
+        "name": "小泉 康一",
+        "affiliations": [
+          "東北大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "水木 敬明",
+        "affiliations": [
+          "東北大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "西関 隆夫",
+        "affiliations": [
+          "東北大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "4D-2 量子カード配布 小泉 康一 水木 敬明 西関 隆夫 東北大 東北大 東北大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "4D 量子暗号(3)1/30 9:00-10:20",
+    "id": "4D-3",
+    "title": "量子暗号の現実的安全性について",
+    "authors": [
+      {
+        "name": "山村 明弘",
+        "affiliations": [
+          "通総研"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "石塚 裕一",
+        "affiliations": [
+          "三菱電機"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "4D-3 量子暗号の現実的安全性について 山村 明弘 石塚 裕一 通総研 三菱電機"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "5A 電子現金1/30 10:30-12:10",
+    "id": "5A-1",
+    "title": "Improvement of Blind Accumulators",
+    "authors": [
+      {
+        "name": "Boonying Srivanasont",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "Akira Otsuka",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "Hideki Imai",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "5A-1 Improvement of Blind Accumulators Boonying Srivanasont Akira Otsuka Hideki Imai 東大 東大 東大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "5A 電子現金1/30 10:30-12:10",
+    "id": "5A-2",
+    "title": "PayWord 方式の問題点とその改良",
+    "authors": [
+      {
+        "name": "太田 和夫",
+        "affiliations": [
+          "電通大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "青木 聡",
+        "affiliations": [
+          "早大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "駒野 雄一",
+        "affiliations": [
+          "早大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "5A-2 PayWord 方式の問題点とその改良 太田 和夫 青木 聡 駒野 雄一 電通大 早大 早大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "5A 電子現金1/30 10:30-12:10",
+    "id": "5A-3",
+    "title": "電子権利流通方式対に関する特性分析",
+    "authors": [
+      {
+        "name": "副島 晋",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "松浦 幹太",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "今井 秀樹",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "5A-3 電子権利流通方式対に関する特性分析 副島 晋 松浦 幹太 今井 秀樹 東大 東大 東大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "5A 電子現金1/30 10:30-12:10",
+    "id": "5A-4",
+    "title": "A Micro-payment System for Multiple-Shopping",
+    "authors": [
+      {
+        "name": "Manho Lee",
+        "affiliations": [
+          "ICU"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "Kwangjo Kim",
+        "affiliations": [
+          "ICU"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "5A-4 A Micro-payment System for Multiple-Shopping Manho Lee Kwangjo Kim ICU ICU"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "5B 共通鍵暗号 (2)1/30 10:30-12:10",
+    "id": "5B-1",
+    "title": "The Security of Common Key Cryptosystems against Quantum Algorithms",
+    "authors": [
+      {
+        "name": "Kazuo Ohta",
+        "affiliations": [
+          "電通大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "Tetsuro Nishino",
+        "affiliations": [
+          "電通大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "Kazumaro Aoki",
+        "affiliations": [
+          "NTT Communications"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "5B-1 The Security of Common Key Cryptosystems against Quantum Algorithms Kazuo Ohta Tetsuro Nishino Kazumaro Aoki 電通大 電通大 NTT Communications"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "5B 共通鍵暗号 (2)1/30 10:30-12:10",
+    "id": "5B-2",
+    "title": "入れ子型 SPN 構造の証明可能安全性に関する補足事項",
+    "authors": [
+      {
+        "name": "大熊 建司",
+        "affiliations": [
+          "東芝"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "佐野 文彦",
+        "affiliations": [
+          "東芝"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "清水 秀夫",
+        "affiliations": [
+          "東芝"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "川村 信一",
+        "affiliations": [
+          "東芝"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "5B-2 入れ子型 SPN 構造の証明可能安全性に関する補足事項 大熊 建司 佐野 文彦 清水 秀夫 川村 信一 東芝 東芝 東芝 東芝"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "5B 共通鍵暗号 (2)1/30 10:30-12:10",
+    "id": "5B-3",
+    "title": "鍵ストリ?ム生成器 MUGI の安全性評価 (1)",
+    "authors": [
+      {
+        "name": "渡辺 大",
+        "affiliations": [
+          "日立"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "古屋 聡一",
+        "affiliations": [
+          "日立"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "吉田 博隆",
+        "affiliations": [
+          "日立"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "宝木 和夫",
+        "affiliations": [
+          "日立"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "5B-3 鍵ストリ?ム生成器 MUGI の安全性評価 (1) 渡辺 大 古屋 聡一 吉田 博隆 宝木 和夫 日立 日立 日立 日立"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "5B 共通鍵暗号 (2)1/30 10:30-12:10",
+    "id": "5B-4",
+    "title": "MULTI-S01 の計算量的安全性",
+    "authors": [
+      {
+        "name": "古屋 聡一",
+        "affiliations": [
+          "日立"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      }
+    ],
+    "search_text": "5B-4 MULTI-S01 の計算量的安全性 古屋 聡一 日立"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "5B 共通鍵暗号 (2)1/30 10:30-12:10",
+    "id": "5B-5",
+    "title": "Fast Correlation Attack に使うパリティ検査方程式について",
+    "authors": [
+      {
+        "name": "福田 洋治",
+        "affiliations": [
+          "徳島大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "白石 善明",
+        "affiliations": [
+          "ナオゼンネットワークス"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "森井 昌克",
+        "affiliations": [
+          "徳島大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "5B-5 Fast Correlation Attack に使うパリティ検査方程式について 福田 洋治 白石 善明 森井 昌克 徳島大 ナオゼンネットワークス 徳島大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "5C 暗号プロトコル (1)1/30 10:30-12:10",
+    "id": "5C-1",
+    "title": "シャッフル証明の安全性の根拠について",
+    "authors": [
+      {
+        "name": "古川 潤",
+        "affiliations": [
+          "NEC"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      }
+    ],
+    "search_text": "5C-1 シャッフル証明の安全性の根拠について 古川 潤 NEC"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "5C 暗号プロトコル (1)1/30 10:30-12:10",
+    "id": "5C-2",
+    "title": "期限つき匿名貸し出しプロトコル",
+    "authors": [
+      {
+        "name": "繁富 利恵",
+        "affiliations": [
+          "津田塾大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "大塚 玲",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "小川 貴英",
+        "affiliations": [
+          "津田塾大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "今井秀樹",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "5C-2 期限つき匿名貸し出しプロトコル 繁富 利恵 大塚 玲 小川 貴英 今井秀樹 津田塾大 東大 津田塾大 東大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "5C 暗号プロトコル (1)1/30 10:30-12:10",
+    "id": "5C-3",
+    "title": "共通根検査プロトコル",
+    "authors": [
+      {
+        "name": "渡邊 裕治",
+        "affiliations": [
+          "日本アイ・ビー・エム"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "沼尾 雅之",
+        "affiliations": [
+          "日本アイ・ビー・エム"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "5C-3 共通根検査プロトコル 渡邊 裕治 沼尾 雅之 日本アイ・ビー・エム 日本アイ・ビー・エム"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "5C 暗号プロトコル (1)1/30 10:30-12:10",
+    "id": "5C-4",
+    "title": "機械から人間への暗号通信方式について",
+    "authors": [
+      {
+        "name": "高橋 創",
+        "affiliations": [
+          "横浜国大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "松本 勉",
+        "affiliations": [
+          "横浜国大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "5C-4 機械から人間への暗号通信方式について 高橋 創 松本 勉 横浜国大 横浜国大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "5D ステガノグラフィ1/30 10:30-12:10",
+    "id": "5D-1",
+    "title": "ITU-T 勧告 G.723.1 による音声符号化方式を用いたステガノグラフィ",
+    "authors": [
+      {
+        "name": "岩切 宗利",
+        "affiliations": [
+          "防衛大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "松井 甲子雄",
+        "affiliations": [
+          "防衛大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "5D-1 ITU-T 勧告 G.723.1 による音声符号化方式を用いたステガノグラフィ 岩切 宗利 松井 甲子雄 防衛大 防衛大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "5D ステガノグラフィ1/30 10:30-12:10",
+    "id": "5D-2",
+    "title": "周波数情報による領域分割を利用したステガノグラフィ",
+    "authors": [
+      {
+        "name": "新見道治",
+        "affiliations": [
+          "九工大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "野田秀樹",
+        "affiliations": [
+          "九工大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "河口英二",
+        "affiliations": [
+          "九工大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "5D-2 周波数情報による領域分割を利用したステガノグラフィ 新見道治 野田秀樹 河口英二 九工大 九工大 九工大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "5D ステガノグラフィ1/30 10:30-12:10",
+    "id": "5D-3",
+    "title": "XML におけるステガノグラフィ手法の提案",
+    "authors": [
+      {
+        "name": "井上 信吾",
+        "affiliations": [
+          "三菱総研"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "村瀬 一郎",
+        "affiliations": [
+          "三菱総研"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "滝澤 修",
+        "affiliations": [
+          "通総研"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "松本 勉",
+        "affiliations": [
+          "横浜国大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "5D-3 XML におけるステガノグラフィ手法の提案 井上 信吾 村瀬 一郎 滝澤 修 松本 勉 三菱総研 三菱総研 通総研 横浜国大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "5D ステガノグラフィ1/30 10:30-12:10",
+    "id": "5D-4",
+    "title": "拡張された筆跡情報を利用したステガノグラフィの提案",
+    "authors": [
+      {
+        "name": "中川 裕志",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "5D-4 拡張された筆跡情報を利用したステガノグラフィの提案 中川 裕志 東大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "5D ステガノグラフィ1/30 10:30-12:10",
+    "id": "5D-5",
+    "title": "演奏データファイル SMF に関するステゴ解析",
+    "authors": [
+      {
+        "name": "瀬川 典久",
+        "affiliations": [
+          "岩手県立大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "村山 優子",
+        "affiliations": [
+          "岩手県立大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "宮崎 正俊",
+        "affiliations": [
+          "岩手県立大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "5D-5 演奏データファイル SMF に関するステゴ解析 瀬川 典久 村山 優子 宮崎 正俊 岩手県立大 岩手県立大 岩手県立大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "6A 認証1/30 13:30-14:30",
+    "id": "6A-1",
+    "title": "A Proposal of an Identification Scheme Based on Variant RSA Problems",
+    "authors": [
+      {
+        "name": "Takeshi Okamoto",
+        "affiliations": [
+          "北陸先端大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "Mitsuru Tada",
+        "affiliations": [
+          "千葉大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "Atsuko Miyaji",
+        "affiliations": [
+          "北陸先端大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "6A-1 A Proposal of an Identification Scheme Based on Variant RSA Problems Takeshi Okamoto Mitsuru Tada Atsuko Miyaji 北陸先端大 千葉大 北陸先端大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "6A 認証1/30 13:30-14:30",
+    "id": "6A-2",
+    "title": "束縛のタイミングを考慮した認証プロトコルについて",
+    "authors": [
+      {
+        "name": "齋藤 孝道",
+        "affiliations": [
+          "東京理科大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "萩谷 昌己",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "溝口 文雄",
+        "affiliations": [
+          "東京理科大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "6A-2 束縛のタイミングを考慮した認証プロトコルについて 齋藤 孝道 萩谷 昌己 溝口 文雄 東京理科大 東大 東京理科大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "6A 認証1/30 13:30-14:30",
+    "id": "6A-3",
+    "title": "A New Identification Scheme based on the Gap Diffie-Hellman Problem",
+    "authors": [
+      {
+        "name": "Myungsun Kim",
+        "affiliations": [
+          "ICU"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "Kwangjo Kim",
+        "affiliations": [
+          "ICU"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "6A-3 A New Identification Scheme based on the Gap Diffie-Hellman Problem Myungsun Kim Kwangjo Kim ICU ICU"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "6B 暗号理論1/30 13:30-14:30",
+    "id": "6B-1",
+    "title": "Unconditionally secure asymmetric encryption and group authentication",
+    "authors": [
+      {
+        "name": "Goichiro Hanaoka",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "Junji Shikata",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "Yumiko C. Hanaoka",
+        "affiliations": [
+          "NTT DoCoMo"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "Yuliang Zheng",
+        "affiliations": [
+          "University of North Carolina at Charlotte"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "Hideki Imai",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "6B-1 Unconditionally secure asymmetric encryption and group authentication Goichiro Hanaoka Junji Shikata Yumiko C. Hanaoka Yuliang Zheng Hideki Imai 東大 東大 NTT DoCoMo University of North Carolina at Charlotte 東大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "6B 暗号理論1/30 13:30-14:30",
+    "id": "6B-2",
+    "title": "情報量的安全性に基づく暗号化方式：モデル, 安全性の概念, 構成法について",
+    "authors": [
+      {
+        "name": "四方 順司",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "花岡 悟一郎",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "Yuliang Zheng",
+        "affiliations": [
+          "University of North Carolina at Charlotte"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "今井 秀樹",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "6B-2 情報量的安全性に基づく暗号化方式：モデル, 安全性の概念, 構成法について 四方 順司 花岡 悟一郎 Yuliang Zheng 今井 秀樹 東大 東大 University of North Carolina at Charlotte 東大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "6B 暗号理論1/30 13:30-14:30",
+    "id": "6B-3",
+    "title": "New Construction of the Non-Separable Encryption Mode",
+    "authors": [
+      {
+        "name": "Hidenori Kuwakado",
+        "affiliations": [
+          "神戸大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "Hatsukazu",
+        "affiliations": [
+          "神戸大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "Tanaka",
+        "affiliations": [
+          "神戸大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "6B-3 New Construction of the Non-Separable Encryption Mode Hidenori Kuwakado Hatsukazu Tanaka 神戸大 神戸大 神戸大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "6C ソフトウェア保護1/30 13:30-14:30",
+    "id": "6C-1",
+    "title": "手続き間呼出しの関係に着目した難読化手法の提案とその評価",
+    "authors": [
+      {
+        "name": "小木曽 俊夫",
+        "affiliations": [
+          "北陸先端大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "刑部 裕介",
+        "affiliations": [
+          "北陸先端大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "双紙 正和",
+        "affiliations": [
+          "北陸先端大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "宮地 充子",
+        "affiliations": [
+          "北陸先端大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "6C-1 手続き間呼出しの関係に着目した難読化手法の提案とその評価 小木曽 俊夫 刑部 裕介 双紙 正和 宮地 充子 北陸先端大 北陸先端大 北陸先端大 北陸先端大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "6C ソフトウェア保護1/30 13:30-14:30",
+    "id": "6C-2",
+    "title": "鍵内蔵型暗号ソフトウェアの人手による耐タンパー性評価",
+    "authors": [
+      {
+        "name": "松岡 賢",
+        "affiliations": [
+          "横浜国大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "赤井 健一郎",
+        "affiliations": [
+          "横浜国大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "松本 勉",
+        "affiliations": [
+          "横浜国大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "6C-2 鍵内蔵型暗号ソフトウェアの人手による耐タンパー性評価 松岡 賢 赤井 健一郎 松本 勉 横浜国大 横浜国大 横浜国大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "6C ソフトウェア保護1/30 13:30-14:30",
+    "id": "6C-3",
+    "title": "ランタイムデータ探索によるオブフスケータの評価",
+    "authors": [
+      {
+        "name": "三澤 学",
+        "affiliations": [
+          "横浜国大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "赤井 健一郎",
+        "affiliations": [
+          "横浜国大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "松本 勉",
+        "affiliations": [
+          "横浜国大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "6C-3 ランタイムデータ探索によるオブフスケータの評価 三澤 学 赤井 健一郎 松本 勉 横浜国大 横浜国大 横浜国大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "6D PKI(1)1/30 13:30-14:30",
+    "id": "6D-1",
+    "title": "Security of An Unconditionally Anonymous Public-key Certificate Scheme",
+    "authors": [
+      {
+        "name": "Kazuomi Oishi",
+        "affiliations": [
+          "キャノン"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      }
+    ],
+    "search_text": "6D-1 Security of An Unconditionally Anonymous Public-key Certificate Scheme Kazuomi Oishi キャノン"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "6D PKI(1)1/30 13:30-14:30",
+    "id": "6D-2",
+    "title": "Design and Implementation of CA/PKI on the Windows Environment",
+    "authors": [
+      {
+        "name": "Xiu-Gi Zeng",
+        "affiliations": [
+          "NKFUST"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "Chung-Huang Yang",
+        "affiliations": [
+          "NKFUST"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "6D-2 Design and Implementation of CA/PKI on the Windows Environment Xiu-Gi Zeng Chung-Huang Yang NKFUST NKFUST"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "7A 公開鍵暗号 (2)1/30 14:40-16:00",
+    "id": "7A-1",
+    "title": "New Semantically Secure Public-Key Cryptosystems from the RSA-Primitive",
+    "authors": [
+      {
+        "name": "Kouichi Sakurai",
+        "affiliations": [
+          "九大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "Tsuyoshi Takagi",
+        "affiliations": [
+          "Technische Universitaet Darmstadt"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      }
+    ],
+    "search_text": "7A-1 New Semantically Secure Public-Key Cryptosystems from the RSA-Primitive Kouichi Sakurai Tsuyoshi Takagi 九大 Technische Universitaet Darmstadt"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "7A 公開鍵暗号 (2)1/30 14:40-16:00",
+    "id": "7A-2",
+    "title": "An IND-CCA2 Public-Key Cryptosystem with Fast Decryption using Class Groups of Quadratic Fields",
+    "authors": [
+      {
+        "name": "Johannes Buchmann",
+        "affiliations": [
+          "Technische Universitaet Darmstadt"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "Kouichi Sakurai",
+        "affiliations": [
+          "九大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "Tsuyoshi Takagi",
+        "affiliations": [
+          "Technische Universitaet Darmstadt"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      }
+    ],
+    "search_text": "7A-2 An IND-CCA2 Public-Key Cryptosystem with Fast Decryption using Class Groups of Quadratic Fields Johannes Buchmann Kouichi Sakurai Tsuyoshi Takagi Technische Universitaet Darmstadt 九大 Technische Universitaet Darmstadt"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "7A 公開鍵暗号 (2)1/30 14:40-16:00",
+    "id": "7A-3",
+    "title": "Decentralized Realization of ID-Cryptosystems Using Hierarchically Systematized Clone Centers",
+    "authors": [
+      {
+        "name": "Hatsukazu Tanaka",
+        "affiliations": [
+          "神戸大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      }
+    ],
+    "search_text": "7A-3 Decentralized Realization of ID-Cryptosystems Using Hierarchically Systematized Clone Centers Hatsukazu Tanaka 神戸大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "7A 公開鍵暗号 (2)1/30 14:40-16:00",
+    "id": "7A-4",
+    "title": "認証付き公開鍵暗号の安全性定義と一般的構成方法について",
+    "authors": [
+      {
+        "name": "阿部 正幸",
+        "affiliations": [
+          "NTT"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "今井 秀樹",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "7A-4 認証付き公開鍵暗号の安全性定義と一般的構成方法について 阿部 正幸 今井 秀樹 NTT 東大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "7B 鍵配送・管理 (1)1/30 14:40-16:00",
+    "id": "7B-1",
+    "title": "P2P マルチキャストのための動的グループ鍵生成法",
+    "authors": [
+      {
+        "name": "沼尾 雅之",
+        "affiliations": [
+          "日本アイ・ビー・エム"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "渡邊 裕治",
+        "affiliations": [
+          "日本アイ・ビー・エム"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "7B-1 P2P マルチキャストのための動的グループ鍵生成法 沼尾 雅之 渡邊 裕治 日本アイ・ビー・エム 日本アイ・ビー・エム"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "7B 鍵配送・管理 (1)1/30 14:40-16:00",
+    "id": "7B-2",
+    "title": "インターネット鍵交換における ID 情報の安全性に関する考察",
+    "authors": [
+      {
+        "name": "今本 健二",
+        "affiliations": [
+          "九大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "櫻井 幸一",
+        "affiliations": [
+          "九大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "7B-2 インターネット鍵交換における ID 情報の安全性に関する考察 今本 健二 櫻井 幸一 九大 九大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "7B 鍵配送・管理 (1)1/30 14:40-16:00",
+    "id": "7B-3",
+    "title": "An Improved Key Recovery Infrastructure by Leveraging the PKI",
+    "authors": [
+      {
+        "name": "TEOU SU CHI",
+        "affiliations": [
+          "University of Technology Malasia"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "NORBIK BASHAH IDRIS",
+        "affiliations": [
+          "University of Technology Malasia"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "7B-3 An Improved Key Recovery Infrastructure by Leveraging the PKI TEOU SU CHI NORBIK BASHAH IDRIS University of Technology Malasia University of Technology Malasia"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "7B 鍵配送・管理 (1)1/30 14:40-16:00",
+    "id": "7B-4",
+    "title": "How secure are the Girault's Self-certified Public-key based Key agreement protocols against Active attacks?",
+    "authors": [
+      {
+        "name": "Soo-Hyun Oh",
+        "affiliations": [
+          "SKKU"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "Kyung-Jin Kim",
+        "affiliations": [
+          "SKKU"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "Kyung-Ah Shim",
+        "affiliations": [
+          "KISA"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "M. Mambo",
+        "affiliations": [
+          "東北大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "Dong-Ho Won",
+        "affiliations": [
+          "SKKU"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "7B-4 How secure are the Girault's Self-certified Public-key based Key agreement protocols against Active attacks? Soo-Hyun Oh Kyung-Jin Kim Kyung-Ah Shim M. Mambo Dong-Ho Won SKKU SKKU KISA 東北大 SKKU"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "7C 暗号プロトコル (2)1/30 14:40-16:00",
+    "id": "7C-1",
+    "title": "署名つき文書に対する漏洩者追跡方式",
+    "authors": [
+      {
+        "name": "米沢 祥子",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "花岡 悟一郎",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "今井 秀樹",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "7C-1 署名つき文書に対する漏洩者追跡方式 米沢 祥子 花岡 悟一郎 今井 秀樹 東大 東大 東大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "7C 暗号プロトコル (2)1/30 14:40-16:00",
+    "id": "7C-2",
+    "title": "データ交換可能な多対多マッチングプロトコル",
+    "authors": [
+      {
+        "name": "松尾 真一郎",
+        "affiliations": [
+          "東工大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "尾形 わかは",
+        "affiliations": [
+          "東工大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "7C-2 データ交換可能な多対多マッチングプロトコル 松尾 真一郎 尾形 わかは 東工大 東工大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "7C 暗号プロトコル (2)1/30 14:40-16:00",
+    "id": "7C-3",
+    "title": "多対多の参加者による電子商取引方式の一検討",
+    "authors": [
+      {
+        "name": "山根 大地",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "今井 秀樹",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "7C-3 多対多の参加者による電子商取引方式の一検討 山根 大地 今井 秀樹 東大 東大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "7C 暗号プロトコル (2)1/30 14:40-16:00",
+    "id": "7C-4",
+    "title": "Mutual Authentication with User Anonymity in Mobile Communications",
+    "authors": [
+      {
+        "name": "Mohammad Ghulam Rahman",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "Hideki Imai",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "7C-4 Mutual Authentication with User Anonymity in Mobile Communications Mohammad Ghulam Rahman Hideki Imai 東大 東大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "7D 電子透かし (1)1/30 14:40-16:00",
+    "id": "7D-1",
+    "title": "形状特徴を利用したオブジェクトへの電子透かし埋め込み法の検討",
+    "authors": [
+      {
+        "name": "鈴木 恵理",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "相澤 清晴",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "7D-1 形状特徴を利用したオブジェクトへの電子透かし埋め込み法の検討 鈴木 恵理 相澤 清晴 東大 東大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "7D 電子透かし (1)1/30 14:40-16:00",
+    "id": "7D-2",
+    "title": "誤り訂正符号の電子透かしへの応用",
+    "authors": [
+      {
+        "name": "南 憲明",
+        "affiliations": [
+          "広島国際学院大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "笠原 正雄",
+        "affiliations": [
+          "大阪学院大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "7D-2 誤り訂正符号の電子透かしへの応用 南 憲明 笠原 正雄 広島国際学院大 大阪学院大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "7D 電子透かし (1)1/30 14:40-16:00",
+    "id": "7D-3",
+    "title": "ベクトルパターンを用いたセキュアプリント技術",
+    "authors": [
+      {
+        "name": "加納 暢之",
+        "affiliations": [
+          "防衛大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "岩切 宗利",
+        "affiliations": [
+          "防衛大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "松井 甲子雄",
+        "affiliations": [
+          "防衛大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "7D-3 ベクトルパターンを用いたセキュアプリント技術 加納 暢之 岩切 宗利 松井 甲子雄 防衛大 防衛大 防衛大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "7D 電子透かし (1)1/30 14:40-16:00",
+    "id": "7D-4",
+    "title": "地図画像を対象とする電子透かしの一手法",
+    "authors": [
+      {
+        "name": "上林 竜介",
+        "affiliations": [
+          "信州大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "田中 清",
+        "affiliations": [
+          "信州大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "7D-4 地図画像を対象とする電子透かしの一手法 上林 竜介 田中 清 信州大 信州大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "8A 暗号解析 (1)1/30 16:10-17:50",
+    "id": "8A-1",
+    "title": "Modified McEliece PKC Proposed at Asiacrypt 2000 is Breakable",
+    "authors": [
+      {
+        "name": "Kazukuni Kobara",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "Hideki Imai",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "8A-1 Modified McEliece PKC Proposed at Asiacrypt 2000 is Breakable Kazukuni Kobara Hideki Imai 東大 東大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "8A 暗号解析 (1)1/30 16:10-17:50",
+    "id": "8A-2",
+    "title": "Lagarias-Odlyzko の解読法についての一考察",
+    "authors": [
+      {
+        "name": "林 彬",
+        "affiliations": [
+          "金沢工大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      }
+    ],
+    "search_text": "8A-2 Lagarias-Odlyzko の解読法についての一考察 林 彬 金沢工大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "8A 暗号解析 (1)1/30 16:10-17:50",
+    "id": "8A-3",
+    "title": "Masking method に基づいた共通鍵 DPA 対策法",
+    "authors": [
+      {
+        "name": "伊藤 孝一",
+        "affiliations": [
+          "富士通研"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "武仲 正彦",
+        "affiliations": [
+          "富士通研"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "鳥居 直哉",
+        "affiliations": [
+          "富士通研"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "8A-3 Masking method に基づいた共通鍵 DPA 対策法 伊藤 孝一 武仲 正彦 鳥居 直哉 富士通研 富士通研 富士通研"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "8A 暗号解析 (1)1/30 16:10-17:50",
+    "id": "8A-4",
+    "title": "Window method の改良による公開鍵暗号への DPA 対策",
+    "authors": [
+      {
+        "name": "矢嶋 純",
+        "affiliations": [
+          "富士通研"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "伊藤 孝一",
+        "affiliations": [
+          "富士通研"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "武仲 正彦",
+        "affiliations": [
+          "富士通研"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "鳥居 直哉",
+        "affiliations": [
+          "富士通研"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "8A-4 Window method の改良による公開鍵暗号への DPA 対策 矢嶋 純 伊藤 孝一 武仲 正彦 鳥居 直哉 富士通研 富士通研 富士通研 富士通研"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "8B 楕円曲線暗号 (2)1/30 16:10-17:50",
+    "id": "8B-1",
+    "title": "種数 2 の超楕円曲線上の因子類群の高速演算法に関する考察",
+    "authors": [
+      {
+        "name": "宮本 洋輔",
+        "affiliations": [
+          "中大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "土井 洋",
+        "affiliations": [
+          "中大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "松尾 和人",
+        "affiliations": [
+          "中大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "趙 晋輝",
+        "affiliations": [
+          "中大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "辻井 重男",
+        "affiliations": [
+          "中大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "8B-1 種数 2 の超楕円曲線上の因子類群の高速演算法に関する考察 宮本 洋輔 土井 洋 松尾 和人 趙 晋輝 辻井 重男 中大 中大 中大 中大 中大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "8B 楕円曲線暗号 (2)1/30 16:10-17:50",
+    "id": "8B-2",
+    "title": "Fast Genus Three Hyperelliptic Curve Cryptosystems",
+    "authors": [
+      {
+        "name": "Junichi Kuroki",
+        "affiliations": [
+          "中大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "Masaki Gonda",
+        "affiliations": [
+          "中大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "Kazuto Matsuo",
+        "affiliations": [
+          "中大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "Jinhui Chao",
+        "affiliations": [
+          "中大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "Shigeo Tsujii",
+        "affiliations": [
+          "中大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "8B-2 Fast Genus Three Hyperelliptic Curve Cryptosystems Junichi Kuroki Masaki Gonda Kazuto Matsuo Jinhui Chao Shigeo Tsujii 中大 中大 中大 中大 中大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "8B 楕円曲線暗号 (2)1/30 16:10-17:50",
+    "id": "8B-3",
+    "title": "A Fast Parallel Elliptic Curve Multiplication Resistant against Side Channel Attacks",
+    "authors": [
+      {
+        "name": "Tetsuya Izu",
+        "affiliations": [
+          "富士通研"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "Tsuyoshi Takagi",
+        "affiliations": [
+          "Technische Universitaet Darmstadt"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "8B-3 A Fast Parallel Elliptic Curve Multiplication Resistant against Side Channel Attacks Tetsuya Izu Tsuyoshi Takagi 富士通研 Technische Universitaet Darmstadt"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "8B 楕円曲線暗号 (2)1/30 16:10-17:50",
+    "id": "8B-4",
+    "title": "効率的なモンゴメリ型楕円曲線のスカラ倍演算",
+    "authors": [
+      {
+        "name": "布田 裕一",
+        "affiliations": [
+          "松下電器"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "大森 基司",
+        "affiliations": [
+          "松下電器"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "8B-4 効率的なモンゴメリ型楕円曲線のスカラ倍演算 布田 裕一 大森 基司 松下電器 松下電器"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "8B 楕円曲線暗号 (2)1/30 16:10-17:50",
+    "id": "8B-5",
+    "title": "Lucas Chain を用いた効率的な楕円曲線暗号に関する考察",
+    "authors": [
+      {
+        "name": "三宅 秀享",
+        "affiliations": [
+          "北陸先端大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "宮地 充子",
+        "affiliations": [
+          "北陸先端大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "8B-5 Lucas Chain を用いた効率的な楕円曲線暗号に関する考察 三宅 秀享 宮地 充子 北陸先端大 北陸先端大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "8C 電子投票1/30 16:10-17:50",
+    "id": "8C-1",
+    "title": "ペアリングを用いた電子投票方式",
+    "authors": [
+      {
+        "name": "境 隆一",
+        "affiliations": [
+          "大阪電気通信大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "笠原 正雄",
+        "affiliations": [
+          "大阪学院大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "8C-1 ペアリングを用いた電子投票方式 境 隆一 笠原 正雄 大阪電気通信大 大阪学院大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "8C 電子投票1/30 16:10-17:50",
+    "id": "8C-2",
+    "title": "暗号文秘密分配器と多候補者選挙",
+    "authors": [
+      {
+        "name": "菊池 浩明",
+        "affiliations": [
+          "東海大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "中里 純二",
+        "affiliations": [
+          "東海大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "中西 祥八郎",
+        "affiliations": [
+          "東海大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "8C-2 暗号文秘密分配器と多候補者選挙 菊池 浩明 中里 純二 中西 祥八郎 東海大 東海大 東海大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "8C 電子投票1/30 16:10-17:50",
+    "id": "8C-3",
+    "title": "The Analysis of Current State and Future on the E-voting System",
+    "authors": [
+      {
+        "name": "Yong-Sork HER",
+        "affiliations": [
+          "Taegu University"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "Kouichi SAKURAI",
+        "affiliations": [
+          "九大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "8C-3 The Analysis of Current State and Future on the E-voting System Yong-Sork HER Kouichi SAKURAI Taegu University 九大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "8D ネットワークセキュリティ (1)1/30 16:10-17:50",
+    "id": "8D-1",
+    "title": "パケットの信頼性を高める認証プロトコル",
+    "authors": [
+      {
+        "name": "池田 竜朗",
+        "affiliations": [
+          "東芝"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "加藤 岳久",
+        "affiliations": [
+          "東芝"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "山岸 晴彦",
+        "affiliations": [
+          "東芝 IT ソリューション"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "大岸 伸之",
+        "affiliations": [
+          "東芝情報システム"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "才所 敏明",
+        "affiliations": [
+          "東芝"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "8D-1 パケットの信頼性を高める認証プロトコル 池田 竜朗 加藤 岳久 山岸 晴彦 大岸 伸之 才所 敏明 東芝 東芝 東芝 IT ソリューション 東芝情報システム 東芝"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "8D ネットワークセキュリティ (1)1/30 16:10-17:50",
+    "id": "8D-2",
+    "title": "様々な利用環境を考慮したユーザ認証付き DHCP システム",
+    "authors": [
+      {
+        "name": "古森 貞",
+        "affiliations": [
+          "東京理科大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "齋藤 孝道",
+        "affiliations": [
+          "東京理科大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "武田 正之",
+        "affiliations": [
+          "東京理科大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "8D-2 様々な利用環境を考慮したユーザ認証付き DHCP システム 古森 貞 齋藤 孝道 武田 正之 東京理科大 東京理科大 東京理科大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "8D ネットワークセキュリティ (1)1/30 16:10-17:50",
+    "id": "8D-3",
+    "title": "安全かつスケーラビリティが高いシングルサインオン方式",
+    "authors": [
+      {
+        "name": "岡田 浩一",
+        "affiliations": [
+          "NTT"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "冨士 仁",
+        "affiliations": [
+          "NTT"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "8D-3 安全かつスケーラビリティが高いシングルサインオン方式 岡田 浩一 冨士 仁 NTT NTT"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "8D ネットワークセキュリティ (1)1/30 16:10-17:50",
+    "id": "8D-4",
+    "title": "ストリーミング転送におけるメッセージ認証システムの設計および実装",
+    "authors": [
+      {
+        "name": "田中 俊昭",
+        "affiliations": [
+          "KDDI"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "酒澤 茂之",
+        "affiliations": [
+          "KDDI"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "清本晋作",
+        "affiliations": [
+          "KDDI"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "中尾 康二",
+        "affiliations": [
+          "KDDI"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "8D-4 ストリーミング転送におけるメッセージ認証システムの設計および実装 田中 俊昭 酒澤 茂之 清本晋作 中尾 康二 KDDI KDDI KDDI KDDI"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "8D ネットワークセキュリティ (1)1/30 16:10-17:50",
+    "id": "8D-5",
+    "title": "関係データベースへの推論攻撃に対する安全性の定式化の拡張について",
+    "authors": [
+      {
+        "name": "土田 順",
+        "affiliations": [
+          "阪大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "石原 靖哲",
+        "affiliations": [
+          "阪大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "藤原 融",
+        "affiliations": [
+          "阪大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "8D-5 関係データベースへの推論攻撃に対する安全性の定式化の拡張について 土田 順 石原 靖哲 藤原 融 阪大 阪大 阪大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "9A 公開鍵暗号 (3)1/31 9:00-10:20",
+    "id": "9A-1",
+    "title": "ランダムな多次多変数公開鍵暗号",
+    "authors": [
+      {
+        "name": "笠原 正雄",
+        "affiliations": [
+          "大阪学院大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "境 隆一",
+        "affiliations": [
+          "大阪電気通信大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "9A-1 ランダムな多次多変数公開鍵暗号 笠原 正雄 境 隆一 大阪学院大 大阪電気通信大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "9A 公開鍵暗号 (3)1/31 9:00-10:20",
+    "id": "9A-2",
+    "title": "A New Cryptosystem Based on McEliece's Public-Key Cryptosystem",
+    "authors": [
+      {
+        "name": "Kengo Oketani",
+        "affiliations": [
+          "阪大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "Masao Kasahara",
+        "affiliations": [
+          "大阪学院大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "9A-2 A New Cryptosystem Based on McEliece's Public-Key Cryptosystem Kengo Oketani Masao Kasahara 阪大 大阪学院大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "9A 公開鍵暗号 (3)1/31 9:00-10:20",
+    "id": "9A-3",
+    "title": "安全性が証明された RSA 系暗号方式の鍵長評価",
+    "authors": [
+      {
+        "name": "中島 多加子",
+        "affiliations": [
+          "お茶の水女子大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "岡本 龍明",
+        "affiliations": [
+          "NTT"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "9A-3 安全性が証明された RSA 系暗号方式の鍵長評価 中島 多加子 岡本 龍明 お茶の水女子大 NTT"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "9B 実装(1) ―共通鍵―1/31 9:00-10:20",
+    "id": "9B-1",
+    "title": "エニグマの高速 LSI 実装",
+    "authors": [
+      {
+        "name": "佐藤 証",
+        "affiliations": [
+          "日本アイ・ビー・エム"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "森岡 澄夫",
+        "affiliations": [
+          "日本アイ・ビー・エム"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "9B-1 エニグマの高速 LSI 実装 佐藤 証 森岡 澄夫 日本アイ・ビー・エム 日本アイ・ビー・エム"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "9B 実装(1) ―共通鍵―1/31 9:00-10:20",
+    "id": "9B-2",
+    "title": "128 ビットブロック暗号 Camellia の小型ハードウェア・アーキテクチャ",
+    "authors": [
+      {
+        "name": "佐藤 証",
+        "affiliations": [
+          "日本アイ・ビー・エム"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "森岡 澄夫",
+        "affiliations": [
+          "日本アイ・ビー・エム"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "張 綱",
+        "affiliations": [
+          "日本アイ・ビー・エム"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      }
+    ],
+    "search_text": "9B-2 128 ビットブロック暗号 Camellia の小型ハードウェア・アーキテクチャ 佐藤 証 森岡 澄夫 張 綱 日本アイ・ビー・エム 日本アイ・ビー・エム 日本アイ・ビー・エム"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "9B 実装(1) ―共通鍵―1/31 9:00-10:20",
+    "id": "9B-3",
+    "title": "共通鍵暗号ハードウェアのための超高速 S-Box 回路アーキテクチャ",
+    "authors": [
+      {
+        "name": "森岡 澄夫",
+        "affiliations": [
+          "日本アイ・ビー・エム"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "佐藤 証",
+        "affiliations": [
+          "日本アイ・ビー・エム"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "9B-3 共通鍵暗号ハードウェアのための超高速 S-Box 回路アーキテクチャ 森岡 澄夫 佐藤 証 日本アイ・ビー・エム 日本アイ・ビー・エム"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "9B 実装(1) ―共通鍵―1/31 9:00-10:20",
+    "id": "9B-4",
+    "title": "共通鍵ブロック暗号 SC2000 の実装(II)",
+    "authors": [
+      {
+        "name": "武仲 正彦",
+        "affiliations": [
+          "富士通研"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "伊藤 孝一",
+        "affiliations": [
+          "富士通研"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "矢嶋 純",
+        "affiliations": [
+          "富士通研"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "鳥居 直哉",
+        "affiliations": [
+          "富士通研"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "9B-4 共通鍵ブロック暗号 SC2000 の実装(II) 武仲 正彦 伊藤 孝一 矢嶋 純 鳥居 直哉 富士通研 富士通研 富士通研 富士通研"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "9C 公証・タイムスタンプ1/31 9:00-10:20",
+    "id": "9C-1",
+    "title": "電磁的記録の認証をオンラインで実現するための一手法 ―署名者の利便性を考慮して―",
+    "authors": [
+      {
+        "name": "藤川 真樹",
+        "affiliations": [
+          "綜合警備保障, 中大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "小林 良成",
+        "affiliations": [
+          "中大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "辻井重男",
+        "affiliations": [
+          "中大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "9C-1 電磁的記録の認証をオンラインで実現するための一手法 ―署名者の利便性を考慮して― 藤川 真樹 小林 良成 辻井重男 綜合警備保障, 中大 中大 中大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "9C 公証・タイムスタンプ1/31 9:00-10:20",
+    "id": "9C-2",
+    "title": "離散対数問題に基づく検証可能タイムスタンプスキーム",
+    "authors": [
+      {
+        "name": "菊池 浩明",
+        "affiliations": [
+          "東海大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "杉原 尚明",
+        "affiliations": [
+          "東海大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "中西 祥八郎",
+        "affiliations": [
+          "東海大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "9C-2 離散対数問題に基づく検証可能タイムスタンプスキーム 菊池 浩明 杉原 尚明 中西 祥八郎 東海大 東海大 東海大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "9C 公証・タイムスタンプ1/31 9:00-10:20",
+    "id": "9C-3",
+    "title": "発行サーバの不正に耐性のあるディジタルタイムスタンプ方式",
+    "authors": [
+      {
+        "name": "山田 明",
+        "affiliations": [
+          "KDDI"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "清本 晋作",
+        "affiliations": [
+          "KDDI"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "田中 俊昭",
+        "affiliations": [
+          "KDDI"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "中尾 康二",
+        "affiliations": [
+          "KDDI"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "9C-3 発行サーバの不正に耐性のあるディジタルタイムスタンプ方式 山田 明 清本 晋作 田中 俊昭 中尾 康二 KDDI KDDI KDDI KDDI"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "9C 公証・タイムスタンプ1/31 9:00-10:20",
+    "id": "9C-4",
+    "title": "電子商取引における紛争解決のための電子証拠物に関する分析",
+    "authors": [
+      {
+        "name": "小森 旭",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "松浦 幹太",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "須藤 修",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "9C-4 電子商取引における紛争解決のための電子証拠物に関する分析 小森 旭 松浦 幹太 須藤 修 東大 東大 東大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "9D ネットワークセキュリティ(2)1/31 9:00-10:20",
+    "id": "9D-1",
+    "title": "ケーブルテレビ網における MAC レイヤーセキュリティに関する実験検討",
+    "authors": [
+      {
+        "name": "多々内 允晴",
+        "affiliations": [
+          "通信・放送機構"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "石井 辰栄",
+        "affiliations": [
+          "日立"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "伊東 晋",
+        "affiliations": [
+          "東京理科大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "西川 陽",
+        "affiliations": [
+          "日立"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "中村勉",
+        "affiliations": [
+          "日立ソフト"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "島崎利治",
+        "affiliations": [
+          "日立ソフト"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "上治寛和",
+        "affiliations": [
+          "日立ソフト"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "9D-1 ケーブルテレビ網における MAC レイヤーセキュリティに関する実験検討 多々内 允晴 石井 辰栄 伊東 晋 西川 陽 中村勉 島崎利治 上治寛和 通信・放送機構 日立 東京理科大 日立 日立ソフト 日立ソフト 日立ソフト"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "9D ネットワークセキュリティ(2)1/31 9:00-10:20",
+    "id": "9D-2",
+    "title": "SPAM メール対策システムの提案と実装",
+    "authors": [
+      {
+        "name": "齋藤 孝道",
+        "affiliations": [
+          "東京理科大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "森井 章夫",
+        "affiliations": [
+          "東京理科大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "古森 貞",
+        "affiliations": [
+          "東京理科大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "鬼頭 利之",
+        "affiliations": [
+          "東京理科大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "9D-2 SPAM メール対策システムの提案と実装 齋藤 孝道 森井 章夫 古森 貞 鬼頭 利之 東京理科大 東京理科大 東京理科大 東京理科大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "9D ネットワークセキュリティ(2)1/31 9:00-10:20",
+    "id": "9D-3",
+    "title": "ニューラルネットワークを用いたデータマイニングによるリアルタイムネットワーク異常検出について",
+    "authors": [
+      {
+        "name": "金岡 晃",
+        "affiliations": [
+          "東邦大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "岡本 栄司",
+        "affiliations": [
+          "東邦大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "9D-3 ニューラルネットワークを用いたデータマイニングによるリアルタイムネットワーク異常検出について 金岡 晃 岡本 栄司 東邦大 東邦大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "9D ネットワークセキュリティ(2)1/31 9:00-10:20",
+    "id": "9D-4",
+    "title": "Web サーバリモート監視システムの実装および評価",
+    "authors": [
+      {
+        "name": "竹森 敬祐",
+        "affiliations": [
+          "KDDI"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "田中 俊昭",
+        "affiliations": [
+          "KDDI"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "中尾 康二",
+        "affiliations": [
+          "KDDI"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "大東 俊博",
+        "affiliations": [
+          "徳島大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "三宅崇之",
+        "affiliations": [
+          "徳島大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "白石善明",
+        "affiliations": [
+          "ナオゼンネットワークス"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "森井昌克",
+        "affiliations": [
+          "徳島大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "9D-4 Web サーバリモート監視システムの実装および評価 竹森 敬祐 田中 俊昭 中尾 康二 大東 俊博 三宅崇之 白石善明 森井昌克 KDDI KDDI KDDI 徳島大 徳島大 ナオゼンネットワークス 徳島大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "10A 暗号解析 (2)1/31 10:30-12:10",
+    "id": "10A-1",
+    "title": "Cryptanalysis of RC5-64 with improved correlation attack",
+    "authors": [
+      {
+        "name": "Norihisa Isogai",
+        "affiliations": [
+          "北陸先端大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "Atsuko Miyaji",
+        "affiliations": [
+          "北陸先端大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "Masao Nonaka",
+        "affiliations": [
+          "北陸先端大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "10A-1 Cryptanalysis of RC5-64 with improved correlation attack Norihisa Isogai Atsuko Miyaji Masao Nonaka 北陸先端大 北陸先端大 北陸先端大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "10A 暗号解析 (2)1/31 10:30-12:10",
+    "id": "10A-2",
+    "title": "Linear Cryptanalysis of Block Cipher Xenon (2)",
+    "authors": [
+      {
+        "name": "Toshio Tokita",
+        "affiliations": [
+          "三菱電機, 横浜国大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "Mitsuru Matsui",
+        "affiliations": [
+          "三菱電機"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "10A-2 Linear Cryptanalysis of Block Cipher Xenon (2) Toshio Tokita Mitsuru Matsui 三菱電機, 横浜国大 三菱電機"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "10A 暗号解析 (2)1/31 10:30-12:10",
+    "id": "10A-3",
+    "title": "MISTY1 の内部関数の多項式表現と暗号解析への応用",
+    "authors": [
+      {
+        "name": "渋谷 香士",
+        "affiliations": [
+          "中大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "小林 篤",
+        "affiliations": [
+          "中大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "下山 武司",
+        "affiliations": [
+          "富士通研"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "辻井 重男",
+        "affiliations": [
+          "中大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "10A-3 MISTY1 の内部関数の多項式表現と暗号解析への応用 渋谷 香士 小林 篤 下山 武司 辻井 重男 中大 中大 富士通研 中大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "10A 暗号解析 (2)1/31 10:30-12:10",
+    "id": "10A-4",
+    "title": "SEED の差分攻撃",
+    "authors": [
+      {
+        "name": "屋並 仁史",
+        "affiliations": [
+          "富士通研"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "下山 武司",
+        "affiliations": [
+          "富士通研"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "10A-4 SEED の差分攻撃 屋並 仁史 下山 武司 富士通研 富士通研"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "10A 暗号解析 (2)1/31 10:30-12:10",
+    "id": "10A-5",
+    "title": "A note on the security of RC6 against correlation attack",
+    "authors": [
+      {
+        "name": "Masao Nonaka",
+        "affiliations": [
+          "北陸先端大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "Atsuko Miyaji",
+        "affiliations": [
+          "北陸先端大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "10A-5 A note on the security of RC6 against correlation attack Masao Nonaka Atsuko Miyaji 北陸先端大 北陸先端大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "10B 楕円曲線暗号(3)1/31 10:30-12:10",
+    "id": "10B-1",
+    "title": "楕円曲線暗号におけるウィンドウ法の高速化",
+    "authors": [
+      {
+        "name": "小黒 博昭",
+        "affiliations": [
+          "NTT"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "小林 鉄太郎",
+        "affiliations": [
+          "NTT"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "10B-1 楕円曲線暗号におけるウィンドウ法の高速化 小黒 博昭 小林 鉄太郎 NTT NTT"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "10B 楕円曲線暗号(3)1/31 10:30-12:10",
+    "id": "10B-2",
+    "title": "逐次拡大体における演算コスト",
+    "authors": [
+      {
+        "name": "野上 保之",
+        "affiliations": [
+          "岡山大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "藤井 吉弘",
+        "affiliations": [
+          "岡山大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "森川 良孝",
+        "affiliations": [
+          "岡山大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "10B-2 逐次拡大体における演算コスト 野上 保之 藤井 吉弘 森川 良孝 岡山大 岡山大 岡山大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "10B 楕円曲線暗号(3)1/31 10:30-12:10",
+    "id": "10B-3",
+    "title": "Construction of Frobenius maps of twists elliptic curves and its application to elliptic scalar multiplication",
+    "authors": [
+      {
+        "name": "Tsutomu Iijima",
+        "affiliations": [
+          "中大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "Kazuto Matsuo",
+        "affiliations": [
+          "中大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "Jinhui Chao",
+        "affiliations": [
+          "中大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "Shigeo Tsujii",
+        "affiliations": [
+          "中大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "10B-3 Construction of Frobenius maps of twists elliptic curves and its application to elliptic scalar multiplication Tsutomu Iijima Kazuto Matsuo Jinhui Chao Shigeo Tsujii 中大 中大 中大 中大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "10B 楕円曲線暗号(3)1/31 10:30-12:10",
+    "id": "10B-4",
+    "title": "動的インターリーブによる楕円同時スカラー倍演算法",
+    "authors": [
+      {
+        "name": "酒井 康行",
+        "affiliations": [
+          "三菱電機"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "櫻井 幸一",
+        "affiliations": [
+          "九大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "10B-4 動的インターリーブによる楕円同時スカラー倍演算法 酒井 康行 櫻井 幸一 三菱電機 九大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "10B 楕円曲線暗号(3)1/31 10:30-12:10",
+    "id": "10B-5",
+    "title": "ペアリングの高速計算とその座標系",
+    "authors": [
+      {
+        "name": "山中 忠和",
+        "affiliations": [
+          "京都工繊大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "境 隆一",
+        "affiliations": [
+          "大阪電気通信大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "笠原 正雄",
+        "affiliations": [
+          "大阪学院大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "10B-5 ペアリングの高速計算とその座標系 山中 忠和 境 隆一 笠原 正雄 京都工繊大 大阪電気通信大 大阪学院大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "10C 鍵配送・管理(2)1/31 10:30-12:10",
+    "id": "10C-1",
+    "title": "デジタルコンテンツ保護用鍵管理方式 -木構造パターン分割方式-",
+    "authors": [
+      {
+        "name": "中野 稔久",
+        "affiliations": [
+          "松下電器"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "大森 基司",
+        "affiliations": [
+          "松下電器"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "松崎 なつめ",
+        "affiliations": [
+          "松下電器"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "館林 誠",
+        "affiliations": [
+          "松下電器"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "10C-1 デジタルコンテンツ保護用鍵管理方式 -木構造パターン分割方式- 中野 稔久 大森 基司 松崎 なつめ 館林 誠 松下電器 松下電器 松下電器 松下電器"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "10C 鍵配送・管理(2)1/31 10:30-12:10",
+    "id": "10C-2",
+    "title": "複数システムに対応した木構造鍵管理方法",
+    "authors": [
+      {
+        "name": "松崎 なつめ",
+        "affiliations": [
+          "松下電器, 横浜国大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "中野 稔久",
+        "affiliations": [
+          "松下電器"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "松本 勉",
+        "affiliations": [
+          "横浜国大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "10C-2 複数システムに対応した木構造鍵管理方法 松崎 なつめ 中野 稔久 松本 勉 松下電器, 横浜国大 松下電器 横浜国大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "10C 鍵配送・管理(2)1/31 10:30-12:10",
+    "id": "10C-3",
+    "title": "A Novel AKC Protocol with Multiple Secret Keys for Mobile-Commerce",
+    "authors": [
+      {
+        "name": "Seong-Han Shin",
+        "affiliations": [
+          "PuKyong National University"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "Akihiro Yamamura",
+        "affiliations": [
+          "通総研"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "Ji-Hwan Park",
+        "affiliations": [
+          "PuKyong National University"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "10C-3 A Novel AKC Protocol with Multiple Secret Keys for Mobile-Commerce Seong-Han Shin Akihiro Yamamura Ji-Hwan Park PuKyong National University 通総研 PuKyong National University"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "10C 鍵配送・管理(2)1/31 10:30-12:10",
+    "id": "10C-4",
+    "title": "限定排除機能およびブラックボックス型不正者追跡機能をもつ放送型コンテンツ配信法",
+    "authors": [
+      {
+        "name": "岡村 真吾",
+        "affiliations": [
+          "阪大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "吉田 真紀",
+        "affiliations": [
+          "阪大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "藤原 融",
+        "affiliations": [
+          "阪大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "10C-4 限定排除機能およびブラックボックス型不正者追跡機能をもつ放送型コンテンツ配信法 岡村 真吾 吉田 真紀 藤原 融 阪大 阪大 阪大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "10C 鍵配送・管理(2)1/31 10:30-12:10",
+    "id": "10C-5",
+    "title": "Efficient Black-box Tracing with Revocation",
+    "authors": [
+      {
+        "name": "Tatsuyuki Matsushita",
+        "affiliations": [
+          "東芝"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      }
+    ],
+    "search_text": "10C-5 Efficient Black-box Tracing with Revocation Tatsuyuki Matsushita 東芝"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "10D 電子透かし(2)1/31 10:30-12:10",
+    "id": "10D-1",
+    "title": "音響信号に対する電子透かし法の応用",
+    "authors": [
+      {
+        "name": "石井 円力",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "古原 和邦",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "今井 秀樹",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "10D-1 音響信号に対する電子透かし法の応用 石井 円力 古原 和邦 今井 秀樹 東大 東大 東大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "10D 電子透かし(2)1/31 10:30-12:10",
+    "id": "10D-2",
+    "title": "Video Watermarking of Which Embedded Information Depends on the Distance Between Two Signal Positions",
+    "authors": [
+      {
+        "name": "Minoru Kuribayashi",
+        "affiliations": [
+          "神戸大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "Hatsukazu Tanaka",
+        "affiliations": [
+          "神戸大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "10D-2 Video Watermarking of Which Embedded Information Depends on the Distance Between Two Signal Positions Minoru Kuribayashi Hatsukazu Tanaka 神戸大 神戸大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "10D 電子透かし(2)1/31 10:30-12:10",
+    "id": "10D-3",
+    "title": "安全な改ざん位置検出用電子透かしに関する考察と提案２",
+    "authors": [
+      {
+        "name": "岩村 恵市",
+        "affiliations": [
+          "キャノン"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "林 淳一",
+        "affiliations": [
+          "キャノン"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "桜井 幸一",
+        "affiliations": [
+          "九大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "今井 秀樹",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "10D-3 安全な改ざん位置検出用電子透かしに関する考察と提案２ 岩村 恵市 林 淳一 桜井 幸一 今井 秀樹 キャノン キャノン 九大 東大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "10D 電子透かし(2)1/31 10:30-12:10",
+    "id": "10D-4",
+    "title": "公開鍵暗号を用いたアルゴリズム公開型電子透かし",
+    "authors": [
+      {
+        "name": "黒田 圭一",
+        "affiliations": [
+          "静岡大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "西垣 正勝",
+        "affiliations": [
+          "静岡大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "曽我 正和",
+        "affiliations": [
+          "岩手県立大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "田窪 昭夫",
+        "affiliations": [
+          "三菱電機"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "10D-4 公開鍵暗号を用いたアルゴリズム公開型電子透かし 黒田 圭一 西垣 正勝 曽我 正和 田窪 昭夫 静岡大 静岡大 岩手県立大 三菱電機"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "10D 電子透かし(2)1/31 10:30-12:10",
+    "id": "10D-5",
+    "title": "安全な識別データ検出方法",
+    "authors": [
+      {
+        "name": "古川 潤",
+        "affiliations": [
+          "NEC"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      }
+    ],
+    "search_text": "10D-5 安全な識別データ検出方法 古川 潤 NEC"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "11A 秘密分散 (2)1/31 13:30-14:30",
+    "id": "11A-1",
+    "title": "参加者の組が所属するグループにより復元される秘密画像が異なる視覚復号型秘密分散法",
+    "authors": [
+      {
+        "name": "寺田 剛陽",
+        "affiliations": [
+          "北陸先端大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "多田 充",
+        "affiliations": [
+          "千葉大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "宮地 充子",
+        "affiliations": [
+          "北陸先端大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "11A-1 参加者の組が所属するグループにより復元される秘密画像が異なる視覚復号型秘密分散法 寺田 剛陽 多田 充 宮地 充子 北陸先端大 千葉大 北陸先端大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "11A 秘密分散 (2)1/31 13:30-14:30",
+    "id": "11A-2",
+    "title": "カラー多値画像へ適用可能な平均混色に基づく視覚復号型秘密分散法",
+    "authors": [
+      {
+        "name": "石原 武",
+        "affiliations": [
+          "筑波大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "古賀 弘樹",
+        "affiliations": [
+          "筑波大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "11A-2 カラー多値画像へ適用可能な平均混色に基づく視覚復号型秘密分散法 石原 武 古賀 弘樹 筑波大 筑波大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "11A 秘密分散 (2)1/31 13:30-14:30",
+    "id": "11A-3",
+    "title": "テキスト秘密分散",
+    "authors": [
+      {
+        "name": "山村 明弘",
+        "affiliations": [
+          "通総研"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "滝澤 修",
+        "affiliations": [
+          "通総研"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "11A-3 テキスト秘密分散 山村 明弘 滝澤 修 通総研 通総研"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "11B エージェント1/31 13:30-14:30",
+    "id": "11B-1",
+    "title": "モバイルエージェント環境に適用するポリシーファイル管理サーバの設計",
+    "authors": [
+      {
+        "name": "清本 晋作",
+        "affiliations": [
+          "KDDI"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "田中 俊昭",
+        "affiliations": [
+          "KDDI"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "中尾 康二",
+        "affiliations": [
+          "KDDI"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "11B-1 モバイルエージェント環境に適用するポリシーファイル管理サーバの設計 清本 晋作 田中 俊昭 中尾 康二 KDDI KDDI KDDI"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "11B エージェント1/31 13:30-14:30",
+    "id": "11B-2",
+    "title": "個人情報保護に於ける自己情報コントロール方法 ?購買履歴の保護と開示?",
+    "authors": [
+      {
+        "name": "兼子 彰夫",
+        "affiliations": [
+          "電通大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "森田 光",
+        "affiliations": [
+          "NTT"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "11B-2 個人情報保護に於ける自己情報コントロール方法 ?購買履歴の保護と開示? 兼子 彰夫 森田 光 電通大 NTT"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "11B エージェント1/31 13:30-14:30",
+    "id": "11B-3",
+    "title": "Application of Agent Technology to Certificate Objects",
+    "authors": [
+      {
+        "name": "Selwyn Russell",
+        "affiliations": [
+          "Queensland University of Technology"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "Minna Yao",
+        "affiliations": [
+          "Queensland University of Technology"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "11B-3 Application of Agent Technology to Certificate Objects Selwyn Russell Minna Yao Queensland University of Technology Queensland University of Technology"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "11D バイオメトリクス1/31 13:30-14:30",
+    "id": "11D-1",
+    "title": "DNA インキの開発",
+    "authors": [
+      {
+        "name": "板倉 征男",
+        "affiliations": [
+          "中大, NTT データテクノロジ"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "長嶋 登志夫",
+        "affiliations": [
+          "NTT データテクノロジ"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "橋谷田 真樹",
+        "affiliations": [
+          "東北大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "井藤 久男",
+        "affiliations": [
+          "アイ・ディ・テクニカ"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "11D-1 DNA インキの開発 板倉 征男 長嶋 登志夫 橋谷田 真樹 井藤 久男 中大, NTT データテクノロジ NTT データテクノロジ 東北大 アイ・ディ・テクニカ"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "11D バイオメトリクス1/31 13:30-14:30",
+    "id": "11D-2",
+    "title": "照明制御による対話型顔画像個人認証",
+    "authors": [
+      {
+        "name": "高松 正昭",
+        "affiliations": [
+          "大阪電気通信大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "境 隆一",
+        "affiliations": [
+          "大阪電気通信大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "11D-2 照明制御による対話型顔画像個人認証 高松 正昭 境 隆一 大阪電気通信大 大阪電気通信大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "11D バイオメトリクス1/31 13:30-14:30",
+    "id": "11D-3",
+    "title": "指紋画像からの人工指作製 (その 2)",
+    "authors": [
+      {
+        "name": "星野 哲",
+        "affiliations": [
+          "横浜国大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "遠藤 由紀子",
+        "affiliations": [
+          "横浜国大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "松本 弘之",
+        "affiliations": [
+          "横浜国大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "松本 勉",
+        "affiliations": [
+          "横浜国大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "11D-3 指紋画像からの人工指作製 (その 2) 星野 哲 遠藤 由紀子 松本 弘之 松本 勉 横浜国大 横浜国大 横浜国大 横浜国大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "12A ディジタル署名 (2)1/31 14:40-16:00",
+    "id": "12A-1",
+    "title": "署名の安全性証明技法の比較",
+    "authors": [
+      {
+        "name": "駒野 雄一",
+        "affiliations": [
+          "早大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "太田 和夫",
+        "affiliations": [
+          "電通大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "12A-1 署名の安全性証明技法の比較 駒野 雄一 太田 和夫 早大 電通大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "12A ディジタル署名 (2)1/31 14:40-16:00",
+    "id": "12A-2",
+    "title": "Nyberg-Rueppel 署名に基づく一括検証可能な Batch 署名",
+    "authors": [
+      {
+        "name": "荒木 俊輔",
+        "affiliations": [
+          "九工大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      }
+    ],
+    "search_text": "12A-2 Nyberg-Rueppel 署名に基づく一括検証可能な Batch 署名 荒木 俊輔 九工大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "12A ディジタル署名 (2)1/31 14:40-16:00",
+    "id": "12A-3",
+    "title": "「Forward-Secure Digital Signature」は役に立つか",
+    "authors": [
+      {
+        "name": "高橋 知史",
+        "affiliations": [
+          "横浜国大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "洲崎 誠一",
+        "affiliations": [
+          "横浜国大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "松本 勉",
+        "affiliations": [
+          "横浜国大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "12A-3 「Forward-Secure Digital Signature」は役に立つか 高橋 知史 洲崎 誠一 松本 勉 横浜国大 横浜国大 横浜国大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "12B 電子入札1/31 14:40-16:00",
+    "id": "12B-1",
+    "title": "一方向性ハッシュ関数と公開掲示板を用いた電子入札システムの実装",
+    "authors": [
+      {
+        "name": "深谷 玄右",
+        "affiliations": [
+          "岡山大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "中西 透",
+        "affiliations": [
+          "岡山大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "山本 大祐",
+        "affiliations": [
+          "岡山大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "杉山 裕二",
+        "affiliations": [
+          "岡山大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "12B-1 一方向性ハッシュ関数と公開掲示板を用いた電子入札システムの実装 深谷 玄右 中西 透 山本 大祐 杉山 裕二 岡山大 岡山大 岡山大 岡山大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "12B 電子入札1/31 14:40-16:00",
+    "id": "12B-2",
+    "title": "秘密コンパレータ：線形ラウンド複雑度を持つ秘密関数計算",
+    "authors": [
+      {
+        "name": "菊池 浩明",
+        "affiliations": [
+          "東海大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      }
+    ],
+    "search_text": "12B-2 秘密コンパレータ：線形ラウンド複雑度を持つ秘密関数計算 菊池 浩明 東海大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "12B 電子入札1/31 14:40-16:00",
+    "id": "12B-3",
+    "title": "A Second-price Sealed-bid Auction with a feature of Public Verifiability",
+    "authors": [
+      {
+        "name": "Kazumasa Omote",
+        "affiliations": [
+          "北陸先端大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "Atsuko Miyaji",
+        "affiliations": [
+          "北陸先端大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "12B-3 A Second-price Sealed-bid Auction with a feature of Public Verifiability Kazumasa Omote Atsuko Miyaji 北陸先端大 北陸先端大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "12B 電子入札1/31 14:40-16:00",
+    "id": "12B-4",
+    "title": "セキュアな動的計画法と組合せオークションへの応用",
+    "authors": [
+      {
+        "name": "鈴木 幸太郎",
+        "affiliations": [
+          "NTT"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "横尾 真",
+        "affiliations": [
+          "NTT"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "12B-4 セキュアな動的計画法と組合せオークションへの応用 鈴木 幸太郎 横尾 真 NTT NTT"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "12C 実装(2) ―共通鍵―1/31 13:30-14:30",
+    "id": "12C-1",
+    "title": "Parallel Implementations of Dedicated Hash Functions",
+    "authors": [
+      {
+        "name": "Junko Nakajima",
+        "affiliations": [
+          "三菱電機"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "Mitsuru Matsui",
+        "affiliations": [
+          "三菱電機"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "12C-1 Parallel Implementations of Dedicated Hash Functions Junko Nakajima Mitsuru Matsui 三菱電機 三菱電機"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "12C 実装(2) ―共通鍵―1/31 13:30-14:30",
+    "id": "12C-2",
+    "title": "Pentium III 上の Triple DES 実装最適化記",
+    "authors": [
+      {
+        "name": "青木 和麻呂",
+        "affiliations": [
+          "通信・放送機構"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      }
+    ],
+    "search_text": "12C-2 Pentium III 上の Triple DES 実装最適化記 青木 和麻呂 通信・放送機構"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "12C 実装(2) ―共通鍵―1/31 13:30-14:30",
+    "id": "12C-3",
+    "title": "NESSIE 提案ブロック暗号のハードウェア実装について(I)",
+    "authors": [
+      {
+        "name": "市川 哲也",
+        "affiliations": [
+          "三菱電機"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "反町 亨",
+        "affiliations": [
+          "三菱電機"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "粕谷 智巳",
+        "affiliations": [
+          "三菱電機"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "松井 充",
+        "affiliations": [
+          "三菱電機"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "12C-3 NESSIE 提案ブロック暗号のハードウェア実装について(I) 市川 哲也 反町 亨 粕谷 智巳 松井 充 三菱電機 三菱電機 三菱電機 三菱電機"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "12C 実装(2) ―共通鍵―1/31 13:30-14:30",
+    "id": "12C-4",
+    "title": "マルチアプリケーション IC カードのセキュリティメカニズムの構築について",
+    "authors": [
+      {
+        "name": "山本 真也",
+        "affiliations": [
+          "NTT データ"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "七尾 慎司",
+        "affiliations": [
+          "NTT データ"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "市原 尚久",
+        "affiliations": [
+          "NTT データ"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      }
+    ],
+    "search_text": "12C-4 マルチアプリケーション IC カードのセキュリティメカニズムの構築について 山本 真也 七尾 慎司 市原 尚久 NTT データ NTT データ NTT データ"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "12D 電子透かし(3)1/31 14:40-16:00",
+    "id": "12D-1",
+    "title": "幾何学的改変画像からの電子透かしの復号に関する検討",
+    "authors": [
+      {
+        "name": "川添 慎",
+        "affiliations": [
+          "京都工繊大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "稲葉 宏幸",
+        "affiliations": [
+          "京都工繊大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "12D-1 幾何学的改変画像からの電子透かしの復号に関する検討 川添 慎 稲葉 宏幸 京都工繊大 京都工繊大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "12D 電子透かし(3)1/31 14:40-16:00",
+    "id": "12D-2",
+    "title": "線画に適した電子透かしの提案",
+    "authors": [
+      {
+        "name": "金城 和志",
+        "affiliations": [
+          "京都工繊大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "稲葉 宏幸",
+        "affiliations": [
+          "京都工繊大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "12D-2 線画に適した電子透かしの提案 金城 和志 稲葉 宏幸 京都工繊大 京都工繊大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "12D 電子透かし(3)1/31 14:40-16:00",
+    "id": "12D-3",
+    "title": "画像の位相不変量を用いた著作権保護方式の一考察",
+    "authors": [
+      {
+        "name": "鈴木 正樹",
+        "affiliations": [
+          "中大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "金 鐘大",
+        "affiliations": [
+          "中大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "趙 晋輝",
+        "affiliations": [
+          "中大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "辻井 重男",
+        "affiliations": [
+          "中大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "12D-3 画像の位相不変量を用いた著作権保護方式の一考察 鈴木 正樹 金 鐘大 趙 晋輝 辻井 重男 中大 中大 中大 中大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "12D 電子透かし(3)1/31 14:40-16:00",
+    "id": "12D-4",
+    "title": "Peer to Peer Network 上でのファイル共有を考慮した著作権保護方式",
+    "authors": [
+      {
+        "name": "山崎 貴弘",
+        "affiliations": [
+          "神大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "木下 宏揚",
+        "affiliations": [
+          "神大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "森住 哲也",
+        "affiliations": [
+          "東洋通信機"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "12D-4 Peer to Peer Network 上でのファイル共有を考慮した著作権保護方式 山崎 貴弘 木下 宏揚 森住 哲也 神大 神大 東洋通信機"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "13A 暗号解析 (3)1/31 16:10-17:50",
+    "id": "13A-1",
+    "title": "Camellia の制御型高階差分攻撃に関する一考察",
+    "authors": [
+      {
+        "name": "武田 仁己",
+        "affiliations": [
+          "東京理科大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "金子 敏信",
+        "affiliations": [
+          "東京理科大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "13A-1 Camellia の制御型高階差分攻撃に関する一考察 武田 仁己 金子 敏信 東京理科大 東京理科大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "13A 暗号解析 (3)1/31 16:10-17:50",
+    "id": "13A-2",
+    "title": "Square Attacks on the Reduced-Round MISTY1",
+    "authors": [
+      {
+        "name": "Iljun Kim",
+        "affiliations": [
+          "NSRI"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "Yongjin Yeom",
+        "affiliations": [
+          "NSRI"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "Hyeonjin Kim",
+        "affiliations": [
+          "NSRI"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "13A-2 Square Attacks on the Reduced-Round MISTY1 Iljun Kim Yongjin Yeom Hyeonjin Kim NSRI NSRI NSRI"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "13A 暗号解析 (3)1/31 16:10-17:50",
+    "id": "13A-3",
+    "title": "KASUMI の高階差分攻撃に関する一考察",
+    "authors": [
+      {
+        "name": "杉尾 信行",
+        "affiliations": [
+          "東京理科大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "田中 秀磨",
+        "affiliations": [
+          "東京理科大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "金子 敏信",
+        "affiliations": [
+          "東京理科大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "13A-3 KASUMI の高階差分攻撃に関する一考察 杉尾 信行 田中 秀磨 金子 敏信 東京理科大 東京理科大 東京理科大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "13A 暗号解析 (3)1/31 16:10-17:50",
+    "id": "13A-4",
+    "title": "Multiple Linear Cryptanalysis of a Reduced Round RC6",
+    "authors": [
+      {
+        "name": "Takeshi Shimoyama",
+        "affiliations": [
+          "富士通研"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "Masahiko Takenaka",
+        "affiliations": [
+          "富士通研"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "Takeshi Koshiba",
+        "affiliations": [
+          "富士通研"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "13A-4 Multiple Linear Cryptanalysis of a Reduced Round RC6 Takeshi Shimoyama Masahiko Takenaka Takeshi Koshiba 富士通研 富士通研 富士通研"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "13A 暗号解析 (3)1/31 16:10-17:50",
+    "id": "13A-5",
+    "title": "MISTY1 の高階差分攻撃",
+    "authors": [
+      {
+        "name": "秦野 康生",
+        "affiliations": [
+          "東京理科大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "田中 秀磨",
+        "affiliations": [
+          "東京理科大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "金子 敏信",
+        "affiliations": [
+          "東京理科大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "13A-5 MISTY1 の高階差分攻撃 秦野 康生 田中 秀磨 金子 敏信 東京理科大 東京理科大 東京理科大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "13B 鍵配送・管理(3)1/31 16:10-17:50",
+    "id": "13B-1",
+    "title": "Kumar-Rajagopalan-Sahai 法におけるユーザ鍵の更新について",
+    "authors": [
+      {
+        "name": "荒木 俊輔",
+        "affiliations": [
+          "九工大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "宮崎 武",
+        "affiliations": [
+          "九工大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "佐藤 敬",
+        "affiliations": [
+          "北九州市立大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "上原 聡",
+        "affiliations": [
+          "北九州市立大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "13B-1 Kumar-Rajagopalan-Sahai 法におけるユーザ鍵の更新について 荒木 俊輔 宮崎 武 佐藤 敬 上原 聡 九工大 九工大 北九州市立大 北九州市立大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "13B 鍵配送・管理(3)1/31 16:10-17:50",
+    "id": "13B-2",
+    "title": "映像配信における効率的な鍵更新",
+    "authors": [
+      {
+        "name": "加納 知聡",
+        "affiliations": [
+          "NTT"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "田淵 洋介",
+        "affiliations": [
+          "NTT"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "13B-2 映像配信における効率的な鍵更新 加納 知聡 田淵 洋介 NTT NTT"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "13B 鍵配送・管理(3)1/31 16:10-17:50",
+    "id": "13B-3",
+    "title": "A Study on the Security of Key Agreement Protocol based on asymmetric techniques against Passive attacks",
+    "authors": [
+      {
+        "name": "Sang-Man Ahn",
+        "affiliations": [
+          "SKKU"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "Kyung-Ah Shim",
+        "affiliations": [
+          "KISA"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "M. Mambo",
+        "affiliations": [
+          "東北大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "H. Shizuya",
+        "affiliations": [
+          "東北大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "Dong-Ho Won",
+        "affiliations": [
+          "SKKU"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "13B-3 A Study on the Security of Key Agreement Protocol based on asymmetric techniques against Passive attacks Sang-Man Ahn Kyung-Ah Shim M. Mambo H. Shizuya Dong-Ho Won SKKU KISA 東北大 東北大 SKKU"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "13B 鍵配送・管理(3)1/31 16:10-17:50",
+    "id": "13B-4",
+    "title": "インスタントメッセンジャーにおける鍵配送プロトコルの一提案",
+    "authors": [
+      {
+        "name": "菊池 浩明",
+        "affiliations": [
+          "東海大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "多田 美奈子",
+        "affiliations": [
+          "東海大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "中西 祥八郎",
+        "affiliations": [
+          "東海大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "13B-4 インスタントメッセンジャーにおける鍵配送プロトコルの一提案 菊池 浩明 多田 美奈子 中西 祥八郎 東海大 東海大 東海大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "13B 鍵配送・管理(3)1/31 16:10-17:50",
+    "id": "13B-5",
+    "title": "Generic Algorithms and Key Agreement Protocols Based on Group Actions",
+    "authors": [
+      {
+        "name": "Akihiro Yamamura",
+        "affiliations": [
+          "通総研"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "Kaoru Kurosawa",
+        "affiliations": [
+          "茨城大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "13B-5 Generic Algorithms and Key Agreement Protocols Based on Group Actions Akihiro Yamamura Kaoru Kurosawa 通総研 茨城大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "13C ネットワークセキュリティ(3)1/31 16:10-17:50",
+    "id": "13C-1",
+    "title": "早期発見に基づく一貫したインターネットセキュリティ対策環境",
+    "authors": [
+      {
+        "name": "三輪 信介",
+        "affiliations": [
+          "通総研"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "大野 浩之",
+        "affiliations": [
+          "通総研"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "13C-1 早期発見に基づく一貫したインターネットセキュリティ対策環境 三輪 信介 大野 浩之 通総研 通総研"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "13C ネットワークセキュリティ(3)1/31 16:10-17:50",
+    "id": "13C-2",
+    "title": "侵入検知及び内部攻撃者検知とヒューマンクリプト",
+    "authors": [
+      {
+        "name": "山中 晋爾",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "松浦 幹太",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "今井 秀樹",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "13C-2 侵入検知及び内部攻撃者検知とヒューマンクリプト 山中 晋爾 松浦 幹太 今井 秀樹 東大 東大 東大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "13C ネットワークセキュリティ(3)1/31 16:10-17:50",
+    "id": "13C-3",
+    "title": "ハイブリッドスキームを利用したＩＰトレースバック技術",
+    "authors": [
+      {
+        "name": "大岸 伸之",
+        "affiliations": [
+          "東芝情報システム"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "池田 竜朗",
+        "affiliations": [
+          "東芝"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "森尻 智昭",
+        "affiliations": [
+          "東芝"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "才所 敏明",
+        "affiliations": [
+          "東芝"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "13C-3 ハイブリッドスキームを利用したＩＰトレースバック技術 大岸 伸之 池田 竜朗 森尻 智昭 才所 敏明 東芝情報システム 東芝 東芝 東芝"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "13C ネットワークセキュリティ(3)1/31 16:10-17:50",
+    "id": "13C-4",
+    "title": "多機能セキュアデータベースのアクセス制御ポリシー設定問題",
+    "authors": [
+      {
+        "name": "安東 学",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "松浦 幹太",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "工藤 道治",
+        "affiliations": [
+          "日本アイ・ビー・エム"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "馬場 章",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "13C-4 多機能セキュアデータベースのアクセス制御ポリシー設定問題 安東 学 松浦 幹太 工藤 道治 馬場 章 東大 東大 日本アイ・ビー・エム 東大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "13D 電子透かし(4)1/31 16:10-17:50",
+    "id": "13D-1",
+    "title": "改行位置の調整による自然言語テキストへの情報ハイディング",
+    "authors": [
+      {
+        "name": "滝澤 修",
+        "affiliations": [
+          "通総研"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "牧野京子",
+        "affiliations": [
+          "三菱総研"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "村瀬一郎",
+        "affiliations": [
+          "三菱総研"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "松本 勉",
+        "affiliations": [
+          "横浜国大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "中川裕志",
+        "affiliations": [
+          "東京大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "13D-1 改行位置の調整による自然言語テキストへの情報ハイディング 滝澤 修 牧野京子 村瀬一郎 松本 勉 中川裕志 通総研 三菱総研 三菱総研 横浜国大 東京大学"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "13D 電子透かし(4)1/31 16:10-17:50",
+    "id": "13D-2",
+    "title": "誤り訂正符号を用いたデータハイディング",
+    "authors": [
+      {
+        "name": "野々垣 厚志",
+        "affiliations": [
+          "神大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "木下 宏揚",
+        "affiliations": [
+          "神大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "森住 哲也",
+        "affiliations": [
+          "東洋通信機"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "13D-2 誤り訂正符号を用いたデータハイディング 野々垣 厚志 木下 宏揚 森住 哲也 神大 神大 東洋通信機"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "13D 電子透かし(4)1/31 16:10-17:50",
+    "id": "13D-3",
+    "title": "組合せ論的な外符号を用いた c-secure CRT 符号",
+    "authors": [
+      {
+        "name": "村谷 博文",
+        "affiliations": [
+          "東芝"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      }
+    ],
+    "search_text": "13D-3 組合せ論的な外符号を用いた c-secure CRT 符号 村谷 博文 東芝"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "13D 電子透かし(4)1/31 16:10-17:50",
+    "id": "13D-4",
+    "title": "c?Secure CRT 符号について",
+    "authors": [
+      {
+        "name": "金 美羅",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "四方 順司",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "村谷 博文",
+        "affiliations": [
+          "東芝"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "今井 秀樹",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "13D-4 c?Secure CRT 符号について 金 美羅 四方 順司 村谷 博文 今井 秀樹 東大 東大 東芝 東大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "13D 電子透かし(4)1/31 16:10-17:50",
+    "id": "13D-5",
+    "title": "結託耐性符号のランダム誤りに強い追跡アルゴリズム (その２)",
+    "authors": [
+      {
+        "name": "吉岡 克成",
+        "affiliations": [
+          "横浜国大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "松本 勉",
+        "affiliations": [
+          "横浜国大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "13D-5 結託耐性符号のランダム誤りに強い追跡アルゴリズム (その２) 吉岡 克成 松本 勉 横浜国大 横浜国大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "14A 匿名2/1 9:00-10:20",
+    "id": "14A-1",
+    "title": "楕円暗号による MIX-net を用いた実用的な電子投票システム",
+    "authors": [
+      {
+        "name": "鬼頭 宏幸",
+        "affiliations": [
+          "NTT"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "星野 文学",
+        "affiliations": [
+          "NTT"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "千田 浩司",
+        "affiliations": [
+          "NTT"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "14A-1 楕円暗号による MIX-net を用いた実用的な電子投票システム 鬼頭 宏幸 星野 文学 千田 浩司 NTT NTT NTT"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "14A 匿名2/1 9:00-10:20",
+    "id": "14A-2",
+    "title": "事前処理を仮定した Mix-net の高速検証方式",
+    "authors": [
+      {
+        "name": "千田 浩司",
+        "affiliations": [
+          "NTT"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "星野 文学",
+        "affiliations": [
+          "NTT"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "14A-2 事前処理を仮定した Mix-net の高速検証方式 千田 浩司 星野 文学 NTT NTT"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "14A 匿名2/1 9:00-10:20",
+    "id": "14A-3",
+    "title": "匿名配布層の提案",
+    "authors": [
+      {
+        "name": "岡本 学",
+        "affiliations": [
+          "早大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "田中 良明",
+        "affiliations": [
+          "早大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "14A-3 匿名配布層の提案 岡本 学 田中 良明 早大 早大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "14A 匿名2/1 9:00-10:20",
+    "id": "14A-4",
+    "title": "大学における講義評価のための匿名アンケートシステムの設計と試作",
+    "authors": [
+      {
+        "name": "岡 博文",
+        "affiliations": [
+          "奈良先端大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "北川 隆",
+        "affiliations": [
+          "奈良先端大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "楫 勇一",
+        "affiliations": [
+          "奈良先端大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "14A-4 大学における講義評価のための匿名アンケートシステムの設計と試作 岡 博文 北川 隆 楫 勇一 奈良先端大 奈良先端大 奈良先端大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "14B ディジタル署名 (3)2/1 9:00-10:20",
+    "id": "14B-1",
+    "title": "A Group Signature Scheme Committing the Group",
+    "authors": [
+      {
+        "name": "Toru Nakanishi",
+        "affiliations": [
+          "岡山大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "Yuji Sugiyama",
+        "affiliations": [
+          "岡山大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "14B-1 A Group Signature Scheme Committing the Group Toru Nakanishi Yuji Sugiyama 岡山大 岡山大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "14B ディジタル署名 (3)2/1 9:00-10:20",
+    "id": "14B-2",
+    "title": "ペアリングを用いたグループ署名",
+    "authors": [
+      {
+        "name": "岡崎 裕之",
+        "affiliations": [
+          "京都工繊大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "境 隆一",
+        "affiliations": [
+          "大阪電気通信大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "笠原 正雄",
+        "affiliations": [
+          "大阪学院大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "14B-2 ペアリングを用いたグループ署名 岡崎 裕之 境 隆一 笠原 正雄 京都工繊大 大阪電気通信大 大阪学院大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "14B ディジタル署名 (3)2/1 9:00-10:20",
+    "id": "14B-3",
+    "title": "RSA 暗号に基づく確認者指定署名について",
+    "authors": [
+      {
+        "name": "宮崎 武",
+        "affiliations": [
+          "九工大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      }
+    ],
+    "search_text": "14B-3 RSA 暗号に基づく確認者指定署名について 宮崎 武 九工大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "14B ディジタル署名 (3)2/1 9:00-10:20",
+    "id": "14B-4",
+    "title": "New convertible undeniable signatures and attack models",
+    "authors": [
+      {
+        "name": "小林 良成",
+        "affiliations": [
+          "中大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "永田 宙",
+        "affiliations": [
+          "中大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "齋藤 泰一",
+        "affiliations": [
+          "NTT"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "辻井重男",
+        "affiliations": [
+          "中大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "14B-4 New convertible undeniable signatures and attack models 小林 良成 永田 宙 齋藤 泰一 辻井重男 中大 中大 NTT 中大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "14D ネットワークセキュリティ (4)2/1 9:00-10:20",
+    "id": "14D-1",
+    "title": "カーネル・モード SSL",
+    "authors": [
+      {
+        "name": "宗藤 誠治",
+        "affiliations": [
+          "日本アイ・ビー・エム"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "大庭 信之",
+        "affiliations": [
+          "日本アイ・ビー・エム"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "14D-1 カーネル・モード SSL 宗藤 誠治 大庭 信之 日本アイ・ビー・エム 日本アイ・ビー・エム"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "14D ネットワークセキュリティ (4)2/1 9:00-10:20",
+    "id": "14D-2",
+    "title": "WWW における認証機能つきミラーリングプロトコルについて",
+    "authors": [
+      {
+        "name": "龍澤 俊介",
+        "affiliations": [
+          "東海大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "山本 宙",
+        "affiliations": [
+          "東海大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "14D-2 WWW における認証機能つきミラーリングプロトコルについて 龍澤 俊介 山本 宙 東海大 東海大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "14D ネットワークセキュリティ (4)2/1 9:00-10:20",
+    "id": "14D-3",
+    "title": "スケーラブルセキュリティ運用管理システムのネットワークトラフィックに関する評価",
+    "authors": [
+      {
+        "name": "礒川 弘実",
+        "affiliations": [
+          "日立"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "萱島 信",
+        "affiliations": [
+          "日立"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "14D-3 スケーラブルセキュリティ運用管理システムのネットワークトラフィックに関する評価 礒川 弘実 萱島 信 日立 日立"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "14D ネットワークセキュリティ (4)2/1 9:00-10:20",
+    "id": "14D-4",
+    "title": "Packet Filtering Rule Chain の最適化",
+    "authors": [
+      {
+        "name": "中野 良太",
+        "affiliations": [
+          "神大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "木下 宏揚",
+        "affiliations": [
+          "神大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "森住 哲也",
+        "affiliations": [
+          "東洋通信機"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "14D-4 Packet Filtering Rule Chain の最適化 中野 良太 木下 宏揚 森住 哲也 神大 神大 東洋通信機"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "15A 計算法・数理応用 (2)2/1 10:30-11:30",
+    "id": "15A-1",
+    "title": "離散対数検証法",
+    "authors": [
+      {
+        "name": "小林 鉄太郎",
+        "affiliations": [
+          "NTT"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "星野 文学",
+        "affiliations": [
+          "NTT"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "15A-1 離散対数検証法 小林 鉄太郎 星野 文学 NTT NTT"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "15A 計算法・数理応用 (2)2/1 10:30-11:30",
+    "id": "15A-2",
+    "title": "RNS 表現による Barrett Reduction",
+    "authors": [
+      {
+        "name": "小池 正修",
+        "affiliations": [
+          "東芝"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      }
+    ],
+    "search_text": "15A-2 RNS 表現による Barrett Reduction 小池 正修 東芝"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "15A 計算法・数理応用 (2)2/1 10:30-11:30",
+    "id": "15A-3",
+    "title": "Lauder-Paterson 法の一般化について",
+    "authors": [
+      {
+        "name": "戒田 高康",
+        "affiliations": [
+          "八代工業高専"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      }
+    ],
+    "search_text": "15A-3 Lauder-Paterson 法の一般化について 戒田 高康 八代工業高専"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "15B 実装(3) ―楕円―2/1 10:30-11:30",
+    "id": "15B-1",
+    "title": "非接触型ＩＣカード用の楕円曲線暗号ハードウェア実装",
+    "authors": [
+      {
+        "name": "秋下 徹",
+        "affiliations": [
+          "ソニー"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "飯塚 健",
+        "affiliations": [
+          "ソニー"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "佐藤 英雄",
+        "affiliations": [
+          "ソニー"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "15B-1 非接触型ＩＣカード用の楕円曲線暗号ハードウェア実装 秋下 徹 飯塚 健 佐藤 英雄 ソニー ソニー ソニー"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "15B 実装(3) ―楕円―2/1 10:30-11:30",
+    "id": "15B-2",
+    "title": "GF(2^n)上のモンゴメリ乗算を用いた楕円演算コプロセッサ",
+    "authors": [
+      {
+        "name": "佐藤 証",
+        "affiliations": [
+          "日本アイ・ビー・エム"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "高野 光司",
+        "affiliations": [
+          "日本アイ・ビー・エム"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      }
+    ],
+    "search_text": "15B-2 GF(2^n)上のモンゴメリ乗算を用いた楕円演算コプロセッサ 佐藤 証 高野 光司 日本アイ・ビー・エム 日本アイ・ビー・エム"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "15B 実装(3) ―楕円―2/1 10:30-11:30",
+    "id": "15B-3",
+    "title": "標数２の拡大体で定義された楕円曲線の高速位数計算法",
+    "authors": [
+      {
+        "name": "平舘 一哉",
+        "affiliations": [
+          "東工大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "荒木 純道",
+        "affiliations": [
+          "東工大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "15B-3 標数２の拡大体で定義された楕円曲線の高速位数計算法 平舘 一哉 荒木 純道 東工大 東工大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "15C ネットワークセキュリティ (5)2/1 10:30-11:30",
+    "id": "15C-1",
+    "title": "DOS 攻撃への耐性を高めた階層構造型 IDS プロトコル",
+    "authors": [
+      {
+        "name": "桝本 圭",
+        "affiliations": [
+          "横浜国大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "松本 勉",
+        "affiliations": [
+          "横浜国大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "15C-1 DOS 攻撃への耐性を高めた階層構造型 IDS プロトコル 桝本 圭 松本 勉 横浜国大 横浜国大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "15C ネットワークセキュリティ (5)2/1 10:30-11:30",
+    "id": "15C-2",
+    "title": "暗号化アルゴリズムの動的変更に関する研究",
+    "authors": [
+      {
+        "name": "林 昌樹",
+        "affiliations": [
+          "防衛大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "中村 康弘",
+        "affiliations": [
+          "防衛大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "15C-2 暗号化アルゴリズムの動的変更に関する研究 林 昌樹 中村 康弘 防衛大 防衛大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "15C ネットワークセキュリティ (5)2/1 10:30-11:30",
+    "id": "15C-3",
+    "title": "Secure Shell のシステムとしての安全性についての考察",
+    "authors": [
+      {
+        "name": "鬼頭 利之",
+        "affiliations": [
+          "東京理科大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "梅澤 健太郎",
+        "affiliations": [
+          "東京理科大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "齋藤 孝道",
+        "affiliations": [
+          "東京理科大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "15C-3 Secure Shell のシステムとしての安全性についての考察 鬼頭 利之 梅澤 健太郎 齋藤 孝道 東京理科大 東京理科大 東京理科大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "15D PKI (2)2/1 10:30-11:30",
+    "id": "15D-1",
+    "title": "Instance Revocation of Digital Signature and Its Applications",
+    "authors": [
+      {
+        "name": "Rui Zhang",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "Michiharu Kudo",
+        "affiliations": [
+          "日本アイ・ビー・エム"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "Kanta Matsuura",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "Hideki Imai",
+        "affiliations": [
+          "東大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "15D-1 Instance Revocation of Digital Signature and Its Applications Rui Zhang Michiharu Kudo Kanta Matsuura Hideki Imai 東大 日本アイ・ビー・エム 東大 東大"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "15D PKI (2)2/1 10:30-11:30",
+    "id": "15D-2",
+    "title": "Improving Performance in Global PKI using Virtual Certificates and Synthetic Certificates",
+    "authors": [
+      {
+        "name": "Selwyn Russell",
+        "affiliations": [
+          "Queensland University of Technology"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "Eiji Okamoto",
+        "affiliations": [
+          "東邦大"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "Ed Dawson",
+        "affiliations": [
+          "Queensland University of Technology"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "Javier Lopez",
+        "affiliations": [
+          "University of Malaga"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "15D-2 Improving Performance in Global PKI using Virtual Certificates and Synthetic Certificates Selwyn Russell Eiji Okamoto Ed Dawson Javier Lopez Queensland University of Technology 東邦大 Queensland University of Technology University of Malaga"
+  },
+  {
+    "event": "SCIS2002",
+    "session": "15D PKI (2)2/1 10:30-11:30",
+    "id": "15D-3",
+    "title": "A New Approach of X.509v3 Certificate for Full Path Validation",
+    "authors": [
+      {
+        "name": "Jaegwan Park",
+        "affiliations": [
+          "ICU"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "Kwangjo Kim",
+        "affiliations": [
+          "ICU"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "15D-3 A New Approach of X.509v3 Certificate for Full Path Validation Jaegwan Park Kwangjo Kim ICU ICU"
+  }
+]

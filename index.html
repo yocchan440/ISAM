@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>学会プログラム全文検索システム | CSS & SCIS</title>
+    
+    <!-- SEOメタデータ -->
+    <meta name="description" content="コンピュータセキュリティシンポジウム (CSS) および 暗号と情報セキュリティシンポジウム (SCIS) のプログラムを瞬時にインクリメンタル検索できる完全サーバーレスの超高速検索システム。">
+    <meta name="keywords" content="CSS2025, SCIS, コンピュータセキュリティシンポジウム, 学会プログラム, 論文検索, 全文検索, インクリメンタル検索">
+    <meta name="author" content="ISAM Dev">
+    
+    <!-- OGPメタデータ -->
+    <meta property="og:title" content="学会プログラム全文検索システム | CSS & SCIS">
+    <meta property="og:description" content="コンピュータセキュリティシンポジウム (CSS) のプログラムをミリ秒単位でインクリメンタル検索。完全クライアントサイド完結。">
+    <meta property="og:type" content="website">
+    
+    <!-- Google Fonts: Outfit (ヘッダー・タイトル用) & Inter (本文用) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;600;700;800&display=swap" rel="stylesheet">
+    
+    <!-- スタイルシートの読み込み -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <!-- 背景の光彩エフェクト (固定コンテナで包みスクロール干渉を完全回避) -->
+    <div class="bg-glow-container">
+        <div class="bg-glow bg-glow-1"></div>
+        <div class="bg-glow bg-glow-2"></div>
+    </div>
+
+    <div class="app-container">
+        <!-- メインヘッダー -->
+        <header class="app-header">
+            <div class="logo-area">
+                <span class="logo-icon">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M21 21L15 15M17 10C17 13.866 13.866 17 10 17C6.13401 17 3 13.866 3 10C3 6.13401 6.13401 3 10 3C13.866 3 17 6.13401 17 10Z" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                </span>
+                <h1>ISAM <span class="subtitle">Academic Search</span></h1>
+            </div>
+            <p class="tagline">学会プログラムをミリ秒単位で超高速全文検索</p>
+        </header>
+
+        <!-- 検索ダッシュボード -->
+        <main class="search-dashboard">
+            <section class="search-control-panel">
+                <!-- 検索バー -->
+                <div class="search-box-wrapper">
+                    <div class="search-icon-inside">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M21 21L15 15M17 10C17 13.866 13.866 17 10 17C6.13401 17 3 13.866 3 10C3 6.13401 6.13401 3 10 3C13.866 3 17 6.13401 17 10Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                        </svg>
+                    </div>
+                    <input type="text" id="search-input" placeholder="論文タイトル、著者名、所属、セッション、発表IDで検索..." autofocus autocomplete="off">
+                    <button id="clear-btn" aria-label="検索ワードをクリア" title="検索ワードをクリア">
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M18 6L6 18M6 6L18 18" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                        </svg>
+                    </button>
+                </div>
+
+                <!-- フィルターオプション -->
+                <div class="filter-panel">
+                    <!-- 動的に生成される学会・開催年フィルター用コンテナ -->
+                    <div class="dynamic-filters-wrapper" id="dynamic-filters-container"></div>
+
+                    <!-- オプショントグル -->
+                    <div class="filter-group options-group">
+                        <label class="toggle-switch">
+                            <input type="checkbox" id="presenter-only-toggle">
+                            <span class="slider"></span>
+                            <span class="toggle-label">登壇発表のみ</span>
+                        </label>
+                        
+                        <label class="toggle-switch">
+                            <input type="checkbox" id="invited-only-toggle">
+                            <span class="slider"></span>
+                            <span class="toggle-label">企画・特別セッションのみ</span>
+                        </label>
+                    </div>
+                </div>
+            </section>
+
+            <!-- 検索統計とローダー -->
+            <div class="status-bar">
+                <div id="stats-container" class="stats">
+                    <span class="count-badge animate-pulse" id="results-count">-</span> 件ヒット <span class="total-count" id="total-count-text"></span>
+                </div>
+                <div class="status-bar-right">
+                    <!-- ソート選択UI -->
+                    <div class="sort-selector-wrapper">
+                        <label for="sort-select" class="sort-label">並び順:</label>
+                        <select id="sort-select" class="sort-select" aria-label="並び順を選択">
+                            <option value="desc" selected>発表年の新しい順</option>
+                            <option value="asc">発表年の古い順</option>
+                        </select>
+                    </div>
+                    
+                    <div id="loading-indicator" class="loader hide">
+                        <div class="spinner"></div>
+                        <span>ロード中...</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 検索結果表示エリア -->
+            <section class="results-section">
+                <!-- スケルトンローディング画面 -->
+                <div id="skeleton-container" class="skeleton-list">
+                    <div class="skeleton-item"></div>
+                    <div class="skeleton-item"></div>
+                    <div class="skeleton-item"></div>
+                </div>
+
+                <!-- 実際の検索結果リスト -->
+                <div id="results-list" class="results-list hide"></div>
+
+                <!-- 空状態 (Empty State) 表示 -->
+                <div id="empty-state" class="empty-state hide">
+                    <div class="empty-icon">
+                        <svg width="64" height="64" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M21 21L15 15M17 10C17 13.866 13.866 17 10 17C6.13401 17 3 13.866 3 10C3 6.13401 6.13401 3 10 3C13.866 3 17 6.13401 17 10Z" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+                        </svg>
+                    </div>
+                    <h3>該当する発表が見つかりませんでした</h3>
+                    <p>キーワードの綴りを確認するか、別の検索語を試してください。</p>
+                </div>
+            </section>
+        </main>
+
+        <!-- アプリフッター -->
+        <footer class="app-footer">
+            <p>&copy; 2026 学会プログラム全文検索システム (ISAM). サーバーレス超高速インクリメンタル検索.</p>
+        </footer>
+    </div>
+
+    <!-- JavaScript の読み込み -->
+    <script src="js/app.js"></script>
+</body>
+</html>
