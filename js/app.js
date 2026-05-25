@@ -45,6 +45,7 @@ document.addEventListener('DOMContentLoaded', () => {
             // 個別のデータファイルを並行でロード
             const dataFiles = [
                 // CSS
+                { name: 'CSS1998', path: 'data/css1998.json' },
                 { name: 'CSS1999', path: 'data/css1999.json' },
                 { name: 'CSS2000', path: 'data/css2000.json' },
                 { name: 'CSS2001', path: 'data/css2001.json' },
