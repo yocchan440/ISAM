@@ -72,6 +72,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 { name: 'CSS2023', path: 'data/css2023.json' },
                 { name: 'CSS2024', path: 'data/css2024.json' },
                 { name: 'CSS2025', path: 'data/css2025.json' },
+                { name: 'CSS2026', path: 'data/css2026.json' },
                 
                 // SCIS
                 { name: 'SCIS2001', path: 'data/scis2001.json' },
