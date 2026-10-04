@@ -943,3 +943,30 @@ body {
     color: var(--text-primary);
     padding: 8px;
 }
+
+/* 参考文献コピーボタン */
+.cite-buttons {
+    display: flex;
+    gap: 6px;
+    margin-right: auto;
+}
+
+.cite-btn {
+    font-family: var(--font-heading);
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    color: var(--text-dim);
+    background: transparent;
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+    padding: 2px 8px;
+    cursor: pointer;
+    transition: color 0.2s, border-color 0.2s;
+}
+
+.cite-btn:hover,
+.cite-btn.copied {
+    color: var(--primary);
+    border-color: var(--primary);
+}

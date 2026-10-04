@@ -464,6 +464,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 eventHtml = `<a href="${eventUrl}" class="event-link" target="_blank" rel="noopener noreferrer" title="公式プログラムサイトを開く">${escapeHtml(eventStr)} <span class="link-arrow">↗</span></a>`;
             }
 
+            const paperIdx = state.filteredPapers.indexOf(paper);
+
             item.innerHTML = `
                 <div class="item-header">
                     <span class="paper-id">${paper.id}</span>
@@ -474,6 +476,11 @@ document.addEventListener('DOMContentLoaded', () => {
                     ${authorsHtml}
                 </div>
                 <div class="item-footer">
+                    <div class="cite-buttons">
+                        <button type="button" class="cite-btn" data-format="bibtex" data-idx="${paperIdx}" title="BibTeX形式をコピー">BiBTeX</button>
+                        <button type="button" class="cite-btn" data-format="ipsj" data-idx="${paperIdx}" title="情報処理学会形式をコピー">IPSJ</button>
+                        <button type="button" class="cite-btn" data-format="ieice" data-idx="${paperIdx}" title="電子情報通信学会形式をコピー">IEICE</button>
+                    </div>
                     <span class="event-label">${eventHtml}</span>
                 </div>
             `;
@@ -559,6 +566,13 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // 検索結果内の著者名・所属クリックイベント (イベントデリゲーション)
         el.resultsList.addEventListener('click', (e) => {
+            const citeBtn = e.target.closest('.cite-btn');
+            if (citeBtn) {
+                const paper = state.filteredPapers[parseInt(citeBtn.getAttribute('data-idx'), 10)];
+                if (paper) copyCitation(citeBtn, formatCitation(paper, citeBtn.getAttribute('data-format')));
+                return;
+            }
+
             const clickableAuthor = e.target.closest('.clickable-author');
             if (clickableAuthor) {
                 const authorName = clickableAuthor.getAttribute('data-author');
@@ -606,6 +620,96 @@ document.addEventListener('DOMContentLoaded', () => {
             .replace(/>/g, '&gt;')
             .replace(/"/g, '&quot;')
             .replace(/'/g, '&#39;');
+    }
+
+    // 参考文献フォーマット生成 (BibTeX / IPSJ / IEICE)
+    const CONF_NAMES = {
+        CSS: 'コンピュータセキュリティシンポジウム',
+        SCIS: '暗号と情報セキュリティシンポジウム',
+    };
+
+    function isLatinName(name) {
+        return /^[\x00-\x7F]+$/.test(name);
+    }
+
+    // 日本語名の姓名間スペースは除去し、欧文名はそのまま
+    function normalizeName(name) {
+        const n = name.trim().replace(/[\s　]+/g, ' ');
+        return isLatinName(n) ? n : n.replace(/\s+/g, '');
+    }
+
+    // 著者を区切り文字で連結 (欧文のみの場合は "A, B and C" のような形式)
+    function joinAuthors(names, sep, lastSep) {
+        if (names.length <= 1) return names.join('');
+        return names.slice(0, -1).join(sep) + lastSep + names[names.length - 1];
+    }
+
+    function formatCitation(paper, format) {
+        const m = (paper.event || '').match(/^([a-zA-Z]+)(\d{4})$/);
+        const conf = m ? m[1].toUpperCase() : '';
+        const year = m ? m[2] : '';
+        const confName = CONF_NAMES[conf] || paper.event;
+        const names = (paper.authors || []).map(a => normalizeName(a.name)).filter(n => n);
+        const allLatin = names.length > 0 && names.every(isLatinName);
+        const title = (paper.title || '').trim();
+        const num = (paper.id || '').trim();
+
+        if (format === 'bibtex') {
+            const key = `${paper.event}${num ? '_' + num : ''}`;
+            const lines = [
+                `@INPROCEEDINGS{${key},`,
+                `  author = {${names.join(' and ')}},`,
+                `  title = {{${title}}},`,
+                `  booktitle = {${confName}${year}},`,
+                `  year = {${year}}`,
+            ];
+            if (num) lines[lines.length - 1] += ',', lines.push(`  note = {${num}}`);
+            lines.push('}');
+            return lines.join('\n');
+        }
+
+        if (format === 'ipsj') {
+            const authors = allLatin ? joinAuthors(names, ', ', ' and ') : names.join('，');
+            const parts = [authors ? `${authors}：${title}` : title, `${confName}${year}`];
+            if (num) parts.push(`${num}`);
+            return `${parts.join('，')}（${year}）．`;
+        }
+
+        if (format === 'ieice') {
+            const authors = allLatin ? joinAuthors(names, ', ', ' and ') : names.join('，');
+            const tail = [`${confName}${year}`];
+            if (num) tail.push(`${num}`);
+            tail.push(year);
+            return `${authors ? authors + '，' : ''}“${title}，”${tail.join(', ')}.`;
+        }
+        return '';
+    }
+
+    // クリップボードへコピー (非セキュアコンテキスト用フォールバック付き)
+    async function copyCitation(btn, text) {
+        let ok = false;
+        try {
+            await navigator.clipboard.writeText(text);
+            ok = true;
+        } catch (err) {
+            const ta = document.createElement('textarea');
+            ta.value = text;
+            ta.style.position = 'fixed';
+            ta.style.opacity = '0';
+            document.body.appendChild(ta);
+            ta.select();
+            try { ok = document.execCommand('copy'); } catch (e) { ok = false; }
+            document.body.removeChild(ta);
+        }
+        const original = btn.getAttribute('data-label') || btn.textContent;
+        btn.setAttribute('data-label', original);
+        btn.textContent = ok ? 'Copied!' : 'Failed';
+        btn.classList.toggle('copied', ok);
+        clearTimeout(btn._citeTimer);
+        btn._citeTimer = setTimeout(() => {
+            btn.textContent = original;
+            btn.classList.remove('copied');
+        }, 1200);
     }
 
     function getEventScore(eventStr) {
