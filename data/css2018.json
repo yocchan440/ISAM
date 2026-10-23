@@ -1,7 +1,7 @@
 [
   {
     "event": "CSS2018",
-    "session": "1A3: 認証・個人識別 （座長：毛利　公一）",
+    "session": "1A3: 認証・個人識別",
     "id": "1A3-1",
     "title": "歩容データのDTW距離に基づく個人識別における複数部位のフュージョン手法",
     "authors": [
@@ -26,7 +26,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "1A3: 認証・個人識別 （座長：毛利　公一）",
+    "session": "1A3: 認証・個人識別",
     "id": "1A3-2",
     "title": "体臭によるプライバシーの侵害度合いの調査",
     "authors": [
@@ -51,7 +51,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "1A3: 認証・個人識別 （座長：毛利　公一）",
+    "session": "1A3: 認証・個人識別",
     "id": "1A3-3",
     "title": "超音波の分離放射による音声認識機器への攻撃:ユーザスタディ評価と対策技術の提案",
     "authors": [
@@ -113,11 +113,14 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1A3-3 超音波の分離放射による音声認識機器への攻撃:ユーザスタディ評価と対策技術の提案 飯島 涼 南 翔汰 シュウ インゴウ 竹久 達也 高橋 健志 及川 靖広 森 達哉 早稲田大学 情報通信研究機構 早稲田大学 早稲田大学 情報通信研究機構 情報通信研究機構 早稲田大学 早稲田大学"
+    "search_text": "1A3-3 超音波の分離放射による音声認識機器への攻撃:ユーザスタディ評価と対策技術の提案 飯島 涼 南 翔汰 シュウ インゴウ 竹久 達也 高橋 健志 及川 靖広 森 達哉 早稲田大学 情報通信研究機構 早稲田大学 早稲田大学 情報通信研究機構 情報通信研究機構 早稲田大学 早稲田大学 最優秀論文賞",
+    "awards": [
+      "最優秀論文賞"
+    ]
   },
   {
     "event": "CSS2018",
-    "session": "1A3: 認証・個人識別 （座長：毛利　公一）",
+    "session": "1A3: 認証・個人識別",
     "id": "1A3-4",
     "title": "車載ネットワークセキュリティ演習プログラムの報告",
     "authors": [
@@ -158,7 +161,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "1E3: クラウド・仮想化 （座長：須賀　祐治）",
+    "session": "1E3: クラウド・仮想化",
     "id": "1E3-1",
     "title": "Intel SGXを利用するコンテナのマイグレーション機構",
     "authors": [
@@ -183,7 +186,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "1E3: クラウド・仮想化 （座長：須賀　祐治）",
+    "session": "1E3: クラウド・仮想化",
     "id": "1E3-2",
     "title": "OverlayFSを用いたコンテナに対するサービス妨害攻撃の防止",
     "authors": [
@@ -208,7 +211,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "1E3: クラウド・仮想化 （座長：須賀　祐治）",
+    "session": "1E3: クラウド・仮想化",
     "id": "1E3-3",
     "title": "キャッシュのモニタリングによるキャッシュサイドチャネル攻撃の検知",
     "authors": [
@@ -229,11 +232,14 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1E3-3 キャッシュのモニタリングによるキャッシュサイドチャネル攻撃の検知 嶋田 有佑 河野 健二 慶應義塾大学 慶應義塾大学"
+    "search_text": "1E3-3 キャッシュのモニタリングによるキャッシュサイドチャネル攻撃の検知 嶋田 有佑 河野 健二 慶應義塾大学 慶應義塾大学 学生論文賞",
+    "awards": [
+      "学生論文賞"
+    ]
   },
   {
     "event": "CSS2018",
-    "session": "1E3: クラウド・仮想化 （座長：須賀　祐治）",
+    "session": "1E3: クラウド・仮想化",
     "id": "1E3-4",
     "title": "JavaScriptを用いたスマートフォン向けFIDO UAF Cloudの提案と評価",
     "authors": [
@@ -282,7 +288,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "1A4: Webセキュリティ （座長：齋藤　孝道）",
+    "session": "1A4: Webセキュリティ",
     "id": "1A4-1",
     "title": "プッシュ通知を用いたパスワードマネージャの提案と評価",
     "authors": [
@@ -323,7 +329,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "1A4: Webセキュリティ （座長：齋藤　孝道）",
+    "session": "1A4: Webセキュリティ",
     "id": "1A4-2",
     "title": "WordPressプラグインで発生するCSRF脆弱性とSelf-XSS脆弱性の組み合わせによるXSS脆弱性",
     "authors": [
@@ -364,7 +370,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "1A4: Webセキュリティ （座長：齋藤　孝道）",
+    "session": "1A4: Webセキュリティ",
     "id": "1A4-3",
     "title": "アクセスパターンに基づく攻撃対象Webアプリケーション発見手法の提案",
     "authors": [
@@ -405,7 +411,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "1A4: Webセキュリティ （座長：齋藤　孝道）",
+    "session": "1A4: Webセキュリティ",
     "id": "1A4-4",
     "title": "Webサイトのセキュリティ・センサス",
     "authors": [
@@ -470,7 +476,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "1E4: 情報基盤 （座長：渡邊　裕治）",
+    "session": "1E4: 情報基盤",
     "id": "1E4-1",
     "title": "未知語を考慮した固有表現認識によるセキュリティインテリジェンスの構造化手法",
     "authors": [
@@ -511,7 +517,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "1E4: 情報基盤 （座長：渡邊　裕治）",
+    "session": "1E4: 情報基盤",
     "id": "1E4-2",
     "title": "Generating Security Intelligence through Social Network Sentiment Analysis",
     "authors": [
@@ -524,19 +530,19 @@
         "presenter_symbol": "◎"
       },
       {
-        "name": "kamura Koji",
+        "name": "Okamura Koji",
         "affiliations": [
           "九州大学"
         ],
-        "is_presenter": true,
-        "presenter_symbol": "O"
+        "is_presenter": false,
+        "presenter_symbol": ""
       }
     ],
-    "search_text": "1E4-2 Generating Security Intelligence through Social Network Sentiment Analysis ロドリゲズ アリエル kamura Koji 九州大学 九州大学"
+    "search_text": "1E4-2 Generating Security Intelligence through Social Network Sentiment Analysis ロドリゲズ アリエル Okamura Koji 九州大学 九州大学"
   },
   {
     "event": "CSS2018",
-    "session": "1E4: 情報基盤 （座長：渡邊　裕治）",
+    "session": "1E4: 情報基盤",
     "id": "1E4-3",
     "title": "STIX2.0/TAXII2.0を用いたインディケータの自動収集と攻撃検知の自動化",
     "authors": [
@@ -569,7 +575,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "1E4: 情報基盤 （座長：渡邊　裕治）",
+    "session": "1E4: 情報基盤",
     "id": "1E4-4",
     "title": "脅威情報の共有に向けたグラフ記述のための軽量マークアップ言語の提案",
     "authors": [
@@ -586,7 +592,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "1A5: Androidセキュリティ （座長：孫　博）",
+    "session": "1A5: Androidセキュリティ",
     "id": "1A5-1",
     "title": "ソーシャルネットワークで共有されるAndroidアプリケーションの実態調査",
     "authors": [
@@ -619,7 +625,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "1A5: Androidセキュリティ （座長：孫　博）",
+    "session": "1A5: Androidセキュリティ",
     "id": "1A5-2",
     "title": "Androidにおけるランタイムパーミッションのクラス別適用手法",
     "authors": [
@@ -660,7 +666,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "1A5: Androidセキュリティ （座長：孫　博）",
+    "session": "1A5: Androidセキュリティ",
     "id": "1A5-3",
     "title": "Androidアプリケーションのコンポーネント間通信による脅威分析の効率化と高度化",
     "authors": [
@@ -685,7 +691,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "1A5: Androidセキュリティ （座長：孫　博）",
+    "session": "1A5: Androidセキュリティ",
     "id": "1A5-4",
     "title": "AndroidにおけるWebViewのWebアクセス観測機構を利用した悪性Webサイトの脅威分析と対策の提案",
     "authors": [
@@ -718,7 +724,7 @@
         "name": "Manardo Celia",
         "affiliations": [
           "岡山大学大学院自然科学研究科",
-          "Engineering School of Grenoble INP (National Polytechnic Institute"
+          "Engineering School of Grenoble INP (National Polytechnic Institute) Group"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
@@ -748,18 +754,18 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1A5-4 AndroidにおけるWebViewのWebアクセス観測機構を利用した悪性Webサイトの脅威分析と対策の提案 今村 祐太 折戸 凜太郎 Chaikaew Kritsana Manardo Celia Leelaprute Pattara 佐藤 将也 山内 利宏 岡山大学大学院自然科学研究科 岡山大学工学部 岡山大学工学部 カセサート大学工学部 岡山大学大学院自然科学研究科 Engineering School of Grenoble INP (National Polytechnic Institute カセサート大学工学部 岡山大学大学院自然科学研究科 岡山大学大学院自然科学研究科"
+    "search_text": "1A5-4 AndroidにおけるWebViewのWebアクセス観測機構を利用した悪性Webサイトの脅威分析と対策の提案 今村 祐太 折戸 凜太郎 Chaikaew Kritsana Manardo Celia Leelaprute Pattara 佐藤 将也 山内 利宏 岡山大学大学院自然科学研究科 岡山大学工学部 岡山大学工学部 カセサート大学工学部 岡山大学大学院自然科学研究科 Engineering School of Grenoble INP (National Polytechnic Institute) Group カセサート大学工学部 岡山大学大学院自然科学研究科 岡山大学大学院自然科学研究科"
   },
   {
     "event": "CSS2018",
-    "session": "1B5: データセット （座長：大野　一広）",
+    "session": "1B5: データセット",
     "id": "1B5-1",
     "title": "研究用データセット「動的活動観測2018」",
     "authors": [
       {
         "name": "寺田 真敏",
         "affiliations": [
-          "(株"
+          "(株)日立製作所"
         ],
         "is_presenter": true,
         "presenter_symbol": "○"
@@ -767,7 +773,7 @@
       {
         "name": "佐藤 隆行",
         "affiliations": [
-          "(株"
+          "(株)日立製作所"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
@@ -775,7 +781,7 @@
       {
         "name": "青木 翔",
         "affiliations": [
-          "(株"
+          "(株)日立製作所"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
@@ -783,7 +789,7 @@
       {
         "name": "亀川 慧",
         "affiliations": [
-          "トレンドマイクロ(株"
+          "トレンドマイクロ(株)"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
@@ -791,7 +797,7 @@
       {
         "name": "清水 努",
         "affiliations": [
-          "トレンドマイクロ(株"
+          "トレンドマイクロ(株)"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
@@ -799,17 +805,17 @@
       {
         "name": "津田 侑",
         "affiliations": [
-          "(国研"
+          "(国研) 情報通信研究機構"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1B5-1 研究用データセット「動的活動観測2018」 寺田 真敏 佐藤 隆行 青木 翔 亀川 慧 清水 努 津田 侑 (株 (株 (株 トレンドマイクロ(株 トレンドマイクロ(株 (国研"
+    "search_text": "1B5-1 研究用データセット「動的活動観測2018」 寺田 真敏 佐藤 隆行 青木 翔 亀川 慧 清水 努 津田 侑 (株)日立製作所 (株)日立製作所 (株)日立製作所 トレンドマイクロ(株) トレンドマイクロ(株) (国研) 情報通信研究機構"
   },
   {
     "event": "CSS2018",
-    "session": "1B5: データセット （座長：大野　一広）",
+    "session": "1B5: データセット",
     "id": "1B5-2",
     "title": "マルウェアデータセットに関する調査",
     "authors": [
@@ -834,7 +840,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "1B5: データセット （座長：大野　一広）",
+    "session": "1B5: データセット",
     "id": "1B5-3",
     "title": "ネットワーク型侵入検知システム評価用セッション型データセットに関する一考察",
     "authors": [
@@ -851,15 +857,15 @@
   },
   {
     "event": "CSS2018",
-    "session": "1B5: データセット （座長：大野　一広）",
+    "session": "1B5: データセット",
     "id": "1B5-4",
     "title": "【ディスカッション】MWSデータセットの提供者，利用者にこれだけは言っておきたい！",
     "authors": [],
-    "search_text": "1B5-4 【ディスカッション】MWSデータセットの提供者，利用者にこれだけは言っておきたい！  "
+    "search_text": "1B5-4 【ディスカッション】MWSデータセットの提供者，利用者にこれだけは言っておきたい！"
   },
   {
     "event": "CSS2018",
-    "session": "2A1: 個人認証 （座長：大木　哲史）",
+    "session": "2A1: 個人認証",
     "id": "2A1-1",
     "title": "覗き見耐性を持つマウス操作と数字盤を組み合わせた個人認証方式の提案と評価",
     "authors": [
@@ -900,7 +906,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "2A1: 個人認証 （座長：大木　哲史）",
+    "session": "2A1: 個人認証",
     "id": "2A1-2",
     "title": "スマートフォンとウェアラブル端末の加速度センサを用いたスマートロックにおける歩行認証",
     "authors": [
@@ -949,7 +955,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "2A1: 個人認証 （座長：大木　哲史）",
+    "session": "2A1: 個人認証",
     "id": "2A1-3",
     "title": "DPA対策マスクの変換アルゴリズムの改良と認証方式への適用",
     "authors": [
@@ -978,11 +984,14 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2A1-3 DPA対策マスクの変換アルゴリズムの改良と認証方式への適用 駒野 雄一 清水 秀夫 三宅 秀享 株式会社東芝研究開発センター 株式会社東芝研究開発センター 株式会社東芝研究開発センター"
+    "search_text": "2A1-3 DPA対策マスクの変換アルゴリズムの改良と認証方式への適用 駒野 雄一 清水 秀夫 三宅 秀享 株式会社東芝研究開発センター 株式会社東芝研究開発センター 株式会社東芝研究開発センター 奨励賞",
+    "awards": [
+      "奨励賞"
+    ]
   },
   {
     "event": "CSS2018",
-    "session": "2A1: 個人認証 （座長：大木　哲史）",
+    "session": "2A1: 個人認証",
     "id": "2A1-4",
     "title": "ワンタイム図形生成に基づく特定の認証キーのない認証手法",
     "authors": [
@@ -1007,7 +1016,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "2B1: 敵対的学習 （座長：高橋　健志）",
+    "session": "2B1: 敵対的学習",
     "id": "2B1-1",
     "title": "機械学習システムの脆弱性と対応策にかかる研究動向について",
     "authors": [
@@ -1032,7 +1041,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "2B1: 敵対的学習 （座長：高橋　健志）",
+    "session": "2B1: 敵対的学習",
     "id": "2B1-2",
     "title": "画像分類深層学習器に対するModel Extraction 攻撃の検証",
     "authors": [
@@ -1057,7 +1066,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "2B1: 敵対的学習 （座長：高橋　健志）",
+    "session": "2B1: 敵対的学習",
     "id": "2B1-3",
     "title": "深層学習における高い非認識性を持つ電子透かしの疎構造に対する埋め込み",
     "authors": [
@@ -1084,7 +1093,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "2B1: 敵対的学習 （座長：高橋　健志）",
+    "session": "2B1: 敵対的学習",
     "id": "2B1-4",
     "title": "実世界でも攻撃可能なAudio Adversarial Example",
     "authors": [
@@ -1108,11 +1117,14 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2B1-4 実世界でも攻撃可能なAudio Adversarial Example 矢倉 大夢 佐久間 淳 筑波大学 理化学研究所革新知能統合研究センター 筑波大学 理化学研究所革新知能統合研究センター JST CREST"
+    "search_text": "2B1-4 実世界でも攻撃可能なAudio Adversarial Example 矢倉 大夢 佐久間 淳 筑波大学 理化学研究所革新知能統合研究センター 筑波大学 理化学研究所革新知能統合研究センター JST CREST 最優秀論文賞",
+    "awards": [
+      "最優秀論文賞"
+    ]
   },
   {
     "event": "CSS2018",
-    "session": "2C1: 悪性ドメイン名 （座長：岡田　雅之）",
+    "session": "2C1: 悪性ドメイン名",
     "id": "2C1-1",
     "title": "Combosquattingドメインネームの生成モデルとその評価",
     "authors": [
@@ -1137,7 +1149,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "2C1: 悪性ドメイン名 （座長：岡田　雅之）",
+    "session": "2C1: 悪性ドメイン名",
     "id": "2C1-2",
     "title": "OCRを利用したホモグラフIDNの検知法",
     "authors": [
@@ -1174,11 +1186,14 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2C1-2 OCRを利用したホモグラフIDNの検知法 澤部 祐太 千葉 大紀 秋山 満昭 後藤 滋樹 早稲田大学基幹理工学研究科 NTTセキュアプラットフォーム研究所 NTTセキュアプラットフォーム研究所 早稲田大学基幹理工学研究科"
+    "search_text": "2C1-2 OCRを利用したホモグラフIDNの検知法 澤部 祐太 千葉 大紀 秋山 満昭 後藤 滋樹 早稲田大学基幹理工学研究科 NTTセキュアプラットフォーム研究所 NTTセキュアプラットフォーム研究所 早稲田大学基幹理工学研究科 奨励賞",
+    "awards": [
+      "奨励賞"
+    ]
   },
   {
     "event": "CSS2018",
-    "session": "2C1: 悪性ドメイン名 （座長：岡田　雅之）",
+    "session": "2C1: 悪性ドメイン名",
     "id": "2C1-3",
     "title": "Active LearningとEnsemble Learningを用いた悪性ドメイン名検知システム",
     "authors": [
@@ -1227,7 +1242,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "2C1: 悪性ドメイン名 （座長：岡田　雅之）",
+    "session": "2C1: 悪性ドメイン名",
     "id": "2C1-4",
     "title": "IDNホモグラフ攻撃の大規模実態調査：傾向と対策",
     "authors": [
@@ -1256,11 +1271,14 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2C1-4 IDNホモグラフ攻撃の大規模実態調査：傾向と対策 鈴木 宏彰 森 達哉 米谷 嘉朗 早稲田大学基幹理工学研究科 早稲田大学基幹理工学研究科 株式会社日本レジストリサービス"
+    "search_text": "2C1-4 IDNホモグラフ攻撃の大規模実態調査：傾向と対策 鈴木 宏彰 森 達哉 米谷 嘉朗 早稲田大学基幹理工学研究科 早稲田大学基幹理工学研究科 株式会社日本レジストリサービス 学生論文賞",
+    "awards": [
+      "学生論文賞"
+    ]
   },
   {
     "event": "CSS2018",
-    "session": "2E1: 利用者を知り，セキュリティを造る （座長：金岡　晃）",
+    "session": "2E1: 利用者を知り，セキュリティを造る",
     "id": "2E1-1",
     "title": "小学校高学年を対象としたSNS教育ゲームの開発",
     "authors": [
@@ -1301,7 +1319,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "2E1: 利用者を知り，セキュリティを造る （座長：金岡　晃）",
+    "session": "2E1: 利用者を知り，セキュリティを造る",
     "id": "2E1-2",
     "title": "警備システムの構築と顧客の合意形成を支援するシステムの研究",
     "authors": [
@@ -1326,7 +1344,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "2E1: 利用者を知り，セキュリティを造る （座長：金岡　晃）",
+    "session": "2E1: 利用者を知り，セキュリティを造る",
     "id": "2E1-3",
     "title": "環境情報を用いた脆弱性検出のチャットボット",
     "authors": [
@@ -1363,11 +1381,14 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2E1-3 環境情報を用いた脆弱性検出のチャットボット アーノ 有里紗 石田 愛 工藤 瑠璃子 渡邊 裕治 日本アイ・ビー・エム東京基礎研究所 日本アイ・ビー・エム東京基礎研究所 お茶の水女子大学 日本アイ・ビー・エム東京基礎研究所"
+    "search_text": "2E1-3 環境情報を用いた脆弱性検出のチャットボット アーノ 有里紗 石田 愛 工藤 瑠璃子 渡邊 裕治 日本アイ・ビー・エム東京基礎研究所 日本アイ・ビー・エム東京基礎研究所 お茶の水女子大学 日本アイ・ビー・エム東京基礎研究所 奨励賞",
+    "awards": [
+      "奨励賞"
+    ]
   },
   {
     "event": "CSS2018",
-    "session": "2E1: 利用者を知り，セキュリティを造る （座長：金岡　晃）",
+    "session": "2E1: 利用者を知り，セキュリティを造る",
     "id": "2E1-4",
     "title": "「かわいい」はセキュリティ警告の効果を改善しうるか？（第２報）〜心理効果による安全行動誘引の試み〜",
     "authors": [
@@ -1392,7 +1413,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "2A2: 暗号解析・安全性評価（１） （座長：白勢　政明）",
+    "session": "2A2: 暗号解析・安全性評価（１）",
     "id": "2A2-1",
     "title": "軽量ブロック暗号PiccoloのMILP手法を用いたDivision Propertyの検証",
     "authors": [
@@ -1425,7 +1446,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "2A2: 暗号解析・安全性評価（１） （座長：白勢　政明）",
+    "session": "2A2: 暗号解析・安全性評価（１）",
     "id": "2A2-2",
     "title": "Type-1一般化Feistel暗号に対する量子識別攻撃の改良",
     "authors": [
@@ -1450,7 +1471,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "2A2: 暗号解析・安全性評価（１） （座長：白勢　政明）",
+    "session": "2A2: 暗号解析・安全性評価（１）",
     "id": "2A2-3",
     "title": "Sliding window法からの漏洩情報を用いた秘密鍵復元攻撃の改良",
     "authors": [
@@ -1479,11 +1500,14 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2A2-3 Sliding window法からの漏洩情報を用いた秘密鍵復元攻撃の改良 黄 暁萱 大西 健斗 國廣 昇 東京大学大学院新領域創成科学研究科 東京大学大学院情報理工学系研究科 東京大学大学院情報理工学系研究科"
+    "search_text": "2A2-3 Sliding window法からの漏洩情報を用いた秘密鍵復元攻撃の改良 黄 暁萱 大西 健斗 國廣 昇 東京大学大学院新領域創成科学研究科 東京大学大学院情報理工学系研究科 東京大学大学院情報理工学系研究科 学生論文賞",
+    "awards": [
+      "学生論文賞"
+    ]
   },
   {
     "event": "CSS2018",
-    "session": "2A2: 暗号解析・安全性評価（１） （座長：白勢　政明）",
+    "session": "2A2: 暗号解析・安全性評価（１）",
     "id": "2A2-4",
     "title": "A Continuous Genetic Algorithm for Optimizing Pruning Function for Lattice Enumeration",
     "authors": [
@@ -1516,7 +1540,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "2B2: ネットワークセキュリティ （座長：森　達哉）",
+    "session": "2B2: ネットワークセキュリティ",
     "id": "2B2-1",
     "title": "Torネットワークへの攻撃に対するサーバ発ランダム画像挿入による防御手法の検討",
     "authors": [
@@ -1557,7 +1581,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "2B2: ネットワークセキュリティ （座長：森　達哉）",
+    "session": "2B2: ネットワークセキュリティ",
     "id": "2B2-2",
     "title": "画像分類を用いるIoT マルウェアの検知手法についての提案",
     "authors": [
@@ -1614,7 +1638,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "2B2: ネットワークセキュリティ （座長：森　達哉）",
+    "session": "2B2: ネットワークセキュリティ",
     "id": "2B2-3",
     "title": "Rig Exploit Kitを利用したDrive by Download攻撃における分類評価",
     "authors": [
@@ -1639,7 +1663,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "2B2: ネットワークセキュリティ （座長：森　達哉）",
+    "session": "2B2: ネットワークセキュリティ",
     "id": "2B2-4",
     "title": "アグリゲート署名を用いたBGPsec AS_PATH検証手法の提案と実装評価",
     "authors": [
@@ -1676,11 +1700,14 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2B2-4 アグリゲート署名を用いたBGPsec AS_PATH検証手法の提案と実装評価 OUYANG Junjie 矢内 直人 岡田 雅之 岡村 真吾 大阪大学大学院情報科学研究科 大阪大学大学院情報科学研究科 日本ネットワークインフォメーションセンター 奈良工業高等専門学校情報工学科"
+    "search_text": "2B2-4 アグリゲート署名を用いたBGPsec AS_PATH検証手法の提案と実装評価 OUYANG Junjie 矢内 直人 岡田 雅之 岡村 真吾 大阪大学大学院情報科学研究科 大阪大学大学院情報科学研究科 日本ネットワークインフォメーションセンター 奈良工業高等専門学校情報工学科 奨励賞",
+    "awards": [
+      "奨励賞"
+    ]
   },
   {
     "event": "CSS2018",
-    "session": "2C2: 機械学習（1） （座長：市野　将嗣）",
+    "session": "2C2: 機械学習（1）",
     "id": "2C2-1",
     "title": "DCGANを用いたネットワークトラフィックの異常検出",
     "authors": [
@@ -1713,7 +1740,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "2C2: 機械学習（1） （座長：市野　将嗣）",
+    "session": "2C2: 機械学習（1）",
     "id": "2C2-2",
     "title": "Adversarial trainingを用いた未知ファミリ検知手法",
     "authors": [
@@ -1759,11 +1786,14 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2C2-2 Adversarial trainingを用いた未知ファミリ検知手法 芝原 俊樹 千葉 大紀 秋山 満昭 波戸 邦夫 村田 正幸 NTTセキュアプラットフォーム研究所 大阪大学 NTTセキュアプラットフォーム研究所 NTTセキュアプラットフォーム研究所 NTTセキュアプラットフォーム研究所 大阪大学"
+    "search_text": "2C2-2 Adversarial trainingを用いた未知ファミリ検知手法 芝原 俊樹 千葉 大紀 秋山 満昭 波戸 邦夫 村田 正幸 NTTセキュアプラットフォーム研究所 大阪大学 NTTセキュアプラットフォーム研究所 NTTセキュアプラットフォーム研究所 NTTセキュアプラットフォーム研究所 大阪大学 優秀論文賞",
+    "awards": [
+      "優秀論文賞"
+    ]
   },
   {
     "event": "CSS2018",
-    "session": "2C2: 機械学習（1） （座長：市野　将嗣）",
+    "session": "2C2: 機械学習（1）",
     "id": "2C2-3",
     "title": "マルウェア感染端末の分類精度改善に向けたラベルなしネットワークログの活用法",
     "authors": [
@@ -1812,7 +1842,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "2C2: 機械学習（1） （座長：市野　将嗣）",
+    "session": "2C2: 機械学習（1）",
     "id": "2C2-4",
     "title": "侵入検知モデル構築における能動学習と無作為選択を用いたラベリングコスト削減手法の検討",
     "authors": [
@@ -1845,7 +1875,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "2E2: セキュリティ技術の普及に向けて （座長：坂本　一仁）",
+    "session": "2E2: セキュリティ技術の普及に向けて",
     "id": "2E2-1",
     "title": "セキュアなUIの実現を目指して?USBモデルの提唱?",
     "authors": [
@@ -1870,7 +1900,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "2E2: セキュリティ技術の普及に向けて （座長：坂本　一仁）",
+    "session": "2E2: セキュリティ技術の普及に向けて",
     "id": "2E2-2",
     "title": "経営マネジメント状況による情報漏洩インシデント削減効果の評価(2)",
     "authors": [
@@ -1911,7 +1941,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "2E2: セキュリティ技術の普及に向けて （座長：坂本　一仁）",
+    "session": "2E2: セキュリティ技術の普及に向けて",
     "id": "2E2-3",
     "title": "開発者向けユーザブルセキュリティ・プライバシー研究の現状調査",
     "authors": [
@@ -1928,7 +1958,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "2A3: 暗号解析・安全性評価（２） （座長：安田　貴徳）",
+    "session": "2A3: 暗号解析・安全性評価（２）",
     "id": "2A3-1",
     "title": "KSS曲線を用いた効率的なペアリング暗号のための18次拡大体構成法の評価",
     "authors": [
@@ -1969,7 +1999,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "2A3: 暗号解析・安全性評価（２） （座長：安田　貴徳）",
+    "session": "2A3: 暗号解析・安全性評価（２）",
     "id": "2A3-2",
     "title": "Estimating Secure Parameters for the Multivariate Encryption Scheme EFCp-",
     "authors": [
@@ -1998,11 +2028,14 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2A3-2 Estimating Secure Parameters for the Multivariate Encryption Scheme EFCp- Wang Yacheng Ikematsu Yasuhiko Takagi Tsuyoshi The Department of Mathematical Informatics, University of Tokyo The Department of Mathematical Informatics, University of Tokyo The Department of Mathematical Informatics, University of Tokyo"
+    "search_text": "2A3-2 Estimating Secure Parameters for the Multivariate Encryption Scheme EFCp- Wang Yacheng Ikematsu Yasuhiko Takagi Tsuyoshi The Department of Mathematical Informatics, University of Tokyo The Department of Mathematical Informatics, University of Tokyo The Department of Mathematical Informatics, University of Tokyo 学生論文賞",
+    "awards": [
+      "学生論文賞"
+    ]
   },
   {
     "event": "CSS2018",
-    "session": "2A3: 暗号解析・安全性評価（２） （座長：安田　貴徳）",
+    "session": "2A3: 暗号解析・安全性評価（２）",
     "id": "2A3-3",
     "title": "Tame Automorphism Decomposition Problemに関する一考察",
     "authors": [
@@ -2019,7 +2052,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "2A3: 暗号解析・安全性評価（２） （座長：安田　貴徳）",
+    "session": "2A3: 暗号解析・安全性評価（２）",
     "id": "2A3-4",
     "title": "有限体上楕円曲線の新しい演算に基づくDLPとECDLPの関係",
     "authors": [
@@ -2036,7 +2069,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "2A3: 暗号解析・安全性評価（２） （座長：安田　貴徳）",
+    "session": "2A3: 暗号解析・安全性評価（２）",
     "id": "2A3-5",
     "title": "奇標数体上で生成される幾何系列の自己相関",
     "authors": [
@@ -2069,7 +2102,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "2B3: ログ分析・侵入検知 （座長：橋本　正樹）",
+    "session": "2B3: ログ分析・侵入検知",
     "id": "2B3-1",
     "title": "リモート型シェルコードのエミュレーションによる攻撃成否判定手法",
     "authors": [
@@ -2135,7 +2168,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "2B3: ログ分析・侵入検知 （座長：橋本　正樹）",
+    "session": "2B3: ログ分析・侵入検知",
     "id": "2B3-2",
     "title": "行動表現文法ELLを用いた攻撃シナリオ再構築技術",
     "authors": [
@@ -2172,11 +2205,14 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2B3-2 行動表現文法ELLを用いた攻撃シナリオ再構築技術 千田 忠賢 鐘本 楊 青木 一史 三好 潤 NTTセキュアプラットフォーム研究所 NTTセキュアプラットフォーム研究所 NTTセキュアプラットフォーム研究所 NTTセキュアプラットフォーム研究所"
+    "search_text": "2B3-2 行動表現文法ELLを用いた攻撃シナリオ再構築技術 千田 忠賢 鐘本 楊 青木 一史 三好 潤 NTTセキュアプラットフォーム研究所 NTTセキュアプラットフォーム研究所 NTTセキュアプラットフォーム研究所 NTTセキュアプラットフォーム研究所 奨励賞",
+    "awards": [
+      "奨励賞"
+    ]
   },
   {
     "event": "CSS2018",
-    "session": "2B3: ログ分析・侵入検知 （座長：橋本　正樹）",
+    "session": "2B3: ログ分析・侵入検知",
     "id": "2B3-3",
     "title": "不正侵入検知におけるセキュリティアラートのシグネチャ別発生量に着目した誤検知削減手法",
     "authors": [
@@ -2233,7 +2269,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "2B3: ログ分析・侵入検知 （座長：橋本　正樹）",
+    "session": "2B3: ログ分析・侵入検知",
     "id": "2B3-4",
     "title": "IoT機器に特化したアノマリ型侵入検知システムの提案",
     "authors": [
@@ -2258,7 +2294,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "2B3: ログ分析・侵入検知 （座長：橋本　正樹）",
+    "session": "2B3: ログ分析・侵入検知",
     "id": "2B3-5",
     "title": "車載ネットワークCANにおけるバスオフカウンター攻撃の改善",
     "authors": [
@@ -2299,7 +2335,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "2C3: 自然言語処理の活用 （座長： 芦野　佑樹）",
+    "session": "2C3: 自然言語処理の活用",
     "id": "2C3-1",
     "title": "出現頻度の高い可読文字列を用いた未知のマルウェアの検知手法",
     "authors": [
@@ -2332,7 +2368,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "2C3: 自然言語処理の活用 （座長： 芦野　佑樹）",
+    "session": "2C3: 自然言語処理の活用",
     "id": "2C3-2",
     "title": "異常検知器を用いた未知の悪性マクロの検知手法",
     "authors": [
@@ -2365,7 +2401,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "2C3: 自然言語処理の活用 （座長： 芦野　佑樹）",
+    "session": "2C3: 自然言語処理の活用",
     "id": "2C3-3",
     "title": "静的データに基づくマルウェア検知に適した特徴空間の分析",
     "authors": [
@@ -2390,7 +2426,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "2C3: 自然言語処理の活用 （座長： 芦野　佑樹）",
+    "session": "2C3: 自然言語処理の活用",
     "id": "2C3-4",
     "title": "fastTextを用いたマルウェア亜種判別",
     "authors": [
@@ -2415,7 +2451,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "2C3: 自然言語処理の活用 （座長： 芦野　佑樹）",
+    "session": "2C3: 自然言語処理の活用",
     "id": "2C3-5",
     "title": "話題誘導するトピックモデルを用いたセキュリティレポート分類",
     "authors": [
@@ -2488,7 +2524,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "2D3: 追跡技術と現実 （座長：小栗　秀暢）",
+    "session": "2D3: 追跡技術と現実",
     "id": "2D3-1",
     "title": "ライフスタイル認証におけるIPアドレス情報の利用について",
     "authors": [
@@ -2523,7 +2559,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "2D3: 追跡技術と現実 （座長：小栗　秀暢）",
+    "session": "2D3: 追跡技術と現実",
     "id": "2D3-2",
     "title": "Webトラッキング技術に関する対策技術の検証及び考察",
     "authors": [
@@ -2572,7 +2608,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "2D3: 追跡技術と現実 （座長：小栗　秀暢）",
+    "session": "2D3: 追跡技術と現実",
     "id": "2D3-3",
     "title": "可視画像からの指静脈認証のなりすまし可能性の検討とその対策手法",
     "authors": [
@@ -2593,11 +2629,14 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2D3-3 可視画像からの指静脈認証のなりすまし可能性の検討とその対策手法 大金 建夫 越前 功 国立情報学研究所 国立情報学研究所"
+    "search_text": "2D3-3 可視画像からの指静脈認証のなりすまし可能性の検討とその対策手法 大金 建夫 越前 功 国立情報学研究所 国立情報学研究所 優秀論文賞",
+    "awards": [
+      "優秀論文賞"
+    ]
   },
   {
     "event": "CSS2018",
-    "session": "2D3: 追跡技術と現実 （座長：小栗　秀暢）",
+    "session": "2D3: 追跡技術と現実",
     "id": "2D3-4",
     "title": "Androidアプリがサードパーティに送信する情報の調査: JDIを用いた動的解析機構",
     "authors": [
@@ -2646,7 +2685,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "2D3: 追跡技術と現実 （座長：小栗　秀暢）",
+    "session": "2D3: 追跡技術と現実",
     "id": "2D3-5",
     "title": "JavaScriptによるクライアントPC操作の法律問題",
     "authors": [
@@ -2679,7 +2718,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "2E3: ユーザインタフェースが変えるセキュリティ （座長：五味　秀仁）",
+    "session": "2E3: ユーザインタフェースが変えるセキュリティ",
     "id": "2E3-1",
     "title": "視覚障害者の暗証番号入力時におけるのぞき見防止方法の検討",
     "authors": [
@@ -2696,7 +2735,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "2E3: ユーザインタフェースが変えるセキュリティ （座長：五味　秀仁）",
+    "session": "2E3: ユーザインタフェースが変えるセキュリティ",
     "id": "2E3-2",
     "title": "言語圏ごとのパスワード生成・管理の傾向比較",
     "authors": [
@@ -2725,11 +2764,14 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2E3-2 言語圏ごとのパスワード生成・管理の傾向比較 森 啓華 シュウ インゴウ 森 達哉 早稲田大学 早稲田大学 早稲田大学"
+    "search_text": "2E3-2 言語圏ごとのパスワード生成・管理の傾向比較 森 啓華 シュウ インゴウ 森 達哉 早稲田大学 早稲田大学 早稲田大学 学生論文賞",
+    "awards": [
+      "学生論文賞"
+    ]
   },
   {
     "event": "CSS2018",
-    "session": "2E3: ユーザインタフェースが変えるセキュリティ （座長：五味　秀仁）",
+    "session": "2E3: ユーザインタフェースが変えるセキュリティ",
     "id": "2E3-3",
     "title": "パスワード非開示によるパスワード強度測定方式",
     "authors": [
@@ -2770,7 +2812,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "2E3: ユーザインタフェースが変えるセキュリティ （座長：五味　秀仁）",
+    "session": "2E3: ユーザインタフェースが変えるセキュリティ",
     "id": "2E3-4",
     "title": "スマートフォンにおける音声とタッチスクリーンから取得した耳介を用いた個人認証",
     "authors": [
@@ -2811,14 +2853,14 @@
   },
   {
     "event": "CSS2018",
-    "session": "2A4: 暗号実装評価 （座長：国井　裕樹）",
+    "session": "2A4: 暗号実装評価",
     "id": "2A4-1",
     "title": "システムを改変しない攻撃者とOS機能を信頼の基点とする暗号処理の安全性に関する一考察",
     "authors": [
       {
         "name": "渡辺 大",
         "affiliations": [
-          "(株"
+          "(株)日立製作所"
         ],
         "is_presenter": true,
         "presenter_symbol": "○"
@@ -2856,11 +2898,11 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2A4-1 システムを改変しない攻撃者とOS機能を信頼の基点とする暗号処理の安全性に関する一考察 渡辺 大 吉田 直樹 坂本 純一 宮地 遼 松本 勉 (株 横浜国立大学 横浜国立大学 横浜国立大学 横浜国立大学"
+    "search_text": "2A4-1 システムを改変しない攻撃者とOS機能を信頼の基点とする暗号処理の安全性に関する一考察 渡辺 大 吉田 直樹 坂本 純一 宮地 遼 松本 勉 (株)日立製作所 横浜国立大学 横浜国立大学 横浜国立大学 横浜国立大学"
   },
   {
     "event": "CSS2018",
-    "session": "2A4: 暗号実装評価 （座長：国井　裕樹）",
+    "session": "2A4: 暗号実装評価",
     "id": "2A4-2",
     "title": "実環境を想定したWPA2に対するKRACKsの評価実験",
     "authors": [
@@ -2917,7 +2959,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "2A4: 暗号実装評価 （座長：国井　裕樹）",
+    "session": "2A4: 暗号実装評価",
     "id": "2A4-3",
     "title": "IoT機器への適用に向けたTLS1.3の性能評価",
     "authors": [
@@ -2950,7 +2992,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "2C4: 検知回避と誤検知 （座長：中津留 勇）",
+    "session": "2C4: 検知回避と誤検知",
     "id": "2C4-1",
     "title": "アンチウイルスによる誤検知の調査と対策の提案",
     "authors": [
@@ -2967,7 +3009,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "2C4: 検知回避と誤検知 （座長：中津留 勇）",
+    "session": "2C4: 検知回避と誤検知",
     "id": "2C4-2",
     "title": "特定環境で動作するマルウェアへのセキュリティアプライアンスの耐性評価",
     "authors": [
@@ -3034,7 +3076,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "2C4: 検知回避と誤検知 （座長：中津留 勇）",
+    "session": "2C4: 検知回避と誤検知",
     "id": "2C4-3",
     "title": "Windowsにおけるプロセッサレベルの特徴量に注目した亜種マルウェアの検知",
     "authors": [
@@ -3067,7 +3109,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "2C4: 検知回避と誤検知 （座長：中津留 勇）",
+    "session": "2C4: 検知回避と誤検知",
     "id": "2C4-4",
     "title": "Linuxにおけるファイルレスマルウェア対策",
     "authors": [
@@ -3088,11 +3130,14 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2C4-4 Linuxにおけるファイルレスマルウェア対策 田中 紘世 齊藤 泰一 東京電機大学工学研究科情報通信工学専攻 東京電機大学"
+    "search_text": "2C4-4 Linuxにおけるファイルレスマルウェア対策 田中 紘世 齊藤 泰一 東京電機大学工学研究科情報通信工学専攻 東京電機大学 奨励賞",
+    "awards": [
+      "奨励賞"
+    ]
   },
   {
     "event": "CSS2018",
-    "session": "2D4: 秘密計算 （座長：吉浦　裕）",
+    "session": "2D4: 秘密計算",
     "id": "2D4-1",
     "title": "マルチパーティ計算を利用した秘匿情報統合分析に対するゲーム理論の適用",
     "authors": [
@@ -3117,7 +3162,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "2D4: 秘密計算 （座長：吉浦　裕）",
+    "session": "2D4: 秘密計算",
     "id": "2D4-2",
     "title": "ラウンド効率のよい2者間秘匿計算とその秘匿畳み込みニューラルネットワークへの応用",
     "authors": [
@@ -3134,7 +3179,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "2D4: 秘密計算 （座長：吉浦　裕）",
+    "session": "2D4: 秘密計算",
     "id": "2D4-3",
     "title": "Towards Practical Secure Automatic Speech Recognition",
     "authors": [
@@ -3165,11 +3210,14 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2D4-3 Towards Practical Secure Automatic Speech Recognition Zhou Jun-jie Lu Wen-jie Sakuma Jun University of Tsukuba University of Tsukuba University of Tsukuba JST CREST RIKEN AIP Center"
+    "search_text": "2D4-3 Towards Practical Secure Automatic Speech Recognition Zhou Jun-jie Lu Wen-jie Sakuma Jun University of Tsukuba University of Tsukuba University of Tsukuba JST CREST RIKEN AIP Center 奨励賞",
+    "awards": [
+      "奨励賞"
+    ]
   },
   {
     "event": "CSS2018",
-    "session": "2D4: 秘密計算 （座長：吉浦　裕）",
+    "session": "2D4: 秘密計算",
     "id": "2D4-4",
     "title": "Oblivious RAMを利用したセキュアな決定木の実装評価",
     "authors": [
@@ -3194,7 +3242,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "2E4: ソーシャルエンジニアリングとインテリジェンス （座長：宮本　大輔）",
+    "session": "2E4: ソーシャルエンジニアリングとインテリジェンス",
     "id": "2E4-1",
     "title": "仏教の視点から考えるソーシャルエンジニアリング対策（その1）",
     "authors": [
@@ -3211,7 +3259,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "2E4: ソーシャルエンジニアリングとインテリジェンス （座長：宮本　大輔）",
+    "session": "2E4: ソーシャルエンジニアリングとインテリジェンス",
     "id": "2E4-2",
     "title": "OSINTと人間の心理を利用した標的型メール攻撃に対するインテリジェンスを活用した防御に関する基礎検討",
     "authors": [
@@ -3277,7 +3325,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "2E4: ソーシャルエンジニアリングとインテリジェンス （座長：宮本　大輔）",
+    "session": "2E4: ソーシャルエンジニアリングとインテリジェンス",
     "id": "2E4-3",
     "title": "インテリジェンスを利用する標的型メールと標的型メールに対するインテリジェンスを利用した防御に関する検討",
     "authors": [
@@ -3327,7 +3375,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "3A1: 暗号構成手法 （座長：松崎　なつめ）",
+    "session": "3A1: 暗号構成手法",
     "id": "3A1-1",
     "title": "マンハッタン距離を用いた幾何学的グループ鍵共有法に関する検討",
     "authors": [
@@ -3352,15 +3400,14 @@
   },
   {
     "event": "CSS2018",
-    "session": "3A1: 暗号構成手法 （座長：松崎　なつめ）",
+    "session": "3A1: 暗号構成手法",
     "id": "3A1-2",
     "title": "相関のある情報を用いたMultiple Access Wiretap Channelにおける秘匿通信について",
     "authors": [
       {
         "name": "小川 善功",
         "affiliations": [
-          "横浜国立大学大学院環境情報学府",
-          "研究院"
+          "横浜国立大学大学院環境情報学府/研究院"
         ],
         "is_presenter": true,
         "presenter_symbol": "◎"
@@ -3368,8 +3415,7 @@
       {
         "name": "田中 亮大",
         "affiliations": [
-          "横浜国立大学大学院環境情報学府",
-          "研究院"
+          "横浜国立大学大学院環境情報学府/研究院"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
@@ -3377,19 +3423,18 @@
       {
         "name": "四方 順司",
         "affiliations": [
-          "横浜国立大学大学院環境情報学府",
-          "研究院",
+          "横浜国立大学大学院環境情報学府/研究院",
           "横浜国立大学先端科学高等研究院"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3A1-2 相関のある情報を用いたMultiple Access Wiretap Channelにおける秘匿通信について 小川 善功 田中 亮大 四方 順司 横浜国立大学大学院環境情報学府 研究院 横浜国立大学大学院環境情報学府 研究院 横浜国立大学大学院環境情報学府 研究院 横浜国立大学先端科学高等研究院"
+    "search_text": "3A1-2 相関のある情報を用いたMultiple Access Wiretap Channelにおける秘匿通信について 小川 善功 田中 亮大 四方 順司 横浜国立大学大学院環境情報学府/研究院 横浜国立大学大学院環境情報学府/研究院 横浜国立大学大学院環境情報学府/研究院 横浜国立大学先端科学高等研究院"
   },
   {
     "event": "CSS2018",
-    "session": "3A1: 暗号構成手法 （座長：松崎　なつめ）",
+    "session": "3A1: 暗号構成手法",
     "id": "3A1-3",
     "title": "深層学習の分類によるステガノグラフィの方法",
     "authors": [
@@ -3414,7 +3459,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "3B1: マルウェア・ネットワーク分析 （座長：藤田　彬）",
+    "session": "3B1: マルウェア・ネットワーク分析",
     "id": "3B1-1",
     "title": "準パススルー型ハイパーバイザによるストレージアクセスパターンの収集システムの提案",
     "authors": [
@@ -3455,7 +3500,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "3B1: マルウェア・ネットワーク分析 （座長：藤田　彬）",
+    "session": "3B1: マルウェア・ネットワーク分析",
     "id": "3B1-2",
     "title": "AlkanetにおけるMeltdown対策済Windowsのシステムコールトレース手法",
     "authors": [
@@ -3504,7 +3549,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "3B1: マルウェア・ネットワーク分析 （座長：藤田　彬）",
+    "session": "3B1: マルウェア・ネットワーク分析",
     "id": "3B1-3",
     "title": "PTRレコードの連続的設定を加味した動的IPアドレスブロックおよびクラウド領域検出",
     "authors": [
@@ -3541,11 +3586,14 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3B1-3 PTRレコードの連続的設定を加味した動的IPアドレスブロックおよびクラウド領域検出 中森 朋郁 千葉 大紀 秋山 満昭 後藤 滋樹 早稲田大学 NTTセキュアプラットフォーム研究所 NTTセキュアプラットフォーム研究所 早稲田大学"
+    "search_text": "3B1-3 PTRレコードの連続的設定を加味した動的IPアドレスブロックおよびクラウド領域検出 中森 朋郁 千葉 大紀 秋山 満昭 後藤 滋樹 早稲田大学 NTTセキュアプラットフォーム研究所 NTTセキュアプラットフォーム研究所 早稲田大学 学生論文賞",
+    "awards": [
+      "学生論文賞"
+    ]
   },
   {
     "event": "CSS2018",
-    "session": "3B1: マルウェア・ネットワーク分析 （座長：藤田　彬）",
+    "session": "3B1: マルウェア・ネットワーク分析",
     "id": "3B1-4",
     "title": "IoTマルウェアと通信可能な悪性サーバの探索",
     "authors": [
@@ -3627,7 +3675,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "3C1: ダークネットとDDoS攻撃 （座長：牧田　大佑）",
+    "session": "3C1: ダークネットとDDoS攻撃",
     "id": "3C1-1",
     "title": "宛先アドレス順序とペイロードに着目したネットワーク走査活動の分析",
     "authors": [
@@ -3684,7 +3732,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "3C1: ダークネットとDDoS攻撃 （座長：牧田　大佑）",
+    "session": "3C1: ダークネットとDDoS攻撃",
     "id": "3C1-2",
     "title": "宛先変化数を用いた協調型走査活動を行なうホスト群抽出手法の提案",
     "authors": [
@@ -3741,7 +3789,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "3C1: ダークネットとDDoS攻撃 （座長：牧田　大佑）",
+    "session": "3C1: ダークネットとDDoS攻撃",
     "id": "3C1-3",
     "title": "Darknet及びハニーポットの比較分析に基づくマルチベクタ型DDoS攻撃の検知方法の検討",
     "authors": [
@@ -3775,7 +3823,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "3C1: ダークネットとDDoS攻撃 （座長：牧田　大佑）",
+    "session": "3C1: ダークネットとDDoS攻撃",
     "id": "3C1-4",
     "title": "ユーザの行動履歴を考慮したDDoS攻撃加担対策手法の検討",
     "authors": [
@@ -3800,7 +3848,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "3A2: 高機能暗号（１） （座長：藤岡　淳）",
+    "session": "3A2: 高機能暗号（１）",
     "id": "3A2-1",
     "title": "レベル2準同型暗号の平文バイナリ制約を与えるコンパクトな非対話ゼロ知識証明",
     "authors": [
@@ -3833,7 +3881,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "3A2: 高機能暗号（１） （座長：藤岡　淳）",
+    "session": "3A2: 高機能暗号（１）",
     "id": "3A2-2",
     "title": "BundleされたWitness Spacesに対するΣプロトコルによるWitness-Indistinguishable ArgumentsとそのグローバルIDへの適用",
     "authors": [
@@ -3858,15 +3906,14 @@
   },
   {
     "event": "CSS2018",
-    "session": "3A2: 高機能暗号（１） （座長：藤岡　淳）",
+    "session": "3A2: 高機能暗号（１）",
     "id": "3A2-3",
     "title": "CBDH仮定に基づく効率的な閾値公開鍵暗号",
     "authors": [
       {
         "name": "海老名 将宏",
         "affiliations": [
-          "横浜国立大学大学院環境情報学府",
-          "研究院"
+          "横浜国立大学大学院環境情報学府/研究院"
         ],
         "is_presenter": true,
         "presenter_symbol": "◎"
@@ -3874,7 +3921,7 @@
       {
         "name": "渡邉 洋平",
         "affiliations": [
-          "国立研究開発法人 情報通信研究機構 (NICT"
+          "国立研究開発法人 情報通信研究機構 (NICT)"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
@@ -3882,18 +3929,20 @@
       {
         "name": "四方 順司",
         "affiliations": [
-          "横浜国立大学大学院環境情報学府",
-          "研究院"
+          "横浜国立大学大学院環境情報学府/研究院"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3A2-3 CBDH仮定に基づく効率的な閾値公開鍵暗号 海老名 将宏 渡邉 洋平 四方 順司 横浜国立大学大学院環境情報学府 研究院 国立研究開発法人 情報通信研究機構 (NICT 横浜国立大学大学院環境情報学府 研究院"
+    "search_text": "3A2-3 CBDH仮定に基づく効率的な閾値公開鍵暗号 海老名 将宏 渡邉 洋平 四方 順司 横浜国立大学大学院環境情報学府/研究院 国立研究開発法人 情報通信研究機構 (NICT) 横浜国立大学大学院環境情報学府/研究院 優秀論文賞",
+    "awards": [
+      "優秀論文賞"
+    ]
   },
   {
     "event": "CSS2018",
-    "session": "3C2: 表層解析とプログラム解析 （座長：岩本　一樹）",
+    "session": "3C2: 表層解析とプログラム解析",
     "id": "3C2-1",
     "title": "マルウェアによるRDTSC命令の利用方法についての分析",
     "authors": [
@@ -3910,7 +3959,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "3C2: 表層解析とプログラム解析 （座長：岩本　一樹）",
+    "session": "3C2: 表層解析とプログラム解析",
     "id": "3C2-2",
     "title": "シンボリック実行を利用したIOC変換",
     "authors": [
@@ -3951,7 +4000,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "3C2: 表層解析とプログラム解析 （座長：岩本　一樹）",
+    "session": "3C2: 表層解析とプログラム解析",
     "id": "3C2-3",
     "title": "シンボリック実行を活用したマルウェア解析環境検知機能の回避条件自動抽出の研究",
     "authors": [
@@ -3977,7 +4026,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "3C2: 表層解析とプログラム解析 （座長：岩本　一樹）",
+    "session": "3C2: 表層解析とプログラム解析",
     "id": "3C2-4",
     "title": "Concept DriftとScale-freeの性質を持つデータセットに対する検知の自動化手法",
     "authors": [
@@ -3994,7 +4043,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "3D2: プライバシー技術理論 （座長：清　雄一）",
+    "session": "3D2: プライバシー技術理論",
     "id": "3D2-1",
     "title": "二分決定図による複数の線形モデルの出力値公開の安全性評価と疾患リスク予測値公開への適用",
     "authors": [
@@ -4030,7 +4079,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "3D2: プライバシー技術理論 （座長：清　雄一）",
+    "session": "3D2: プライバシー技術理論",
     "id": "3D2-2",
     "title": "攻撃者の条件を緩和した推薦システムに対するModel Inversion攻撃",
     "authors": [
@@ -4080,7 +4129,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "3D2: プライバシー技術理論 （座長：清　雄一）",
+    "session": "3D2: プライバシー技術理論",
     "id": "3D2-3",
     "title": "Locally Private Continual Countingにおける1-Shot Reportingメカニズムの有用性解析",
     "authors": [
@@ -4123,7 +4172,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "3D2: プライバシー技術理論 （座長：清　雄一）",
+    "session": "3D2: プライバシー技術理論",
     "id": "3D2-4",
     "title": "集計表セル秘匿問題の拡張によるデータ効用保持の有効性評価",
     "authors": [
@@ -4148,7 +4197,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "3A3: 高機能暗号（２） （座長：光成　滋生）",
+    "session": "3A3: 高機能暗号（２）",
     "id": "3A3-1",
     "title": "鍵更新機能付き検索可能暗号：効率化に向けた一工夫",
     "authors": [
@@ -4189,7 +4238,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "3A3: 高機能暗号（２） （座長：光成　滋生）",
+    "session": "3A3: 高機能暗号（２）",
     "id": "3A3-2",
     "title": "並列処理かつ動的データに向けた検索可能暗号の改良",
     "authors": [
@@ -4214,7 +4263,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "3A3: 高機能暗号（２） （座長：光成　滋生）",
+    "session": "3A3: 高機能暗号（２）",
     "id": "3A3-3",
     "title": "Identity/Attribute-Based Signature Resilient to Hard-to-Invert Leakage under Standard Assumptions",
     "authors": [
@@ -4239,7 +4288,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "3A3: 高機能暗号（２） （座長：光成　滋生）",
+    "session": "3A3: 高機能暗号（２）",
     "id": "3A3-4",
     "title": "IDベース暗号の強秘匿匿名性について",
     "authors": [
@@ -4281,7 +4330,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "3B3: ブロックチェーン （座長：長谷川　佳祐）",
+    "session": "3B3: ブロックチェーン",
     "id": "3B3-1",
     "title": "ブロックチェーンを用いた認証・認可システムの設計と実装",
     "authors": [
@@ -4338,7 +4387,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "3B3: ブロックチェーン （座長：長谷川　佳祐）",
+    "session": "3B3: ブロックチェーン",
     "id": "3B3-2",
     "title": "プライバシーを考慮したブロックチェーンの取引者間事前合意プロトコル",
     "authors": [
@@ -4379,7 +4428,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "3B3: ブロックチェーン （座長：長谷川　佳祐）",
+    "session": "3B3: ブロックチェーン",
     "id": "3B3-3",
     "title": "ブロックチェーンを利用したセキュアな分散処理を実現するフレームワークの提案",
     "authors": [
@@ -4428,7 +4477,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "3B3: ブロックチェーン （座長：長谷川　佳祐）",
+    "session": "3B3: ブロックチェーン",
     "id": "3B3-4",
     "title": "Ethereumブロックチェーン上に潜むマルウェアなどの定量的リスク分析",
     "authors": [
@@ -4462,7 +4511,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "3B3: ブロックチェーン （座長：長谷川　佳祐）",
+    "session": "3B3: ブロックチェーン",
     "id": "3B3-5",
     "title": "暗号通貨（ビットコイン）・ブロックチェーンの高信頼化へ向けてのMELT-UP活動（II）-運用と倫理-",
     "authors": [
@@ -4543,7 +4592,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "3C3: 攻撃検知 （座長：瀧本　栄二）",
+    "session": "3C3: 攻撃検知",
     "id": "3C3-1",
     "title": "RISC-Vにおけるプロセッサ情報を用いた動的なアノマリ検知機構",
     "authors": [
@@ -4576,7 +4625,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "3C3: 攻撃検知 （座長：瀧本　栄二）",
+    "session": "3C3: 攻撃検知",
     "id": "3C3-2",
     "title": "システムログ書式の構造に着目したシステム異常検出手法の検討",
     "authors": [
@@ -4593,7 +4642,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "3C3: 攻撃検知 （座長：瀧本　栄二）",
+    "session": "3C3: 攻撃検知",
     "id": "3C3-3",
     "title": "類似メールを利用したばらまき型メールの検出",
     "authors": [
@@ -4626,7 +4675,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "3C3: 攻撃検知 （座長：瀧本　栄二）",
+    "session": "3C3: 攻撃検知",
     "id": "3C3-4",
     "title": "XSS攻撃検知のためのテストベースホワイトリスト自動生成手法に関する検討",
     "authors": [
@@ -4675,7 +4724,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "3D3: 加工 （座長：井口　誠）",
+    "session": "3D3: 加工",
     "id": "3D3-1",
     "title": "特許出願からみた匿名化関連技術の技術動向—平成29年度特許出願技術動向調査より—",
     "authors": [
@@ -4700,7 +4749,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "3D3: 加工 （座長：井口　誠）",
+    "session": "3D3: 加工",
     "id": "3D3-2",
     "title": "属性推定攻撃を抑止可能なプログラム送付型匿名化方式の提案",
     "authors": [
@@ -4725,7 +4774,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "3D3: 加工 （座長：井口　誠）",
+    "session": "3D3: 加工",
     "id": "3D3-3",
     "title": "自己情報コントロールと権限分散を両立するパーソナルデータ流通方式の提案",
     "authors": [
@@ -4750,7 +4799,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "3D3: 加工 （座長：井口　誠）",
+    "session": "3D3: 加工",
     "id": "3D3-4",
     "title": "匿名データの安全性指標としての再識別率とその活用方式の提案",
     "authors": [
@@ -4767,7 +4816,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "3D3: 加工 （座長：井口　誠）",
+    "session": "3D3: 加工",
     "id": "3D3-5",
     "title": "PWS Cup 2018: 匿名加工再識別コンテストの設計〜履歴データの一般化・再識別〜",
     "authors": [
@@ -4874,7 +4923,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "3E3: OWS：OSSセキュリティ （座長：面　和毅）",
+    "session": "3E3: OWS：OSSセキュリティ",
     "id": "3E3-1",
     "title": "TrustZone Technologyを利用したアクセス制御ポリシーの保護手法",
     "authors": [
@@ -4907,7 +4956,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "3E3: OWS：OSSセキュリティ （座長：面　和毅）",
+    "session": "3E3: OWS：OSSセキュリティ",
     "id": "3E3-2",
     "title": "TOMOYO Linuxによる強制アクセス制御効果の可視化",
     "authors": [
@@ -4940,7 +4989,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "3E3: OWS：OSSセキュリティ （座長：面　和毅）",
+    "session": "3E3: OWS：OSSセキュリティ",
     "id": "3E3-3",
     "title": "ログ出力の抑制によるSELinuxの不要なポリシ削減手法",
     "authors": [
@@ -4961,11 +5010,14 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3E3-3 ログ出力の抑制によるSELinuxの不要なポリシ削減手法 齋藤 凌也 山内 利宏 岡山大学大学院自然科学研究科 岡山大学大学院自然科学研究科"
+    "search_text": "3E3-3 ログ出力の抑制によるSELinuxの不要なポリシ削減手法 齋藤 凌也 山内 利宏 岡山大学大学院自然科学研究科 岡山大学大学院自然科学研究科 奨励賞",
+    "awards": [
+      "奨励賞"
+    ]
   },
   {
     "event": "CSS2018",
-    "session": "3E3: OWS：OSSセキュリティ （座長：面　和毅）",
+    "session": "3E3: OWS：OSSセキュリティ",
     "id": "3E3-4",
     "title": "権限昇格攻撃防止手法における権限の格納位置のランダム化",
     "authors": [
@@ -4990,7 +5042,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "3E3: OWS：OSSセキュリティ （座長：面　和毅）",
+    "session": "3E3: OWS：OSSセキュリティ",
     "id": "3E3-5",
     "title": "独自のカーネル用仮想記憶空間を用いたカーネルモジュール監視手法",
     "authors": [
@@ -5012,11 +5064,14 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3E3-5 独自のカーネル用仮想記憶空間を用いたカーネルモジュール監視手法 葛野 弘樹 山内 利宏 岡山大学大学院自然科学研究科 セコム株式会社IS研究所 岡山大学大学院自然科学研究科"
+    "search_text": "3E3-5 独自のカーネル用仮想記憶空間を用いたカーネルモジュール監視手法 葛野 弘樹 山内 利宏 岡山大学大学院自然科学研究科 セコム株式会社IS研究所 岡山大学大学院自然科学研究科 優秀論文賞",
+    "awards": [
+      "優秀論文賞"
+    ]
   },
   {
     "event": "CSS2018",
-    "session": "3A4: 偽造防止技術 （座長：宇根　正志）",
+    "session": "3A4: 偽造防止技術",
     "id": "3A4-1",
     "title": "マルチモーダル人工物メトリクスのための機能性材料の開発（色相と発光強度の違いをもたらすアップコンバージョンガラス蛍光体）",
     "authors": [
@@ -5049,7 +5104,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "3A4: 偽造防止技術 （座長：宇根　正志）",
+    "session": "3A4: 偽造防止技術",
     "id": "3A4-2",
     "title": "偽装QRコードの構成とその効果，およびその対策について",
     "authors": [
@@ -5082,7 +5137,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "3A4: 偽造防止技術 （座長：宇根　正志）",
+    "session": "3A4: 偽造防止技術",
     "id": "3A4-3",
     "title": "SeQR: ショルダーハック耐性を持つQRコード生成方法",
     "authors": [
@@ -5119,11 +5174,14 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3A4-3 SeQR: ショルダーハック耐性を持つQRコード生成方法 笹崎 寿貴 シュウ インゴウ 丸山 誠太 森 達哉 早稲田大学基幹理工学研究科 早稲田大学基幹理工学研究科 早稲田大学基幹理工学研究科 早稲田大学基幹理工学研究科"
+    "search_text": "3A4-3 SeQR: ショルダーハック耐性を持つQRコード生成方法 笹崎 寿貴 シュウ インゴウ 丸山 誠太 森 達哉 早稲田大学基幹理工学研究科 早稲田大学基幹理工学研究科 早稲田大学基幹理工学研究科 早稲田大学基幹理工学研究科 学生論文賞",
+    "awards": [
+      "学生論文賞"
+    ]
   },
   {
     "event": "CSS2018",
-    "session": "3A4: 偽造防止技術 （座長：宇根　正志）",
+    "session": "3A4: 偽造防止技術",
     "id": "3A4-4",
     "title": "バーコードの多段二重符号化による情報付加と偽造防止",
     "authors": [
@@ -5164,7 +5222,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "3B4: 動的解析 （座長：折田　彰）",
+    "session": "3B4: 動的解析",
     "id": "3B4-1",
     "title": "MITB攻撃においてコンテンツ改ざんを行う不正JavaScriptの解析手法",
     "authors": [
@@ -5216,7 +5274,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "3B4: 動的解析 （座長：折田　彰）",
+    "session": "3B4: 動的解析",
     "id": "3B4-2",
     "title": "スクリプト実行環境に対する解析機能の自動付与手法",
     "authors": [
@@ -5265,7 +5323,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "3B4: 動的解析 （座長：折田　彰）",
+    "session": "3B4: 動的解析",
     "id": "3B4-3",
     "title": "動的解析においてログが取得できないマルウェアの実態調査",
     "authors": [
@@ -5314,7 +5372,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "3B4: 動的解析 （座長：折田　彰）",
+    "session": "3B4: 動的解析",
     "id": "3B4-4",
     "title": "動的な関数アドレス解決APIの呼び出しログを用いたマルウェア分類",
     "authors": [
@@ -5339,7 +5397,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "3C4: 通信データ分析 （座長：小出　駿）",
+    "session": "3C4: 通信データ分析",
     "id": "3C4-1",
     "title": "ペイロードの特徴量に注目した未知のネットワーク異常検出",
     "authors": [
@@ -5372,7 +5430,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "3C4: 通信データ分析 （座長：小出　駿）",
+    "session": "3C4: 通信データ分析",
     "id": "3C4-2",
     "title": "マルウェアの通信特徴に基づくSSL/TLSを利用したC&C通信検出手法",
     "authors": [
@@ -5413,7 +5471,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "3C4: 通信データ分析 （座長：小出　駿）",
+    "session": "3C4: 通信データ分析",
     "id": "3C4-3",
     "title": "Cutwail通信プロトコルの解析",
     "authors": [
@@ -5438,7 +5496,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "3E4: 実行監視・脆弱性分析 （座長：山内　利宏）",
+    "session": "3E4: 実行監視・脆弱性分析",
     "id": "3E4-1",
     "title": "ヒープ領域に対するソースコード不要のIntel MPX命令適用手法",
     "authors": [
@@ -5479,7 +5537,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "3E4: 実行監視・脆弱性分析 （座長：山内　利宏）",
+    "session": "3E4: 実行監視・脆弱性分析",
     "id": "3E4-2",
     "title": "プロセス内処理に対する遠隔認証手法の提案と実装",
     "authors": [
@@ -5528,7 +5586,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "3E4: 実行監視・脆弱性分析 （座長：山内　利宏）",
+    "session": "3E4: 実行監視・脆弱性分析",
     "id": "3E4-3",
     "title": "TEE搭載デバイスにおける閲覧画面の偽装検出技術の提案",
     "authors": [
@@ -5553,7 +5611,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "3E4: 実行監視・脆弱性分析 （座長：山内　利宏）",
+    "session": "3E4: 実行監視・脆弱性分析",
     "id": "3E4-4",
     "title": "Linuxディストリビューション間でのELFバイナリにおけるセキュリティ対策機構の適用状況の比較",
     "authors": [
@@ -5610,7 +5668,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "4A1: 物理・視覚化暗号 （座長：小川　一人）",
+    "session": "4A1: 物理・視覚化暗号",
     "id": "4A1-1",
     "title": "不可視インクを用いた効率的なカードベース暗号プロトコル",
     "authors": [
@@ -5624,11 +5682,14 @@
         "presenter_symbol": "○"
       }
     ],
-    "search_text": "4A1-1 不可視インクを用いた効率的なカードベース暗号プロトコル 品川 和雅 東京工業大学 産業技術総合研究所"
+    "search_text": "4A1-1 不可視インクを用いた効率的なカードベース暗号プロトコル 品川 和雅 東京工業大学 産業技術総合研究所 コンセプト論文賞",
+    "awards": [
+      "コンセプト論文賞"
+    ]
   },
   {
     "event": "CSS2018",
-    "session": "4A1: 物理・視覚化暗号 （座長：小川　一人）",
+    "session": "4A1: 物理・視覚化暗号",
     "id": "4A1-2",
     "title": "プレゼント交換に適したシンプルなカードベース置換生成",
     "authors": [
@@ -5661,7 +5722,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "4A1: 物理・視覚化暗号 （座長：小川　一人）",
+    "session": "4A1: 物理・視覚化暗号",
     "id": "4A1-3",
     "title": "情報セキュリティアンプラグド〜計算機を用いない情報セキュリティ教育〜",
     "authors": [
@@ -5686,7 +5747,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "4A1: 物理・視覚化暗号 （座長：小川　一人）",
+    "session": "4A1: 物理・視覚化暗号",
     "id": "4A1-4",
     "title": "メッセージングアプリの普及に基づく簡単で公平なコイントス",
     "authors": [
@@ -5719,7 +5780,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "4B1: 自動車セキュリティ （座長：吉田　琢也）",
+    "session": "4B1: 自動車セキュリティ",
     "id": "4B1-1",
     "title": "CANのイベントメッセージに対する侵入検知手法の提案",
     "authors": [
@@ -5792,7 +5853,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "4B1: 自動車セキュリティ （座長：吉田　琢也）",
+    "session": "4B1: 自動車セキュリティ",
     "id": "4B1-2",
     "title": "CAN通信における汎用的な攻撃検出を目的とした時系列データ解析",
     "authors": [
@@ -5833,7 +5894,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "4B1: 自動車セキュリティ （座長：吉田　琢也）",
+    "session": "4B1: 自動車セキュリティ",
     "id": "4B1-3",
     "title": "車載インフォテインメントシステムにおけるホワイトリストと遅延付加によるCANバス上のDoS攻撃緩和手法",
     "authors": [
@@ -5874,7 +5935,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "4C1: Drive-by-Download攻撃 （座長：羽田　大樹）",
+    "session": "4C1: Drive-by-Download攻撃",
     "id": "4C1-1",
     "title": "Drive-by-Download攻撃時の通信データの関連性分析",
     "authors": [
@@ -5918,7 +5979,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "4C1: Drive-by-Download攻撃 （座長：羽田　大樹）",
+    "session": "4C1: Drive-by-Download攻撃",
     "id": "4C1-2",
     "title": "ドメインを用いないWebアクセスに着目した悪性サイト検知手法の提案",
     "authors": [
@@ -5977,7 +6038,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "4C1: Drive-by-Download攻撃 （座長：羽田　大樹）",
+    "session": "4C1: Drive-by-Download攻撃",
     "id": "4C1-3",
     "title": "ソースコードの類似度に基づく悪性JavaScriptの検知",
     "authors": [
@@ -6010,7 +6071,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "4C1: Drive-by-Download攻撃 （座長：羽田　大樹）",
+    "session": "4C1: Drive-by-Download攻撃",
     "id": "4C1-4",
     "title": "ユーザ環境観測によるRIG Exploit Kitの長期観測と時間変化に対して頑強な攻撃検知",
     "authors": [
@@ -6043,7 +6104,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "4D1: 攻撃分析 （座長：白石　善明）",
+    "session": "4D1: 攻撃分析",
     "id": "4D1-1",
     "title": "サイバー攻撃に対する能動的観測による収集データのモデル化と正規化手法",
     "authors": [
@@ -6092,7 +6153,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "4D1: 攻撃分析 （座長：白石　善明）",
+    "session": "4D1: 攻撃分析",
     "id": "4D1-2",
     "title": "標的型攻撃の被害範囲を迅速に分析するネットワークフォレンジック手法の改良",
     "authors": [
@@ -6182,7 +6243,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "4D1: 攻撃分析 （座長：白石　善明）",
+    "session": "4D1: 攻撃分析",
     "id": "4D1-3",
     "title": "On Automation and Orchestration of an Initial Computer Security Incident Response Using Centralized Incident Tracking System",
     "authors": [
@@ -6239,7 +6300,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "4D1: 攻撃分析 （座長：白石　善明）",
+    "session": "4D1: 攻撃分析",
     "id": "4D1-4",
     "title": "マルウェアによる感染活動の目的推定に向けた動的解析ログに基づく分析",
     "authors": [
@@ -6280,7 +6341,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "4E1: リスク分析・プライバシー （座長：高橋　雄志）",
+    "session": "4E1: リスク分析・プライバシー",
     "id": "4E1-1",
     "title": "矛盾-無関心を考慮したトラスト値の遷移について",
     "authors": [
@@ -6337,7 +6398,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "4E1: リスク分析・プライバシー （座長：高橋　雄志）",
+    "session": "4E1: リスク分析・プライバシー",
     "id": "4E1-2",
     "title": "業務プロセスの信頼性の改善手法",
     "authors": [
@@ -6370,7 +6431,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "4E1: リスク分析・プライバシー （座長：高橋　雄志）",
+    "session": "4E1: リスク分析・プライバシー",
     "id": "4E1-3",
     "title": "テレワークにおけるプライバシーの課題に関する調査",
     "authors": [
@@ -6395,7 +6456,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "4E1: リスク分析・プライバシー （座長：高橋　雄志）",
+    "session": "4E1: リスク分析・プライバシー",
     "id": "4E1-4",
     "title": "海事サイバーセキュリティの現状と課題",
     "authors": [
@@ -6436,7 +6497,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "4A2: 秘匿計算 （座長：大畑　幸矢）",
+    "session": "4A2: 秘匿計算",
     "id": "4A2-1",
     "title": "僕たちは一番大切なものに気づいていなかった-秘密外部結合プロトコルの設計と実装-",
     "authors": [
@@ -6469,7 +6530,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "4A2: 秘匿計算 （座長：大畑　幸矢）",
+    "session": "4A2: 秘匿計算",
     "id": "4A2-2",
     "title": "高精度かつ高効率な秘密ロジスティック回帰の設計と実装",
     "authors": [
@@ -6510,7 +6571,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "4A2: 秘匿計算 （座長：大畑　幸矢）",
+    "session": "4A2: 秘匿計算",
     "id": "4A2-3",
     "title": "準巡回シンドローム復号問題に基づく線形関数秘匿計算",
     "authors": [
@@ -6545,7 +6606,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "4B2: IoTセキュリティ （座長：磯原　隆将）",
+    "session": "4B2: IoTセキュリティ",
     "id": "4B2-1",
     "title": "クロスデバイストラッキング技術に関する調査：2018年版",
     "authors": [
@@ -6578,7 +6639,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "4B2: IoTセキュリティ （座長：磯原　隆将）",
+    "session": "4B2: IoTセキュリティ",
     "id": "4B2-2",
     "title": "クロスアプリケーションフィンガープリンティング-同一端末上のアプリケーション間の紐付け-",
     "authors": [
@@ -6620,7 +6681,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "4C2: 機械学習（2） （座長：嶋田　創）",
+    "session": "4C2: 機械学習（2）",
     "id": "4C2-1",
     "title": "コード断片からのコンパイラ推定手法",
     "authors": [
@@ -6675,11 +6736,14 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "4C2-1 コード断片からのコンパイラ推定手法 大坪 雄平 大塚 玲 三村 守 榊 剛史 受川 弘 岩田 吉弘 警察庁 情報セキュリティ大学院大学 情報セキュリティ大学院大学 防衛大学校 情報セキュリティ大学院大学 東京大学 警察庁 警察庁"
+    "search_text": "4C2-1 コード断片からのコンパイラ推定手法 大坪 雄平 大塚 玲 三村 守 榊 剛史 受川 弘 岩田 吉弘 警察庁 情報セキュリティ大学院大学 情報セキュリティ大学院大学 防衛大学校 情報セキュリティ大学院大学 東京大学 警察庁 警察庁 奨励賞",
+    "awards": [
+      "奨励賞"
+    ]
   },
   {
     "event": "CSS2018",
-    "session": "4C2: 機械学習（2） （座長：嶋田　創）",
+    "session": "4C2: 機械学習（2）",
     "id": "4C2-2",
     "title": "API呼び出しとそれに伴う経過時間とシステム負荷を用いた重み付けスコアに基づくマルウェア検知手法",
     "authors": [
@@ -6752,7 +6816,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "4C2: 機械学習（2） （座長：嶋田　創）",
+    "session": "4C2: 機械学習（2）",
     "id": "4C2-3",
     "title": "ヘッダ情報解析と深層学習手法を用いた電子メールによるゼロディ攻撃検出に関する研究",
     "authors": [
@@ -6777,7 +6841,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "4C2: 機械学習（2） （座長：嶋田　創）",
+    "session": "4C2: 機械学習（2）",
     "id": "4C2-4",
     "title": "機械学習を用いたマルウェア検出システムの提案",
     "authors": [
@@ -6802,7 +6866,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "4D2: サイバー攻撃 （座長：松中　隆志）",
+    "session": "4D2: サイバー攻撃",
     "id": "4D2-1",
     "title": "サイバー攻撃観測用センサーの静的特性に関する考察",
     "authors": [
@@ -6851,7 +6915,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "4D2: サイバー攻撃 （座長：松中　隆志）",
+    "session": "4D2: サイバー攻撃",
     "id": "4D2-2",
     "title": "長期間観測した通信データを用いたサイバー攻撃活動と推定されるプログラムの分類による攻撃者像の一考察",
     "authors": [
@@ -6900,7 +6964,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "4D2: サイバー攻撃 （座長：松中　隆志）",
+    "session": "4D2: サイバー攻撃",
     "id": "4D2-3",
     "title": "「サイバーセキュリティ能力成熟度モデル」を一部改良して使用した国レベルの能力測定の提案",
     "authors": [
@@ -6925,7 +6989,7 @@
   },
   {
     "event": "CSS2018",
-    "session": "4D2: サイバー攻撃 （座長：松中　隆志）",
+    "session": "4D2: サイバー攻撃",
     "id": "4D2-4",
     "title": "エコシステムで構成するサイバー攻撃と防御演習システムCyExecの提案",
     "authors": [

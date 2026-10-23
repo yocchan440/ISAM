@@ -1,7 +1,7 @@
 [
   {
     "event": "SCIS2026",
-    "session": "1A1 サイドチャネル攻撃 (1)",
+    "session": "1A1 サイドチャネル攻撃 (1) 1/26(月) 14:00 - 15:20",
     "id": "1A1-1",
     "title": "Practical leakage attack on HAWK Gaussian sampler",
     "authors": [
@@ -26,7 +26,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "1A1 サイドチャネル攻撃 (1)",
+    "session": "1A1 サイドチャネル攻撃 (1) 1/26(月) 14:00 - 15:20",
     "id": "1A1-2",
     "title": "教師なし学習による高精度キーボード音響サイドチャネル攻撃",
     "authors": [
@@ -55,11 +55,14 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1A1-2 教師なし学習による高精度キーボード音響サイドチャネル攻撃 岡田 篤典 林 優一 本間 尚文 東北大学 大学院工学研究科 奈良先端科学技術大学院大学 先端科学技術研究科 東北大学 電気通信研究所"
+    "search_text": "1A1-2 教師なし学習による高精度キーボード音響サイドチャネル攻撃 岡田 篤典 林 優一 本間 尚文 東北大学 大学院工学研究科 奈良先端科学技術大学院大学 先端科学技術研究科 東北大学 電気通信研究所 SCIS論文賞",
+    "awards": [
+      "SCIS論文賞"
+    ]
   },
   {
     "event": "SCIS2026",
-    "session": "1A1 サイドチャネル攻撃 (1)",
+    "session": "1A1 サイドチャネル攻撃 (1) 1/26(月) 14:00 - 15:20",
     "id": "1A1-3",
     "title": "Diversity-Enhanced Parameter Generation for Fault Injection Attacks",
     "authors": [
@@ -92,7 +95,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "1A1 サイドチャネル攻撃 (1)",
+    "session": "1A1 サイドチャネル攻撃 (1) 1/26(月) 14:00 - 15:20",
     "id": "1A1-4",
     "title": "Performance Comparison of Fault Parameter Search Methods",
     "authors": [
@@ -117,7 +120,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "1A2 サイドチャネル攻撃 (2)",
+    "session": "1A2 サイドチャネル攻撃 (2) 1/26(月) 15:50 - 17:10",
     "id": "1A2-1",
     "title": "乱数を用いたノイズ増幅によるML-KEMの電力解析攻撃耐性の向上",
     "authors": [
@@ -158,7 +161,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "1A2 サイドチャネル攻撃 (2)",
+    "session": "1A2 サイドチャネル攻撃 (2) 1/26(月) 15:50 - 17:10",
     "id": "1A2-2",
     "title": "ML-DSAに対するZV-FA攻撃に鍵探索アルゴリズムの適用と検証",
     "authors": [
@@ -199,7 +202,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "1A2 サイドチャネル攻撃 (2)",
+    "session": "1A2 サイドチャネル攻撃 (2) 1/26(月) 15:50 - 17:10",
     "id": "1A2-3",
     "title": "ポスト量子署名方式 Falcon に対するフォールト攻撃と実用的な対応策の提案",
     "authors": [
@@ -232,7 +235,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "1A2 サイドチャネル攻撃 (2)",
+    "session": "1A2 サイドチャネル攻撃 (2) 1/26(月) 15:50 - 17:10",
     "id": "1A2-4",
     "title": "スクリーミングチャネル漏洩に対するスペクトログラムを用いた深層学習サイドチャネル攻撃",
     "authors": [
@@ -273,7 +276,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "1B1 数論応用 (1)",
+    "session": "1B1 数論応用 (1) 1/26(月) 14:00 - 15:20",
     "id": "1B1-1",
     "title": "有限体上の第一種Chebyshev曲線の有理点の個数の明示公式",
     "authors": [
@@ -290,7 +293,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "1B1 数論応用 (1)",
+    "session": "1B1 数論応用 (1) 1/26(月) 14:00 - 15:20",
     "id": "1B1-2",
     "title": "重み付きポテンシャルを用いたw-PotBKZの提案",
     "authors": [
@@ -315,7 +318,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "1B1 数論応用 (1)",
+    "session": "1B1 数論応用 (1) 1/26(月) 14:00 - 15:20",
     "id": "1B1-3",
     "title": "特殊な部分空間における高速全探索アルゴリズムに関する研究",
     "authors": [
@@ -348,7 +351,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "1B1 数論応用 (1)",
+    "session": "1B1 数論応用 (1) 1/26(月) 14:00 - 15:20",
     "id": "1B1-4",
     "title": "新しい格子問題とナップザック暗号の低密度攻撃における密度の理論的上界",
     "authors": [
@@ -365,7 +368,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "1B2 数論応用 (2)",
+    "session": "1B2 数論応用 (2) 1/26(月) 15:50 - 17:10",
     "id": "1B2-1",
     "title": "特殊線形群を用いたハッシュ関数の安全性の再考",
     "authors": [
@@ -398,7 +401,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "1B2 数論応用 (2)",
+    "session": "1B2 数論応用 (2) 1/26(月) 15:50 - 17:10",
     "id": "1B2-2",
     "title": "Analytic Number-Theoretic Evaluation and Explicit Formulas for Correction Probabilities in Montgomery Multiplication",
     "authors": [
@@ -423,7 +426,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "1B2 数論応用 (2)",
+    "session": "1B2 数論応用 (2) 1/26(月) 15:50 - 17:10",
     "id": "1B2-3",
     "title": "管状花等におけるフィボナッチ螺旋構造定義の提案",
     "authors": [
@@ -448,7 +451,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "1B2 数論応用 (2)",
+    "session": "1B2 数論応用 (2) 1/26(月) 15:50 - 17:10",
     "id": "1B2-4",
     "title": "Markoffグラフのサイクルの存在性およびMarkoffハッシュの衝突困難性",
     "authors": [
@@ -473,7 +476,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "1C1 属性ベース・IDベース",
+    "session": "1C1 属性ベース・IDベース 1/26(月) 14:00 - 15:20",
     "id": "1C1-1",
     "title": "複数認証局属性ベース暗号とWitness Encryptionの関係性の再考",
     "authors": [
@@ -498,7 +501,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "1C1 属性ベース・IDベース",
+    "session": "1C1 属性ベース・IDベース 1/26(月) 14:00 - 15:20",
     "id": "1C1-2",
     "title": "属性ベース内積関数型暗号の階層構造",
     "authors": [
@@ -515,7 +518,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "1C1 属性ベース・IDベース",
+    "session": "1C1 属性ベース・IDベース 1/26(月) 14:00 - 15:20",
     "id": "1C1-3",
     "title": "Bi-Selective Opening安全なIDベース暗号",
     "authors": [
@@ -558,7 +561,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "1C2 TEE・分散データ流通",
+    "session": "1C2 TEE・分散データ流通 1/26(月) 15:50 - 17:10",
     "id": "1C2-1",
     "title": "信頼できるデータ流通のためのトラストフレームワークの検討プロセスの提案",
     "authors": [
@@ -583,7 +586,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "1C2 TEE・分散データ流通",
+    "session": "1C2 TEE・分散データ流通 1/26(月) 15:50 - 17:10",
     "id": "1C2-2",
     "title": "TEE によるアクセス制御情報を秘匿したファイル共有システムの形式検証",
     "authors": [
@@ -608,7 +611,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "1C2 TEE・分散データ流通",
+    "session": "1C2 TEE・分散データ流通 1/26(月) 15:50 - 17:10",
     "id": "1C2-3",
     "title": "Adaptively Secure Blockchain-Aided Decentralized Storage Networks: Formalization and Generic Construction",
     "authors": [
@@ -649,7 +652,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "1C2 TEE・分散データ流通",
+    "session": "1C2 TEE・分散データ流通 1/26(月) 15:50 - 17:10",
     "id": "1C2-4",
     "title": "Multi-Party Confidential Computing における段階的データ開示を用いたデバッグフレームワークの提案",
     "authors": [
@@ -678,7 +681,7 @@
         "presenter_symbol": ""
       },
       {
-        "name": "石倉  禅",
+        "name": "石倉 禅",
         "affiliations": [
           "NTT株式会社"
         ],
@@ -694,11 +697,11 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1C2-4 Multi-Party Confidential Computing における段階的データ開示を用いたデバッグフレームワークの提案 上原 崇寛 橋本 諒太 柏木 啓一郎 石倉  禅 徐 振宇 NTT株式会社 NTT株式会社 NTT株式会社 NTT株式会社 NTT株式会社"
+    "search_text": "1C2-4 Multi-Party Confidential Computing における段階的データ開示を用いたデバッグフレームワークの提案 上原 崇寛 橋本 諒太 柏木 啓一郎 石倉 禅 徐 振宇 NTT株式会社 NTT株式会社 NTT株式会社 NTT株式会社 NTT株式会社"
   },
   {
     "event": "SCIS2026",
-    "session": "1D1 共通鍵暗号 (1)",
+    "session": "1D1 共通鍵暗号 (1) 1/26(月) 14:00 - 15:20",
     "id": "1D1-1",
     "title": "機械学習を用いた軽量ブロック暗号 PRINCE に対する差分識別攻撃",
     "authors": [
@@ -723,7 +726,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "1D1 共通鍵暗号 (1)",
+    "session": "1D1 共通鍵暗号 (1) 1/26(月) 14:00 - 15:20",
     "id": "1D1-2",
     "title": "大規模言語モデルを用いた差分暗号解析の検討",
     "authors": [
@@ -756,7 +759,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "1D1 共通鍵暗号 (1)",
+    "session": "1D1 共通鍵暗号 (1) 1/26(月) 14:00 - 15:20",
     "id": "1D1-3",
     "title": "未知平文関連鍵モデルにおける鍵付き部分復号状態集合を入力とする順序不変ニューラル識別器による鍵回復攻撃",
     "authors": [
@@ -781,7 +784,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "1D1 共通鍵暗号 (1)",
+    "session": "1D1 共通鍵暗号 (1) 1/26(月) 14:00 - 15:20",
     "id": "1D1-4",
     "title": "軽量暗号PRESENTに対する機械学習を用いた平文予測攻撃に関する考察",
     "authors": [
@@ -814,7 +817,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "1D2 共通鍵暗号 (2)",
+    "session": "1D2 共通鍵暗号 (2) 1/26(月) 15:50 - 17:10",
     "id": "1D2-1",
     "title": "LightMACに基づく多出力のカウンタモード鍵導出関数の鍵制御安全性",
     "authors": [
@@ -839,7 +842,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "1D2 共通鍵暗号 (2)",
+    "session": "1D2 共通鍵暗号 (2) 1/26(月) 15:50 - 17:10",
     "id": "1D2-2",
     "title": "短入力向け認証暗号方式Cymric2のNonce-Misuse耐性解析",
     "authors": [
@@ -864,7 +867,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "1D2 共通鍵暗号 (2)",
+    "session": "1D2 共通鍵暗号 (2) 1/26(月) 15:50 - 17:10",
     "id": "1D2-3",
     "title": "CMACを用いた多出力の鍵導出関数の鍵制御安全性",
     "authors": [
@@ -897,7 +900,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "1D2 共通鍵暗号 (2)",
+    "session": "1D2 共通鍵暗号 (2) 1/26(月) 15:50 - 17:10",
     "id": "1D2-4",
     "title": "EtC変換で構成された認証暗号方式のNonce-Misuse耐性解析",
     "authors": [
@@ -930,7 +933,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "1E1 鍵生成・鍵管理",
+    "session": "1E1 鍵生成・鍵管理 1/26(月) 14:00 - 15:20",
     "id": "1E1-1",
     "title": "鍵生成処理を検証可能な証明書発行システムの構築",
     "authors": [
@@ -955,7 +958,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "1E1 鍵生成・鍵管理",
+    "session": "1E1 鍵生成・鍵管理 1/26(月) 14:00 - 15:20",
     "id": "1E1-2",
     "title": "ロバストかつ再利用可能なしきい値ファジー抽出器",
     "authors": [
@@ -1004,7 +1007,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "1E1 鍵生成・鍵管理",
+    "session": "1E1 鍵生成・鍵管理 1/26(月) 14:00 - 15:20",
     "id": "1E1-3",
     "title": "Fuzzy-Data-to-Random プロトコル",
     "authors": [
@@ -1061,7 +1064,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "1E2 トラスト・教育",
+    "session": "1E2 トラスト・教育 1/26(月) 15:50 - 17:10",
     "id": "1E2-1",
     "title": "Privacy first? Exploring Photo Obfuscation on Social Media Among Japanese Young Adults",
     "authors": [
@@ -1074,12 +1077,12 @@
         "presenter_symbol": "〇"
       },
       {
-        "name": "rito Yohko",
+        "name": "Orito Yohko",
         "affiliations": [
           "Ehime University"
         ],
-        "is_presenter": true,
-        "presenter_symbol": "O"
+        "is_presenter": false,
+        "presenter_symbol": ""
       },
       {
         "name": "Fukuta Yasunori",
@@ -1106,11 +1109,11 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1E2-1 Privacy first? Exploring Photo Obfuscation on Social Media Among Japanese Young Adults Bracamonte Vanessa rito Yohko Fukuta Yasunori Murata Kiyoshi Isohara Takamasa KDDI Research, Inc. Ehime University Meiji University Meiji University KDDI Research, Inc."
+    "search_text": "1E2-1 Privacy first? Exploring Photo Obfuscation on Social Media Among Japanese Young Adults Bracamonte Vanessa Orito Yohko Fukuta Yasunori Murata Kiyoshi Isohara Takamasa KDDI Research, Inc. Ehime University Meiji University Meiji University KDDI Research, Inc."
   },
   {
     "event": "SCIS2026",
-    "session": "1E2 トラスト・教育",
+    "session": "1E2 トラスト・教育 1/26(月) 15:50 - 17:10",
     "id": "1E2-2",
     "title": "AIサービスの信頼性に対する誤判断の影響評価：片付け・掃除サービスと資産運用サービスにおける影響比較",
     "authors": [
@@ -1137,13 +1140,21 @@
         ],
         "is_presenter": false,
         "presenter_symbol": ""
+      },
+      {
+        "name": "渋谷 環",
+        "affiliations": [
+          "独立行政法人情報処理推進機構"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
       }
     ],
-    "search_text": "1E2-2 AIサービスの信頼性に対する誤判断の影響評価：片付け・掃除サービスと資産運用サービスにおける影響比較 竹村 敏彦 島 成佳 小川 隆一 城西大学 長崎県立大学 独立行政法人情報処理推進機構"
+    "search_text": "1E2-2 AIサービスの信頼性に対する誤判断の影響評価：片付け・掃除サービスと資産運用サービスにおける影響比較 竹村 敏彦 島 成佳 小川 隆一 渋谷 環 城西大学 長崎県立大学 独立行政法人情報処理推進機構 独立行政法人情報処理推進機構"
   },
   {
     "event": "SCIS2026",
-    "session": "1E2 トラスト・教育",
+    "session": "1E2 トラスト・教育 1/26(月) 15:50 - 17:10",
     "id": "1E2-3",
     "title": "情報セキュリティ演習環境構築のための仮想化技術の比較評価",
     "authors": [
@@ -1170,7 +1181,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "1E2 トラスト・教育",
+    "session": "1E2 トラスト・教育 1/26(月) 15:50 - 17:10",
     "id": "1E2-4",
     "title": "耐誘導コミュニケーション研究における逆算的会話設計の実証",
     "authors": [
@@ -1195,7 +1206,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "1F1 分散合意・ブロックチェーン",
+    "session": "1F1 分散合意・ブロックチェーン 1/26(月) 14:00 - 15:20",
     "id": "1F1-1",
     "title": "KGDealer: サブグラフ単位のリスク評価に基づくブロックチェーンベースナレッジグラフ共有手法",
     "authors": [
@@ -1236,7 +1247,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "1F1 分散合意・ブロックチェーン",
+    "session": "1F1 分散合意・ブロックチェーン 1/26(月) 14:00 - 15:20",
     "id": "1F1-2",
     "title": "インセンティブ設計による委員会選出型コンセンサスのSybil耐性強化と委員会サイズ削減",
     "authors": [
@@ -1269,7 +1280,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "1F1 分散合意・ブロックチェーン",
+    "session": "1F1 分散合意・ブロックチェーン 1/26(月) 14:00 - 15:20",
     "id": "1F1-3",
     "title": "プライバシーとシビル耐性を両立したマイナンバーカード連携型コントラクトウォレット",
     "authors": [
@@ -1294,7 +1305,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "1F1 分散合意・ブロックチェーン",
+    "session": "1F1 分散合意・ブロックチェーン 1/26(月) 14:00 - 15:20",
     "id": "1F1-4",
     "title": "欠落的コラプト下における一般攻撃構造に対する期待線形ラウンド非同期ビザンチン合意",
     "authors": [
@@ -1319,7 +1330,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "1F2 ブロックチェーン・スマートコントラクト",
+    "session": "1F2 ブロックチェーン・スマートコントラクト 1/26(月) 15:50 - 17:10",
     "id": "1F2-1",
     "title": "イーサリアムクライアント実装における自動脆弱性検知",
     "authors": [
@@ -1336,7 +1347,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "1F2 ブロックチェーン・スマートコントラクト",
+    "session": "1F2 ブロックチェーン・スマートコントラクト 1/26(月) 15:50 - 17:10",
     "id": "1F2-2",
     "title": "スマートコントラクトを用いた金銭的ペナルティに基づく公平な秘密計算の形式検証",
     "authors": [
@@ -1361,7 +1372,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "1F2 ブロックチェーン・スマートコントラクト",
+    "session": "1F2 ブロックチェーン・スマートコントラクト 1/26(月) 15:50 - 17:10",
     "id": "1F2-3",
     "title": "AIスマートコントラクトシステム",
     "authors": [
@@ -1386,7 +1397,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "1F2 ブロックチェーン・スマートコントラクト",
+    "session": "1F2 ブロックチェーン・スマートコントラクト 1/26(月) 15:50 - 17:10",
     "id": "1F2-4",
     "title": "AIエージェントによる暗号プロトコルのLean形式検証の自動化",
     "authors": [
@@ -1403,7 +1414,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "1G1 IoTセキュリティ (1)",
+    "session": "1G1 IoTセキュリティ (1) 1/26(月) 14:00 - 15:20",
     "id": "1G1-1",
     "title": "潜在的特徴量に基づく文法的推論を用いたIoTデバイス異常動作検知手法",
     "authors": [
@@ -1444,7 +1455,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "1G1 IoTセキュリティ (1)",
+    "session": "1G1 IoTセキュリティ (1) 1/26(月) 14:00 - 15:20",
     "id": "1G1-2",
     "title": "ファームウェア内の不揮発性メモリに書き込むコードを用いた永続化の脅威分析",
     "authors": [
@@ -1505,7 +1516,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "1G1 IoTセキュリティ (1)",
+    "session": "1G1 IoTセキュリティ (1) 1/26(月) 14:00 - 15:20",
     "id": "1G1-3",
     "title": "敵対的映像攻撃が自律飛行ドローンの位置推定・制御に及ぼす影響評価と防御手法の提案",
     "authors": [
@@ -1555,17 +1566,17 @@
         "affiliations": [
           "早稲田大学",
           "国立研究開発法人情報通信研究機構",
-          "理化学研究所 革新知能統合研究（AIP"
+          "理化学研究所 革新知能統合研究（AIP）センター"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1G1-3 敵対的映像攻撃が自律飛行ドローンの位置推定・制御に及ぼす影響評価と防御手法の提案 海老根 佑雅 野本 一輝 鶴岡 豪 田中 優奈 斧田 洋人 森 達哉 早稲田大学 早稲田大学 デロイト トーマツ サイバー合同会社 早稲田大学 デロイト トーマツ サイバー合同会社 早稲田大学 早稲田大学 国立研究開発法人情報通信研究機構 理化学研究所 革新知能統合研究（AIP"
+    "search_text": "1G1-3 敵対的映像攻撃が自律飛行ドローンの位置推定・制御に及ぼす影響評価と防御手法の提案 海老根 佑雅 野本 一輝 鶴岡 豪 田中 優奈 斧田 洋人 森 達哉 早稲田大学 早稲田大学 デロイト トーマツ サイバー合同会社 早稲田大学 デロイト トーマツ サイバー合同会社 早稲田大学 早稲田大学 国立研究開発法人情報通信研究機構 理化学研究所 革新知能統合研究（AIP）センター"
   },
   {
     "event": "SCIS2026",
-    "session": "1G2 IoTセキュリティ (2)",
+    "session": "1G2 IoTセキュリティ (2) 1/26(月) 15:50 - 17:10",
     "id": "1G2-1",
     "title": "ITU-T X.1367によるIoT エラー・ログ・フォーマットを利用したIoT機器の管理・インシデントレスポンスの強化",
     "authors": [
@@ -1590,7 +1601,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "1G2 IoTセキュリティ (2)",
+    "session": "1G2 IoTセキュリティ (2) 1/26(月) 15:50 - 17:10",
     "id": "1G2-2",
     "title": "GraphGPSによるゲートレベルネットリストのハードウェアトロイ識別に関する一考察",
     "authors": [
@@ -1623,7 +1634,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "1G2 IoTセキュリティ (2)",
+    "session": "1G2 IoTセキュリティ (2) 1/26(月) 15:50 - 17:10",
     "id": "1G2-3",
     "title": "エッジにおけるドリフトとデータ汚染攻撃の判別によるセキュアなモデル学習の提案",
     "authors": [
@@ -1656,7 +1667,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "1G2 IoTセキュリティ (2)",
+    "session": "1G2 IoTセキュリティ (2) 1/26(月) 15:50 - 17:10",
     "id": "1G2-4",
     "title": "Feature Bridging for Improved Transfer Learning Across Heterogeneous Datasets in IoT Environments",
     "authors": [
@@ -1669,7 +1680,7 @@
         "presenter_symbol": "〇"
       },
       {
-        "name": "ARAKI  Shunsuke",
+        "name": "ARAKI Shunsuke",
         "affiliations": [
           "Kyushu Institute of Technology"
         ],
@@ -1693,11 +1704,11 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1G2-4 Feature Bridging for Improved Transfer Learning Across Heterogeneous Datasets in IoT Environments Mwaura Jedidah Mweru ARAKI  Shunsuke Huda Samsul Nogami Yasuyuki Kyushu Institute of Technology Kyushu Institute of Technology Okayama University Okayama University"
+    "search_text": "1G2-4 Feature Bridging for Improved Transfer Learning Across Heterogeneous Datasets in IoT Environments Mwaura Jedidah Mweru ARAKI Shunsuke Huda Samsul Nogami Yasuyuki Kyushu Institute of Technology Kyushu Institute of Technology Okayama University Okayama University"
   },
   {
     "event": "SCIS2026",
-    "session": "1Z1 誤情報対策",
+    "session": "1Z1 誤情報対策 1/26(月) 14:00 - 15:20",
     "id": "1Z1-1",
     "title": "自動ファクトチェックシステムのリスク整理とリスク分析への応用",
     "authors": [
@@ -1738,7 +1749,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "1Z1 誤情報対策",
+    "session": "1Z1 誤情報対策 1/26(月) 14:00 - 15:20",
     "id": "1Z1-2",
     "title": "自動ファクトチェックシステム向けリスク分析手法のDEFAMEへの適用と考察",
     "authors": [
@@ -1771,7 +1782,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "1Z1 誤情報対策",
+    "session": "1Z1 誤情報対策 1/26(月) 14:00 - 15:20",
     "id": "1Z1-3",
     "title": "カテゴリ適合型ナッジによるフェイクニュース拡散抑制効果の検証",
     "authors": [
@@ -1804,7 +1815,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "1Z1 誤情報対策",
+    "session": "1Z1 誤情報対策 1/26(月) 14:00 - 15:20",
     "id": "1Z1-4",
     "title": "大規模言語モデルと検証可能機械学習を用いた誤情報・偽情報対策フレームワーク",
     "authors": [
@@ -1837,7 +1848,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "1Z2 AIへの攻撃と対策 (1)",
+    "session": "1Z2 AIへの攻撃と対策 (1) 1/26(月) 15:50 - 17:10",
     "id": "1Z2-1",
     "title": "フラクタル画像を用いたモデル抽出攻撃の対策に関する検討",
     "authors": [
@@ -1870,7 +1881,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "1Z2 AIへの攻撃と対策 (1)",
+    "session": "1Z2 AIへの攻撃と対策 (1) 1/26(月) 15:50 - 17:10",
     "id": "1Z2-2",
     "title": "Cryptanalytic Extraction of Neural Network Models without Architecture Knowledge",
     "authors": [
@@ -1891,19 +1902,19 @@
         "presenter_symbol": ""
       },
       {
-        "name": "gata Wakaha",
+        "name": "Ogata Wakaha",
         "affiliations": [
           "Institute of Science Tokyo"
         ],
-        "is_presenter": true,
-        "presenter_symbol": "O"
+        "is_presenter": false,
+        "presenter_symbol": ""
       }
     ],
-    "search_text": "1Z2-2 Cryptanalytic Extraction of Neural Network Models without Architecture Knowledge Sato Guilherme Liu Fukang gata Wakaha Institute of Science Tokyo Institute of Science Tokyo Institute of Science Tokyo"
+    "search_text": "1Z2-2 Cryptanalytic Extraction of Neural Network Models without Architecture Knowledge Sato Guilherme Liu Fukang Ogata Wakaha Institute of Science Tokyo Institute of Science Tokyo Institute of Science Tokyo"
   },
   {
     "event": "SCIS2026",
-    "session": "1Z2 AIへの攻撃と対策 (1)",
+    "session": "1Z2 AIへの攻撃と対策 (1) 1/26(月) 15:50 - 17:10",
     "id": "1Z2-3",
     "title": "ハードラベル設定での暗号学的モデル抽出攻撃の限界とその解消法の提案",
     "authors": [
@@ -1936,7 +1947,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "1Z2 AIへの攻撃と対策 (1)",
+    "session": "1Z2 AIへの攻撃と対策 (1) 1/26(月) 15:50 - 17:10",
     "id": "1Z2-4",
     "title": "Watermark付き言語モデルに対するタスク性能を維持した除去攻撃の耐性評価",
     "authors": [
@@ -1977,7 +1988,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2A1 サイドチャネル攻撃 (3)",
+    "session": "2A1 サイドチャネル攻撃 (3) 1/27(火) 09:30 - 10:50",
     "id": "2A1-1",
     "title": "Tensor Processing Unitに基づく行列演算回路に対するサイドチャネル攻撃を緩和するための算術マスキングの評価",
     "authors": [
@@ -1998,7 +2009,7 @@
         "presenter_symbol": ""
       },
       {
-        "name": "福田　 悠太",
+        "name": "福田 悠太",
         "affiliations": [
           "産業技術総合研究所"
         ],
@@ -2014,11 +2025,11 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2A1-1 Tensor Processing Unitに基づく行列演算回路に対するサイドチャネル攻撃を緩和するための算術マスキングの評価 山崎 大勝 吉田 康太 福田　 悠太 藤野 毅 立命館大学 立命館大学 産業技術総合研究所 立命館大学"
+    "search_text": "2A1-1 Tensor Processing Unitに基づく行列演算回路に対するサイドチャネル攻撃を緩和するための算術マスキングの評価 山崎 大勝 吉田 康太 福田 悠太 藤野 毅 立命館大学 立命館大学 産業技術総合研究所 立命館大学"
   },
   {
     "event": "SCIS2026",
-    "session": "2A1 サイドチャネル攻撃 (3)",
+    "session": "2A1 サイドチャネル攻撃 (3) 1/27(火) 09:30 - 10:50",
     "id": "2A1-2",
     "title": "Triviumのアンロールド実装に関するサイドチャネル線形化攻撃",
     "authors": [
@@ -2068,7 +2079,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2A1 サイドチャネル攻撃 (3)",
+    "session": "2A1 サイドチャネル攻撃 (3) 1/27(火) 09:30 - 10:50",
     "id": "2A1-3",
     "title": "ML-KEMの復号関数へのランダムネス導入による軽量なSCA対策",
     "authors": [
@@ -2093,7 +2104,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2A1 サイドチャネル攻撃 (3)",
+    "session": "2A1 サイドチャネル攻撃 (3) 1/27(火) 09:30 - 10:50",
     "id": "2A1-4",
     "title": "マスキングの乱択プロービング帰着を用いない新たな安全性証明と漏えい耐性共通鍵プリミティブの設計",
     "authors": [
@@ -2142,7 +2153,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2A2 サイドチャネル攻撃 (4)",
+    "session": "2A2 サイドチャネル攻撃 (4) 1/27(火) 11:10 - 12:30",
     "id": "2A2-1",
     "title": "スクリーミングチャネルにおけるトレースの平均化が鍵復元に与える影響の解析",
     "authors": [
@@ -2191,7 +2202,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2A2 サイドチャネル攻撃 (4)",
+    "session": "2A2 サイドチャネル攻撃 (4) 1/27(火) 11:10 - 12:30",
     "id": "2A2-2",
     "title": "パルス密度変調方式のディジタルMEMSマイクロフォンから生じる電磁的漏洩を利用した盗聴攻撃",
     "authors": [
@@ -2236,11 +2247,14 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2A2-2 パルス密度変調方式のディジタルMEMSマイクロフォンから生じる電磁的漏洩を利用した盗聴攻撃 大西 アリフ ブパティラユ シュリ ルシケシュ バット リシケシュ ランパッジ サラ 菅原 健 電気通信大学 フロリダ大学 フロリダ大学 フロリダ大学 電気通信大学"
+    "search_text": "2A2-2 パルス密度変調方式のディジタルMEMSマイクロフォンから生じる電磁的漏洩を利用した盗聴攻撃 大西 アリフ ブパティラユ シュリ ルシケシュ バット リシケシュ ランパッジ サラ 菅原 健 電気通信大学 フロリダ大学 フロリダ大学 フロリダ大学 電気通信大学 SCIS論文賞",
+    "awards": [
+      "SCIS論文賞"
+    ]
   },
   {
     "event": "SCIS2026",
-    "session": "2A2 サイドチャネル攻撃 (4)",
+    "session": "2A2 サイドチャネル攻撃 (4) 1/27(火) 11:10 - 12:30",
     "id": "2A2-3",
     "title": "A Theoretical Analysis–Based Design of Static Code Polymorphism Combined with Loop Shuffling for Side-Channel Analysis Resistance",
     "authors": [
@@ -2273,7 +2287,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2A2 サイドチャネル攻撃 (4)",
+    "session": "2A2 サイドチャネル攻撃 (4) 1/27(火) 11:10 - 12:30",
     "id": "2A2-4",
     "title": "Golden Chip-Free Unsupervised Hardware Trojan Detection via Deep SVDD with Statistical Augmentation and Features",
     "authors": [
@@ -2306,7 +2320,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2A3 カードベース暗号・物理暗号 (1)",
+    "session": "2A3 カードベース暗号・物理暗号 (1) 1/27(火) 13:50 - 15:10",
     "id": "2A3-1",
     "title": "Card-based multi-input AND and XOR computations using private operations",
     "authors": [
@@ -2331,7 +2345,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2A3 カードベース暗号・物理暗号 (1)",
+    "session": "2A3 カードベース暗号・物理暗号 (1) 1/27(火) 13:50 - 15:10",
     "id": "2A3-2",
     "title": "追加カード2枚の多入力AND秘密計算のさらなるシャッフル回数削減",
     "authors": [
@@ -2356,7 +2370,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2A3 カードベース暗号・物理暗号 (1)",
+    "session": "2A3 カードベース暗号・物理暗号 (1) 1/27(火) 13:50 - 15:10",
     "id": "2A3-3",
     "title": "全ての3入力論理関数に対するトランプカード6枚の秘密計算",
     "authors": [
@@ -2381,7 +2395,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2A3 カードベース暗号・物理暗号 (1)",
+    "session": "2A3 カードベース暗号・物理暗号 (1) 1/27(火) 13:50 - 15:10",
     "id": "2A3-4",
     "title": "カードの二次元配置に対する様々なシャッフル",
     "authors": [
@@ -2406,7 +2420,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2B1 耐量子計算機暗号 (1)",
+    "session": "2B1 耐量子計算機暗号 (1) 1/27(火) 09:30 - 10:50",
     "id": "2B1-1",
     "title": "Krylov 部分空間法に基づく量子 Prange アルゴリズムの構成",
     "authors": [
@@ -2432,7 +2446,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2B1 耐量子計算機暗号 (1)",
+    "session": "2B1 耐量子計算機暗号 (1) 1/27(火) 09:30 - 10:50",
     "id": "2B1-2",
     "title": "F3上の高ハミング重みシンドローム復号問題に対するISDアルゴリズムの拡張と実装",
     "authors": [
@@ -2489,7 +2503,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2B1 耐量子計算機暗号 (1)",
+    "session": "2B1 耐量子計算機暗号 (1) 1/27(火) 09:30 - 10:50",
     "id": "2B1-3",
     "title": "双線形形式を用いたSupport Splitting Algorithmの高速化",
     "authors": [
@@ -2522,7 +2536,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2B1 耐量子計算機暗号 (1)",
+    "session": "2B1 耐量子計算機暗号 (1) 1/27(火) 09:30 - 10:50",
     "id": "2B1-4",
     "title": "組織的準巡回符号の平滑化限界について",
     "authors": [
@@ -2555,7 +2569,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2B2 耐量子計算機暗号 (2)",
+    "session": "2B2 耐量子計算機暗号 (2) 1/27(火) 11:10 - 12:30",
     "id": "2B2-1",
     "title": "Estimate the Cost of Partial Key Exposure Attacks on ML-KEM and ML-DSA",
     "authors": [
@@ -2580,7 +2594,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2B2 耐量子計算機暗号 (2)",
+    "session": "2B2 耐量子計算機暗号 (2) 1/27(火) 11:10 - 12:30",
     "id": "2B2-2",
     "title": "耐量子署名ML-DSAの検証者指定署名化手法の提案",
     "authors": [
@@ -2605,31 +2619,31 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2B2 耐量子計算機暗号 (2)",
+    "session": "2B2 耐量子計算機暗号 (2) 1/27(火) 11:10 - 12:30",
     "id": "2B2-3",
     "title": "ML-KEM/ML-DSAにおけるAVX-512の最適化効果",
     "authors": [
       {
         "name": "佐野 文彦",
         "affiliations": [
-          "（株"
+          "（株）東芝"
         ],
         "is_presenter": true,
         "presenter_symbol": "〇"
       }
     ],
-    "search_text": "2B2-3 ML-KEM/ML-DSAにおけるAVX-512の最適化効果 佐野 文彦 （株"
+    "search_text": "2B2-3 ML-KEM/ML-DSAにおけるAVX-512の最適化効果 佐野 文彦 （株）東芝"
   },
   {
     "event": "SCIS2026",
-    "session": "2B2 耐量子計算機暗号 (2)",
+    "session": "2B2 耐量子計算機暗号 (2) 1/27(火) 11:10 - 12:30",
     "id": "2B2-4",
     "title": "DingのRing-LWEベース鍵交換方式の再考：Module-LWEベースKEMへの構成",
     "authors": [
       {
         "name": "大塚 佑基",
         "affiliations": [
-          "電気通信大学　情報理工学域"
+          "電気通信大学 情報理工学域"
         ],
         "is_presenter": true,
         "presenter_symbol": "◎"
@@ -2637,17 +2651,17 @@
       {
         "name": "王 イントウ",
         "affiliations": [
-          "電気通信大学 大学院　情報理工学研究科　情報学専攻"
+          "電気通信大学 大学院 情報理工学研究科 情報学専攻"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2B2-4 DingのRing-LWEベース鍵交換方式の再考：Module-LWEベースKEMへの構成 大塚 佑基 王 イントウ 電気通信大学　情報理工学域 電気通信大学 大学院　情報理工学研究科　情報学専攻"
+    "search_text": "2B2-4 DingのRing-LWEベース鍵交換方式の再考：Module-LWEベースKEMへの構成 大塚 佑基 王 イントウ 電気通信大学 情報理工学域 電気通信大学 大学院 情報理工学研究科 情報学専攻"
   },
   {
     "event": "SCIS2026",
-    "session": "2B3 耐量子計算機暗号 (3)",
+    "session": "2B3 耐量子計算機暗号 (3) 1/27(火) 13:50 - 15:10",
     "id": "2B3-1",
     "title": "NTRU格子上のリング署名におけるpreimageサンプリングの組み込みと実験報告",
     "authors": [
@@ -2688,7 +2702,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2B3 耐量子計算機暗号 (3)",
+    "session": "2B3 耐量子計算機暗号 (3) 1/27(火) 13:50 - 15:10",
     "id": "2B3-2",
     "title": "TMVP法によるNTRUhrss1373の高速化",
     "authors": [
@@ -2737,7 +2751,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2B3 耐量子計算機暗号 (3)",
+    "session": "2B3 耐量子計算機暗号 (3) 1/27(火) 13:50 - 15:10",
     "id": "2B3-3",
     "title": "A Rank-3 Generalization of Antrag",
     "authors": [
@@ -2770,24 +2784,24 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2B3 耐量子計算機暗号 (3)",
+    "session": "2B3 耐量子計算機暗号 (3) 1/27(火) 13:50 - 15:10",
     "id": "2B3-4",
     "title": "SOLMAE: Faster and Simpler Quantum-safe Signature based on NTRU-lattices",
     "authors": [
       {
         "name": "Kwangjo Kim",
         "affiliations": [
-          "IRCS, KAIST(Korea"
+          "IRCS, KAIST(Korea) and CSU(USA)"
         ],
         "is_presenter": true,
         "presenter_symbol": "〇"
       }
     ],
-    "search_text": "2B3-4 SOLMAE: Faster and Simpler Quantum-safe Signature based on NTRU-lattices Kwangjo Kim IRCS, KAIST(Korea"
+    "search_text": "2B3-4 SOLMAE: Faster and Simpler Quantum-safe Signature based on NTRU-lattices Kwangjo Kim IRCS, KAIST(Korea) and CSU(USA)"
   },
   {
     "event": "SCIS2026",
-    "session": "2C1 秘密計算 (1)",
+    "session": "2C1 秘密計算 (1) 1/27(火) 09:30 - 10:50",
     "id": "2C1-1",
     "title": "Function Secret Sharingを用いたFour Russians Algorithmによる秘匿編集距離計算",
     "authors": [
@@ -2820,7 +2834,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2C1 秘密計算 (1)",
+    "session": "2C1 秘密計算 (1) 1/27(火) 09:30 - 10:50",
     "id": "2C1-2",
     "title": "Maliciousサーバ特定手法をもつ3-Party MPCの効率化",
     "authors": [
@@ -2855,7 +2869,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2C1 秘密計算 (1)",
+    "session": "2C1 秘密計算 (1) 1/27(火) 09:30 - 10:50",
     "id": "2C1-3",
     "title": "Iterative OT Extensions in Minicrypt",
     "authors": [
@@ -2876,12 +2890,12 @@
         "presenter_symbol": "◎"
       },
       {
-        "name": "ctavio Perez Kempner",
+        "name": "Octavio Perez Kempner",
         "affiliations": [
           "NTT Social Informatics Laboratories, Tokyo, Japan"
         ],
-        "is_presenter": true,
-        "presenter_symbol": "O"
+        "is_presenter": false,
+        "presenter_symbol": ""
       },
       {
         "name": "Mehdi Tibouchi",
@@ -2908,11 +2922,11 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2C1-3 Iterative OT Extensions in Minicrypt Peihao Li Rahul Satish ctavio Perez Kempner Mehdi Tibouchi Miyako Ohkubo Masayuki Abe Kyoto University, Japan IT University of Copenhagen, Denmark NTT Social Informatics Laboratories, Tokyo, Japan NTT Social Informatics Laboratories, Tokyo, Japan Security Fundamentals Laboratory, CSRI, NICT NTT Social Informatics Laboratories, Tokyo, Japan"
+    "search_text": "2C1-3 Iterative OT Extensions in Minicrypt Peihao Li Rahul Satish Octavio Perez Kempner Mehdi Tibouchi Miyako Ohkubo Masayuki Abe Kyoto University, Japan IT University of Copenhagen, Denmark NTT Social Informatics Laboratories, Tokyo, Japan NTT Social Informatics Laboratories, Tokyo, Japan Security Fundamentals Laboratory, CSRI, NICT NTT Social Informatics Laboratories, Tokyo, Japan"
   },
   {
     "event": "SCIS2026",
-    "session": "2C1 秘密計算 (1)",
+    "session": "2C1 秘密計算 (1) 1/27(火) 09:30 - 10:50",
     "id": "2C1-4",
     "title": "Implementation and Feasibility Study of Actively Secure Authenticated Half-Gates Garbling",
     "authors": [
@@ -2953,7 +2967,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2C2 秘密計算 (2)",
+    "session": "2C2 秘密計算 (2) 1/27(火) 11:10 - 12:30",
     "id": "2C2-1",
     "title": "擬似ランダム相関生成器の組込み機器向けハードウェアによる高速化",
     "authors": [
@@ -2986,7 +3000,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2C2 秘密計算 (2)",
+    "session": "2C2 秘密計算 (2) 1/27(火) 11:10 - 12:30",
     "id": "2C2-2",
     "title": "An Efficient Three-Party Oblivious Access for Large-Scale Database and Practical Applications",
     "authors": [
@@ -3011,7 +3025,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2C2 秘密計算 (2)",
+    "session": "2C2 秘密計算 (2) 1/27(火) 11:10 - 12:30",
     "id": "2C2-3",
     "title": "秘密計算において盗聴者を無視できる関数の条件について",
     "authors": [
@@ -3028,7 +3042,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2C2 秘密計算 (2)",
+    "session": "2C2 秘密計算 (2) 1/27(火) 11:10 - 12:30",
     "id": "2C2-4",
     "title": "動的更新可能な秘匿データベース処理プロトコル",
     "authors": [
@@ -3053,7 +3067,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2C3 秘密計算 (3)",
+    "session": "2C3 秘密計算 (3) 1/27(火) 13:50 - 15:10",
     "id": "2C3-1",
     "title": "準同型暗号におけるガウス過程回帰の補助変数法による高速化",
     "authors": [
@@ -3086,7 +3100,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2C3 秘密計算 (3)",
+    "session": "2C3 秘密計算 (3) 1/27(火) 13:50 - 15:10",
     "id": "2C3-2",
     "title": "TFHEを用いた差分プライバシーのためのノイズサンプリング手法",
     "authors": [
@@ -3111,7 +3125,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2C3 秘密計算 (3)",
+    "session": "2C3 秘密計算 (3) 1/27(火) 13:50 - 15:10",
     "id": "2C3-3",
     "title": "プライバシ保護型パレート最適グループ分割手法",
     "authors": [
@@ -3136,7 +3150,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2C3 秘密計算 (3)",
+    "session": "2C3 秘密計算 (3) 1/27(火) 13:50 - 15:10",
     "id": "2C3-4",
     "title": "特徴量とモデル構造の分割による完全準同型暗号のニューラルネットワーク適用の効率化",
     "authors": [
@@ -3161,7 +3175,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2D1 フォーマルメソッド",
+    "session": "2D1 フォーマルメソッド 1/27(火) 09:30 - 10:50",
     "id": "2D1-1",
     "title": "MermaidCP: Mermaid記法からデッドロックフリーな通信プログラムを生成するDSL（発表キャンセル）",
     "authors": [
@@ -3186,7 +3200,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2D1 フォーマルメソッド",
+    "session": "2D1 フォーマルメソッド 1/27(火) 09:30 - 10:50",
     "id": "2D1-2",
     "title": "ProVerifの到達可能性解析を用いたプロトコルプライバシの自動検証",
     "authors": [
@@ -3211,7 +3225,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2D1 フォーマルメソッド",
+    "session": "2D1 フォーマルメソッド 1/27(火) 09:30 - 10:50",
     "id": "2D1-3",
     "title": "Formal Verification of OAuth 2.0 Protocol Vulnerability Mitigation with PKCE",
     "authors": [
@@ -3232,12 +3246,12 @@
         "presenter_symbol": ""
       },
       {
-        "name": "KAZAKI Hiroyuki",
+        "name": "OKAZAKI Hiroyuki",
         "affiliations": [
           "Graduate School of Science and Engineering"
         ],
-        "is_presenter": true,
-        "presenter_symbol": "O"
+        "is_presenter": false,
+        "presenter_symbol": ""
       },
       {
         "name": "MIENO Takehiko",
@@ -3248,11 +3262,11 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2D1-3 Formal Verification of OAuth 2.0 Protocol Vulnerability Mitigation with PKCE SIVISAY Souksavay FUTA Yuichi KAZAKI Hiroyuki MIENO Takehiko Graduate School of Bionics，Computer and Media Science School of Computer Science Graduate School of Science and Engineering エプソンアヴァシス株式会社"
+    "search_text": "2D1-3 Formal Verification of OAuth 2.0 Protocol Vulnerability Mitigation with PKCE SIVISAY Souksavay FUTA Yuichi OKAZAKI Hiroyuki MIENO Takehiko Graduate School of Bionics，Computer and Media Science School of Computer Science Graduate School of Science and Engineering エプソンアヴァシス株式会社"
   },
   {
     "event": "SCIS2026",
-    "session": "2D1 フォーマルメソッド",
+    "session": "2D1 フォーマルメソッド 1/27(火) 09:30 - 10:50",
     "id": "2D1-4",
     "title": "端末追加方法を考慮した分散FIDO認証と安全性評価",
     "authors": [
@@ -3277,7 +3291,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2D2 署名・証明書プロトコル",
+    "session": "2D2 署名・証明書プロトコル 1/27(火) 11:10 - 12:30",
     "id": "2D2-1",
     "title": "スマートフォン版マイナンバーカードにおけるカード代替電磁的記録発行プロトコルの安全性評価",
     "authors": [
@@ -3320,7 +3334,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2D2 署名・証明書プロトコル",
+    "session": "2D2 署名・証明書プロトコル 1/27(火) 11:10 - 12:30",
     "id": "2D2-2",
     "title": "選択的開示可能な匿名属性証明書発行・利用シーケンスの形式検証",
     "authors": [
@@ -3410,7 +3424,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2D2 署名・証明書プロトコル",
+    "session": "2D2 署名・証明書プロトコル 1/27(火) 11:10 - 12:30",
     "id": "2D2-3",
     "title": "閾値署名を組み込んだセキュリティトークン方式の形式検証に関する一考察",
     "authors": [
@@ -3443,7 +3457,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2D2 署名・証明書プロトコル",
+    "session": "2D2 署名・証明書プロトコル 1/27(火) 11:10 - 12:30",
     "id": "2D2-4",
     "title": "証明書の柔軟な更新に向けた完全バッチ署名の提案",
     "authors": [
@@ -3476,7 +3490,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2D3 MPC-in-the-headによる署名・証明",
+    "session": "2D3 MPC-in-the-headによる署名・証明 1/27(火) 13:50 - 15:10",
     "id": "2D3-1",
     "title": "部分体双線形衝突問題に基づくVOLE-in-the-Headゼロ知識証明を用いたリング署名の構成",
     "authors": [
@@ -3509,7 +3523,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2D3 MPC-in-the-headによる署名・証明",
+    "session": "2D3 MPC-in-the-headによる署名・証明 1/27(火) 13:50 - 15:10",
     "id": "2D3-2",
     "title": "Towards provable security of MPC-in-the-Head signature with correlated-tree technique",
     "authors": [
@@ -3535,7 +3549,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2D3 MPC-in-the-headによる署名・証明",
+    "session": "2D3 MPC-in-the-headによる署名・証明 1/27(火) 13:50 - 15:10",
     "id": "2D3-3",
     "title": "3SATに対するKKW+Hypercube MPCitHの性能評価",
     "authors": [
@@ -3560,7 +3574,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2D3 MPC-in-the-headによる署名・証明",
+    "session": "2D3 MPC-in-the-headによる署名・証明 1/27(火) 13:50 - 15:10",
     "id": "2D3-4",
     "title": "Revisiting Knowledge Soundness of Cut-and-choose Mechanism in MPC-in-the-head Paradigm",
     "authors": [
@@ -3589,12 +3603,12 @@
         "presenter_symbol": ""
       },
       {
-        "name": "hkubo Miyako",
+        "name": "Ohkubo Miyako",
         "affiliations": [
           "NICT"
         ],
-        "is_presenter": true,
-        "presenter_symbol": "O"
+        "is_presenter": false,
+        "presenter_symbol": ""
       },
       {
         "name": "Shang Zehua",
@@ -3613,11 +3627,11 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2D3-4 Revisiting Knowledge Soundness of Cut-and-choose Mechanism in MPC-in-the-head Paradigm Abe Masayuki Balbás David Bui Dung hkubo Miyako Shang Zehua Mehdi Tibouchi NTT Social Informatics Laboratories IMDEA Software Institute EPITA, LIP6, Sorbonne Université NICT Kyoto University NTT Social Informatics Laboratories"
+    "search_text": "2D3-4 Revisiting Knowledge Soundness of Cut-and-choose Mechanism in MPC-in-the-head Paradigm Abe Masayuki Balbás David Bui Dung Ohkubo Miyako Shang Zehua Mehdi Tibouchi NTT Social Informatics Laboratories IMDEA Software Institute EPITA, LIP6, Sorbonne Université NICT Kyoto University NTT Social Informatics Laboratories"
   },
   {
     "event": "SCIS2026",
-    "session": "2E1 セキュリティ評価 (1)",
+    "session": "2E1 セキュリティ評価 (1) 1/27(火) 09:30 - 10:50",
     "id": "2E1-1",
     "title": "Cybersecurity Knowledge Graph Construction using Large Language Models",
     "authors": [
@@ -3650,7 +3664,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2E1 セキュリティ評価 (1)",
+    "session": "2E1 セキュリティ評価 (1) 1/27(火) 09:30 - 10:50",
     "id": "2E1-2",
     "title": "インシデント発生時の可用性に着目した業務影響度定量化手法の提案",
     "authors": [
@@ -3691,7 +3705,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2E1 セキュリティ評価 (1)",
+    "session": "2E1 セキュリティ評価 (1) 1/27(火) 09:30 - 10:50",
     "id": "2E1-3",
     "title": "A Secure and Lightweight IDS Architecture for RISC-V Edge Devices",
     "authors": [
@@ -3724,7 +3738,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2E1 セキュリティ評価 (1)",
+    "session": "2E1 セキュリティ評価 (1) 1/27(火) 09:30 - 10:50",
     "id": "2E1-4",
     "title": "システムの脅威分析を効率化するシステム構成画像解析",
     "authors": [
@@ -3749,7 +3763,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2E2 セキュリティ評価 (2)",
+    "session": "2E2 セキュリティ評価 (2) 1/27(火) 11:10 - 12:30",
     "id": "2E2-1",
     "title": "公開リポジトリにおける不再現PoCの識別手法",
     "authors": [
@@ -3790,7 +3804,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2E2 セキュリティ評価 (2)",
+    "session": "2E2 セキュリティ評価 (2) 1/27(火) 11:10 - 12:30",
     "id": "2E2-2",
     "title": "CTFデータを活用した攻撃成功率の定量的評価手法の有効性検討",
     "authors": [
@@ -3863,7 +3877,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2E2 セキュリティ評価 (2)",
+    "session": "2E2 セキュリティ評価 (2) 1/27(火) 11:10 - 12:30",
     "id": "2E2-3",
     "title": "ペネトレーションテスト依頼時における実施内容合意のための選択メニューの提案",
     "authors": [
@@ -3896,7 +3910,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2E3 セキュリティ評価 (3)",
+    "session": "2E3 セキュリティ評価 (3) 1/27(火) 13:50 - 15:10",
     "id": "2E3-1",
     "title": "設定ファイルおよびヘッダーファイルに存在する脆弱性の調査と脆弱コード検知手法の確立に向けた考察",
     "authors": [
@@ -3921,7 +3935,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2E3 セキュリティ評価 (3)",
+    "session": "2E3 セキュリティ評価 (3) 1/27(火) 13:50 - 15:10",
     "id": "2E3-2",
     "title": "Google Tensor搭載端末のpKVMにおけるメモリアクセス挙動の変化と暗号化の影響",
     "authors": [
@@ -3962,7 +3976,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2E3 セキュリティ評価 (3)",
+    "session": "2E3 セキュリティ評価 (3) 1/27(火) 13:50 - 15:10",
     "id": "2E3-3",
     "title": "サプライチェーンセキュリティを目的とする脅威モデリング手法の提案",
     "authors": [
@@ -3987,7 +4001,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2F1 組み込みセキュリティ",
+    "session": "2F1 組み込みセキュリティ 1/27(火) 09:30 - 10:50",
     "id": "2F1-1",
     "title": "HQCの省リソース機器向けソフトウェア実装",
     "authors": [
@@ -4028,7 +4042,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2F1 組み込みセキュリティ",
+    "session": "2F1 組み込みセキュリティ 1/27(火) 09:30 - 10:50",
     "id": "2F1-2",
     "title": "E2Eの観点で考えるゼロ化手法の体系化",
     "authors": [
@@ -4061,7 +4075,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2F1 組み込みセキュリティ",
+    "session": "2F1 組み込みセキュリティ 1/27(火) 09:30 - 10:50",
     "id": "2F1-3",
     "title": "RISC-V向けROP防御のためのアセンブリ改変によるガジェット検出無効化手法の提案と評価",
     "authors": [
@@ -4094,7 +4108,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2F1 組み込みセキュリティ",
+    "session": "2F1 組み込みセキュリティ 1/27(火) 09:30 - 10:50",
     "id": "2F1-4",
     "title": "コンフィギュレーションメモリの揮発性に着目した回路情報保護に関する一検討",
     "authors": [
@@ -4127,7 +4141,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2F2 自動車セキュリティ (1)",
+    "session": "2F2 自動車セキュリティ (1) 1/27(火) 11:10 - 12:30",
     "id": "2F2-1",
     "title": "CAN におけるカテゴリー検出のための特徴量パラメーター調整による 侵入検知率向上の検討と評価",
     "authors": [
@@ -4140,7 +4154,7 @@
         "presenter_symbol": "〇"
       },
       {
-        "name": "井上  博之",
+        "name": "井上 博之",
         "affiliations": [
           "京都産業大学"
         ],
@@ -4148,11 +4162,11 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2F2-1 CAN におけるカテゴリー検出のための特徴量パラメーター調整による 侵入検知率向上の検討と評価 南雲 皓介 井上  博之 スマートインプリメント株式会社 京都産業大学"
+    "search_text": "2F2-1 CAN におけるカテゴリー検出のための特徴量パラメーター調整による 侵入検知率向上の検討と評価 南雲 皓介 井上 博之 スマートインプリメント株式会社 京都産業大学"
   },
   {
     "event": "SCIS2026",
-    "session": "2F2 自動車セキュリティ (1)",
+    "session": "2F2 自動車セキュリティ (1) 1/27(火) 11:10 - 12:30",
     "id": "2F2-2",
     "title": "CANインジェクションによるCHAdeMO充電プロセスの不正制御攻撃とその対策",
     "authors": [
@@ -4209,7 +4223,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2F2 自動車セキュリティ (1)",
+    "session": "2F2 自動車セキュリティ (1) 1/27(火) 11:10 - 12:30",
     "id": "2F2-3",
     "title": "CAN向けグラフベース侵入検知システムにおけるウィンドウパラメータの影響評価",
     "authors": [
@@ -4250,7 +4264,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2F2 自動車セキュリティ (1)",
+    "session": "2F2 自動車セキュリティ (1) 1/27(火) 11:10 - 12:30",
     "id": "2F2-4",
     "title": "10BASE-T1SにおけるPLCAのノードIDの衝突を利用した攻撃とその緩和策の検討",
     "authors": [
@@ -4283,7 +4297,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2F3 自動車セキュリティ (2)",
+    "session": "2F3 自動車セキュリティ (2) 1/27(火) 13:50 - 15:10",
     "id": "2F3-1",
     "title": "大規模言語モデルによる脅威分析のリスク評価自動化手法",
     "authors": [
@@ -4300,7 +4314,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2F3 自動車セキュリティ (2)",
+    "session": "2F3 自動車セキュリティ (2) 1/27(火) 13:50 - 15:10",
     "id": "2F3-2",
     "title": "自動運転車の機械学習モデルに対する攻撃の検証と攻撃検知手法の提案",
     "authors": [
@@ -4325,7 +4339,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2F3 自動車セキュリティ (2)",
+    "session": "2F3 自動車セキュリティ (2) 1/27(火) 13:50 - 15:10",
     "id": "2F3-3",
     "title": "車両セキュリティにおける脆弱性対応を効率化する対応優先度決定手法",
     "authors": [
@@ -4358,7 +4372,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2F3 自動車セキュリティ (2)",
+    "session": "2F3 自動車セキュリティ (2) 1/27(火) 13:50 - 15:10",
     "id": "2F3-4",
     "title": "自動運転におけるHDマップ改ざん攻撃の持続的な脅威の分析と走行への影響評価",
     "authors": [
@@ -4404,13 +4418,21 @@
         ],
         "is_presenter": false,
         "presenter_symbol": ""
+      },
+      {
+        "name": "森 達哉",
+        "affiliations": [
+          "早稲田大学, 国立研究開発法人情報通信研究機構, 理化学研究所革新知能統合研究センター"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
       }
     ],
-    "search_text": "2F3-4 自動運転におけるHDマップ改ざん攻撃の持続的な脅威の分析と走行への影響評価 佐藤 光優 野本 一輝 鶴岡 豪 田中 優奈 森 達哉 早稲田大学 早稲田大学 デロイト トーマツ サイバー合同会社 早稲田大学 デロイト トーマツ サイバー合同会社 早稲田大学 国立研究開発法人情報通信研究機構 理化学研究所革新知能統合研究センター"
+    "search_text": "2F3-4 自動運転におけるHDマップ改ざん攻撃の持続的な脅威の分析と走行への影響評価 佐藤 光優 野本 一輝 鶴岡 豪 田中 優奈 森 達哉 森 達哉 早稲田大学 早稲田大学 デロイト トーマツ サイバー合同会社 早稲田大学 デロイト トーマツ サイバー合同会社 早稲田大学 国立研究開発法人情報通信研究機構 理化学研究所革新知能統合研究センター 早稲田大学, 国立研究開発法人情報通信研究機構, 理化学研究所革新知能統合研究センター"
   },
   {
     "event": "SCIS2026",
-    "session": "2G1 Webセキュリティ",
+    "session": "2G1 Webセキュリティ 1/27(火) 09:30 - 10:50",
     "id": "2G1-1",
     "title": "多言語音声と音韻修復効果を応用した高堅牢性音声 CAPTCHA の提案と評価",
     "authors": [
@@ -4443,7 +4465,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2G1 Webセキュリティ",
+    "session": "2G1 Webセキュリティ 1/27(火) 09:30 - 10:50",
     "id": "2G1-2",
     "title": "An Analysis of Root Causes for Secret Leakage in GitHub Repositories",
     "authors": [
@@ -4456,7 +4478,7 @@
         "presenter_symbol": "〇"
       },
       {
-        "name": "Ishii  Masahiro",
+        "name": "Ishii Masahiro",
         "affiliations": [
           "Institute of Science Tokyo"
         ],
@@ -4472,11 +4494,11 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2G1-2 An Analysis of Root Causes for Secret Leakage in GitHub Repositories ヌール ナセールアフマド Ishii  Masahiro Tanaka Keisuke Institute of Science Tokyo Institute of Science Tokyo Institute of Science Tokyo"
+    "search_text": "2G1-2 An Analysis of Root Causes for Secret Leakage in GitHub Repositories ヌール ナセールアフマド Ishii Masahiro Tanaka Keisuke Institute of Science Tokyo Institute of Science Tokyo Institute of Science Tokyo"
   },
   {
     "event": "SCIS2026",
-    "session": "2G1 Webセキュリティ",
+    "session": "2G1 Webセキュリティ 1/27(火) 09:30 - 10:50",
     "id": "2G1-3",
     "title": "インジェクション脆弱性修正戦略が非機能要件に与える影響評価",
     "authors": [
@@ -4509,7 +4531,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2G1 Webセキュリティ",
+    "session": "2G1 Webセキュリティ 1/27(火) 09:30 - 10:50",
     "id": "2G1-4",
     "title": "LLMエージェントを用いたホエーリング対策フレームワークの提案",
     "authors": [
@@ -4542,7 +4564,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2G2 クラウドセキュリティ",
+    "session": "2G2 クラウドセキュリティ 1/27(火) 11:10 - 12:30",
     "id": "2G2-1",
     "title": "Intel SGXを用いた属性ベース暗号システム設計とライブラリ実装",
     "authors": [
@@ -4587,7 +4609,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2G2 クラウドセキュリティ",
+    "session": "2G2 クラウドセキュリティ 1/27(火) 11:10 - 12:30",
     "id": "2G2-2",
     "title": "メモリ保護機構を用いたTemporal Graph Networksによるマイクロサービス異常検知と根本原因解析",
     "authors": [
@@ -4604,7 +4626,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2G2 クラウドセキュリティ",
+    "session": "2G2 クラウドセキュリティ 1/27(火) 11:10 - 12:30",
     "id": "2G2-3",
     "title": "PLP-Raft における頑健なリーダー選挙アルゴリズム",
     "authors": [
@@ -4629,7 +4651,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2G2 クラウドセキュリティ",
+    "session": "2G2 クラウドセキュリティ 1/27(火) 11:10 - 12:30",
     "id": "2G2-4",
     "title": "関数使用時間を利用したコンテナにおけるクリプトジャッキング攻撃検知手法の提案",
     "authors": [
@@ -4662,7 +4684,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2G3 SNSとディープフェイク",
+    "session": "2G3 SNSとディープフェイク 1/27(火) 13:50 - 15:10",
     "id": "2G3-1",
     "title": "Counting Bots Is Not Enough: Analyzing Bot Activity Through Naming Conventions, Content Clustering, and Activity Periods on OSNs",
     "authors": [
@@ -4695,7 +4717,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2G3 SNSとディープフェイク",
+    "session": "2G3 SNSとディープフェイク 1/27(火) 13:50 - 15:10",
     "id": "2G3-2",
     "title": "顔動画のディープフェイク検知モデルの評価結果の活用に関する一考察",
     "authors": [
@@ -4712,7 +4734,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2G3 SNSとディープフェイク",
+    "session": "2G3 SNSとディープフェイク 1/27(火) 13:50 - 15:10",
     "id": "2G3-3",
     "title": "X上の画像再利用パターン検出のための時系列可視化システムの構築と分析",
     "authors": [
@@ -4737,7 +4759,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2G3 SNSとディープフェイク",
+    "session": "2G3 SNSとディープフェイク 1/27(火) 13:50 - 15:10",
     "id": "2G3-4",
     "title": "メタ情報と独自抽出特徴量を用いたXの投稿位置推定モデルの提案と分類実験",
     "authors": [
@@ -4770,7 +4792,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2Z1 AIへの攻撃と対策 (2)",
+    "session": "2Z1 AIへの攻撃と対策 (2) 1/27(火) 09:30 - 10:50",
     "id": "2Z1-1",
     "title": "署名認証と多段ガードフィルタを用いた安全なLLMマルチエージェントワークフローの設計",
     "authors": [
@@ -4819,7 +4841,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2Z1 AIへの攻撃と対策 (2)",
+    "session": "2Z1 AIへの攻撃と対策 (2) 1/27(火) 09:30 - 10:50",
     "id": "2Z1-2",
     "title": "制約付きLLMの安全性検証に向けたトピック指向攻撃クエリ生成手法",
     "authors": [
@@ -4884,7 +4906,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2Z1 AIへの攻撃と対策 (2)",
+    "session": "2Z1 AIへの攻撃と対策 (2) 1/27(火) 09:30 - 10:50",
     "id": "2Z1-3",
     "title": "外部 VectorDB を用いた RAG システムにおける情報漏えい制御アーキテクチャの提案",
     "authors": [
@@ -4925,7 +4947,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2Z1 AIへの攻撃と対策 (2)",
+    "session": "2Z1 AIへの攻撃と対策 (2) 1/27(火) 09:30 - 10:50",
     "id": "2Z1-4",
     "title": "Self-Attentionを用いたAI AgentのIndirect Prompt Injection攻撃に対する動的防御",
     "authors": [
@@ -4966,7 +4988,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2Z2 AIへの攻撃と対策 (3)",
+    "session": "2Z2 AIへの攻撃と対策 (3) 1/27(火) 11:10 - 12:30",
     "id": "2Z2-1",
     "title": "視覚言語モデルに対して高エネルギー消費と推論時間遅延を引き起こす冗長画像の検知手法",
     "authors": [
@@ -4991,7 +5013,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2Z2 AIへの攻撃と対策 (3)",
+    "session": "2Z2 AIへの攻撃と対策 (3) 1/27(火) 11:10 - 12:30",
     "id": "2Z2-2",
     "title": "大規模視覚言語モデルを用いた生成画像の著作権侵害検出システムにおける敵対的サンプルの影響評価",
     "authors": [
@@ -5024,7 +5046,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "2Z2 AIへの攻撃と対策 (3)",
+    "session": "2Z2 AIへの攻撃と対策 (3) 1/27(火) 11:10 - 12:30",
     "id": "2Z2-3",
     "title": "Vision-Language-Action modelsに対する強力な敵対的patchの配置法に関する考察",
     "authors": [
@@ -5049,7 +5071,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3A1 カードベース暗号・物理暗号 (2)",
+    "session": "3A1 カードベース暗号・物理暗号 (2) 1/28(水) 09:30 - 10:50",
     "id": "3A1-1",
     "title": "リバーシブルカードを用いたカードベースプロトコル",
     "authors": [
@@ -5098,7 +5120,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3A1 カードベース暗号・物理暗号 (2)",
+    "session": "3A1 カードベース暗号・物理暗号 (2) 1/28(水) 09:30 - 10:50",
     "id": "3A1-2",
     "title": "ランダムカットのダブルシフティング技法とその応用",
     "authors": [
@@ -5121,11 +5143,14 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3A1-2 ランダムカットのダブルシフティング技法とその応用 品川 和雅 江利口 礼央 筑波大学 九州大学 産業技術総合研究所 産業技術総合研究所"
+    "search_text": "3A1-2 ランダムカットのダブルシフティング技法とその応用 品川 和雅 江利口 礼央 筑波大学 九州大学 産業技術総合研究所 産業技術総合研究所 イノベーション論文賞",
+    "awards": [
+      "イノベーション論文賞"
+    ]
   },
   {
     "event": "SCIS2026",
-    "session": "3A1 カードベース暗号・物理暗号 (2)",
+    "session": "3A1 カードベース暗号・物理暗号 (2) 1/28(水) 09:30 - 10:50",
     "id": "3A1-3",
     "title": "部分開示操作を用いた追加カードなしの3変数関数プロトコル",
     "authors": [
@@ -5159,7 +5184,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3A1 カードベース暗号・物理暗号 (2)",
+    "session": "3A1 カードベース暗号・物理暗号 (2) 1/28(水) 09:30 - 10:50",
     "id": "3A1-4",
     "title": "有向カードを用いたカードベース加減算プロトコルについて",
     "authors": [
@@ -5176,7 +5201,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3A2 カードベース暗号・物理暗号 (3)",
+    "session": "3A2 カードベース暗号・物理暗号 (3) 1/28(水) 11:10 - 12:30",
     "id": "3A2-1",
     "title": "スターバトルに対するカードベースゼロ知識証明",
     "authors": [
@@ -5210,7 +5235,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3A2 カードベース暗号・物理暗号 (3)",
+    "session": "3A2 カードベース暗号・物理暗号 (3) 1/28(水) 11:10 - 12:30",
     "id": "3A2-2",
     "title": "バトルシップに対するカードベースゼロ知識証明",
     "authors": [
@@ -5244,7 +5269,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3A2 カードベース暗号・物理暗号 (3)",
+    "session": "3A2 カードベース暗号・物理暗号 (3) 1/28(水) 11:10 - 12:30",
     "id": "3A2-3",
     "title": "ハミルトン閉路問題に対するカードベースゼロ知識証明とHidatoへの応用",
     "authors": [
@@ -5270,7 +5295,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3A2 カードベース暗号・物理暗号 (3)",
+    "session": "3A2 カードベース暗号・物理暗号 (3) 1/28(水) 11:10 - 12:30",
     "id": "3A2-4",
     "title": "ハミルトン閉路遷移問題およびマッチング遷移問題に対する物理的ゼロ知識証明",
     "authors": [
@@ -5311,7 +5336,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3A3 カードベース暗号・物理暗号 (4)",
+    "session": "3A3 カードベース暗号・物理暗号 (4) 1/28(水) 13:50 - 15:10",
     "id": "3A3-1",
     "title": "ABC End Viewに対するカードベースのゼロ知識証明のシャッフル回数削減",
     "authors": [
@@ -5336,7 +5361,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3A3 カードベース暗号・物理暗号 (4)",
+    "session": "3A3 カードベース暗号・物理暗号 (4) 1/28(水) 13:50 - 15:10",
     "id": "3A3-2",
     "title": "裏面の異なるトランプを使用したパイルスクランブルシャッフル1回の数独に対するゼロ知識証明",
     "authors": [
@@ -5361,7 +5386,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3A3 カードベース暗号・物理暗号 (4)",
+    "session": "3A3 カードベース暗号・物理暗号 (4) 1/28(水) 13:50 - 15:10",
     "id": "3A3-3",
     "title": "数独に対するカードベース別解検証プロトコル",
     "authors": [
@@ -5402,7 +5427,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3A3 カードベース暗号・物理暗号 (4)",
+    "session": "3A3 カードベース暗号・物理暗号 (4) 1/28(水) 13:50 - 15:10",
     "id": "3A3-4",
     "title": "数コロに対する効率的な物理的ゼロ知識証明プロトロル-2進数表現とシミュレーションに基づくシャッフル回数の削減-",
     "authors": [
@@ -5435,7 +5460,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3B1 耐量子計算機暗号 (4)",
+    "session": "3B1 耐量子計算機暗号 (4) 1/28(水) 09:30 - 10:50",
     "id": "3B1-1",
     "title": "定数整数除算・剰余算最適化再考",
     "authors": [
@@ -5452,7 +5477,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3B1 耐量子計算機暗号 (4)",
+    "session": "3B1 耐量子計算機暗号 (4) 1/28(水) 09:30 - 10:50",
     "id": "3B1-2",
     "title": "Cool–Chill–Cruel: ML-Guided Three-Band Attack on LWE with Sparse Binary Secrets",
     "authors": [
@@ -5477,7 +5502,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3B1 耐量子計算機暗号 (4)",
+    "session": "3B1 耐量子計算機暗号 (4) 1/28(水) 09:30 - 10:50",
     "id": "3B1-3",
     "title": "秘密分散およびマルチキー準同型暗号を用いたプライバシー保護連合学習方式の提案",
     "authors": [
@@ -5502,12 +5527,12 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3B1 耐量子計算機暗号 (4)",
+    "session": "3B1 耐量子計算機暗号 (4) 1/28(水) 09:30 - 10:50",
     "id": "3B1-4",
     "title": "故障注入攻撃に対する格子ベース鍵カプセル化メカニズムの安全性評価",
     "authors": [
       {
-        "name": "上野   嶺",
+        "name": "上野 嶺",
         "affiliations": [
           "京都大学",
           "東北大学"
@@ -5516,7 +5541,7 @@
         "presenter_symbol": ""
       },
       {
-        "name": "Tasso  Élise",
+        "name": "Tasso Élise",
         "affiliations": [
           "東北大学"
         ],
@@ -5524,7 +5549,7 @@
         "presenter_symbol": "◎"
       },
       {
-        "name": "草川  恵太",
+        "name": "草川 恵太",
         "affiliations": [
           "Technology Innovation Institute"
         ],
@@ -5532,7 +5557,7 @@
         "presenter_symbol": ""
       },
       {
-        "name": "本間  尚文",
+        "name": "本間 尚文",
         "affiliations": [
           "東北大学"
         ],
@@ -5540,11 +5565,11 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3B1-4 故障注入攻撃に対する格子ベース鍵カプセル化メカニズムの安全性評価 上野   嶺 Tasso  Élise 草川  恵太 本間  尚文 京都大学 東北大学 東北大学 Technology Innovation Institute 東北大学"
+    "search_text": "3B1-4 故障注入攻撃に対する格子ベース鍵カプセル化メカニズムの安全性評価 上野 嶺 Tasso Élise 草川 恵太 本間 尚文 京都大学 東北大学 東北大学 Technology Innovation Institute 東北大学"
   },
   {
     "event": "SCIS2026",
-    "session": "3B2 楕円曲線",
+    "session": "3B2 楕円曲線 1/28(水) 11:10 - 12:30",
     "id": "3B2-1",
     "title": "同種条件を満たさない被覆攻撃の対象となる偶標数有限体上の種数3超楕円曲線の分類に関する研究",
     "authors": [
@@ -5593,7 +5618,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3B2 楕円曲線",
+    "session": "3B2 楕円曲線 1/28(水) 11:10 - 12:30",
     "id": "3B2-2",
     "title": "バイナリ楕円曲線に対する省メモリ量子攻撃の効率化",
     "authors": [
@@ -5618,7 +5643,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3B2 楕円曲線",
+    "session": "3B2 楕円曲線 1/28(水) 11:10 - 12:30",
     "id": "3B2-3",
     "title": "Weierstrass標準形の楕円曲線におけるMontgomeryとJoye ladderの改良",
     "authors": [
@@ -5643,7 +5668,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3B3 耐量子計算機暗号 (5)",
+    "session": "3B3 耐量子計算機暗号 (5) 1/28(水) 13:50 - 15:10",
     "id": "3B3-1",
     "title": "QR-UOVのNIST PQC Round2実装に対する定数時間実装の提案",
     "authors": [
@@ -5676,7 +5701,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3B3 耐量子計算機暗号 (5)",
+    "session": "3B3 耐量子計算機暗号 (5) 1/28(水) 13:50 - 15:10",
     "id": "3B3-2",
     "title": "Rectangular MinRank攻撃の幾何的な考察に基づく一般化とそのUOVとMAYOへの適用",
     "authors": [
@@ -5709,7 +5734,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3B3 耐量子計算機暗号 (5)",
+    "session": "3B3 耐量子計算機暗号 (5) 1/28(水) 13:50 - 15:10",
     "id": "3B3-3",
     "title": "暗号解析に向けたBlock Wiedemann XL アルゴリズムの素朴な計算量解析",
     "authors": [
@@ -5742,7 +5767,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3B3 耐量子計算機暗号 (5)",
+    "session": "3B3 耐量子計算機暗号 (5) 1/28(水) 13:50 - 15:10",
     "id": "3B3-4",
     "title": "署名方式UOVに対するIntersection攻撃の逆像元モデル",
     "authors": [
@@ -5767,7 +5792,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3C1 匿名化・合成データ",
+    "session": "3C1 匿名化・合成データ 1/28(水) 09:30 - 10:50",
     "id": "3C1-1",
     "title": "LLMを適用した匿名化方式の提案",
     "authors": [
@@ -5792,7 +5817,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3C1 匿名化・合成データ",
+    "session": "3C1 匿名化・合成データ 1/28(水) 09:30 - 10:50",
     "id": "3C1-2",
     "title": "L-Palette:Paletteの匿名性向上について",
     "authors": [
@@ -5825,7 +5850,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3C1 匿名化・合成データ",
+    "session": "3C1 匿名化・合成データ 1/28(水) 09:30 - 10:50",
     "id": "3C1-3",
     "title": "プライバシ保護型データ生成手法に対するメンバーシップ推論攻撃の体系的評価",
     "authors": [
@@ -5858,7 +5883,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3C1 匿名化・合成データ",
+    "session": "3C1 匿名化・合成データ 1/28(水) 09:30 - 10:50",
     "id": "3C1-4",
     "title": "Evaluation of Data Utility, Classification Consistency, and Vulnerability of k-Anonymization Algorithms",
     "authors": [
@@ -5883,7 +5908,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3C2 デジタルアイデンティティ・VC (1)",
+    "session": "3C2 デジタルアイデンティティ・VC (1) 1/28(水) 11:10 - 12:30",
     "id": "3C2-1",
     "title": "Anastasia: 鍵アテステーションを備えたデバイス固定仮名クレデンシャル",
     "authors": [
@@ -5924,7 +5949,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3C2 デジタルアイデンティティ・VC (1)",
+    "session": "3C2 デジタルアイデンティティ・VC (1) 1/28(水) 11:10 - 12:30",
     "id": "3C2-2",
     "title": "BBS署名を用いたIssuer-Hiding Anonymous Credentialsの検討",
     "authors": [
@@ -5957,7 +5982,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3C2 デジタルアイデンティティ・VC (1)",
+    "session": "3C2 デジタルアイデンティティ・VC (1) 1/28(水) 11:10 - 12:30",
     "id": "3C2-3",
     "title": "VDR-Proof: 利用者によるVerifiable Data Registryの状態証明",
     "authors": [
@@ -5998,7 +6023,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3C2 デジタルアイデンティティ・VC (1)",
+    "session": "3C2 デジタルアイデンティティ・VC (1) 1/28(水) 11:10 - 12:30",
     "id": "3C2-4",
     "title": "DIDとリモート署名の融合方法に関する検討",
     "authors": [
@@ -6031,7 +6056,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3C3 デジタルアイデンティティ・VC (2)",
+    "session": "3C3 デジタルアイデンティティ・VC (2) 1/28(水) 13:50 - 15:10",
     "id": "3C3-1",
     "title": "VCの選択的開示機能向けUIのユーザ調査",
     "authors": [
@@ -6060,7 +6085,7 @@
         "presenter_symbol": ""
       },
       {
-        "name": "渡邉  健",
+        "name": "渡邉 健",
         "affiliations": [
           "早稲田大学"
         ],
@@ -6108,11 +6133,11 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3C3-1 VCの選択的開示機能向けUIのユーザ調査 三富 友貴 深見 嘉明 水野 重弦 渡邉  健 藤井 孝輔 佐古 和恵 膳場 百合⼦ 加藤 綾子 小川 亮 早稲田大学 東京理科⼤学 早稲田大学 早稲田大学 早稲田大学 早稲田大学 早稲田大学 東洋⼤学 國學院⼤学"
+    "search_text": "3C3-1 VCの選択的開示機能向けUIのユーザ調査 三富 友貴 深見 嘉明 水野 重弦 渡邉 健 藤井 孝輔 佐古 和恵 膳場 百合⼦ 加藤 綾子 小川 亮 早稲田大学 東京理科⼤学 早稲田大学 早稲田大学 早稲田大学 早稲田大学 早稲田大学 東洋⼤学 國學院⼤学"
   },
   {
     "event": "SCIS2026",
-    "session": "3C3 デジタルアイデンティティ・VC (2)",
+    "session": "3C3 デジタルアイデンティティ・VC (2) 1/28(水) 13:50 - 15:10",
     "id": "3C3-2",
     "title": "マイナンバーカードの選択的属性開示機能の一実装",
     "authors": [
@@ -6145,7 +6170,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3C3 デジタルアイデンティティ・VC (2)",
+    "session": "3C3 デジタルアイデンティティ・VC (2) 1/28(水) 13:50 - 15:10",
     "id": "3C3-3",
     "title": "既発行ICカードの署名機能を用いたVCの構築案とHPKIへの応用",
     "authors": [
@@ -6170,7 +6195,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3C3 デジタルアイデンティティ・VC (2)",
+    "session": "3C3 デジタルアイデンティティ・VC (2) 1/28(水) 13:50 - 15:10",
     "id": "3C3-4",
     "title": "送金者指定口座番号スキームの提案",
     "authors": [
@@ -6187,7 +6212,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3D1 共通鍵暗号 (3)",
+    "session": "3D1 共通鍵暗号 (3) 1/28(水) 09:30 - 10:50",
     "id": "3D1-1",
     "title": "HCTR+に対する量子安全性解析",
     "authors": [
@@ -6220,7 +6245,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3D1 共通鍵暗号 (3)",
+    "session": "3D1 共通鍵暗号 (3) 1/28(水) 09:30 - 10:50",
     "id": "3D1-2",
     "title": "TWINE S-boxのT-depth 2の量子回路実装",
     "authors": [
@@ -6245,7 +6270,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3D1 共通鍵暗号 (3)",
+    "session": "3D1 共通鍵暗号 (3) 1/28(水) 09:30 - 10:50",
     "id": "3D1-3",
     "title": "量子アニーリングシミュレータを用いたブロック暗号SIMONの鍵回復",
     "authors": [
@@ -6262,7 +6287,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3D2 共通鍵暗号 (4)",
+    "session": "3D2 共通鍵暗号 (4) 1/28(水) 11:10 - 12:30",
     "id": "3D2-1",
     "title": "軽量暗号SAND-128に対する差分識別子の探索",
     "authors": [
@@ -6279,7 +6304,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3D2 共通鍵暗号 (4)",
+    "session": "3D2 共通鍵暗号 (4) 1/28(水) 11:10 - 12:30",
     "id": "3D2-2",
     "title": "ブロック暗号利用モードにおける高速SIMDマスク値生成の検討",
     "authors": [
@@ -6312,7 +6337,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3D2 共通鍵暗号 (4)",
+    "session": "3D2 共通鍵暗号 (4) 1/28(水) 11:10 - 12:30",
     "id": "3D2-3",
     "title": "ベクトル値ブール関数の拡大アフィン対称性について",
     "authors": [
@@ -6329,7 +6354,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3D3 共通鍵暗号 (5)",
+    "session": "3D3 共通鍵暗号 (5) 1/28(水) 13:50 - 15:10",
     "id": "3D3-1",
     "title": "軽量ブロック暗号DLBCAに対するSTPを用いた線形攻撃",
     "authors": [
@@ -6354,7 +6379,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3D3 共通鍵暗号 (5)",
+    "session": "3D3 共通鍵暗号 (5) 1/28(水) 13:50 - 15:10",
     "id": "3D3-2",
     "title": "軽量ハッシュ関数 Lesamnta-LW の衝突攻撃に対する安全性評価",
     "authors": [
@@ -6395,7 +6420,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3D3 共通鍵暗号 (5)",
+    "session": "3D3 共通鍵暗号 (5) 1/28(水) 13:50 - 15:10",
     "id": "3D3-3",
     "title": "HMAC-SHA-1およびHMAC-SHA-256の衝突を利用した偽造攻撃に対する安全性評価",
     "authors": [
@@ -6454,7 +6479,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3D3 共通鍵暗号 (5)",
+    "session": "3D3 共通鍵暗号 (5) 1/28(水) 13:50 - 15:10",
     "id": "3D3-4",
     "title": "Enocoro-128v2に対するBit-based Division Propertyの伝搬評価",
     "authors": [
@@ -6479,7 +6504,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3E1 量子暗号プロトコル",
+    "session": "3E1 量子暗号プロトコル 1/28(水) 09:30 - 10:50",
     "id": "3E1-1",
     "title": "古典クライアント量子準同型暗号を用いた分散アーキテクチャに対するセキュア委任量子計算プロトコル",
     "authors": [
@@ -6496,7 +6521,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3E1 量子暗号プロトコル",
+    "session": "3E1 量子暗号プロトコル 1/28(水) 09:30 - 10:50",
     "id": "3E1-2",
     "title": "(秘匿依頼計算)量子サーバーによる暗号文解読サービスの計算量の見積もり",
     "authors": [
@@ -6521,7 +6546,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3E1 量子暗号プロトコル",
+    "session": "3E1 量子暗号プロトコル 1/28(水) 09:30 - 10:50",
     "id": "3E1-3",
     "title": "Verification of Entanglement Revocation for Quantum Networks",
     "authors": [
@@ -6546,7 +6571,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3E1 量子暗号プロトコル",
+    "session": "3E1 量子暗号プロトコル 1/28(水) 09:30 - 10:50",
     "id": "3E1-4",
     "title": "量子メモリの証明",
     "authors": [
@@ -6583,11 +6608,14 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3E1-4 量子メモリの証明 Hhan Minki 森前 智行 沖中 康昭 山川 高志 The University of Texas at Austin 京都大学 京都大学 NTT"
+    "search_text": "3E1-4 量子メモリの証明 Hhan Minki 森前 智行 沖中 康昭 山川 高志 The University of Texas at Austin 京都大学 京都大学 NTT SCIS論文賞",
+    "awards": [
+      "SCIS論文賞"
+    ]
   },
   {
     "event": "SCIS2026",
-    "session": "3E2 量子アルゴリズム",
+    "session": "3E2 量子アルゴリズム 1/28(水) 11:10 - 12:30",
     "id": "3E2-1",
     "title": "量子コンピュータによるShorのアルゴリズムの実行性能の現状報告",
     "authors": [
@@ -6628,7 +6656,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3E2 量子アルゴリズム",
+    "session": "3E2 量子アルゴリズム 1/28(水) 11:10 - 12:30",
     "id": "3E2-2",
     "title": "Research on Toffoli Gate Decomposition for Shor’s Factoring Algorithm in Noisy Environments",
     "authors": [
@@ -6653,7 +6681,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3E2 量子アルゴリズム",
+    "session": "3E2 量子アルゴリズム 1/28(水) 11:10 - 12:30",
     "id": "3E2-3",
     "title": "べき乗剰余を計算する定数深さ量子回路の具体的な構成",
     "authors": [
@@ -6678,7 +6706,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3E2 量子アルゴリズム",
+    "session": "3E2 量子アルゴリズム 1/28(水) 11:10 - 12:30",
     "id": "3E2-4",
     "title": "トリボナッチ数列を用いたRegev素因数分解量子アルゴリズム",
     "authors": [
@@ -6703,7 +6731,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3E3 暗号プロトコルとセキュリティモデル",
+    "session": "3E3 暗号プロトコルとセキュリティモデル 1/28(水) 13:50 - 15:10",
     "id": "3E3-1",
     "title": "A Generic Construction of One-Shot Verifiable Secure Aggregation",
     "authors": [
@@ -6744,7 +6772,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3E3 暗号プロトコルとセキュリティモデル",
+    "session": "3E3 暗号プロトコルとセキュリティモデル 1/28(水) 13:50 - 15:10",
     "id": "3E3-2",
     "title": "公開鍵導出可能鍵隔離プライバシー保護署名からのCCA安全な公開鍵暗号の一般的構成",
     "authors": [
@@ -6770,7 +6798,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3E3 暗号プロトコルとセキュリティモデル",
+    "session": "3E3 暗号プロトコルとセキュリティモデル 1/28(水) 13:50 - 15:10",
     "id": "3E3-3",
     "title": "非自明イデアル所属問題としての KZG-like 多項式コミットメントスキーム",
     "authors": [
@@ -6795,7 +6823,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3E3 暗号プロトコルとセキュリティモデル",
+    "session": "3E3 暗号プロトコルとセキュリティモデル 1/28(水) 13:50 - 15:10",
     "id": "3E3-4",
     "title": "Broadcast Encryption with Interactive Key Generation",
     "authors": [
@@ -6836,7 +6864,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3F1 自動車セキュリティ (3)",
+    "session": "3F1 自動車セキュリティ (3) 1/28(水) 09:30 - 10:50",
     "id": "3F1-1",
     "title": "自動運転車のデジタルフォレンジックに向けたAUTOSAR SEvの提案",
     "authors": [
@@ -6877,7 +6905,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3F1 自動車セキュリティ (3)",
+    "session": "3F1 自動車セキュリティ (3) 1/28(水) 09:30 - 10:50",
     "id": "3F1-2",
     "title": "次世代自動運転は安全か？：Occupancy Predictionに対する攻撃提案および評価とそのシステムレベルの影響評価",
     "authors": [
@@ -6938,7 +6966,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3F1 自動車セキュリティ (3)",
+    "session": "3F1 自動車セキュリティ (3) 1/28(水) 09:30 - 10:50",
     "id": "3F1-3",
     "title": "自動運転におけるセンサアタックフォレンジックの検討",
     "authors": [
@@ -6963,7 +6991,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3F1 自動車セキュリティ (3)",
+    "session": "3F1 自動車セキュリティ (3) 1/28(水) 09:30 - 10:50",
     "id": "3F1-4",
     "title": "LLMを用いた攻撃可能性評価における評価指標の提案",
     "authors": [
@@ -7004,7 +7032,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3F2 自動車セキュリティ (4)",
+    "session": "3F2 自動車セキュリティ (4) 1/28(水) 11:10 - 12:30",
     "id": "3F2-1",
     "title": "車両セキュリティのインテリジェンス生成に向けた生成AI活用時のハルシネーション検知手法",
     "authors": [
@@ -7029,7 +7057,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3F2 自動車セキュリティ (4)",
+    "session": "3F2 自動車セキュリティ (4) 1/28(水) 11:10 - 12:30",
     "id": "3F2-2",
     "title": "V2X-SAFE: 自動運転におけるV2Xセキュリティのシステムレベル評価フレームワーク",
     "authors": [
@@ -7081,7 +7109,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3F2 自動車セキュリティ (4)",
+    "session": "3F2 自動車セキュリティ (4) 1/28(水) 11:10 - 12:30",
     "id": "3F2-3",
     "title": "AI/ML利用システムにおける品質保証の国際規格動向と技術的課題",
     "authors": [
@@ -7106,7 +7134,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3F3 自動車セキュリティ (5)",
+    "session": "3F3 自動車セキュリティ (5) 1/28(水) 13:50 - 15:10",
     "id": "3F3-1",
     "title": "信号機検出モデルに対する Traﬃc-Light Hiding Attack の評価",
     "authors": [
@@ -7166,7 +7194,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3F3 自動車セキュリティ (5)",
+    "session": "3F3 自動車セキュリティ (5) 1/28(水) 13:50 - 15:10",
     "id": "3F3-2",
     "title": "風景に溶け込む敵対的背景の実用性評価",
     "authors": [
@@ -7231,7 +7259,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3F3 自動車セキュリティ (5)",
+    "session": "3F3 自動車セキュリティ (5) 1/28(水) 13:50 - 15:10",
     "id": "3F3-3",
     "title": "Automotive Security Testing Framework for Clock Extension Peripheral Interface (CXPI)",
     "authors": [
@@ -7256,7 +7284,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3G1 バイオメトリクス (1)",
+    "session": "3G1 バイオメトリクス (1) 1/28(水) 09:30 - 10:50",
     "id": "3G1-1",
     "title": "フリック入力における姿勢にロバストな生体認証方式に関する研究",
     "authors": [
@@ -7313,7 +7341,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3G1 バイオメトリクス (1)",
+    "session": "3G1 バイオメトリクス (1) 1/28(水) 09:30 - 10:50",
     "id": "3G1-2",
     "title": "非接触ウェアラブル心拍センサを利用した認証システムの試作と評価",
     "authors": [
@@ -7346,7 +7374,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3G1 バイオメトリクス (1)",
+    "session": "3G1 バイオメトリクス (1) 1/28(水) 09:30 - 10:50",
     "id": "3G1-3",
     "title": "音楽ゲームのノーツを利用したリズムの記憶を必要としないリズム認証手法の提案",
     "authors": [
@@ -7395,7 +7423,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3G1 バイオメトリクス (1)",
+    "session": "3G1 バイオメトリクス (1) 1/28(水) 09:30 - 10:50",
     "id": "3G1-4",
     "title": "ReMASCコーパスの再設計によるマルチチャネルなりすまし音声検出の評価基盤",
     "authors": [
@@ -7428,7 +7456,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3G2 バイオメトリクス (2)",
+    "session": "3G2 バイオメトリクス (2) 1/28(水) 11:10 - 12:30",
     "id": "3G2-1",
     "title": "VRと行動認証の関係について",
     "authors": [
@@ -7453,7 +7481,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3G2 バイオメトリクス (2)",
+    "session": "3G2 バイオメトリクス (2) 1/28(水) 11:10 - 12:30",
     "id": "3G2-2",
     "title": "DINOv2 with Registers を用いた顔なりすまし攻撃検知とその性能評価",
     "authors": [
@@ -7494,7 +7522,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3G2 バイオメトリクス (2)",
+    "session": "3G2 バイオメトリクス (2) 1/28(水) 11:10 - 12:30",
     "id": "3G2-3",
     "title": "照明変動に頑健な耳認証のためのデータ拡張手法の検討",
     "authors": [
@@ -7528,7 +7556,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3G2 バイオメトリクス (2)",
+    "session": "3G2 バイオメトリクス (2) 1/28(水) 11:10 - 12:30",
     "id": "3G2-4",
     "title": "構造化プロンプトとマルチモーダル最適化によるモーフィング攻撃検知",
     "authors": [
@@ -7562,7 +7590,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3G3 サイバーセキュリティとAI",
+    "session": "3G3 サイバーセキュリティとAI 1/28(水) 13:50 - 15:10",
     "id": "3G3-1",
     "title": "セキュリティ用オープンLLMエージェントシステムのエンジニアリングガイド",
     "authors": [
@@ -7586,11 +7614,14 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3G3-1 セキュリティ用オープンLLMエージェントシステムのエンジニアリングガイド 戸田 宇亮 森 達哉 早稲田大学 理研AIP 早稲田大学 理研AIP NICT"
+    "search_text": "3G3-1 セキュリティ用オープンLLMエージェントシステムのエンジニアリングガイド 戸田 宇亮 森 達哉 早稲田大学 理研AIP 早稲田大学 理研AIP NICT SCIS論文賞",
+    "awards": [
+      "SCIS論文賞"
+    ]
   },
   {
     "event": "SCIS2026",
-    "session": "3G3 サイバーセキュリティとAI",
+    "session": "3G3 サイバーセキュリティとAI 1/28(水) 13:50 - 15:10",
     "id": "3G3-2",
     "title": "CoTを用いたLLMによるIoTデバイス異常動作検知手法",
     "authors": [
@@ -7623,7 +7654,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3G3 サイバーセキュリティとAI",
+    "session": "3G3 サイバーセキュリティとAI 1/28(水) 13:50 - 15:10",
     "id": "3G3-3",
     "title": "LLMアンサンブルによるIoTデバイスのセキュリティ適合性評価の自動化",
     "authors": [
@@ -7680,7 +7711,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3G3 サイバーセキュリティとAI",
+    "session": "3G3 サイバーセキュリティとAI 1/28(水) 13:50 - 15:10",
     "id": "3G3-4",
     "title": "アセンブリとバイナリデータを処理するAIエージェントの試作",
     "authors": [
@@ -7715,7 +7746,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3Z1 AIへの攻撃と対策 (4)",
+    "session": "3Z1 AIへの攻撃と対策 (4) 1/28(水) 09:30 - 10:50",
     "id": "3Z1-1",
     "title": "サーバ支援型検証によるオンデバイス学習異常検知器へのデータポイズニング攻撃の緩和",
     "authors": [
@@ -7756,7 +7787,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3Z1 AIへの攻撃と対策 (4)",
+    "session": "3Z1 AIへの攻撃と対策 (4) 1/28(水) 09:30 - 10:50",
     "id": "3Z1-2",
     "title": "DP-GraphRAG：プライバシー・実用性トレードオフを最適化する差分プライベートなGraphRAG",
     "authors": [
@@ -7789,7 +7820,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3Z1 AIへの攻撃と対策 (4)",
+    "session": "3Z1 AIへの攻撃と対策 (4) 1/28(水) 09:30 - 10:50",
     "id": "3Z1-3",
     "title": "GraphRAG データベースの構造に関するメンバーシップ推論",
     "authors": [
@@ -7814,7 +7845,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3Z1 AIへの攻撃と対策 (4)",
+    "session": "3Z1 AIへの攻撃と対策 (4) 1/28(水) 09:30 - 10:50",
     "id": "3Z1-4",
     "title": "プロンプトインジェクション対策手法の併用による防御性能向上の実験的評価",
     "authors": [
@@ -7847,7 +7878,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3Z2 AIへの攻撃と対策 (5)",
+    "session": "3Z2 AIへの攻撃と対策 (5) 1/28(水) 11:10 - 12:30",
     "id": "3Z2-1",
     "title": "LLMの安全性アライメント強化のための学習データ作成戦略",
     "authors": [
@@ -7880,7 +7911,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3Z2 AIへの攻撃と対策 (5)",
+    "session": "3Z2 AIへの攻撃と対策 (5) 1/28(水) 11:10 - 12:30",
     "id": "3Z2-2",
     "title": "会話文から推測されるパーソナリティ指標を利用した不適切な文章の検知",
     "authors": [
@@ -7905,7 +7936,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "3Z2 AIへの攻撃と対策 (5)",
+    "session": "3Z2 AIへの攻撃と対策 (5) 1/28(水) 11:10 - 12:30",
     "id": "3Z2-3",
     "title": "LLM サービスにおける不適切な応答リスク評価のためのデータフリー質問生成手法",
     "authors": [
@@ -7938,7 +7969,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4A1 ハードウェアセキュリティ (1)",
+    "session": "4A1 ハードウェアセキュリティ (1) 1/29(木) 09:30 - 10:50",
     "id": "4A1-1",
     "title": "X-PreLock: 軽量eFPGAおよびクロスバースイッチによるハードウェアIP保護",
     "authors": [
@@ -7963,7 +7994,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4A1 ハードウェアセキュリティ (1)",
+    "session": "4A1 ハードウェアセキュリティ (1) 1/29(木) 09:30 - 10:50",
     "id": "4A1-2",
     "title": "AES S-box接続を鍵で制御するLogic LockingによるSAT攻撃耐性向上",
     "authors": [
@@ -8012,7 +8043,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4A1 ハードウェアセキュリティ (1)",
+    "session": "4A1 ハードウェアセキュリティ (1) 1/29(木) 09:30 - 10:50",
     "id": "4A1-3",
     "title": "ロジックロックを施したFeistel型暗号に対するLEDFA攻撃耐性の検討: Simeckを題材とした検討",
     "authors": [
@@ -8061,7 +8092,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4A1 ハードウェアセキュリティ (1)",
+    "session": "4A1 ハードウェアセキュリティ (1) 1/29(木) 09:30 - 10:50",
     "id": "4A1-4",
     "title": "サイドチャネル情報を利用したLogic Locking回路の機能テスト手法の提案",
     "authors": [
@@ -8110,7 +8141,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4A2 ハードウェアセキュリティ (2)",
+    "session": "4A2 ハードウェアセキュリティ (2) 1/29(木) 11:10 - 12:30",
     "id": "4A2-1",
     "title": "ランダム化キャッシュの安全性評価に関する検討",
     "authors": [
@@ -8143,7 +8174,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4A2 ハードウェアセキュリティ (2)",
+    "session": "4A2 ハードウェアセキュリティ (2) 1/29(木) 11:10 - 12:30",
     "id": "4A2-2",
     "title": "フォールト脆弱性の優先度算出指標の設計と適用",
     "authors": [
@@ -8160,7 +8191,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4A2 ハードウェアセキュリティ (2)",
+    "session": "4A2 ハードウェアセキュリティ (2) 1/29(木) 11:10 - 12:30",
     "id": "4A2-3",
     "title": "固体推進薬を用いた機密資産の物理的自己破壊システムの基礎検証",
     "authors": [
@@ -8202,7 +8233,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4A2 ハードウェアセキュリティ (2)",
+    "session": "4A2 ハードウェアセキュリティ (2) 1/29(木) 11:10 - 12:30",
     "id": "4A2-4",
     "title": "安価なレーザー装置を用いたレーザーフォルトインジェクションの評価",
     "authors": [
@@ -8227,7 +8258,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4A3 ハードウェアセキュリティ (3)",
+    "session": "4A3 ハードウェアセキュリティ (3) 1/29(木) 13:50 - 15:10",
     "id": "4A3-1",
     "title": "局所的遅延の影響およびKolmogorov–Arnold Networkを用いたPUFの遅延解析に関する考察",
     "authors": [
@@ -8244,7 +8275,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4A3 ハードウェアセキュリティ (3)",
+    "session": "4A3 ハードウェアセキュリティ (3) 1/29(木) 13:50 - 15:10",
     "id": "4A3-2",
     "title": "TEEにおける楽観的状態管理の安全性評価",
     "authors": [
@@ -8277,7 +8308,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4A3 ハードウェアセキュリティ (3)",
+    "session": "4A3 ハードウェアセキュリティ (3) 1/29(木) 13:50 - 15:10",
     "id": "4A3-3",
     "title": "誤り判定用追加セレクタを用いたアービターPUFのレスポンス安定化手法の提案",
     "authors": [
@@ -8310,7 +8341,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4A3 ハードウェアセキュリティ (3)",
+    "session": "4A3 ハードウェアセキュリティ (3) 1/29(木) 13:50 - 15:10",
     "id": "4A3-4",
     "title": "テイント解析とLLMの文脈理解に基づくTrusted Applicationの脆弱性検出手法の提案と評価",
     "authors": [
@@ -8343,7 +8374,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4A4 ハードウェアセキュリティ (4)",
+    "session": "4A4 ハードウェアセキュリティ (4) 1/29(木) 15:40 - 17:00",
     "id": "4A4-1",
     "title": "単一基底RNSモンゴメリ乗算の実装性能予測",
     "authors": [
@@ -8384,7 +8415,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4A4 ハードウェアセキュリティ (4)",
+    "session": "4A4 ハードウェアセキュリティ (4) 1/29(木) 15:40 - 17:00",
     "id": "4A4-2",
     "title": "スペクトル分布を利用したカラーQRコード認証手法の提案",
     "authors": [
@@ -8425,7 +8456,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4A4 ハードウェアセキュリティ (4)",
+    "session": "4A4 ハードウェアセキュリティ (4) 1/29(木) 15:40 - 17:00",
     "id": "4A4-3",
     "title": "RFフィンガープリントを用いたBLEデバイス識別に対するリレー攻撃の基礎実験",
     "authors": [
@@ -8438,7 +8469,7 @@
         "presenter_symbol": "〇"
       },
       {
-        "name": "畠山  佳大",
+        "name": "畠山 佳大",
         "affiliations": [
           "電気通信大学"
         ],
@@ -8478,11 +8509,11 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "4A4-3 RFフィンガープリントを用いたBLEデバイス識別に対するリレー攻撃の基礎実験 新屋 元輝 畠山  佳大 迫 琉奈 宮原 大輝 李 陽 崎山 一男 電気通信大学 電気通信大学 電気通信大学 電気通信大学 電気通信大学 電気通信大学"
+    "search_text": "4A4-3 RFフィンガープリントを用いたBLEデバイス識別に対するリレー攻撃の基礎実験 新屋 元輝 畠山 佳大 迫 琉奈 宮原 大輝 李 陽 崎山 一男 電気通信大学 電気通信大学 電気通信大学 電気通信大学 電気通信大学 電気通信大学"
   },
   {
     "event": "SCIS2026",
-    "session": "4A4 ハードウェアセキュリティ (4)",
+    "session": "4A4 ハードウェアセキュリティ (4) 1/29(木) 15:40 - 17:00",
     "id": "4A4-4",
     "title": "デュアルピクセルイメージセンサを用いたリキャプチャ画像検出の基礎評価",
     "authors": [
@@ -8515,7 +8546,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4B1 耐量子計算機暗号 (6)",
+    "session": "4B1 耐量子計算機暗号 (6) 1/29(木) 09:30 - 10:50",
     "id": "4B1-1",
     "title": "有限体上の多変数連立二次方程式における解の存在確率について",
     "authors": [
@@ -8556,7 +8587,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4B1 耐量子計算機暗号 (6)",
+    "session": "4B1 耐量子計算機暗号 (6) 1/29(木) 09:30 - 10:50",
     "id": "4B1-2",
     "title": "劣決定系MQ問題の効率的な解法について",
     "authors": [
@@ -8589,7 +8620,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4B1 耐量子計算機暗号 (6)",
+    "session": "4B1 耐量子計算機暗号 (6) 1/29(木) 09:30 - 10:50",
     "id": "4B1-3",
     "title": "多項式列のgeneric性と関連する未解決予想について",
     "authors": [
@@ -8614,7 +8645,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4B1 耐量子計算機暗号 (6)",
+    "session": "4B1 耐量子計算機暗号 (6) 1/29(木) 09:30 - 10:50",
     "id": "4B1-4",
     "title": "MQ問題求解のためのGröbner基底計算におけるメモリ使用量",
     "authors": [
@@ -8647,7 +8678,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4B2 耐量子計算機暗号 (7)",
+    "session": "4B2 耐量子計算機暗号 (7) 1/29(木) 11:10 - 12:30",
     "id": "4B2-1",
     "title": "q元体上のシンドローム復号問題の計算量解析とRepresentation 法の有効性の再考",
     "authors": [
@@ -8688,7 +8719,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4B2 耐量子計算機暗号 (7)",
+    "session": "4B2 耐量子計算機暗号 (7) 1/29(木) 11:10 - 12:30",
     "id": "4B2-2",
     "title": "Refined Application of the XL Algorithm within the Algebraic Approach to the Regular Syndrome Decoding Problem",
     "authors": [
@@ -8709,11 +8740,14 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "4B2-2 Refined Application of the XL Algorithm within the Algebraic Approach to the Regular Syndrome Decoding Problem Furue Hiroki Aikawa Yusuke NTT Social Informatics Laboratories The University of Tokyo"
+    "search_text": "4B2-2 Refined Application of the XL Algorithm within the Algebraic Approach to the Regular Syndrome Decoding Problem Furue Hiroki Aikawa Yusuke NTT Social Informatics Laboratories The University of Tokyo SCIS論文賞",
+    "awards": [
+      "SCIS論文賞"
+    ]
   },
   {
     "event": "SCIS2026",
-    "session": "4B2 耐量子計算機暗号 (7)",
+    "session": "4B2 耐量子計算機暗号 (7) 1/29(木) 11:10 - 12:30",
     "id": "4B2-3",
     "title": "Reed-Muller符号に基づく準同型暗号の修正符号による構成",
     "authors": [
@@ -8754,7 +8788,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4B3 耐量子計算機暗号 (8)",
+    "session": "4B3 耐量子計算機暗号 (8) 1/29(木) 13:50 - 15:10",
     "id": "4B3-1",
     "title": "Towards a Complete Model for Quantum Annoyance",
     "authors": [
@@ -8771,7 +8805,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4B3 耐量子計算機暗号 (8)",
+    "session": "4B3 耐量子計算機暗号 (8) 1/29(木) 13:50 - 15:10",
     "id": "4B3-2",
     "title": "Module-LWE問題とMQ問題に基づくハイブリッド公開鍵暗号方式の提案",
     "authors": [
@@ -8796,14 +8830,14 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4B3 耐量子計算機暗号 (8)",
+    "session": "4B3 耐量子計算機暗号 (8) 1/29(木) 13:50 - 15:10",
     "id": "4B3-3",
     "title": "整数係数多項式上定義された不定方程式の求解問題に基づくデジタル署名の設計と考察",
     "authors": [
       {
         "name": "秋山 浩一郎",
         "affiliations": [
-          "株式会社　東芝"
+          "株式会社 東芝"
         ],
         "is_presenter": true,
         "presenter_symbol": "〇"
@@ -8825,11 +8859,11 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "4B3-3 整数係数多項式上定義された不定方程式の求解問題に基づくデジタル署名の設計と考察 秋山 浩一郎 縫田 光司 池松 泰彦 株式会社　東芝 九州大学 九州大学"
+    "search_text": "4B3-3 整数係数多項式上定義された不定方程式の求解問題に基づくデジタル署名の設計と考察 秋山 浩一郎 縫田 光司 池松 泰彦 株式会社 東芝 九州大学 九州大学"
   },
   {
     "event": "SCIS2026",
-    "session": "4B3 耐量子計算機暗号 (8)",
+    "session": "4B3 耐量子計算機暗号 (8) 1/29(木) 13:50 - 15:10",
     "id": "4B3-4",
     "title": "CRYSTALS-Kyberのための有限体演算の新しい実装法",
     "authors": [
@@ -8846,7 +8880,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4B4 耐量子計算機暗号と社会展開",
+    "session": "4B4 耐量子計算機暗号と社会展開 1/29(木) 15:40 - 17:00",
     "id": "4B4-1",
     "title": "PQC-BGPsec : 耐量子計算機暗号がインターネットルーティングにもたらす影響",
     "authors": [
@@ -8871,7 +8905,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4B4 耐量子計算機暗号と社会展開",
+    "session": "4B4 耐量子計算機暗号と社会展開 1/29(木) 15:40 - 17:00",
     "id": "4B4-2",
     "title": "AgileCrypto2025参加報告",
     "authors": [
@@ -8888,7 +8922,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4B4 耐量子計算機暗号と社会展開",
+    "session": "4B4 耐量子計算機暗号と社会展開 1/29(木) 15:40 - 17:00",
     "id": "4B4-3",
     "title": "ライブラリにおける暗号検出に向けたバイナリ解析手法の有効性検証",
     "authors": [
@@ -8921,14 +8955,14 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4B4 耐量子計算機暗号と社会展開",
+    "session": "4B4 耐量子計算機暗号と社会展開 1/29(木) 15:40 - 17:00",
     "id": "4B4-4",
     "title": "Formal Foundations for Backdoors in Post-Quantum Cryptography with AI-Agnostic Approaches",
     "authors": [
       {
-        "name": "Kwangjo  Kim",
+        "name": "Kwangjo Kim",
         "affiliations": [
-          "IRCS, KAIST(Korea"
+          "IRCS, KAIST(Korea) and CSU(USA)"
         ],
         "is_presenter": true,
         "presenter_symbol": "〇"
@@ -8942,18 +8976,18 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "4B4-4 Formal Foundations for Backdoors in Post-Quantum Cryptography with AI-Agnostic Approaches Kwangjo  Kim SAKURAI Kouichi IRCS, KAIST(Korea Kyushu University"
+    "search_text": "4B4-4 Formal Foundations for Backdoors in Post-Quantum Cryptography with AI-Agnostic Approaches Kwangjo Kim SAKURAI Kouichi IRCS, KAIST(Korea) and CSU(USA) Kyushu University"
   },
   {
     "event": "SCIS2026",
-    "session": "4C1 準同型暗号 (1)",
+    "session": "4C1 準同型暗号 (1) 1/29(木) 09:30 - 10:50",
     "id": "4C1-1",
     "title": "第一種チェビシェフ多項式のコンセプトに基づくCKKS Bootstrappingの高速化に向けた研究",
     "authors": [
       {
         "name": "斉藤 太一",
         "affiliations": [
-          "岡山大学大学院　環境生命自然科学研究科"
+          "岡山大学大学院 環境生命自然科学研究科"
         ],
         "is_presenter": true,
         "presenter_symbol": "◎"
@@ -8961,7 +8995,7 @@
       {
         "name": "小寺 雄太",
         "affiliations": [
-          "岡山大学大学院　環境生命自然科学研究科"
+          "岡山大学大学院 環境生命自然科学研究科"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
@@ -8969,17 +9003,17 @@
       {
         "name": "野上 保之",
         "affiliations": [
-          "岡山大学大学院　環境生命自然科学研究科"
+          "岡山大学大学院 環境生命自然科学研究科"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
       }
     ],
-    "search_text": "4C1-1 第一種チェビシェフ多項式のコンセプトに基づくCKKS Bootstrappingの高速化に向けた研究 斉藤 太一 小寺 雄太 野上 保之 岡山大学大学院　環境生命自然科学研究科 岡山大学大学院　環境生命自然科学研究科 岡山大学大学院　環境生命自然科学研究科"
+    "search_text": "4C1-1 第一種チェビシェフ多項式のコンセプトに基づくCKKS Bootstrappingの高速化に向けた研究 斉藤 太一 小寺 雄太 野上 保之 岡山大学大学院 環境生命自然科学研究科 岡山大学大学院 環境生命自然科学研究科 岡山大学大学院 環境生命自然科学研究科"
   },
   {
     "event": "SCIS2026",
-    "session": "4C1 準同型暗号 (1)",
+    "session": "4C1 準同型暗号 (1) 1/29(木) 09:30 - 10:50",
     "id": "4C1-2",
     "title": "準同型暗号CKKS方式における3次元配列表現を用いた行列積の構成",
     "authors": [
@@ -9028,7 +9062,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4C1 準同型暗号 (1)",
+    "session": "4C1 準同型暗号 (1) 1/29(木) 09:30 - 10:50",
     "id": "4C1-3",
     "title": "準同型暗号 CKKS 方式における GPU を用いた複数暗号文演算の高速化",
     "authors": [
@@ -9077,7 +9111,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4C1 準同型暗号 (1)",
+    "session": "4C1 準同型暗号 (1) 1/29(木) 09:30 - 10:50",
     "id": "4C1-4",
     "title": "ペアリング暗号と準同型暗号を組み合わせた医療データ統計処理の実装",
     "authors": [
@@ -9110,7 +9144,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4C2 準同型暗号 (2)",
+    "session": "4C2 準同型暗号 (2) 1/29(木) 11:10 - 12:30",
     "id": "4C2-1",
     "title": "YATA: 鍵圧縮と基数8 NTTを用いたTFHE向けASICアクセラレータ",
     "authors": [
@@ -9135,7 +9169,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4C2 準同型暗号 (2)",
+    "session": "4C2 準同型暗号 (2) 1/29(木) 11:10 - 12:30",
     "id": "4C2-2",
     "title": "準同型暗号 TFHE 方式における整数型複数鍵への拡張",
     "authors": [
@@ -9184,7 +9218,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4C2 準同型暗号 (2)",
+    "session": "4C2 準同型暗号 (2) 1/29(木) 11:10 - 12:30",
     "id": "4C2-3",
     "title": "TFHEを用いたLarge Lookup Tableの効率的な操作",
     "authors": [
@@ -9217,7 +9251,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4C2 準同型暗号 (2)",
+    "session": "4C2 準同型暗号 (2) 1/29(木) 11:10 - 12:30",
     "id": "4C2-4",
     "title": "完全準同型暗号TFHEのTree-based Functional Bootstrappingの評価と改良",
     "authors": [
@@ -9242,7 +9276,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4C3 PSI・データ結合",
+    "session": "4C3 PSI・データ結合 1/29(木) 13:50 - 15:10",
     "id": "4C3-1",
     "title": "セントラル差分プライベート等結合プロトコルの改善と実装評価",
     "authors": [
@@ -9299,7 +9333,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4C3 PSI・データ結合",
+    "session": "4C3 PSI・データ結合 1/29(木) 13:50 - 15:10",
     "id": "4C3-2",
     "title": "クラウドへ委任可能な非対話型マルチパーティTPSIプロトコルの構築",
     "authors": [
@@ -9324,7 +9358,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4C3 PSI・データ結合",
+    "session": "4C3 PSI・データ結合 1/29(木) 13:50 - 15:10",
     "id": "4C3-3",
     "title": "統計情報を計算する多者秘匿積集合計算",
     "authors": [
@@ -9357,7 +9391,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4C3 PSI・データ結合",
+    "session": "4C3 PSI・データ結合 1/29(木) 13:50 - 15:10",
     "id": "4C3-4",
     "title": "Bloom Filter を用いた秘匿共通集合サイズ推定プロトコルの再考",
     "authors": [
@@ -9365,7 +9399,7 @@
         "name": "林 哲多",
         "affiliations": [
           "立命館大学",
-          "国立研究開発法人情報通信研究機構(NICT"
+          "国立研究開発法人情報通信研究機構(NICT)"
         ],
         "is_presenter": true,
         "presenter_symbol": "◎"
@@ -9389,17 +9423,17 @@
       {
         "name": "王 立華",
         "affiliations": [
-          "国立研究開発法人情報通信研究機構(NICT"
+          "国立研究開発法人情報通信研究機構(NICT)"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
       }
     ],
-    "search_text": "4C3-4 Bloom Filter を用いた秘匿共通集合サイズ推定プロトコルの再考 林 哲多 野島 良 菊池 浩明 王 立華 立命館大学 国立研究開発法人情報通信研究機構(NICT 立命館大学 明治大学 国立研究開発法人情報通信研究機構(NICT"
+    "search_text": "4C3-4 Bloom Filter を用いた秘匿共通集合サイズ推定プロトコルの再考 林 哲多 野島 良 菊池 浩明 王 立華 立命館大学 国立研究開発法人情報通信研究機構(NICT) 立命館大学 明治大学 国立研究開発法人情報通信研究機構(NICT)"
   },
   {
     "event": "SCIS2026",
-    "session": "4C4 検索可能暗号",
+    "session": "4C4 検索可能暗号 1/29(木) 15:40 - 17:00",
     "id": "4C4-1",
     "title": "隠れ構造を持つ公開鍵検索可能暗号の一般的構成",
     "authors": [
@@ -9413,7 +9447,7 @@
         "presenter_symbol": "〇"
       },
       {
-        "name": "大東  俊博",
+        "name": "大東 俊博",
         "affiliations": [
           "東海大学"
         ],
@@ -9421,7 +9455,7 @@
         "presenter_symbol": ""
       },
       {
-        "name": "杉尾  信行",
+        "name": "杉尾 信行",
         "affiliations": [
           "北海道科学大学"
         ],
@@ -9429,11 +9463,11 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "4C4-1 隠れ構造を持つ公開鍵検索可能暗号の一般的構成 江村 恵太 大東  俊博 杉尾  信行 金沢大学 AIST 東海大学 北海道科学大学"
+    "search_text": "4C4-1 隠れ構造を持つ公開鍵検索可能暗号の一般的構成 江村 恵太 大東 俊博 杉尾 信行 金沢大学 AIST 東海大学 北海道科学大学"
   },
   {
     "event": "SCIS2026",
-    "session": "4C4 検索可能暗号",
+    "session": "4C4 検索可能暗号 1/29(木) 15:40 - 17:00",
     "id": "4C4-2",
     "title": "正規表現検索に向けた検索可能暗号の改良",
     "authors": [
@@ -9466,14 +9500,14 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4C4 検索可能暗号",
+    "session": "4C4 検索可能暗号 1/29(木) 15:40 - 17:00",
     "id": "4C4-3",
     "title": "公開鍵検索可能暗号から認証付き公開鍵検索可能暗号の一般的構成法",
     "authors": [
       {
         "name": "牧野 雄太",
         "affiliations": [
-          "横浜国立大学　大学院環境情報学府"
+          "横浜国立大学 大学院環境情報学府"
         ],
         "is_presenter": true,
         "presenter_symbol": "◎"
@@ -9515,11 +9549,11 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "4C4-3 公開鍵検索可能暗号から認証付き公開鍵検索可能暗号の一般的構成法 牧野 雄太 冨田 斗威 原 啓祐 知久 奏斗 四方 順司 横浜国立大学　大学院環境情報学府 横浜国立大学 教育推進機構 先端科学高等研究院 産業技術総合研究所 横浜国立大学 先端科学高等研究院 横浜国立大学 大学院環境情報学府 産業技術総合研究所 横浜国立大学 大学院環境情報研究院 先端科学高等研究院"
+    "search_text": "4C4-3 公開鍵検索可能暗号から認証付き公開鍵検索可能暗号の一般的構成法 牧野 雄太 冨田 斗威 原 啓祐 知久 奏斗 四方 順司 横浜国立大学 大学院環境情報学府 横浜国立大学 教育推進機構 先端科学高等研究院 産業技術総合研究所 横浜国立大学 先端科学高等研究院 横浜国立大学 大学院環境情報学府 産業技術総合研究所 横浜国立大学 大学院環境情報研究院 先端科学高等研究院"
   },
   {
     "event": "SCIS2026",
-    "session": "4C4 検索可能暗号",
+    "session": "4C4 検索可能暗号 1/29(木) 15:40 - 17:00",
     "id": "4C4-4",
     "title": "検索可能暗号に対するVAL攻撃の性能評価の攻撃者視点に基づく再考",
     "authors": [
@@ -9561,7 +9595,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4D1 共通鍵暗号 (6)",
+    "session": "4D1 共通鍵暗号 (6) 1/29(木) 09:30 - 10:50",
     "id": "4D1-1",
     "title": "部分鍵漏洩に対し安全な共通鍵暗号方式のブラックボックス構成",
     "authors": [
@@ -9592,7 +9626,7 @@
       {
         "name": "黒澤 馨",
         "affiliations": [
-          "（株"
+          "（株）ZenmuTech、中央大学研究開発機構、産業技術総合研究所"
         ],
         "is_presenter": true,
         "presenter_symbol": "〇"
@@ -9600,7 +9634,7 @@
       {
         "name": "小川 知之",
         "affiliations": [
-          "（株"
+          "（株）ZenmuTech"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
@@ -9614,11 +9648,11 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "4D1-1 部分鍵漏洩に対し安全な共通鍵暗号方式のブラックボックス構成 江利口 礼央 岩田 哲 花岡 悟一郎 黒澤 馨 小川 知之 辛 星漢 産業技術総合研究所サイバーフィジカルセキュリティ研究部門 名古屋大学未来材料・システム研究所 産業技術総合研究所サイバーフィジカルセキュリティ研究部門 （株 （株 産業技術総合研究所サイバーフィジカルセキュリティ研究部門"
+    "search_text": "4D1-1 部分鍵漏洩に対し安全な共通鍵暗号方式のブラックボックス構成 江利口 礼央 岩田 哲 花岡 悟一郎 黒澤 馨 小川 知之 辛 星漢 産業技術総合研究所サイバーフィジカルセキュリティ研究部門 名古屋大学未来材料・システム研究所 産業技術総合研究所サイバーフィジカルセキュリティ研究部門 （株）ZenmuTech、中央大学研究開発機構、産業技術総合研究所 （株）ZenmuTech 産業技術総合研究所サイバーフィジカルセキュリティ研究部門"
   },
   {
     "event": "SCIS2026",
-    "session": "4D1 共通鍵暗号 (6)",
+    "session": "4D1 共通鍵暗号 (6) 1/29(木) 09:30 - 10:50",
     "id": "4D1-2",
     "title": "DNDK-GCMのCommitting安全性解析",
     "authors": [
@@ -9643,7 +9677,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4D1 共通鍵暗号 (6)",
+    "session": "4D1 共通鍵暗号 (6) 1/29(木) 09:30 - 10:50",
     "id": "4D1-3",
     "title": "フィードバックモード鍵導出関数の擬似ランダム性",
     "authors": [
@@ -9668,7 +9702,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4D1 共通鍵暗号 (6)",
+    "session": "4D1 共通鍵暗号 (6) 1/29(木) 09:30 - 10:50",
     "id": "4D1-4",
     "title": "LeMacに対するCommitting安全性解析",
     "authors": [
@@ -9693,7 +9727,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4D2 多機能署名 (1)",
+    "session": "4D2 多機能署名 (1) 1/29(木) 11:10 - 12:30",
     "id": "4D2-1",
     "title": "メッセージ依存開示可能グループ署名におけるトークンの公開検証可能性について",
     "authors": [
@@ -9719,7 +9753,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4D2 多機能署名 (1)",
+    "session": "4D2 多機能署名 (1) 1/29(木) 11:10 - 12:30",
     "id": "4D2-2",
     "title": "グループ署名における成りすまし不可能性の意義について",
     "authors": [
@@ -9745,7 +9779,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4D2 多機能署名 (1)",
+    "session": "4D2 多機能署名 (1) 1/29(木) 11:10 - 12:30",
     "id": "4D2-3",
     "title": "機能的追跡可能性を有するPredicate Aggregate Signatureについて",
     "authors": [
@@ -9778,7 +9812,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4D2 多機能署名 (1)",
+    "session": "4D2 多機能署名 (1) 1/29(木) 11:10 - 12:30",
     "id": "4D2-4",
     "title": "順序保存型集約機能と耐障害性を兼ね備えた集約署名方式の提案",
     "authors": [
@@ -9811,7 +9845,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4D3 多機能署名 (2)",
+    "session": "4D3 多機能署名 (2) 1/29(木) 13:50 - 15:10",
     "id": "4D3-1",
     "title": "否認可能性を持つ複数検証者指定署名",
     "authors": [
@@ -9847,7 +9881,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4D3 多機能署名 (2)",
+    "session": "4D3 多機能署名 (2) 1/29(木) 13:50 - 15:10",
     "id": "4D3-2",
     "title": "Bifurcated Ring Signature",
     "authors": [
@@ -9872,7 +9906,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4D3 多機能署名 (2)",
+    "session": "4D3 多機能署名 (2) 1/29(木) 13:50 - 15:10",
     "id": "4D3-3",
     "title": "Atomic Swapのための格子ベースリングアダプタ署名の構成",
     "authors": [
@@ -9899,7 +9933,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4D3 多機能署名 (2)",
+    "session": "4D3 多機能署名 (2) 1/29(木) 13:50 - 15:10",
     "id": "4D3-4",
     "title": "Rejection Samplingを考慮したアダプタ署名の一般的構成",
     "authors": [
@@ -9924,7 +9958,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4D4 デジタル署名",
+    "session": "4D4 デジタル署名 1/29(木) 15:40 - 17:00",
     "id": "4D4-1",
     "title": "ペアリングに基づく短署名の BUFF 安全性",
     "authors": [
@@ -9957,7 +9991,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4D4 デジタル署名",
+    "session": "4D4 デジタル署名 1/29(木) 15:40 - 17:00",
     "id": "4D4-2",
     "title": "離散対数仮定に基づく適応的安全な3ラウンド閾値Schnorr署名方式の提案",
     "authors": [
@@ -9986,11 +10020,14 @@
         "presenter_symbol": "◎"
       }
     ],
-    "search_text": "4D4-2 離散対数仮定に基づく適応的安全な3ラウンド閾値Schnorr署名方式の提案 Niot Guilhem Reichle Michael 竹牟禮 薫 PQShield, Univ Rennes, CNRS, IRISA ETH Zurich PQShield, 産業技術総合研究所"
+    "search_text": "4D4-2 離散対数仮定に基づく適応的安全な3ラウンド閾値Schnorr署名方式の提案 Niot Guilhem Reichle Michael 竹牟禮 薫 PQShield, Univ Rennes, CNRS, IRISA ETH Zurich PQShield, 産業技術総合研究所 SCIS論文賞",
+    "awards": [
+      "SCIS論文賞"
+    ]
   },
   {
     "event": "SCIS2026",
-    "session": "4D4 デジタル署名",
+    "session": "4D4 デジタル署名 1/29(木) 15:40 - 17:00",
     "id": "4D4-3",
     "title": "分散型自律組織DAOにおける匿名投票のための耐量子閾値リング署名の検討",
     "authors": [
@@ -10023,7 +10060,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4D4 デジタル署名",
+    "session": "4D4 デジタル署名 1/29(木) 15:40 - 17:00",
     "id": "4D4-4",
     "title": "サーバ援用型脳内署名のユーザインターフェースの設計と評価：ワンタイム秘密画像の利用",
     "authors": [
@@ -10112,7 +10149,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4E1 暗号理論 (1)",
+    "session": "4E1 暗号理論 (1) 1/29(木) 09:30 - 10:50",
     "id": "4E1-1",
     "title": "データ容量圧縮可能な多項式コミットメント方式の構築",
     "authors": [
@@ -10133,7 +10170,7 @@
         "presenter_symbol": ""
       },
       {
-        "name": "藤本   聖",
+        "name": "藤本 聖",
         "affiliations": [
           "大阪大学"
         ],
@@ -10149,7 +10186,7 @@
         "presenter_symbol": ""
       },
       {
-        "name": "岡田  侑里英",
+        "name": "岡田 侑里英",
         "affiliations": [
           "大阪大学"
         ],
@@ -10157,11 +10194,11 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "4E1-1 データ容量圧縮可能な多項式コミットメント方式の構築 宮地 秀至 宮地 充子 藤本   聖 峰田 敏行 岡田  侑里英 立命館大学 大阪大学 大阪大学 大阪大学 大阪大学"
+    "search_text": "4E1-1 データ容量圧縮可能な多項式コミットメント方式の構築 宮地 秀至 宮地 充子 藤本 聖 峰田 敏行 岡田 侑里英 立命館大学 大阪大学 大阪大学 大阪大学 大阪大学"
   },
   {
     "event": "SCIS2026",
-    "session": "4E1 暗号理論 (1)",
+    "session": "4E1 暗号理論 (1) 1/29(木) 09:30 - 10:50",
     "id": "4E1-2",
     "title": "Csirmaz アクセス構造を実現する秘密分散方式のシェアサイズ",
     "authors": [
@@ -10178,7 +10215,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4E1 暗号理論 (1)",
+    "session": "4E1 暗号理論 (1) 1/29(木) 09:30 - 10:50",
     "id": "4E1-3",
     "title": "逆像オラクルつきランダム関数が全射に制限された場合の一方向性関数の構成条件",
     "authors": [
@@ -10212,7 +10249,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4E1 暗号理論 (1)",
+    "session": "4E1 暗号理論 (1) 1/29(木) 09:30 - 10:50",
     "id": "4E1-4",
     "title": "A New Construction of Pesudorandom Error-Correcting Code with Public Discussion Channel",
     "authors": [
@@ -10237,7 +10274,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4E2 暗号理論 (2)",
+    "session": "4E2 暗号理論 (2) 1/29(木) 11:10 - 12:30",
     "id": "4E2-1",
     "title": "Small Private Exponent Attacks on RSA-Type Cryptosystems with Unbalanced Key Setting",
     "authors": [
@@ -10250,7 +10287,7 @@
         "presenter_symbol": "◎"
       },
       {
-        "name": "SHIMOE  NAOKI",
+        "name": "SHIMOE NAOKI",
         "affiliations": [
           "Degree Programs in Systems and Information Engineering"
         ],
@@ -10258,7 +10295,7 @@
         "presenter_symbol": ""
       },
       {
-        "name": "KUNIHIRO  NOBORU",
+        "name": "KUNIHIRO NOBORU",
         "affiliations": [
           "Degree Programs in Systems and Information Engineering"
         ],
@@ -10266,11 +10303,11 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "4E2-1 Small Private Exponent Attacks on RSA-Type Cryptosystems with Unbalanced Key Setting LI YIYING SHIMOE  NAOKI KUNIHIRO  NOBORU Degree Programs in Systems and Information Engineering Degree Programs in Systems and Information Engineering Degree Programs in Systems and Information Engineering"
+    "search_text": "4E2-1 Small Private Exponent Attacks on RSA-Type Cryptosystems with Unbalanced Key Setting LI YIYING SHIMOE NAOKI KUNIHIRO NOBORU Degree Programs in Systems and Information Engineering Degree Programs in Systems and Information Engineering Degree Programs in Systems and Information Engineering"
   },
   {
     "event": "SCIS2026",
-    "session": "4E2 暗号理論 (2)",
+    "session": "4E2 暗号理論 (2) 1/29(木) 11:10 - 12:30",
     "id": "4E2-2",
     "title": "量子暗号と非破壊測定の困難性",
     "authors": [
@@ -10303,14 +10340,14 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4E2 暗号理論 (2)",
+    "session": "4E2 暗号理論 (2) 1/29(木) 11:10 - 12:30",
     "id": "4E2-3",
     "title": "検出回避攻撃者に対して安全な検証可能秘密分散プロトコルのラウンド複雑性",
     "authors": [
       {
         "name": "大友 駿也",
         "affiliations": [
-          "東京科学大学　情報理工学院"
+          "東京科学大学 情報理工学院"
         ],
         "is_presenter": true,
         "presenter_symbol": "◎"
@@ -10318,17 +10355,17 @@
       {
         "name": "安永 憲司",
         "affiliations": [
-          "東京科学大学　情報理工学院"
+          "東京科学大学 情報理工学院"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
       }
     ],
-    "search_text": "4E2-3 検出回避攻撃者に対して安全な検証可能秘密分散プロトコルのラウンド複雑性 大友 駿也 安永 憲司 東京科学大学　情報理工学院 東京科学大学　情報理工学院"
+    "search_text": "4E2-3 検出回避攻撃者に対して安全な検証可能秘密分散プロトコルのラウンド複雑性 大友 駿也 安永 憲司 東京科学大学 情報理工学院 東京科学大学 情報理工学院"
   },
   {
     "event": "SCIS2026",
-    "session": "4E2 暗号理論 (2)",
+    "session": "4E2 暗号理論 (2) 1/29(木) 11:10 - 12:30",
     "id": "4E2-4",
     "title": "情報理論的に安全な検証可能秘密分散のラウンド複雑性に関する調査",
     "authors": [
@@ -10361,7 +10398,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4E3 暗号理論 (3)",
+    "session": "4E3 暗号理論 (3) 1/29(木) 13:50 - 15:10",
     "id": "4E3-1",
     "title": "p進数体におけるタイヒミューラー切断構造を用いた暗号基盤の考察",
     "authors": [
@@ -10378,7 +10415,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4E3 暗号理論 (3)",
+    "session": "4E3 暗号理論 (3) 1/29(木) 13:50 - 15:10",
     "id": "4E3-2",
     "title": "Simulatable Chameleon Hash Functions and their Candidate",
     "authors": [
@@ -10395,14 +10432,14 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4E3 暗号理論 (3)",
+    "session": "4E3 暗号理論 (3) 1/29(木) 13:50 - 15:10",
     "id": "4E3-3",
     "title": "紛失通信拡張の耐量子安全性帰着効率の改善",
     "authors": [
       {
         "name": "中村 幸平",
         "affiliations": [
-          "三重大学大学院　工学研究科　情報工学専攻"
+          "三重大学大学院 工学研究科 情報工学専攻"
         ],
         "is_presenter": true,
         "presenter_symbol": "◎"
@@ -10410,17 +10447,20 @@
       {
         "name": "河内 亮周",
         "affiliations": [
-          "三重大学大学院　工学研究科　情報工学専攻"
+          "三重大学大学院 工学研究科 情報工学専攻"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
       }
     ],
-    "search_text": "4E3-3 紛失通信拡張の耐量子安全性帰着効率の改善 中村 幸平 河内 亮周 三重大学大学院　工学研究科　情報工学専攻 三重大学大学院　工学研究科　情報工学専攻"
+    "search_text": "4E3-3 紛失通信拡張の耐量子安全性帰着効率の改善 中村 幸平 河内 亮周 三重大学大学院 工学研究科 情報工学専攻 三重大学大学院 工学研究科 情報工学専攻 SCIS論文賞",
+    "awards": [
+      "SCIS論文賞"
+    ]
   },
   {
     "event": "SCIS2026",
-    "session": "4E3 暗号理論 (3)",
+    "session": "4E3 暗号理論 (3) 1/29(木) 13:50 - 15:10",
     "id": "4E3-4",
     "title": "揮発性をもたせるための暗号フレームワーク",
     "authors": [
@@ -10461,7 +10501,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4F1 ブロックチェーン・暗号資産 (1)",
+    "session": "4F1 ブロックチェーン・暗号資産 (1) 1/29(木) 09:30 - 10:50",
     "id": "4F1-1",
     "title": "暗号資産ウォレットアプリにおけるニーモニックコードに関する考察",
     "authors": [
@@ -10478,7 +10518,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4F1 ブロックチェーン・暗号資産 (1)",
+    "session": "4F1 ブロックチェーン・暗号資産 (1) 1/29(木) 09:30 - 10:50",
     "id": "4F1-2",
     "title": "高頻度なブロックチェーンのフォークがビットコインのマイニング公平性に与える影響の定量的な解析",
     "authors": [
@@ -10511,7 +10551,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4F1 ブロックチェーン・暗号資産 (1)",
+    "session": "4F1 ブロックチェーン・暗号資産 (1) 1/29(木) 09:30 - 10:50",
     "id": "4F1-3",
     "title": "コールドウォレット向けアドレス改ざん防止手法",
     "authors": [
@@ -10536,7 +10576,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4F1 ブロックチェーン・暗号資産 (1)",
+    "session": "4F1 ブロックチェーン・暗号資産 (1) 1/29(木) 09:30 - 10:50",
     "id": "4F1-4",
     "title": "ブロックチェーンアドレスポイズニングのマルチチェーン横断測定と攻撃成功要因の分析",
     "authors": [
@@ -10596,9 +10636,9 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4F2 ブロックチェーン・暗号資産 (2)",
+    "session": "4F2 ブロックチェーン・暗号資産 (2) 1/29(木) 11:10 - 12:30",
     "id": "4F2-1",
-    "title": "ビットコイン相続の現実解　～単一障害点排除設計と相続制度の交錯点を探る～",
+    "title": "ビットコイン相続の現実解 ～単一障害点排除設計と相続制度の交錯点を探る～",
     "authors": [
       {
         "name": "金子 嵩",
@@ -10643,11 +10683,11 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "4F2-1 ビットコイン相続の現実解　～単一障害点排除設計と相続制度の交錯点を探る～ 金子 嵩 松尾 真一郎 小堀 琢也 大槻 紗季 肥後 春菜 ジョージタウン大学 三井住友信託銀行株式会社 ジョージタウン大学 バージニア工科大学 ジョージタウン大学 日本電気株式会社 日本電気株式会社"
+    "search_text": "4F2-1 ビットコイン相続の現実解 ～単一障害点排除設計と相続制度の交錯点を探る～ 金子 嵩 松尾 真一郎 小堀 琢也 大槻 紗季 肥後 春菜 ジョージタウン大学 三井住友信託銀行株式会社 ジョージタウン大学 バージニア工科大学 ジョージタウン大学 日本電気株式会社 日本電気株式会社"
   },
   {
     "event": "SCIS2026",
-    "session": "4F2 ブロックチェーン・暗号資産 (2)",
+    "session": "4F2 ブロックチェーン・暗号資産 (2) 1/29(木) 11:10 - 12:30",
     "id": "4F2-2",
     "title": "PQC 移行の超難問: 複雑化するブロックチェーンと交錯する人間のエゴ",
     "authors": [
@@ -10689,7 +10729,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4F2 ブロックチェーン・暗号資産 (2)",
+    "session": "4F2 ブロックチェーン・暗号資産 (2) 1/29(木) 11:10 - 12:30",
     "id": "4F2-3",
     "title": "再利用資源の可視化に向けたブロックチェーン型情報プラットフォームに関する考察",
     "authors": [
@@ -10730,7 +10770,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4F2 ブロックチェーン・暗号資産 (2)",
+    "session": "4F2 ブロックチェーン・暗号資産 (2) 1/29(木) 11:10 - 12:30",
     "id": "4F2-4",
     "title": "マルチソース・オラクルとオフチェーン署名を用いた二次流通市場の公正な価格制御プロトコルの提案",
     "authors": [
@@ -10763,7 +10803,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4F3 制御システムセキュリティ (1)",
+    "session": "4F3 制御システムセキュリティ (1) 1/29(木) 13:50 - 15:10",
     "id": "4F3-1",
     "title": "センサ欠損下における適応カルマンフィルタによるセンサ重要度評価と安全航続判定",
     "authors": [
@@ -10796,7 +10836,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4F3 制御システムセキュリティ (1)",
+    "session": "4F3 制御システムセキュリティ (1) 1/29(木) 13:50 - 15:10",
     "id": "4F3-2",
     "title": "LLMを用いた制御システムにおけるデータフローの抽出と活用に関する考察",
     "authors": [
@@ -10829,7 +10869,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4F3 制御システムセキュリティ (1)",
+    "session": "4F3 制御システムセキュリティ (1) 1/29(木) 13:50 - 15:10",
     "id": "4F3-3",
     "title": "制御システムのZDDを用いた影響度解析と全機能停止に至る最小攻撃集合の導出",
     "authors": [
@@ -10870,7 +10910,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4F3 制御システムセキュリティ (1)",
+    "session": "4F3 制御システムセキュリティ (1) 1/29(木) 13:50 - 15:10",
     "id": "4F3-4",
     "title": "分散型電源の機器仕様を考慮した攻撃検知に関する一考察",
     "authors": [
@@ -10911,7 +10951,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4F4 制御システムセキュリティ (2)",
+    "session": "4F4 制御システムセキュリティ (2) 1/29(木) 15:40 - 17:00",
     "id": "4F4-1",
     "title": "実最終値分布の導入による移動ロボット攻撃検知理論の精緻化",
     "authors": [
@@ -10960,7 +11000,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4F4 制御システムセキュリティ (2)",
+    "session": "4F4 制御システムセキュリティ (2) 1/29(木) 15:40 - 17:00",
     "id": "4F4-2",
     "title": "脅威レポートを用いたLLMによるドメイン適応攻撃シナリオの生成",
     "authors": [
@@ -10993,14 +11033,15 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4F4 制御システムセキュリティ (2)",
+    "session": "4F4 制御システムセキュリティ (2) 1/29(木) 15:40 - 17:00",
     "id": "4F4-3",
     "title": "連鎖ダイアモンドモデルに基づくLLMによるGRC診断の自動化",
     "authors": [
       {
         "name": "阪田 恒晟",
         "affiliations": [
-          "(株"
+          "(株)日立製作所",
+          "東京科学大学"
         ],
         "is_presenter": true,
         "presenter_symbol": "◎"
@@ -11008,7 +11049,7 @@
       {
         "name": "藤井 翔太",
         "affiliations": [
-          "(株"
+          "(株)日立製作所"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
@@ -11016,7 +11057,7 @@
       {
         "name": "川口 信隆",
         "affiliations": [
-          "(株"
+          "(株)日立製作所"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
@@ -11024,17 +11065,17 @@
       {
         "name": "武本 敏",
         "affiliations": [
-          "(株"
+          "(株)日立製作所"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
       }
     ],
-    "search_text": "4F4-3 連鎖ダイアモンドモデルに基づくLLMによるGRC診断の自動化 阪田 恒晟 藤井 翔太 川口 信隆 武本 敏 (株 (株 (株 (株"
+    "search_text": "4F4-3 連鎖ダイアモンドモデルに基づくLLMによるGRC診断の自動化 阪田 恒晟 藤井 翔太 川口 信隆 武本 敏 (株)日立製作所 東京科学大学 (株)日立製作所 (株)日立製作所 (株)日立製作所"
   },
   {
     "event": "SCIS2026",
-    "session": "4G1 攻撃検知",
+    "session": "4G1 攻撃検知 1/29(木) 09:30 - 10:50",
     "id": "4G1-1",
     "title": "急所攻撃の特定・防御策の選定手法とLLMによるサイバー攻撃早期対応",
     "authors": [
@@ -11075,7 +11116,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4G1 攻撃検知",
+    "session": "4G1 攻撃検知 1/29(木) 09:30 - 10:50",
     "id": "4G1-2",
     "title": "暗号化 C2 通信検出マルチビューモデルの分析及び改善提案",
     "authors": [
@@ -11101,7 +11142,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4G1 攻撃検知",
+    "session": "4G1 攻撃検知 1/29(木) 09:30 - 10:50",
     "id": "4G1-3",
     "title": "BERT系モデルを用いた攻撃検知技術のアーキテクチャ探索",
     "authors": [
@@ -11134,7 +11175,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4G1 攻撃検知",
+    "session": "4G1 攻撃検知 1/29(木) 09:30 - 10:50",
     "id": "4G1-4",
     "title": "LLMを用いたアラート分析プレイブックの具体化と実用化に関する考察",
     "authors": [
@@ -11175,7 +11216,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4G2 マルウェア対策",
+    "session": "4G2 マルウェア対策 1/29(木) 11:10 - 12:30",
     "id": "4G2-1",
     "title": "関数コールグラフによる解析状態管理に基づくバイナリ解析エージェント",
     "authors": [
@@ -11200,7 +11241,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4G2 マルウェア対策",
+    "session": "4G2 マルウェア対策 1/29(木) 11:10 - 12:30",
     "id": "4G2-2",
     "title": "マルチペルソナ LLM を用いた脅威インテリジェンス分析レポートの自動生成",
     "authors": [
@@ -11225,7 +11266,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4G2 マルウェア対策",
+    "session": "4G2 マルウェア対策 1/29(木) 11:10 - 12:30",
     "id": "4G2-3",
     "title": "LLMエージェントによる統合的フィッシングメール判定",
     "authors": [
@@ -11261,7 +11302,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4G2 マルウェア対策",
+    "session": "4G2 マルウェア対策 1/29(木) 11:10 - 12:30",
     "id": "4G2-4",
     "title": "PEヘッダを用いた低コストなマルウェア検知",
     "authors": [
@@ -11294,7 +11335,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4G3 ネットワークセキュリティ (1)",
+    "session": "4G3 ネットワークセキュリティ (1) 1/29(木) 13:50 - 15:10",
     "id": "4G3-1",
     "title": "能動的サイバー防御実現に向けた攻撃検知情報に基づく攻撃経路予測手法",
     "authors": [
@@ -11319,7 +11360,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4G3 ネットワークセキュリティ (1)",
+    "session": "4G3 ネットワークセキュリティ (1) 1/29(木) 13:50 - 15:10",
     "id": "4G3-2",
     "title": "能動的サイバー防御実現に向けた攻撃シーケンス予測モデルの構築",
     "authors": [
@@ -11344,7 +11385,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4G3 ネットワークセキュリティ (1)",
+    "session": "4G3 ネットワークセキュリティ (1) 1/29(木) 13:50 - 15:10",
     "id": "4G3-3",
     "title": "Realistic Pentesting Network Topology Generation",
     "authors": [
@@ -11385,7 +11426,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4G3 ネットワークセキュリティ (1)",
+    "session": "4G3 ネットワークセキュリティ (1) 1/29(木) 13:50 - 15:10",
     "id": "4G3-4",
     "title": "ゼロトラストセキュリティ確立に向けたキャンパスネットワークの調査と対応",
     "authors": [
@@ -11466,7 +11507,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4G4 ネットワークセキュリティ (2)",
+    "session": "4G4 ネットワークセキュリティ (2) 1/29(木) 15:40 - 17:00",
     "id": "4G4-1",
     "title": "サイバーセキュリティインシデントから見る日本の医療情報システムの現状とサイバー攻撃への対策方法の考察",
     "authors": [
@@ -11489,17 +11530,17 @@
       {
         "name": "猪俣 敦夫",
         "affiliations": [
-          "大阪大学 D3センター, 立命館大学　総合科学技術研究機構"
+          "大阪大学 D3センター, 立命館大学 総合科学技術研究機構"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
       }
     ],
-    "search_text": "4G4-1 サイバーセキュリティインシデントから見る日本の医療情報システムの現状とサイバー攻撃への対策方法の考察 石川 綾人 上原 哲太郎 猪俣 敦夫 立命館大学 情報理工学科研究科 立命館大学 情報理工学部 大阪大学 D3センター, 立命館大学　総合科学技術研究機構"
+    "search_text": "4G4-1 サイバーセキュリティインシデントから見る日本の医療情報システムの現状とサイバー攻撃への対策方法の考察 石川 綾人 上原 哲太郎 猪俣 敦夫 立命館大学 情報理工学科研究科 立命館大学 情報理工学部 大阪大学 D3センター, 立命館大学 総合科学技術研究機構"
   },
   {
     "event": "SCIS2026",
-    "session": "4G4 ネットワークセキュリティ (2)",
+    "session": "4G4 ネットワークセキュリティ (2) 1/29(木) 15:40 - 17:00",
     "id": "4G4-2",
     "title": "画像形式と拡大縮小を考慮した地図サービスのOblivious HTTP通信解析",
     "authors": [
@@ -11532,7 +11573,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4G4 ネットワークセキュリティ (2)",
+    "session": "4G4 ネットワークセキュリティ (2) 1/29(木) 15:40 - 17:00",
     "id": "4G4-3",
     "title": "システム構成との類似度を用いたセキュリティインシデント事例検索方式",
     "authors": [
@@ -11557,9 +11598,9 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4G4 ネットワークセキュリティ (2)",
+    "session": "4G4 ネットワークセキュリティ (2) 1/29(木) 15:40 - 17:00",
     "id": "4G4-4",
-    "title": "Evil Twin攻撃における接続先選択のOS間比較  --macOSとAndroidの実験評価--",
+    "title": "Evil Twin攻撃における接続先選択のOS間比較 --macOSとAndroidの実験評価--",
     "authors": [
       {
         "name": "安田 誠崇",
@@ -11586,11 +11627,11 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "4G4-4 Evil Twin攻撃における接続先選択のOS間比較  --macOSとAndroidの実験評価-- 安田 誠崇 高野 知佐 稲村 勝樹 広島市立大学 広島市立大学 広島市立大学"
+    "search_text": "4G4-4 Evil Twin攻撃における接続先選択のOS間比較 --macOSとAndroidの実験評価-- 安田 誠崇 高野 知佐 稲村 勝樹 広島市立大学 広島市立大学 広島市立大学"
   },
   {
     "event": "SCIS2026",
-    "session": "4Z1 AIへの攻撃と対策 (6)",
+    "session": "4Z1 AIへの攻撃と対策 (6) 1/29(木) 09:30 - 10:50",
     "id": "4Z1-1",
     "title": "特徴量抽出可能なイメージセンサとAutoencoderを用いたAdversarial Patch緩和手法の検討",
     "authors": [
@@ -11639,7 +11680,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4Z1 AIへの攻撃と対策 (6)",
+    "session": "4Z1 AIへの攻撃と対策 (6) 1/29(木) 09:30 - 10:50",
     "id": "4Z1-2",
     "title": "確率的分類モデルに対する敵対的サンプルへの等長オートエンコーダを用いた防御手法",
     "authors": [
@@ -11664,7 +11705,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4Z1 AIへの攻撃と対策 (6)",
+    "session": "4Z1 AIへの攻撃と対策 (6) 1/29(木) 09:30 - 10:50",
     "id": "4Z1-3",
     "title": "Inpaintingを用いた敵対的パッチ攻撃に対する対策手法",
     "authors": [
@@ -11689,7 +11730,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4Z2 AIへの攻撃と対策 (7)",
+    "session": "4Z2 AIへの攻撃と対策 (7) 1/29(木) 11:10 - 12:30",
     "id": "4Z2-1",
     "title": "画像解釈器に対するUniversalな標的型敵対的攻撃",
     "authors": [
@@ -11714,7 +11755,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4Z2 AIへの攻撃と対策 (7)",
+    "session": "4Z2 AIへの攻撃と対策 (7) 1/29(木) 11:10 - 12:30",
     "id": "4Z2-2",
     "title": "敵対的摂動を用いたビジュアルプロンプトインジェクションによる出力の誘導",
     "authors": [
@@ -11755,7 +11796,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "4Z2 AIへの攻撃と対策 (7)",
+    "session": "4Z2 AIへの攻撃と対策 (7) 1/29(木) 11:10 - 12:30",
     "id": "4Z2-3",
     "title": "音声認識モデルに対する境界探索を用いた標的型敵対的サンプルの生成に関する検討",
     "authors": [
@@ -11796,7 +11837,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "5A1 カードベース暗号・物理暗号 (5)",
+    "session": "5A1 カードベース暗号・物理暗号 (5) 1/30(金) 09:30 - 10:50",
     "id": "5A1-1",
     "title": "天秤を用いた Sumplete に対するゼロ知識証明プロトコル",
     "authors": [
@@ -11822,7 +11863,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "5A1 カードベース暗号・物理暗号 (5)",
+    "session": "5A1 カードベース暗号・物理暗号 (5) 1/30(金) 09:30 - 10:50",
     "id": "5A1-2",
     "title": "天秤ベース投票プロトコル",
     "authors": [
@@ -11855,7 +11896,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "5A1 カードベース暗号・物理暗号 (5)",
+    "session": "5A1 カードベース暗号・物理暗号 (5) 1/30(金) 09:30 - 10:50",
     "id": "5A1-3",
     "title": "天秤ベース投票向けの機構製作と並列天秤の提案",
     "authors": [
@@ -11880,7 +11921,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "5A1 カードベース暗号・物理暗号 (5)",
+    "session": "5A1 カードベース暗号・物理暗号 (5) 1/30(金) 09:30 - 10:50",
     "id": "5A1-4",
     "title": "理解促進のための数独向け物理的ゼロ知識証明デバイスの設計と制作",
     "authors": [
@@ -11905,7 +11946,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "5A2 カードベース暗号・物理暗号 (6)",
+    "session": "5A2 カードベース暗号・物理暗号 (6) 1/30(金) 11:10 - 12:30",
     "id": "5A2-1",
     "title": "グレースケール確率的視覚暗号における弱安全性と無条件安全性の等価性証明",
     "authors": [
@@ -11930,7 +11971,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "5A2 カードベース暗号・物理暗号 (6)",
+    "session": "5A2 カードベース暗号・物理暗号 (6) 1/30(金) 11:10 - 12:30",
     "id": "5A2-2",
     "title": "カード型暗号によるデジタル通信暗号原理の実現（不）可能性",
     "authors": [
@@ -11947,7 +11988,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "5A2 カードベース暗号・物理暗号 (6)",
+    "session": "5A2 カードベース暗号・物理暗号 (6) 1/30(金) 11:10 - 12:30",
     "id": "5A2-3",
     "title": "「お家へ帰ろう」パズルに対するカード型ゼロ知識証明の設計",
     "authors": [
@@ -11980,7 +12021,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "5A2 カードベース暗号・物理暗号 (6)",
+    "session": "5A2 カードベース暗号・物理暗号 (6) 1/30(金) 11:10 - 12:30",
     "id": "5A2-4",
     "title": "上下カードを用いたカードベース暗号の新しいアプリケーション",
     "authors": [
@@ -11997,7 +12038,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "5A2 カードベース暗号・物理暗号 (6)",
+    "session": "5A2 カードベース暗号・物理暗号 (6) 1/30(金) 11:10 - 12:30",
     "id": "5A2-5",
     "title": "バッチング技術の多色カード組と上下回転を用いた効率化",
     "authors": [
@@ -12031,7 +12072,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "5B1 情報理論的安全性",
+    "session": "5B1 情報理論的安全性 1/30(金) 09:30 - 10:50",
     "id": "5B1-1",
     "title": "情報確認プロトコルを用いた検証可能秘密分散の安全性強化",
     "authors": [
@@ -12056,7 +12097,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "5B1 情報理論的安全性",
+    "session": "5B1 情報理論的安全性 1/30(金) 09:30 - 10:50",
     "id": "5B1-2",
     "title": "秘密分散ライブラリのシステム応用の諸要件と実装",
     "authors": [
@@ -12121,7 +12162,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "5B1 情報理論的安全性",
+    "session": "5B1 情報理論的安全性 1/30(金) 09:30 - 10:50",
     "id": "5B1-3",
     "title": "偏りのある共通鍵を用いたメッセージ認証における攻撃成功確率の上界の評価",
     "authors": [
@@ -12146,7 +12187,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "5B1 情報理論的安全性",
+    "session": "5B1 情報理論的安全性 1/30(金) 09:30 - 10:50",
     "id": "5B1-4",
     "title": "追跡可能なランプ型秘密分散法",
     "authors": [
@@ -12196,7 +12237,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "5B2 同種写像",
+    "session": "5B2 同種写像 1/30(金) 11:10 - 12:30",
     "id": "5B2-1",
     "title": "同種写像群作用PEGASISにおけるノルム方程式解法の改良",
     "authors": [
@@ -12229,7 +12270,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "5B2 同種写像",
+    "session": "5B2 同種写像 1/30(金) 11:10 - 12:30",
     "id": "5B2-2",
     "title": "イデアル類群作用の軌道を用いたCSIDHに対する中間一致攻撃",
     "authors": [
@@ -12270,7 +12311,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "5B2 同種写像",
+    "session": "5B2 同種写像 1/30(金) 11:10 - 12:30",
     "id": "5B2-3",
     "title": "NAFハミング重み最適化素数の導入によるCSIDH/dCSIDH鍵交換および公開鍵検証への影響評価",
     "authors": [
@@ -12311,24 +12352,24 @@
   },
   {
     "event": "SCIS2026",
-    "session": "5B2 同種写像",
+    "session": "5B2 同種写像 1/30(金) 11:10 - 12:30",
     "id": "5B2-4",
     "title": "同種写像暗号POKEの弱鍵について",
     "authors": [
       {
         "name": "守谷 共起",
         "affiliations": [
-          "三菱電機　情報技術総合研究所"
+          "三菱電機 情報技術総合研究所"
         ],
         "is_presenter": true,
         "presenter_symbol": "〇"
       }
     ],
-    "search_text": "5B2-4 同種写像暗号POKEの弱鍵について 守谷 共起 三菱電機　情報技術総合研究所"
+    "search_text": "5B2-4 同種写像暗号POKEの弱鍵について 守谷 共起 三菱電機 情報技術総合研究所"
   },
   {
     "event": "SCIS2026",
-    "session": "5C1 差分プライバシー・連合学習",
+    "session": "5C1 差分プライバシー・連合学習 1/30(金) 09:30 - 10:50",
     "id": "5C1-1",
     "title": "$(f,\\epsilon)$-差分プライバシーを用いた合成定理の関数選択による有用性の検討",
     "authors": [
@@ -12353,7 +12394,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "5C1 差分プライバシー・連合学習",
+    "session": "5C1 差分プライバシー・連合学習 1/30(金) 09:30 - 10:50",
     "id": "5C1-2",
     "title": "DP-SGDを用いた時系列解析モデルの推定における定常性誤判定リスクの評価",
     "authors": [
@@ -12378,7 +12419,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "5C1 差分プライバシー・連合学習",
+    "session": "5C1 差分プライバシー・連合学習 1/30(金) 09:30 - 10:50",
     "id": "5C1-3",
     "title": "Non-IID環境下におけるDP-SGDを用いた連合学習の安定化手法の提案",
     "authors": [
@@ -12411,7 +12452,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "5C1 差分プライバシー・連合学習",
+    "session": "5C1 差分プライバシー・連合学習 1/30(金) 09:30 - 10:50",
     "id": "5C1-4",
     "title": "局所差分プライバシー下における三角形計数のための通信効率を考慮した非対話型プロトコル",
     "authors": [
@@ -12444,7 +12485,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "5C2 分散機械学習",
+    "session": "5C2 分散機械学習 1/30(金) 11:10 - 12:30",
     "id": "5C2-1",
     "title": "クラス不均衡下連合型ソースフリードメイン適応における画像基盤モデルによる特徴量抽出器の再考",
     "authors": [
@@ -12485,7 +12526,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "5C2 分散機械学習",
+    "session": "5C2 分散機械学習 1/30(金) 11:10 - 12:30",
     "id": "5C2-2",
     "title": "検証可能な推論結果のための効率的パッキング",
     "authors": [
@@ -12502,7 +12543,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "5C2 分散機械学習",
+    "session": "5C2 分散機械学習 1/30(金) 11:10 - 12:30",
     "id": "5C2-3",
     "title": "垂直分割連合学習における敵対的サンプル生成攻撃対策に向けたサーバ側敵対的学習",
     "authors": [
@@ -12543,7 +12584,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "5C2 分散機械学習",
+    "session": "5C2 分散機械学習 1/30(金) 11:10 - 12:30",
     "id": "5C2-4",
     "title": "正当性の検証が可能な報酬付きクロスサイロ連合学習",
     "authors": [
@@ -12592,7 +12633,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "5D1 認証",
+    "session": "5D1 認証 1/30(金) 09:30 - 10:50",
     "id": "5D1-1",
     "title": "Pronunciation and Security: An Empirical Evaluation Using Katakana-Based User Studies",
     "authors": [
@@ -12625,7 +12666,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "5D1 認証",
+    "session": "5D1 認証 1/30(金) 09:30 - 10:50",
     "id": "5D1-2",
     "title": "パスワード類似性チェッカーに対するバブル攻撃とその対策について",
     "authors": [
@@ -12658,7 +12699,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "5D1 認証",
+    "session": "5D1 認証 1/30(金) 09:30 - 10:50",
     "id": "5D1-3",
     "title": "Washington RGB-D データセットにおける RGB-D 特徴対応を用いた認証",
     "authors": [
@@ -12691,7 +12732,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "5E1 公開鍵暗号",
+    "session": "5E1 公開鍵暗号 1/30(金) 09:30 - 10:50",
     "id": "5E1-1",
     "title": "Hinting PRGの存在性について",
     "authors": [
@@ -12716,7 +12757,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "5E1 公開鍵暗号",
+    "session": "5E1 公開鍵暗号 1/30(金) 09:30 - 10:50",
     "id": "5E1-2",
     "title": "FuncCPAとその変種の関係",
     "authors": [
@@ -12765,7 +12806,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "5E1 公開鍵暗号",
+    "session": "5E1 公開鍵暗号 1/30(金) 09:30 - 10:50",
     "id": "5E1-3",
     "title": "Privacy-Preserving Distributed Key Management",
     "authors": [
@@ -12798,7 +12839,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "5E1 公開鍵暗号",
+    "session": "5E1 公開鍵暗号 1/30(金) 09:30 - 10:50",
     "id": "5E1-4",
     "title": "Alterating LESS: grinding, precomputing and graph-walking",
     "authors": [
@@ -12815,7 +12856,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "5E2 プロキシ再暗号化・登録ベース暗号",
+    "session": "5E2 プロキシ再暗号化・登録ベース暗号 1/30(金) 11:10 - 12:30",
     "id": "5E2-1",
     "title": "vCCA安全な完全準同型暗号からCCA2安全なプロキシ再暗号化への一般的構成法",
     "authors": [
@@ -12848,7 +12889,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "5E2 プロキシ再暗号化・登録ベース暗号",
+    "session": "5E2 プロキシ再暗号化・登録ベース暗号 1/30(金) 11:10 - 12:30",
     "id": "5E2-2",
     "title": "検証可能な属性ベース/IDベースハイブリッドプロキシ再暗号化",
     "authors": [
@@ -12873,7 +12914,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "5E2 プロキシ再暗号化・登録ベース暗号",
+    "session": "5E2 プロキシ再暗号化・登録ベース暗号 1/30(金) 11:10 - 12:30",
     "id": "5E2-3",
     "title": "CCA安全な登録ベース暗号の効率的な構成方法",
     "authors": [
@@ -12891,7 +12932,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "5E2 プロキシ再暗号化・登録ベース暗号",
+    "session": "5E2 プロキシ再暗号化・登録ベース暗号 1/30(金) 11:10 - 12:30",
     "id": "5E2-4",
     "title": "秘密鍵の漏洩に耐性のある登録ベース暗号",
     "authors": [
@@ -12909,7 +12950,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "5F1 E2EE・鍵交換",
+    "session": "5F1 E2EE・鍵交換 1/30(金) 09:30 - 10:50",
     "id": "5F1-1",
     "title": "鍵コミット性欠如を利用したDiscordのエンドツーエンド暗号化に対する不正音声再生攻撃",
     "authors": [
@@ -12947,11 +12988,14 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "5F1-1 鍵コミット性欠如を利用したDiscordのエンドツーエンド暗号化に対する不正音声再生攻撃 山下 勇斗 田中 篤 木村 隼人 五十部 孝典 大阪大学 大阪大学 NICT 大阪大学 大阪大学"
+    "search_text": "5F1-1 鍵コミット性欠如を利用したDiscordのエンドツーエンド暗号化に対する不正音声再生攻撃 山下 勇斗 田中 篤 木村 隼人 五十部 孝典 大阪大学 大阪大学 NICT 大阪大学 大阪大学 SCIS論文賞",
+    "awards": [
+      "SCIS論文賞"
+    ]
   },
   {
     "event": "SCIS2026",
-    "session": "5F1 E2EE・鍵交換",
+    "session": "5F1 E2EE・鍵交換 1/30(金) 09:30 - 10:50",
     "id": "5F1-2",
     "title": "MEGAに対するモジュラ逆元計算エラー攻撃の改良",
     "authors": [
@@ -12984,7 +13028,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "5F1 E2EE・鍵交換",
+    "session": "5F1 E2EE・鍵交換 1/30(金) 09:30 - 10:50",
     "id": "5F1-3",
     "title": "匿名メッセンジャーアプリSessionに対するなりすまし攻撃",
     "authors": [
@@ -13026,7 +13070,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "5F1 E2EE・鍵交換",
+    "session": "5F1 E2EE・鍵交換 1/30(金) 09:30 - 10:50",
     "id": "5F1-4",
     "title": "A Consideration on EDHOC",
     "authors": [
@@ -13043,7 +13087,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "5G1 サプライチェーンセキュリティ",
+    "session": "5G1 サプライチェーンセキュリティ 1/30(金) 09:30 - 10:50",
     "id": "5G1-1",
     "title": "Trivyを活用したWindows端末におけるSBOM自動収集および集中管理システムの設計と評価",
     "authors": [
@@ -13100,7 +13144,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "5G1 サプライチェーンセキュリティ",
+    "session": "5G1 サプライチェーンセキュリティ 1/30(金) 09:30 - 10:50",
     "id": "5G1-2",
     "title": "SBOM活用の現状と課題：標準仕様とツール出力のギャップ分析",
     "authors": [
@@ -13129,6 +13173,14 @@
         "presenter_symbol": ""
       },
       {
+        "name": "小池 竜一",
+        "affiliations": [
+          "株式会社東芝"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
         "name": "上原 龍也",
         "affiliations": [
           "株式会社東芝"
@@ -13137,18 +13189,18 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "5G1-2 SBOM活用の現状と課題：標準仕様とツール出力のギャップ分析 申 河英 小池 竜一 金井 遵 上原 龍也 株式会社東芝 株式会社東芝 株式会社東芝 株式会社東芝"
+    "search_text": "5G1-2 SBOM活用の現状と課題：標準仕様とツール出力のギャップ分析 申 河英 小池 竜一 金井 遵 小池 竜一 上原 龍也 株式会社東芝 株式会社東芝 株式会社東芝 株式会社東芝 株式会社東芝"
   },
   {
     "event": "SCIS2026",
-    "session": "5G1 サプライチェーンセキュリティ",
+    "session": "5G1 サプライチェーンセキュリティ 1/30(金) 09:30 - 10:50",
     "id": "5G1-3",
     "title": "Linux システムを対象としたブートプロセス解析による脆弱性の誤検知低減手法",
     "authors": [
       {
         "name": "小津 喬",
         "affiliations": [
-          "株式会社国際電気通信基礎技術研究所（ATR"
+          "株式会社国際電気通信基礎技術研究所（ATR）"
         ],
         "is_presenter": true,
         "presenter_symbol": "〇"
@@ -13156,7 +13208,7 @@
       {
         "name": "山口 真司",
         "affiliations": [
-          "株式会社国際電気通信基礎技術研究所（ATR"
+          "株式会社国際電気通信基礎技術研究所（ATR）"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
@@ -13164,17 +13216,17 @@
       {
         "name": "横山 浩之",
         "affiliations": [
-          "株式会社国際電気通信基礎技術研究所（ATR"
+          "株式会社国際電気通信基礎技術研究所（ATR）"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
       }
     ],
-    "search_text": "5G1-3 Linux システムを対象としたブートプロセス解析による脆弱性の誤検知低減手法 小津 喬 山口 真司 横山 浩之 株式会社国際電気通信基礎技術研究所（ATR 株式会社国際電気通信基礎技術研究所（ATR 株式会社国際電気通信基礎技術研究所（ATR"
+    "search_text": "5G1-3 Linux システムを対象としたブートプロセス解析による脆弱性の誤検知低減手法 小津 喬 山口 真司 横山 浩之 株式会社国際電気通信基礎技術研究所（ATR） 株式会社国際電気通信基礎技術研究所（ATR） 株式会社国際電気通信基礎技術研究所（ATR）"
   },
   {
     "event": "SCIS2026",
-    "session": "5G1 サプライチェーンセキュリティ",
+    "session": "5G1 サプライチェーンセキュリティ 1/30(金) 09:30 - 10:50",
     "id": "5G1-4",
     "title": "複数管理主体によるマルチドメインブロックチェーンを用いたソフトウェア依存関係検証手法",
     "authors": [
@@ -13207,7 +13259,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "5G2 ランサムウェア対策",
+    "session": "5G2 ランサムウェア対策 1/30(金) 11:10 - 12:30",
     "id": "5G2-1",
     "title": "乱数シード固定による鍵再現余地のあるランサムウェア特定手法の提案",
     "authors": [
@@ -13232,7 +13284,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "5G2 ランサムウェア対策",
+    "session": "5G2 ランサムウェア対策 1/30(金) 11:10 - 12:30",
     "id": "5G2-2",
     "title": "準パススルー型ハイパーバイザによるCPU振る舞い情報の取得とランサムウェアの挙動の分析",
     "authors": [
@@ -13265,9 +13317,9 @@
   },
   {
     "event": "SCIS2026",
-    "session": "5G2 ランサムウェア対策",
+    "session": "5G2 ランサムウェア対策 1/30(金) 11:10 - 12:30",
     "id": "5G2-3",
-    "title": "FUSEベース軽量ファイルシステムによるランサムウェア暗号化防御  — エントロピー閾値を用いた初動対策",
+    "title": "FUSEベース軽量ファイルシステムによるランサムウェア暗号化防御 — エントロピー閾値を用いた初動対策",
     "authors": [
       {
         "name": "髙見 尚杜",
@@ -13286,11 +13338,11 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "5G2-3 FUSEベース軽量ファイルシステムによるランサムウェア暗号化防御  — エントロピー閾値を用いた初動対策 髙見 尚杜 小出 洋 九州大学工学部電気情報工学科Ⅰ群 九州大学情報基盤研究開発センター, セキュリティーセンター"
+    "search_text": "5G2-3 FUSEベース軽量ファイルシステムによるランサムウェア暗号化防御 — エントロピー閾値を用いた初動対策 髙見 尚杜 小出 洋 九州大学工学部電気情報工学科Ⅰ群 九州大学情報基盤研究開発センター, セキュリティーセンター"
   },
   {
     "event": "SCIS2026",
-    "session": "5G2 ランサムウェア対策",
+    "session": "5G2 ランサムウェア対策 1/30(金) 11:10 - 12:30",
     "id": "5G2-4",
     "title": "Fine-Grained Analysis of Intra-Family Deviations in Ransomware: The AKIRA Perspective",
     "authors": [
@@ -13335,12 +13387,12 @@
         "presenter_symbol": ""
       },
       {
-        "name": "kaniwa Motoyuki",
+        "name": "Okaniwa Motoyuki",
         "affiliations": [
           "Cyber Security Laboratory, Canon IT Solutions Inc."
         ],
-        "is_presenter": true,
-        "presenter_symbol": "O"
+        "is_presenter": false,
+        "presenter_symbol": ""
       },
       {
         "name": "Hasegawa Tomohisa",
@@ -13367,11 +13419,11 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "5G2-4 Fine-Grained Analysis of Intra-Family Deviations in Ransomware: The AKIRA Perspective Nishikawa Tatsuki Ikegami Masato Sumida Yusuke Haruka Ichiyanagi Ichihara Hajime kaniwa Motoyuki Hasegawa Tomohisa Shiraishi Yoshiaki Morii Masakatu Graduate School of Engineering, Kobe University Cyber Security Laboratory, Canon IT Solutions Inc. Cyber Security Laboratory, Canon IT Solutions Inc. Cyber Security Laboratory, Canon IT Solutions Inc. Cyber Security Laboratory, Canon IT Solutions Inc. Cyber Security Laboratory, Canon IT Solutions Inc. Cyber Security Laboratory, Canon IT Solutions Inc. Graduate School of Engineering, Kobe University Graduate School of Engineering, Kobe University"
+    "search_text": "5G2-4 Fine-Grained Analysis of Intra-Family Deviations in Ransomware: The AKIRA Perspective Nishikawa Tatsuki Ikegami Masato Sumida Yusuke Haruka Ichiyanagi Ichihara Hajime Okaniwa Motoyuki Hasegawa Tomohisa Shiraishi Yoshiaki Morii Masakatu Graduate School of Engineering, Kobe University Cyber Security Laboratory, Canon IT Solutions Inc. Cyber Security Laboratory, Canon IT Solutions Inc. Cyber Security Laboratory, Canon IT Solutions Inc. Cyber Security Laboratory, Canon IT Solutions Inc. Cyber Security Laboratory, Canon IT Solutions Inc. Cyber Security Laboratory, Canon IT Solutions Inc. Graduate School of Engineering, Kobe University Graduate School of Engineering, Kobe University"
   },
   {
     "event": "SCIS2026",
-    "session": "5G2 ランサムウェア対策",
+    "session": "5G2 ランサムウェア対策 1/30(金) 11:10 - 12:30",
     "id": "5G2-5",
     "title": "Inter-Family Relationships and Similarities in Modern Ransomware",
     "authors": [
@@ -13416,12 +13468,12 @@
         "presenter_symbol": ""
       },
       {
-        "name": "kaniwa Motoyuki",
+        "name": "Okaniwa Motoyuki",
         "affiliations": [
           "Cyber Security Laboratory, Canon IT Solutions Inc."
         ],
-        "is_presenter": true,
-        "presenter_symbol": "O"
+        "is_presenter": false,
+        "presenter_symbol": ""
       },
       {
         "name": "Hasegawa Tomohisa",
@@ -13448,11 +13500,11 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "5G2-5 Inter-Family Relationships and Similarities in Modern Ransomware Higashiseto Shota Ikegami Masato Sumida Yusuke Ichiyanagi Haruka Ichihara Hajime kaniwa Motoyuki Hasegawa Tomohisa Shiraishi Yoshiaki Morii Masakatu Graduate School of Engineering, Kobe University Cyber Security Laboratory, Canon IT Solutions Inc. Cyber Security Laboratory, Canon IT Solutions Inc. Cyber Security Laboratory, Canon IT Solutions Inc. Cyber Security Laboratory, Canon IT Solutions Inc. Cyber Security Laboratory, Canon IT Solutions Inc. Cyber Security Laboratory, Canon IT Solutions Inc. Graduate School of Engineering, Kobe University Graduate School of Engineering, Kobe University"
+    "search_text": "5G2-5 Inter-Family Relationships and Similarities in Modern Ransomware Higashiseto Shota Ikegami Masato Sumida Yusuke Ichiyanagi Haruka Ichihara Hajime Okaniwa Motoyuki Hasegawa Tomohisa Shiraishi Yoshiaki Morii Masakatu Graduate School of Engineering, Kobe University Cyber Security Laboratory, Canon IT Solutions Inc. Cyber Security Laboratory, Canon IT Solutions Inc. Cyber Security Laboratory, Canon IT Solutions Inc. Cyber Security Laboratory, Canon IT Solutions Inc. Cyber Security Laboratory, Canon IT Solutions Inc. Cyber Security Laboratory, Canon IT Solutions Inc. Graduate School of Engineering, Kobe University Graduate School of Engineering, Kobe University"
   },
   {
     "event": "SCIS2026",
-    "session": "5Z1 AI活用とリスク",
+    "session": "5Z1 AI活用とリスク 1/30(金) 09:30 - 10:50",
     "id": "5Z1-1",
     "title": "説明能力の差を用いたLLM認証手法の検討",
     "authors": [
@@ -13549,7 +13601,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "5Z1 AI活用とリスク",
+    "session": "5Z1 AI活用とリスク 1/30(金) 09:30 - 10:50",
     "id": "5Z1-2",
     "title": "AIコンパニオン依存緩和を目的とした依存先分散型介入の提案",
     "authors": [
@@ -13594,7 +13646,7 @@
         "presenter_symbol": ""
       },
       {
-        "name": "佐藤　 靖治",
+        "name": "佐藤 靖治",
         "affiliations": [
           "静岡大学"
         ],
@@ -13618,11 +13670,11 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "5Z1-2 AIコンパニオン依存緩和を目的とした依存先分散型介入の提案 横山 昂叶 榎本 聖成 楊 帆 松田 一太 芝田 翔 佐藤　 靖治 大木 哲史 西垣 正勝 静岡大学 静岡大学 静岡大学 静岡大学 静岡大学 静岡大学 静岡大学 静岡大学"
+    "search_text": "5Z1-2 AIコンパニオン依存緩和を目的とした依存先分散型介入の提案 横山 昂叶 榎本 聖成 楊 帆 松田 一太 芝田 翔 佐藤 靖治 大木 哲史 西垣 正勝 静岡大学 静岡大学 静岡大学 静岡大学 静岡大学 静岡大学 静岡大学 静岡大学"
   },
   {
     "event": "SCIS2026",
-    "session": "5Z1 AI活用とリスク",
+    "session": "5Z1 AI活用とリスク 1/30(金) 09:30 - 10:50",
     "id": "5Z1-3",
     "title": "契約書を AI チェックに任せて大丈夫なのか",
     "authors": [
@@ -13655,7 +13707,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "5Z1 AI活用とリスク",
+    "session": "5Z1 AI活用とリスク 1/30(金) 09:30 - 10:50",
     "id": "5Z1-4",
     "title": "罪源とAIと犯罪：セルフコントロール理論の観点から",
     "authors": [
@@ -13736,7 +13788,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "5Z2 AIを用いた攻撃と対策",
+    "session": "5Z2 AIを用いた攻撃と対策 1/30(金) 11:10 - 12:30",
     "id": "5Z2-1",
     "title": "Colluder Identification of Fingerprinting Codes Using Generative Models",
     "authors": [
@@ -13761,7 +13813,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "5Z2 AIを用いた攻撃と対策",
+    "session": "5Z2 AIを用いた攻撃と対策 1/30(金) 11:10 - 12:30",
     "id": "5Z2-2",
     "title": "遠隔敵対的 patch 攻撃における画像内情報と patch の情報拡散の双方を考慮し た最適配置の検討および CAPTCHA への応用",
     "authors": [
@@ -13794,7 +13846,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "5Z2 AIを用いた攻撃と対策",
+    "session": "5Z2 AIを用いた攻撃と対策 1/30(金) 11:10 - 12:30",
     "id": "5Z2-3",
     "title": "双方向直交性を用いた知識蒸留の精度向上",
     "authors": [
@@ -13827,7 +13879,7 @@
   },
   {
     "event": "SCIS2026",
-    "session": "5Z2 AIを用いた攻撃と対策",
+    "session": "5Z2 AIを用いた攻撃と対策 1/30(金) 11:10 - 12:30",
     "id": "5Z2-4",
     "title": "DWTを用いたTTS拡散モデルのウォーターマーク手法",
     "authors": [

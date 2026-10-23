@@ -64,12 +64,12 @@
         "presenter_symbol": "◎"
       },
       {
-        "name": "ctavio Pérez Kempner",
+        "name": "Octavio Pérez Kempner",
         "affiliations": [
           "NTT Social Informatics Laboratories"
         ],
-        "is_presenter": true,
-        "presenter_symbol": "O"
+        "is_presenter": false,
+        "presenter_symbol": ""
       },
       {
         "name": "Mehdi Tibouchi",
@@ -88,7 +88,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1A1-3 Comparision Among Post-Quantum Oblivious Transfer Implementations Peihao Li ctavio Pérez Kempner Mehdi Tibouchi Masayuki Abe Kyoto University NTT Social Informatics Laboratories NTT Social Informatics Laboratories & Kyoto University NTT Social Informatics Laboratories & Kyoto University"
+    "search_text": "1A1-3 Comparision Among Post-Quantum Oblivious Transfer Implementations Peihao Li Octavio Pérez Kempner Mehdi Tibouchi Masayuki Abe Kyoto University NTT Social Informatics Laboratories NTT Social Informatics Laboratories & Kyoto University NTT Social Informatics Laboratories & Kyoto University"
   },
   {
     "event": "SCIS2025",
@@ -305,7 +305,7 @@
       {
         "name": "阪本 光星",
         "affiliations": [
-          "三菱電機（株"
+          "三菱電機（株）"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
@@ -319,7 +319,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1B1-5 Grouping Methodを用いたSPONGENTへのリバウンド攻撃 遠山 慶太 阪本 光星 五十部 孝典 兵庫県立大学 三菱電機（株 兵庫県立大学"
+    "search_text": "1B1-5 Grouping Methodを用いたSPONGENTへのリバウンド攻撃 遠山 慶太 阪本 光星 五十部 孝典 兵庫県立大学 三菱電機（株） 兵庫県立大学"
   },
   {
     "event": "SCIS2025",
@@ -366,7 +366,7 @@
     "event": "SCIS2025",
     "session": "1C1 暗号理論 (1) 1月28日(火) 15:00～16:40",
     "id": "1C1-2",
-    "title": "再訪：秘密分散におけるフレーム不正とその対策   －起源と現状と課題－",
+    "title": "再訪：秘密分散におけるフレーム不正とその対策 －起源と現状と課題－",
     "authors": [
       {
         "name": "櫻井 幸一",
@@ -377,7 +377,7 @@
         "presenter_symbol": "○"
       }
     ],
-    "search_text": "1C1-2 再訪：秘密分散におけるフレーム不正とその対策   －起源と現状と課題－ 櫻井 幸一 九州大学"
+    "search_text": "1C1-2 再訪：秘密分散におけるフレーム不正とその対策 －起源と現状と課題－ 櫻井 幸一 九州大学"
   },
   {
     "event": "SCIS2025",
@@ -861,7 +861,7 @@
       {
         "name": "Khang Mai",
         "affiliations": [
-          "Japan Advanced Institute of Science and Technology (JAIST"
+          "Japan Advanced Institute of Science and Technology (JAIST)"
         ],
         "is_presenter": true,
         "presenter_symbol": "◎"
@@ -869,7 +869,7 @@
       {
         "name": "Razvan Beuran",
         "affiliations": [
-          "Japan Advanced Institute of Science and Technology (JAIST"
+          "Japan Advanced Institute of Science and Technology (JAIST)"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
@@ -877,13 +877,13 @@
       {
         "name": "Naoya Inoue",
         "affiliations": [
-          "Japan Advanced Institute of Science and Technology (JAIST"
+          "Japan Advanced Institute of Science and Technology (JAIST)"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1F1-1 LLM-based Analysis of Cyber Threat Intelligence Report Khang Mai Razvan Beuran Naoya Inoue Japan Advanced Institute of Science and Technology (JAIST Japan Advanced Institute of Science and Technology (JAIST Japan Advanced Institute of Science and Technology (JAIST"
+    "search_text": "1F1-1 LLM-based Analysis of Cyber Threat Intelligence Report Khang Mai Razvan Beuran Naoya Inoue Japan Advanced Institute of Science and Technology (JAIST) Japan Advanced Institute of Science and Technology (JAIST) Japan Advanced Institute of Science and Technology (JAIST)"
   },
   {
     "event": "SCIS2025",
@@ -1263,7 +1263,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1A2-1 Cryptographic Characterization of Quantum Advantage Tomoyuki Morimae Yuki Shirakawa Takashi Yamakawa Kyoto University Kyoto University NTT, Kyoto University"
+    "search_text": "1A2-1 Cryptographic Characterization of Quantum Advantage Tomoyuki Morimae Yuki Shirakawa Takashi Yamakawa Kyoto University Kyoto University NTT, Kyoto University SCIS論文賞",
+    "awards": [
+      "SCIS論文賞"
+    ]
   },
   {
     "event": "SCIS2025",
@@ -1505,7 +1508,7 @@
         "presenter_symbol": "◎"
       },
       {
-        "name": "Yuta   Kanai",
+        "name": "Yuta Kanai",
         "affiliations": [
           "Iwate Prefectural University. Graduate School of Software and Information Science"
         ],
@@ -1521,7 +1524,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1D2-1 Usability Testing for the Implementation of One-Time Password as a Connection Requirement for Wired Home Networks NATHANIEL KOFI ADJADEH Yuta   Kanai Masaki Narita Iwate Prefectural University. Graduate School of Software and Information Science Iwate Prefectural University. Graduate School of Software and Information Science Iwate Prefectural University. Graduate School of Software and Information Science"
+    "search_text": "1D2-1 Usability Testing for the Implementation of One-Time Password as a Connection Requirement for Wired Home Networks NATHANIEL KOFI ADJADEH Yuta Kanai Masaki Narita Iwate Prefectural University. Graduate School of Software and Information Science Iwate Prefectural University. Graduate School of Software and Information Science Iwate Prefectural University. Graduate School of Software and Information Science"
   },
   {
     "event": "SCIS2025",
@@ -1801,7 +1804,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1F2-2 Wi-Fi Probe Requestに含まれるESSIDによるプライバシーリスクおよび要因調査 木田 伍 川崎 秀昌 穐山 空道 上原 哲太郎 立命館大学 立命館大学 立命館大学 立命館大学"
+    "search_text": "1F2-2 Wi-Fi Probe Requestに含まれるESSIDによるプライバシーリスクおよび要因調査 木田 伍 川崎 秀昌 穐山 空道 上原 哲太郎 立命館大学 立命館大学 立命館大学 立命館大学 SCIS論文賞",
+    "awards": [
+      "SCIS論文賞"
+    ]
   },
   {
     "event": "SCIS2025",
@@ -2115,7 +2121,10 @@
         "presenter_symbol": "○"
       }
     ],
-    "search_text": "2A1-5 安全な量子鍵貸与のためのシンプルなフレームワーク 北川 冬航 森前 智行 山川 高志 NTT社会情報研究所 京都大学 NTT社会情報研究所"
+    "search_text": "2A1-5 安全な量子鍵貸与のためのシンプルなフレームワーク 北川 冬航 森前 智行 山川 高志 NTT社会情報研究所 京都大学 NTT社会情報研究所 イノベーション論文賞",
+    "awards": [
+      "イノベーション論文賞"
+    ]
   },
   {
     "event": "SCIS2025",
@@ -2647,7 +2656,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2D1-5 Labyrinth Encrypted Message Storage Protocolの形式検証 渡部 翔 米山 一樹 茨城大学 茨城大学"
+    "search_text": "2D1-5 Labyrinth Encrypted Message Storage Protocolの形式検証 渡部 翔 米山 一樹 茨城大学 茨城大学 SCIS論文賞",
+    "awards": [
+      "SCIS論文賞"
+    ]
   },
   {
     "event": "SCIS2025",
@@ -2680,7 +2692,7 @@
         "presenter_symbol": ""
       },
       {
-        "name": "奥井  宣広",
+        "name": "奥井 宣広",
         "affiliations": [
           "株式会社KDDI総合研究所"
         ],
@@ -2688,7 +2700,7 @@
         "presenter_symbol": ""
       },
       {
-        "name": "窪田  歩",
+        "name": "窪田 歩",
         "affiliations": [
           "株式会社KDDI総合研究所"
         ],
@@ -2696,7 +2708,7 @@
         "presenter_symbol": ""
       },
       {
-        "name": "吉田  琢也",
+        "name": "吉田 琢也",
         "affiliations": [
           "トヨタ自動車株式会社"
         ],
@@ -2704,7 +2716,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2E1-1 クラウド環境のフローログを用いたIoT デバイスの異常通信検知に関する一検討 飯澤 優太朗 秋元 裕介 福嶋 昌太郎 奥井  宣広 窪田  歩 吉田  琢也 株式会社 ARISE analytics 株式会社 ARISE analytics 株式会社 ARISE analytics 株式会社KDDI総合研究所 株式会社KDDI総合研究所 トヨタ自動車株式会社"
+    "search_text": "2E1-1 クラウド環境のフローログを用いたIoT デバイスの異常通信検知に関する一検討 飯澤 優太朗 秋元 裕介 福嶋 昌太郎 奥井 宣広 窪田 歩 吉田 琢也 株式会社 ARISE analytics 株式会社 ARISE analytics 株式会社 ARISE analytics 株式会社KDDI総合研究所 株式会社KDDI総合研究所 トヨタ自動車株式会社"
   },
   {
     "event": "SCIS2025",
@@ -3219,7 +3231,7 @@
         "presenter_symbol": ""
       },
       {
-        "name": "神薗  雅紀",
+        "name": "神薗 雅紀",
         "affiliations": [
           "デロイト トーマツ サイバー合同会社"
         ],
@@ -3227,7 +3239,7 @@
         "presenter_symbol": ""
       },
       {
-        "name": "熊谷  裕志",
+        "name": "熊谷 裕志",
         "affiliations": [
           "デロイト トーマツ サイバー合同会社"
         ],
@@ -3243,7 +3255,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2A2-1 Bitcoinにおけるランサムウェアアドレス周辺のトランザクションに着目した悪性アドレスラベルの拡張手法の提案 奥村 祐紀 田中 俊昭 神薗  雅紀 熊谷  裕志 森 博志 兵庫県立大学大学院情報科学研究科 兵庫県立大学大学院情報科学研究科 デロイト トーマツ サイバー合同会社 デロイト トーマツ サイバー合同会社 デロイト トーマツ サイバー合同会社"
+    "search_text": "2A2-1 Bitcoinにおけるランサムウェアアドレス周辺のトランザクションに着目した悪性アドレスラベルの拡張手法の提案 奥村 祐紀 田中 俊昭 神薗 雅紀 熊谷 裕志 森 博志 兵庫県立大学大学院情報科学研究科 兵庫県立大学大学院情報科学研究科 デロイト トーマツ サイバー合同会社 デロイト トーマツ サイバー合同会社 デロイト トーマツ サイバー合同会社"
   },
   {
     "event": "SCIS2025",
@@ -3411,7 +3423,7 @@
     "title": "IDベース署名を用いたバニティアドレス生成手法の検討",
     "authors": [
       {
-        "name": "村崎  翔梧",
+        "name": "村崎 翔梧",
         "affiliations": [
           "金沢大学"
         ],
@@ -3435,7 +3447,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2A2-5 IDベース署名を用いたバニティアドレス生成手法の検討 村崎  翔梧 面 和成 江村 恵太 金沢大学 筑波大学 金沢大学"
+    "search_text": "2A2-5 IDベース署名を用いたバニティアドレス生成手法の検討 村崎 翔梧 面 和成 江村 恵太 金沢大学 筑波大学 金沢大学"
   },
   {
     "event": "SCIS2025",
@@ -3595,7 +3607,7 @@
         "presenter_symbol": ""
       },
       {
-        "name": "原  啓祐",
+        "name": "原 啓祐",
         "affiliations": [
           "産業技術総合研究所"
         ],
@@ -3627,7 +3639,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2C2-1 マルチクエリをサポートした検証可能秘匿情報検索技術 林田 淳一郎 林 リウヤ 原  啓祐 野村 健太 神薗 雅紀 花岡 悟一郎 デロイトトーマツサイバー合同会社 東京大学 産業技術総合研究所 産業技術総合研究所 デロイトトーマツサイバー合同会社 デロイトトーマツサイバー合同会社 産業技術総合研究所"
+    "search_text": "2C2-1 マルチクエリをサポートした検証可能秘匿情報検索技術 林田 淳一郎 林 リウヤ 原 啓祐 野村 健太 神薗 雅紀 花岡 悟一郎 デロイトトーマツサイバー合同会社 東京大学 産業技術総合研究所 産業技術総合研究所 デロイトトーマツサイバー合同会社 デロイトトーマツサイバー合同会社 産業技術総合研究所"
   },
   {
     "event": "SCIS2025",
@@ -3669,7 +3681,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2C2-2 ロケットチャットのエンドツーエンド暗号化に対する安全性解析 木村 隼人 伊藤 竜馬 峯松 一彦 五十部 孝典 兵庫県立大学 国立研究開発法人情報通信研究機構 日本電気株式会社 横浜国立大学 兵庫県立大学"
+    "search_text": "2C2-2 ロケットチャットのエンドツーエンド暗号化に対する安全性解析 木村 隼人 伊藤 竜馬 峯松 一彦 五十部 孝典 兵庫県立大学 国立研究開発法人情報通信研究機構 日本電気株式会社 横浜国立大学 兵庫県立大学 SCIS論文賞",
+    "awards": [
+      "SCIS論文賞"
+    ]
   },
   {
     "event": "SCIS2025",
@@ -4674,7 +4689,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2B3-2 Middle-Product LWE仮定に基づく属性ベース暗号の構成 西村 拓海 高安 敦 東京大学 東京大学"
+    "search_text": "2B3-2 Middle-Product LWE仮定に基づく属性ベース暗号の構成 西村 拓海 高安 敦 東京大学 東京大学 SCIS論文賞",
+    "awards": [
+      "SCIS論文賞"
+    ]
   },
   {
     "event": "SCIS2025",
@@ -4765,7 +4783,7 @@
         "presenter_symbol": ""
       },
       {
-        "name": "Mehdi  Tibouchi",
+        "name": "Mehdi Tibouchi",
         "affiliations": [
           "NTT Social Informatics Laboratories"
         ],
@@ -4781,7 +4799,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2C3-1 On Variations of Multi-round Special Soundness and Their Fiat-Shamir Transform Zehua Shang Miyako Ohkubo Mehdi  Tibouchi Masayuki Abe Kyoto University NICT NTT Social Informatics Laboratories NTT Social Informatics Laboratories"
+    "search_text": "2C3-1 On Variations of Multi-round Special Soundness and Their Fiat-Shamir Transform Zehua Shang Miyako Ohkubo Mehdi Tibouchi Masayuki Abe Kyoto University NICT NTT Social Informatics Laboratories NTT Social Informatics Laboratories"
   },
   {
     "event": "SCIS2025",
@@ -4900,7 +4918,7 @@
       {
         "name": "才所 敏明",
         "affiliations": [
-          "（株"
+          "（株）IT企画"
         ],
         "is_presenter": true,
         "presenter_symbol": "○"
@@ -4922,7 +4940,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2D3-1 安心・安全な遠隔生体認証（SSRBA） 才所 敏明 辻井 重男 櫻井 幸一 （株 中央大学研究開発機構 九州大学大学院システム情報科学研究院"
+    "search_text": "2D3-1 安心・安全な遠隔生体認証（SSRBA） 才所 敏明 辻井 重男 櫻井 幸一 （株）IT企画 中央大学研究開発機構 九州大学大学院システム情報科学研究院"
   },
   {
     "event": "SCIS2025",
@@ -5272,7 +5290,7 @@
       {
         "name": "金井 佑太",
         "affiliations": [
-          "岩手県立大学大学院　ソフトウェア情報学研究科"
+          "岩手県立大学大学院 ソフトウェア情報学研究科"
         ],
         "is_presenter": true,
         "presenter_symbol": "◎"
@@ -5280,7 +5298,7 @@
       {
         "name": "Adjadeh Nathaniel Kofi",
         "affiliations": [
-          "岩手県立大学大学院　ソフトウェア情報学研究科"
+          "岩手県立大学大学院 ソフトウェア情報学研究科"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
@@ -5288,13 +5306,13 @@
       {
         "name": "成田 匡輝",
         "affiliations": [
-          "岩手県立大学大学院　ソフトウェア情報学研究科"
+          "岩手県立大学大学院 ソフトウェア情報学研究科"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2F3-2 サイバーセキュリティ初学者のためのパケット可視化手法に対する有効性評価 金井 佑太 Adjadeh Nathaniel Kofi 成田 匡輝 岩手県立大学大学院　ソフトウェア情報学研究科 岩手県立大学大学院　ソフトウェア情報学研究科 岩手県立大学大学院　ソフトウェア情報学研究科"
+    "search_text": "2F3-2 サイバーセキュリティ初学者のためのパケット可視化手法に対する有効性評価 金井 佑太 Adjadeh Nathaniel Kofi 成田 匡輝 岩手県立大学大学院 ソフトウェア情報学研究科 岩手県立大学大学院 ソフトウェア情報学研究科 岩手県立大学大学院 ソフトウェア情報学研究科"
   },
   {
     "event": "SCIS2025",
@@ -5782,7 +5800,7 @@
         "presenter_symbol": "◎"
       },
       {
-        "name": "田宮　 寛人",
+        "name": "田宮 寛人",
         "affiliations": [
           "NEC"
         ],
@@ -5790,7 +5808,7 @@
         "presenter_symbol": ""
       },
       {
-        "name": "森　 健吾",
+        "name": "森 健吾",
         "affiliations": [
           "NEC"
         ],
@@ -5798,7 +5816,7 @@
         "presenter_symbol": ""
       },
       {
-        "name": "一色　 寿幸",
+        "name": "一色 寿幸",
         "affiliations": [
           "NEC"
         ],
@@ -5822,7 +5840,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2C4-3 分散型ファジー署名を用いたデジタルウォレットの鍵管理 大槻 紗季 田宮　 寛人 森　 健吾 一色　 寿幸 松尾 真一郎 尾花 賢 NEC NEC NEC NEC ジョージタウン大学 法政大学"
+    "search_text": "2C4-3 分散型ファジー署名を用いたデジタルウォレットの鍵管理 大槻 紗季 田宮 寛人 森 健吾 一色 寿幸 松尾 真一郎 尾花 賢 NEC NEC NEC NEC ジョージタウン大学 法政大学"
   },
   {
     "event": "SCIS2025",
@@ -6609,7 +6627,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3B1-2 標準認証暗号の誤用安全性解析 井上 明子 岩田 哲 峯松 一彦 NEC 名古屋大学 NEC"
+    "search_text": "3B1-2 標準認証暗号の誤用安全性解析 井上 明子 岩田 哲 峯松 一彦 NEC 名古屋大学 NEC SCIS論文賞",
+    "awards": [
+      "SCIS論文賞"
+    ]
   },
   {
     "event": "SCIS2025",
@@ -6854,7 +6875,7 @@
       {
         "name": "大友 駿也",
         "affiliations": [
-          "東京科学大学　情報理工学院"
+          "東京科学大学 情報理工学院"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
@@ -6862,13 +6883,13 @@
       {
         "name": "安永 憲司",
         "affiliations": [
-          "東京科学大学　情報理工学院"
+          "東京科学大学 情報理工学院"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3C1-5 検出回避攻撃者に対する定数ラウンドコンセンサスプロトコル 園部 凌平 大友 駿也 安永 憲司 東京科学大学 情報理工学院 東京科学大学　情報理工学院 東京科学大学　情報理工学院"
+    "search_text": "3C1-5 検出回避攻撃者に対する定数ラウンドコンセンサスプロトコル 園部 凌平 大友 駿也 安永 憲司 東京科学大学 情報理工学院 東京科学大学 情報理工学院 東京科学大学 情報理工学院"
   },
   {
     "event": "SCIS2025",
@@ -7166,13 +7187,13 @@
       {
         "name": "岡崎 裕之",
         "affiliations": [
-          "信州大学 学術研究院 (工学系"
+          "信州大学 学術研究院 (工学系)"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3E1-5 AES暗号実装したハードウェアに対する故障利用解析の検証と評価 玉川 未蘭 布田 裕一 三重野 武彦 岡崎 裕之 東京工科大学大学院 バイオ・情報メディア研究科 コンピュータサイエンス専攻 東京工科大学 コンピュータサイエンス学部 エプソンアヴァシス株式会社 信州大学 学術研究院 (工学系"
+    "search_text": "3E1-5 AES暗号実装したハードウェアに対する故障利用解析の検証と評価 玉川 未蘭 布田 裕一 三重野 武彦 岡崎 裕之 東京工科大学大学院 バイオ・情報メディア研究科 コンピュータサイエンス専攻 東京工科大学 コンピュータサイエンス学部 エプソンアヴァシス株式会社 信州大学 学術研究院 (工学系)"
   },
   {
     "event": "SCIS2025",
@@ -7773,13 +7794,13 @@
       {
         "name": "秋山 浩一郎",
         "affiliations": [
-          "株式会社　東芝"
+          "株式会社 東芝"
         ],
         "is_presenter": true,
         "presenter_symbol": "○"
       }
     ],
-    "search_text": "3A2-5 不定方程式の求解問題に基づくデジタル署名 秋山 浩一郎 株式会社　東芝"
+    "search_text": "3A2-5 不定方程式の求解問題に基づくデジタル署名 秋山 浩一郎 株式会社 東芝"
   },
   {
     "event": "SCIS2025",
@@ -9120,7 +9141,7 @@
       {
         "name": "高島 克幸",
         "affiliations": [
-          "早稲田大学　教育・総合科学学術院"
+          "早稲田大学 教育・総合科学学術院"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
@@ -9128,13 +9149,13 @@
       {
         "name": "三枝崎 剛",
         "affiliations": [
-          "早稲田大学　理工学術院"
+          "早稲田大学 理工学術院"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3B3-3 有限環上のLCD符号から得られる格子の同型問題について 西村 優作 高島 克幸 三枝崎 剛 早稲田大学大学院数学応用数理専攻 早稲田大学　教育・総合科学学術院 早稲田大学　理工学術院"
+    "search_text": "3B3-3 有限環上のLCD符号から得られる格子の同型問題について 西村 優作 高島 克幸 三枝崎 剛 早稲田大学大学院数学応用数理専攻 早稲田大学 教育・総合科学学術院 早稲田大学 理工学術院"
   },
   {
     "event": "SCIS2025",
@@ -9192,7 +9213,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3B3-5 近傍グラフを用いたLattice Sieveの提案と理論解析 安達 瞭 相川 勇輔 高木 剛 東京大学 東京大学 東京大学"
+    "search_text": "3B3-5 近傍グラフを用いたLattice Sieveの提案と理論解析 安達 瞭 相川 勇輔 高木 剛 東京大学 東京大学 東京大学 SCIS論文賞",
+    "awards": [
+      "SCIS論文賞"
+    ]
   },
   {
     "event": "SCIS2025",
@@ -9403,7 +9427,7 @@
         "presenter_symbol": ""
       },
       {
-        "name": "Masato  Tsutsumi",
+        "name": "Masato Tsutsumi",
         "affiliations": [
           "Waseda University"
         ],
@@ -9419,7 +9443,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3D3-2 Revisiting the Comparison of Digital Signature Algorithms for Unlinkable Selective Disclosure Takumi Otsuka Shigeo Mizuno Ken Watanabe Masato  Tsutsumi Kazue Sako Waseda University Waseda University Waseda University Waseda University Waseda University"
+    "search_text": "3D3-2 Revisiting the Comparison of Digital Signature Algorithms for Unlinkable Selective Disclosure Takumi Otsuka Shigeo Mizuno Ken Watanabe Masato Tsutsumi Kazue Sako Waseda University Waseda University Waseda University Waseda University Waseda University"
   },
   {
     "event": "SCIS2025",
@@ -9850,7 +9874,7 @@
         "presenter_symbol": "○"
       },
       {
-        "name": "中田  亮太郎",
+        "name": "中田 亮太郎",
         "affiliations": [
           "一橋大学"
         ],
@@ -9858,7 +9882,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3F3-4 DNSおよびBGPネットワークを含めた情報セキュリティ演習システムの試作 砂原 悟 中田  亮太郎 公立千歳科学技術大学 一橋大学"
+    "search_text": "3F3-4 DNSおよびBGPネットワークを含めた情報セキュリティ演習システムの試作 砂原 悟 中田 亮太郎 公立千歳科学技術大学 一橋大学"
   },
   {
     "event": "SCIS2025",
@@ -9957,7 +9981,7 @@
         "presenter_symbol": ""
       },
       {
-        "name": "張　 海波",
+        "name": "張 海波",
         "affiliations": [
           "九州工業大学"
         ],
@@ -9973,7 +9997,7 @@
         "presenter_symbol": "○"
       }
     ],
-    "search_text": "3G3-1 表情認識システムに対する 一画素攻撃の欺瞞力強化 Kumar Pramod Gamini Gayatri Seal Ayan Mohanty Sraban Kumar 張　 海波 櫻井 幸一 PDPM Indian Institute of Information Technology, Design and Manufacturing, Jabalpur PDPM Indian Institute of Information Technology, Design and Manufacturing, Jabalpur PDPM Indian Institute of Information Technology, Design and Manufacturing, Jabalpur PDPM Indian Institute of Information Technology, Design and Manufacturing, Jabalpur 九州工業大学 九州大学"
+    "search_text": "3G3-1 表情認識システムに対する 一画素攻撃の欺瞞力強化 Kumar Pramod Gamini Gayatri Seal Ayan Mohanty Sraban Kumar 張 海波 櫻井 幸一 PDPM Indian Institute of Information Technology, Design and Manufacturing, Jabalpur PDPM Indian Institute of Information Technology, Design and Manufacturing, Jabalpur PDPM Indian Institute of Information Technology, Design and Manufacturing, Jabalpur PDPM Indian Institute of Information Technology, Design and Manufacturing, Jabalpur 九州工業大学 九州大学"
   },
   {
     "event": "SCIS2025",
@@ -10743,7 +10767,7 @@
         "presenter_symbol": ""
       },
       {
-        "name": "安齋  潤",
+        "name": "安齋 潤",
         "affiliations": [
           "パナソニック オートモーティブシステムズ株式会社"
         ],
@@ -10751,7 +10775,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3E4-2 MILSアーキテクチャの車両システム適用に関するセキュリティリスク評価 竹内 章人 永井 拓丸 瀬崎 朋久 芳賀 智之 安齋  潤 パナソニック オートモーティブシステムズ株式会社 パナソニック オートモーティブシステムズ株式会社 パナソニック オートモーティブシステムズ株式会社 パナソニック オートモーティブシステムズ株式会社 パナソニック オートモーティブシステムズ株式会社"
+    "search_text": "3E4-2 MILSアーキテクチャの車両システム適用に関するセキュリティリスク評価 竹内 章人 永井 拓丸 瀬崎 朋久 芳賀 智之 安齋 潤 パナソニック オートモーティブシステムズ株式会社 パナソニック オートモーティブシステムズ株式会社 パナソニック オートモーティブシステムズ株式会社 パナソニック オートモーティブシステムズ株式会社 パナソニック オートモーティブシステムズ株式会社"
   },
   {
     "event": "SCIS2025",
@@ -11279,7 +11303,10 @@
         "presenter_symbol": "◎"
       }
     ],
-    "search_text": "4A1-2 楕円曲線の直積を定義域とする高次数同種写像計算の効率化 吉住 崚 九州大学"
+    "search_text": "4A1-2 楕円曲線の直積を定義域とする高次数同種写像計算の効率化 吉住 崚 九州大学 SCIS論文賞",
+    "awards": [
+      "SCIS論文賞"
+    ]
   },
   {
     "event": "SCIS2025",
@@ -12065,7 +12092,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "4F1-1 Bluetooth省電力モードを用いた音声盗聴攻撃と防御 木村 圭一朗 葛野 弘樹 白石 善明 森井 昌克 神戸大学 神戸大学 神戸大学 神戸大学"
+    "search_text": "4F1-1 Bluetooth省電力モードを用いた音声盗聴攻撃と防御 木村 圭一朗 葛野 弘樹 白石 善明 森井 昌克 神戸大学 神戸大学 神戸大学 神戸大学 SCIS論文賞",
+    "awards": [
+      "SCIS論文賞"
+    ]
   },
   {
     "event": "SCIS2025",
@@ -13364,7 +13394,7 @@
         "presenter_symbol": ""
       },
       {
-        "name": "Tatsuya  Mori",
+        "name": "Tatsuya Mori",
         "affiliations": [
           "Waseda University",
           "NICT",
@@ -13374,7 +13404,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "4E2-3 Robustness of Deep Reinforcement-Learning-Based Autonomous Driving to Adversarial inputs Ziling He Jiadong Liu Tatsuya  Mori Waseda University RIKEN AIP Waseda University Waseda University NICT RIKEN AIP"
+    "search_text": "4E2-3 Robustness of Deep Reinforcement-Learning-Based Autonomous Driving to Adversarial inputs Ziling He Jiadong Liu Tatsuya Mori Waseda University RIKEN AIP Waseda University Waseda University NICT RIKEN AIP"
   },
   {
     "event": "SCIS2025",

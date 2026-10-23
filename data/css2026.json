@@ -5,7 +5,7 @@
     "id": "1AO-invited-1",
     "title": "実⾏委員⻑挨拶",
     "authors": [],
-    "search_text": "1AO-invited-1 実⾏委員⻑挨拶  "
+    "search_text": "1AO-invited-1 実⾏委員⻑挨拶"
   },
   {
     "event": "CSS2026",
@@ -13,7 +13,7 @@
     "id": "1AO-invited-2",
     "title": "プログラム委員⻑挨拶",
     "authors": [],
-    "search_text": "1AO-invited-2 プログラム委員⻑挨拶  "
+    "search_text": "1AO-invited-2 プログラム委員⻑挨拶"
   },
   {
     "event": "CSS2026",
@@ -21,7 +21,7 @@
     "id": "1AO-invited-3",
     "title": "研究倫理に関する講評",
     "authors": [],
-    "search_text": "1AO-invited-3 研究倫理に関する講評  "
+    "search_text": "1AO-invited-3 研究倫理に関する講評"
   },
   {
     "event": "CSS2026",
@@ -29,7 +29,7 @@
     "id": "1AO-invited-4",
     "title": "企画等の紹介",
     "authors": [],
-    "search_text": "1AO-invited-4 企画等の紹介  "
+    "search_text": "1AO-invited-4 企画等の紹介"
   },
   {
     "event": "CSS2026",
@@ -37,7 +37,140 @@
     "id": "1AO-invited-5",
     "title": "諸注意",
     "authors": [],
-    "search_text": "1AO-invited-5 諸注意  "
+    "search_text": "1AO-invited-5 諸注意"
+  },
+  {
+    "event": "CSS2026",
+    "session": "1AK: 基調講演",
+    "id": "1AK-invited-1",
+    "title": "AIによって変わる人の判断と関係",
+    "authors": [
+      {
+        "name": "山下 直美",
+        "affiliations": [
+          "京都大学情報学研究科社会情報学専攻 教授"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "1AK-invited-1 AIによって変わる人の判断と関係 山下 直美 京都大学情報学研究科社会情報学専攻 教授"
+  },
+  {
+    "event": "CSS2026",
+    "session": "1A1: UWSオープニング & UWSチュートリアル：生成AIを用いた質的データ分析",
+    "id": "1A1-invited-1",
+    "title": "UWSオープニング",
+    "authors": [
+      {
+        "name": "藤田彬",
+        "affiliations": [
+          "情報通信研究機構"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "山岸伶",
+        "affiliations": [
+          "情報通信研究機構"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "1A1-invited-1 UWSオープニング 藤田彬 山岸伶 情報通信研究機構 情報通信研究機構"
+  },
+  {
+    "event": "CSS2026",
+    "session": "1A1: UWSオープニング & UWSチュートリアル：生成AIを用いた質的データ分析",
+    "id": "1A1-invited-2",
+    "title": "UWSチュートリアル：生成AIを用いた質的データ分析",
+    "authors": [
+      {
+        "name": "山口一青",
+        "affiliations": [
+          "東京大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "金岡晃",
+        "affiliations": [
+          "東邦大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "小林良輔",
+        "affiliations": [
+          "東京大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "1A1-invited-2 UWSチュートリアル：生成AIを用いた質的データ分析 山口一青 金岡晃 小林良輔 東京大学 東邦大学 東京大学"
+  },
+  {
+    "event": "CSS2026",
+    "session": "1A2: UWS招待講演セッション「信じる心を狙う攻撃に、どう備えるか」―「見抜くこと」を求めすぎないセキュリティ設計―",
+    "id": "1A2-invited-1",
+    "title": "人はなぜ誤情報に騙され、広めてしまうのか ― 認知・行動・AIからみた介入の設計",
+    "authors": [
+      {
+        "name": "笹原和俊",
+        "affiliations": [
+          "東京科学大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "1A2-invited-1 人はなぜ誤情報に騙され、広めてしまうのか ― 認知・行動・AIからみた介入の設計 笹原和俊 東京科学大学"
+  },
+  {
+    "event": "CSS2026",
+    "session": "1A2: UWS招待講演セッション「信じる心を狙う攻撃に、どう備えるか」―「見抜くこと」を求めすぎないセキュリティ設計―",
+    "id": "1A2-invited-2",
+    "title": "パネルディスカッション「見抜けないことを前提に、何を設計するか」",
+    "authors": [
+      {
+        "name": "藤田彬",
+        "affiliations": [
+          "情報通信研究機構"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "笹原和俊",
+        "affiliations": [
+          "東京科学大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "坂本一仁",
+        "affiliations": [
+          "静岡大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "戸田穂乃香",
+        "affiliations": [
+          "NTT社会情報研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "1A2-invited-2 パネルディスカッション「見抜けないことを前提に、何を設計するか」 藤田彬 笹原和俊 坂本一仁 戸田穂乃香 情報通信研究機構 東京科学大学 静岡大学 NTT社会情報研究所"
   },
   {
     "event": "CSS2026",
@@ -293,10 +426,35 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1B2-4 エンクレイヴとセキュリティモニタの連携によるIDSの安全な実行 岩野 空仁 光来 健一 九州工業大学 九州工業大学 学生論文賞",
     "awards": [
       "学生論文賞"
-    ]
+    ],
+    "search_text": "1B2-4 エンクレイヴとセキュリティモニタの連携によるIDSの安全な実行 岩野 空仁 光来 健一 九州工業大学 九州工業大学 学生論文賞"
+  },
+  {
+    "event": "CSS2026",
+    "session": "1C1: TWSチュートリアル & LTs",
+    "id": "1C1-invited-1",
+    "title": "チュートリアル「情報セキュリティ技術が支えるデジタル社会のトラスト」",
+    "authors": [
+      {
+        "name": "島岡政基",
+        "affiliations": [
+          "セコムIS研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "1C1-invited-1 チュートリアル「情報セキュリティ技術が支えるデジタル社会のトラスト」 島岡政基 セコムIS研究所"
+  },
+  {
+    "event": "CSS2026",
+    "session": "1C1: TWSチュートリアル & LTs",
+    "id": "1C1-invited-2",
+    "title": "TWSライトニングトーク",
+    "authors": [],
+    "search_text": "1C1-invited-2 TWSライトニングトーク"
   },
   {
     "event": "CSS2026",
@@ -388,10 +546,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1D1-3 複数ソーシャルメディア横断分析による脅威の早期検知 中野 弘樹 小出 駿 千葉 大紀 NTTセキュリティホールディングス & NTT NTTセキュリティホールディングス & NTT 東京都立大学 優秀論文賞",
     "awards": [
       "優秀論文賞"
-    ]
+    ],
+    "search_text": "1D1-3 複数ソーシャルメディア横断分析による脅威の早期検知 中野 弘樹 小出 駿 千葉 大紀 NTTセキュリティホールディングス & NTT NTTセキュリティホールディングス & NTT 東京都立大学 優秀論文賞"
   },
   {
     "event": "CSS2026",
@@ -647,10 +805,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1D2-4 AIエージェントを用いたDFIR/OSINT調査における証跡対応関係の劣化測定とlint強制による抑止 古川 凌也 津田 侑 渡邉 卓弥 高田 雄太 熊谷 裕志 神薗 雅紀 デロイト トーマツ サイバー合同会社 Turnt Up Technologies株式会社 デロイト トーマツ サイバー合同会社 デロイト トーマツ サイバー合同会社 デロイト トーマツ サイバー合同会社 デロイト トーマツ サイバー合同会社, 一般社団法人デロイト トーマツ戦略研究所 優秀論文賞",
     "awards": [
       "優秀論文賞"
-    ]
+    ],
+    "search_text": "1D2-4 AIエージェントを用いたDFIR/OSINT調査における証跡対応関係の劣化測定とlint強制による抑止 古川 凌也 津田 侑 渡邉 卓弥 高田 雄太 熊谷 裕志 神薗 雅紀 デロイト トーマツ サイバー合同会社 Turnt Up Technologies株式会社 デロイト トーマツ サイバー合同会社 デロイト トーマツ サイバー合同会社 デロイト トーマツ サイバー合同会社 デロイト トーマツ サイバー合同会社, 一般社団法人デロイト トーマツ戦略研究所 優秀論文賞"
   },
   {
     "event": "CSS2026",
@@ -929,11 +1087,11 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1E2-2 Control-State Poisoning：AIエージェントにユーザ要求外の操作を選ばせる攻撃 中井 綱人 東 拓矢 大西 健斗 三菱電機株式会社 三菱電機株式会社 三菱電機株式会社 奨励賞 コンセプト研究賞",
     "awards": [
       "奨励賞",
       "コンセプト研究賞"
-    ]
+    ],
+    "search_text": "1E2-2 Control-State Poisoning：AIエージェントにユーザ要求外の操作を選ばせる攻撃 中井 綱人 東 拓矢 大西 健斗 三菱電機株式会社 三菱電機株式会社 三菱電機株式会社 奨励賞 コンセプト研究賞"
   },
   {
     "event": "CSS2026",
@@ -1007,10 +1165,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1E2-4 マルチエージェント環境における攻撃検証に基づく脆弱なエージェントの同定手法 目黒 諒 加藤 広野 披田野 清良 KDDI総合研究所 KDDI総合研究所 KDDI総合研究所 優秀論文賞",
     "awards": [
       "優秀論文賞"
-    ]
+    ],
+    "search_text": "1E2-4 マルチエージェント環境における攻撃検証に基づく脆弱なエージェントの同定手法 目黒 諒 加藤 広野 披田野 清良 KDDI総合研究所 KDDI総合研究所 KDDI総合研究所 優秀論文賞"
   },
   {
     "event": "CSS2026",
@@ -1328,10 +1486,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1F2-4 OSSにおけるレガシー関数の到達可能性を考慮したソフトウェアリスク特定手法の提案 永井 ひとみ 大江 一輝 葛野 弘樹 和泉 諭 瀧田 愼 白石 善明 神戸大学 神戸大学 神戸大学 仙台高等専門学校 神戸大学 神戸大学 奨励賞",
     "awards": [
       "奨励賞"
-    ]
+    ],
+    "search_text": "1F2-4 OSSにおけるレガシー関数の到達可能性を考慮したソフトウェアリスク特定手法の提案 永井 ひとみ 大江 一輝 葛野 弘樹 和泉 諭 瀧田 愼 白石 善明 神戸大学 神戸大学 神戸大学 仙台高等専門学校 神戸大学 神戸大学 奨励賞"
   },
   {
     "event": "CSS2026",
@@ -1356,11 +1514,11 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1G1-1 Confidential AIにおける証拠付きレポーティングの形式化 髙橋 翼 平岡 拓海 株式会社Acompany 株式会社Acompany 奨励賞 コンセプト研究賞",
     "awards": [
       "奨励賞",
       "コンセプト研究賞"
-    ]
+    ],
+    "search_text": "1G1-1 Confidential AIにおける証拠付きレポーティングの形式化 髙橋 翼 平岡 拓海 株式会社Acompany 株式会社Acompany 奨励賞 コンセプト研究賞"
   },
   {
     "event": "CSS2026",
@@ -1704,10 +1862,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1G2-4 匿名データ生成過程におけるデータ作成者が操作可能な選択余地と検証可能性の必要性 早川 拓実 小野 元 南 和宏 中央大学, 情報システム研究機構 金沢大学, 情報・システム研究機構データサイエンス共同利用基盤施設 情報・システム研究機構 学生論文賞",
     "awards": [
       "学生論文賞"
-    ]
+    ],
+    "search_text": "1G2-4 匿名データ生成過程におけるデータ作成者が操作可能な選択余地と検証可能性の必要性 早川 拓実 小野 元 南 和宏 中央大学, 情報システム研究機構 金沢大学, 情報・システム研究機構データサイエンス共同利用基盤施設 情報・システム研究機構 学生論文賞"
   },
   {
     "event": "CSS2026",
@@ -1736,457 +1894,295 @@
   },
   {
     "event": "CSS2026",
-    "session": "2B1: 自動車セキュリティ1",
+    "session": "2B1: 脅威分析・リスク分析1",
     "id": "2B1-1",
-    "title": "グラフベースIDSの判定根拠と正常基準値を用いた攻撃対象CAN ID候補抽出手法",
+    "title": "セキュリティパッチ適用前後におけるアクセス制御の影響評価",
     "authors": [
       {
-        "name": "谷口 友哉",
+        "name": "埜口 裕矢",
         "affiliations": [
-          "名城大学"
-        ],
-        "is_presenter": true,
-        "presenter_symbol": "◎"
-      },
-      {
-        "name": "倉地 亮",
-        "affiliations": [
-          "名城大学",
-          "名古屋大学"
-        ],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      }
-    ],
-    "search_text": "2B1-1 グラフベースIDSの判定根拠と正常基準値を用いた攻撃対象CAN ID候補抽出手法 谷口 友哉 倉地 亮 名城大学 名城大学 名古屋大学"
-  },
-  {
-    "event": "CSS2026",
-    "session": "2B1: 自動車セキュリティ1",
-    "id": "2B1-2",
-    "title": "SMDR: A Lightweight Detection-and-Repair Framework Against Temporal Misalignment Attacks on Multimodal 3D Detection for Autonomous Driving",
-    "authors": [
-      {
-        "name": "Jingjing Rao",
-        "affiliations": [
-          "Ritsumeikan University"
+          "NTT社会情報研究所"
         ],
         "is_presenter": true,
         "presenter_symbol": "〇"
       },
       {
-        "name": "Tetsutaro Uehara",
+        "name": "鐘本 楊",
         "affiliations": [
-          "Ritsumeikan University"
+          "NTT社会情報研究所"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
       },
       {
-        "name": "Soramichi Akiyama",
+        "name": "大庭 翔介",
         "affiliations": [
-          "Ritsumeikan University"
+          "NTT社会情報研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "荒川 玲佳",
+        "affiliations": [
+          "NTT社会情報研究所"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2B1-2 SMDR: A Lightweight Detection-and-Repair Framework Against Temporal Misalignment Attacks on Multimodal 3D Detection for Autonomous Driving Jingjing Rao Tetsutaro Uehara Soramichi Akiyama Ritsumeikan University Ritsumeikan University Ritsumeikan University"
+    "search_text": "2B1-1 セキュリティパッチ適用前後におけるアクセス制御の影響評価 埜口 裕矢 鐘本 楊 大庭 翔介 荒川 玲佳 NTT社会情報研究所 NTT社会情報研究所 NTT社会情報研究所 NTT社会情報研究所"
   },
   {
     "event": "CSS2026",
-    "session": "2B1: 自動車セキュリティ1",
-    "id": "2B1-3",
-    "title": "自動運転における HD マップ改ざん攻撃の体系化と End-to-End 評価",
+    "session": "2B1: 脅威分析・リスク分析1",
+    "id": "2B1-2",
+    "title": "The Paradox of Cyber Risk and Patient Safety: A Comprehensive Risk Assessment of IoMT-Enabled Diabetes Therapies",
     "authors": [
       {
-        "name": "佐藤 光優",
+        "name": "Akiko Takahashi",
         "affiliations": [
-          "早稲田大学"
+          "Institute of Information Security"
         ],
         "is_presenter": true,
-        "presenter_symbol": "◎"
+        "presenter_symbol": "〇"
       },
       {
-        "name": "鶴岡 豪",
+        "name": "Takao Okubo",
         "affiliations": [
-          "早稲田大学"
-        ],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
-        "name": "野本 一輝",
-        "affiliations": [
-          "デロイト トーマツ サイバー合同会社"
-        ],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
-        "name": "田中 優奈",
-        "affiliations": [
-          "デロイト トーマツ サイバー合同会社"
-        ],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
-        "name": "森 達哉",
-        "affiliations": [
-          "早稲田大学",
-          "国立研究開発法人情報通信研究機構",
-          "理化学研究所革新知能統合研究センター"
+          "Institute of Information Security"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2B1-3 自動運転における HD マップ改ざん攻撃の体系化と End-to-End 評価 佐藤 光優 鶴岡 豪 野本 一輝 田中 優奈 森 達哉 早稲田大学 早稲田大学 デロイト トーマツ サイバー合同会社 デロイト トーマツ サイバー合同会社 早稲田大学 国立研究開発法人情報通信研究機構 理化学研究所革新知能統合研究センター 奨励賞",
+    "search_text": "2B1-2 The Paradox of Cyber Risk and Patient Safety: A Comprehensive Risk Assessment of IoMT-Enabled Diabetes Therapies Akiko Takahashi Takao Okubo Institute of Information Security Institute of Information Security"
+  },
+  {
+    "event": "CSS2026",
+    "session": "2B1: 脅威分析・リスク分析1",
+    "id": "2B1-3",
+    "title": "実行時観測情報と外部リスク指標を統合したソフトウェア脆弱性トリアージ手法",
+    "authors": [
+      {
+        "name": "三宅 貴義",
+        "affiliations": [
+          "岡山大学 大学院環境生命自然科学研究科"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "〇"
+      },
+      {
+        "name": "山内 利宏",
+        "affiliations": [
+          "岡山大学 学術研究院環境生命自然科学学域"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
     "awards": [
       "奨励賞"
-    ]
+    ],
+    "search_text": "2B1-3 実行時観測情報と外部リスク指標を統合したソフトウェア脆弱性トリアージ手法 三宅 貴義 山内 利宏 岡山大学 大学院環境生命自然科学研究科 岡山大学 学術研究院環境生命自然科学学域 奨励賞"
   },
   {
     "event": "CSS2026",
-    "session": "2B1: 自動車セキュリティ1",
+    "session": "2B1: 脅威分析・リスク分析1",
     "id": "2B1-4",
-    "title": "Vehicle-Agnostic Multi-Class Attack Attribution on the CAN Bus",
+    "title": "ダイナミックリスクアセスメントにおける攻撃尤度推定手法に注目したセキュリティリスク評価式の検討",
     "authors": [
       {
-        "name": "Shuo Peng",
+        "name": "川西 康之",
         "affiliations": [
-          "Waseda University"
+          "産業技術総合研究所"
         ],
         "is_presenter": true,
-        "presenter_symbol": "◎"
+        "presenter_symbol": "〇"
       },
       {
-        "name": "Zhihe Zhang",
+        "name": "西原 秀明",
         "affiliations": [
-          "Waseda University"
+          "産業技術総合研究所"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
       },
       {
-        "name": "Go Tsuruoka",
+        "name": "吉田 博隆",
         "affiliations": [
-          "Waseda University"
+          "産業技術総合研究所"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
       },
       {
-        "name": "Tatsuya Mori",
+        "name": "井上 博之",
         "affiliations": [
-          "Waseda University",
-          "RIKEN AIP",
-          "NICT"
+          "京都産業大学"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2B1-4 Vehicle-Agnostic Multi-Class Attack Attribution on the CAN Bus Shuo Peng Zhihe Zhang Go Tsuruoka Tatsuya Mori Waseda University Waseda University Waseda University Waseda University RIKEN AIP NICT"
+    "search_text": "2B1-4 ダイナミックリスクアセスメントにおける攻撃尤度推定手法に注目したセキュリティリスク評価式の検討 川西 康之 西原 秀明 吉田 博隆 井上 博之 産業技術総合研究所 産業技術総合研究所 産業技術総合研究所 京都産業大学"
   },
   {
     "event": "CSS2026",
-    "session": "2B1: 自動車セキュリティ1",
+    "session": "2B1: 脅威分析・リスク分析1",
     "id": "2B1-5",
-    "title": "V2X に対する攻撃の体系的評価によるコンポーネントレベルとシステムレベルの乖離の検証",
+    "title": "STAMP/STPAとMRC-EDCを統合した準定量的リスク評価手法の提案",
     "authors": [
       {
-        "name": "平井 航大",
+        "name": "大野 佳寿馬",
         "affiliations": [
-          "早稲田大学"
+          "創価大学"
         ],
         "is_presenter": true,
         "presenter_symbol": "◎"
       },
       {
-        "name": "田中 優奈",
+        "name": "佐々木 良一",
         "affiliations": [
-          "デロイト トーマツ サイバー合同会社"
+          "東京電機大学"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
       },
       {
-        "name": "野本 一輝",
+        "name": "金子 朋子",
         "affiliations": [
-          "デロイト トーマツ サイバー合同会社"
-        ],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
-        "name": "鶴岡 豪",
-        "affiliations": [
-          "早稲田大学"
-        ],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
-        "name": "森 達哉",
-        "affiliations": [
-          "早稲田大学",
-          "国立研究開発法人情報通信研究機構",
-          "理化学研究所革新知能統合研究センター"
+          "創価大学"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2B1-5 V2X に対する攻撃の体系的評価によるコンポーネントレベルとシステムレベルの乖離の検証 平井 航大 田中 優奈 野本 一輝 鶴岡 豪 森 達哉 早稲田大学 デロイト トーマツ サイバー合同会社 デロイト トーマツ サイバー合同会社 早稲田大学 早稲田大学 国立研究開発法人情報通信研究機構 理化学研究所革新知能統合研究センター"
+    "search_text": "2B1-5 STAMP/STPAとMRC-EDCを統合した準定量的リスク評価手法の提案 大野 佳寿馬 佐々木 良一 金子 朋子 創価大学 東京電機大学 創価大学"
   },
   {
     "event": "CSS2026",
-    "session": "2B2: 自動車セキュリティ2",
+    "session": "2B2: 脅威分析・リスク分析2",
     "id": "2B2-1",
-    "title": "ブラックホール攻撃: Occupancy Predictionを用いた自動運転に対するハイジャック攻撃の提案とその対策",
+    "title": "選挙期の政党公式Xアカウントリプライ空間における投稿行動の縦断分析",
     "authors": [
       {
-        "name": "鶴岡 豪",
+        "name": "丸田 佳",
         "affiliations": [
-          "早稲田大学",
-          "産業技術総合研究所"
+          "デロイト トーマツ サイバー合同会社"
         ],
         "is_presenter": true,
-        "presenter_symbol": "◎"
+        "presenter_symbol": "〇"
       },
       {
-        "name": "佐藤 貴海",
+        "name": "渡邉 卓弥",
         "affiliations": [
-          "慶應義塾大学"
+          "デロイト トーマツ サイバー合同会社"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
       },
       {
-        "name": "飯島 涼",
+        "name": "古川 凌也",
         "affiliations": [
-          "産業技術総合研究所"
+          "デロイト トーマツ サイバー合同会社"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
       },
       {
-        "name": "森 達哉",
+        "name": "高田 雄太",
         "affiliations": [
-          "早稲田大学",
-          "情報通信研究機構",
-          "理研AIP"
+          "デロイト トーマツ サイバー合同会社"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "熊谷 裕志",
+        "affiliations": [
+          "デロイト トーマツ サイバー合同会社"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "神薗 雅紀",
+        "affiliations": [
+          "デロイト トーマツ サイバー合同会社, 一般社団法人デロイト トーマツ 戦略研究所"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2B2-1 ブラックホール攻撃: Occupancy Predictionを用いた自動運転に対するハイジャック攻撃の提案とその対策 鶴岡 豪 佐藤 貴海 飯島 涼 森 達哉 早稲田大学 産業技術総合研究所 慶應義塾大学 産業技術総合研究所 早稲田大学 情報通信研究機構 理研AIP"
+    "search_text": "2B2-1 選挙期の政党公式Xアカウントリプライ空間における投稿行動の縦断分析 丸田 佳 渡邉 卓弥 古川 凌也 高田 雄太 熊谷 裕志 神薗 雅紀 デロイト トーマツ サイバー合同会社 デロイト トーマツ サイバー合同会社 デロイト トーマツ サイバー合同会社 デロイト トーマツ サイバー合同会社 デロイト トーマツ サイバー合同会社 デロイト トーマツ サイバー合同会社, 一般社団法人デロイト トーマツ 戦略研究所"
   },
   {
     "event": "CSS2026",
-    "session": "2B2: 自動車セキュリティ2",
+    "session": "2B2: 脅威分析・リスク分析2",
     "id": "2B2-2",
-    "title": "Detecting Sensor Attacks on Autonomous Vehicles through Latent Correlations",
+    "title": "サイバーインシデントによる経済的影響と国際比較",
     "authors": [
       {
-        "name": "Yinan Zhao",
+        "name": "柴﨑 夏音",
         "affiliations": [
-          "Waseda University"
+          "芝浦工業大学"
         ],
         "is_presenter": true,
         "presenter_symbol": "◎"
       },
       {
-        "name": "Lachlan Moore",
+        "name": "持永 大",
         "affiliations": [
-          "Waseda University",
-          "NICT"
-        ],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
-        "name": "Sara Rampazzi",
-        "affiliations": [
-          "University of Florida"
-        ],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
-        "name": "Tatsuya Mori",
-        "affiliations": [
-          "Waseda University",
-          "NICT",
-          "RIKEN AIP"
+          "芝浦工業大学"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2B2-2 Detecting Sensor Attacks on Autonomous Vehicles through Latent Correlations Yinan Zhao Lachlan Moore Sara Rampazzi Tatsuya Mori Waseda University Waseda University NICT University of Florida Waseda University NICT RIKEN AIP"
+    "search_text": "2B2-2 サイバーインシデントによる経済的影響と国際比較 柴﨑 夏音 持永 大 芝浦工業大学 芝浦工業大学"
   },
   {
     "event": "CSS2026",
-    "session": "2B2: 自動車セキュリティ2",
+    "session": "2B2: 脅威分析・リスク分析2",
     "id": "2B2-3",
-    "title": "敵対的パッチによる偽障害物生成攻撃のシステムレベル評価",
+    "title": "開示文書に基づくサイバーリスク指標の再現検証",
     "authors": [
       {
-        "name": "斧田 洋人",
+        "name": "栁 暁",
         "affiliations": [
-          "早稲田大学"
+          "情報セキュリティ大学院大学"
         ],
         "is_presenter": true,
         "presenter_symbol": "◎"
       },
       {
-        "name": "鶴岡 豪",
+        "name": "桑名 栄二",
         "affiliations": [
-          "早稲田大学"
-        ],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
-        "name": "末次 響",
-        "affiliations": [
-          "早稲田大学"
-        ],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
-        "name": "大西 健斗",
-        "affiliations": [
-          "三菱電機"
-        ],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
-        "name": "拓矢 東",
-        "affiliations": [
-          "三菱電機"
-        ],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
-        "name": "小関 義博",
-        "affiliations": [
-          "三菱電機"
-        ],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
-        "name": "中井 綱人",
-        "affiliations": [
-          "三菱電機"
-        ],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
-        "name": "森 達哉",
-        "affiliations": [
-          "早稲田大学, 情報通信研究機構, 理研 AIP"
+          "情報セキュリティ大学院大学"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2B2-3 敵対的パッチによる偽障害物生成攻撃のシステムレベル評価 斧田 洋人 鶴岡 豪 末次 響 大西 健斗 拓矢 東 小関 義博 中井 綱人 森 達哉 早稲田大学 早稲田大学 早稲田大学 三菱電機 三菱電機 三菱電機 三菱電機 早稲田大学, 情報通信研究機構, 理研 AIP"
+    "search_text": "2B2-3 開示文書に基づくサイバーリスク指標の再現検証 栁 暁 桑名 栄二 情報セキュリティ大学院大学 情報セキュリティ大学院大学"
   },
   {
     "event": "CSS2026",
-    "session": "2B2: 自動車セキュリティ2",
+    "session": "2B2: 脅威分析・リスク分析2",
     "id": "2B2-4",
-    "title": "近傍の物体に擬態した敵対的パッチによるターゲット物体検出の妨害攻撃",
+    "title": "地政学的変動下におけるサイバーセキュリティ公共財の持続性評価：脆弱性情報・悪用観測・リスク優先順位付け機能の依存構造分析",
     "authors": [
       {
-        "name": "末次 響",
+        "name": "井上 圭",
         "affiliations": [
-          "早稲田大学"
+          "株式会社ラック"
         ],
         "is_presenter": true,
-        "presenter_symbol": "◎"
-      },
-      {
-        "name": "鶴岡 豪",
-        "affiliations": [
-          "早稲田大学"
-        ],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
-        "name": "斧田 洋人",
-        "affiliations": [
-          "早稲田大学"
-        ],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
-        "name": "田中 優奈",
-        "affiliations": [
-          "デロイト トーマツ サイバー合同会社"
-        ],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
-        "name": "野本 一輝",
-        "affiliations": [
-          "デロイト トーマツ サイバー合同会社"
-        ],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
-        "name": "森 達哉",
-        "affiliations": [
-          "早稲田大学",
-          "情報通信研究機構",
-          "理研 AIP"
-        ],
-        "is_presenter": false,
-        "presenter_symbol": ""
+        "presenter_symbol": "〇"
       }
     ],
-    "search_text": "2B2-4 近傍の物体に擬態した敵対的パッチによるターゲット物体検出の妨害攻撃 末次 響 鶴岡 豪 斧田 洋人 田中 優奈 野本 一輝 森 達哉 早稲田大学 早稲田大学 早稲田大学 デロイト トーマツ サイバー合同会社 デロイト トーマツ サイバー合同会社 早稲田大学 情報通信研究機構 理研 AIP"
-  },
-  {
-    "event": "CSS2026",
-    "session": "2B2: 自動車セキュリティ2",
-    "id": "2B2-5",
-    "title": "An Empirical Study of the Robustness of World-Model-Based Planning",
-    "authors": [
-      {
-        "name": "Jiadong Liu",
-        "affiliations": [
-          "Waseda University"
-        ],
-        "is_presenter": true,
-        "presenter_symbol": "◎"
-      },
-      {
-        "name": "Tatsuya Mori",
-        "affiliations": [
-          "Waseda University",
-          "NICT",
-          "RIKEN AIP"
-        ],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      }
-    ],
-    "search_text": "2B2-5 An Empirical Study of the Robustness of World-Model-Based Planning Jiadong Liu Tatsuya Mori Waseda University Waseda University NICT RIKEN AIP"
+    "search_text": "2B2-4 地政学的変動下におけるサイバーセキュリティ公共財の持続性評価：脆弱性情報・悪用観測・リスク優先順位付け機能の依存構造分析 井上 圭 株式会社ラック"
   },
   {
     "event": "CSS2026",
@@ -2480,10 +2476,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2B4-2 深度情報を利用するリキャプチャ検出への光学的攻撃とその対策 礎 哲 ランパッジ サラ 菅原 健 電気通信大学 フロリダ大学 電気通信大学 優秀論文賞",
     "awards": [
       "優秀論文賞"
-    ]
+    ],
+    "search_text": "2B4-2 深度情報を利用するリキャプチャ検出への光学的攻撃とその対策 礎 哲 ランパッジ サラ 菅原 健 電気通信大学 フロリダ大学 電気通信大学 優秀論文賞"
   },
   {
     "event": "CSS2026",
@@ -2543,10 +2539,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2B4-4 SoK: The Widening Gap Between Adversarial Patch Attacks and Modern Object Detectors Zhihe Zhang Shuo Peng Tatsuya Mori Waseda University Waseda University Waseda University RIKEN AIP NICT 学生論文賞",
     "awards": [
       "学生論文賞"
-    ]
+    ],
+    "search_text": "2B4-4 SoK: The Widening Gap Between Adversarial Patch Attacks and Modern Object Detectors Zhihe Zhang Shuo Peng Tatsuya Mori Waseda University Waseda University Waseda University RIKEN AIP NICT 学生論文賞"
   },
   {
     "event": "CSS2026",
@@ -2597,10 +2593,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2B4-5 特徴点ベースvSLAMに共通する脆弱性を突く敵対的映像攻撃と防御手法の評価 海老根 佑雅 野本 一輝 鶴岡 豪 田中 優奈 森 達哉 早稲田大学 デロイトトーマツサイバー合同会社 早稲田大学 デロイトトーマツサイバー合同会社 早稲田大学 NICT 理研AIP 優秀論文賞",
     "awards": [
       "優秀論文賞"
-    ]
+    ],
+    "search_text": "2B4-5 特徴点ベースvSLAMに共通する脆弱性を突く敵対的映像攻撃と防御手法の評価 海老根 佑雅 野本 一輝 鶴岡 豪 田中 優奈 森 達哉 早稲田大学 デロイトトーマツサイバー合同会社 早稲田大学 デロイトトーマツサイバー合同会社 早稲田大学 NICT 理研AIP 優秀論文賞"
   },
   {
     "event": "CSS2026",
@@ -2753,7 +2749,7 @@
       {
         "name": "杉山 拓海",
         "affiliations": [
-          "中央大学大学院経済学研究科"
+          "中央大学大学院経済学研究科, 情報・システム研究機構"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
@@ -2775,7 +2771,91 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2C1-4 差分プライバシーツール DPpack のユーザビリティ評価:既存研究の推奨事項と初学者の学習体験に基づく分析 阿部 実以奈 杉山 拓海 小野 元 南 和宏 中央大学国際経営学部, 情報・システム研究機構 中央大学大学院経済学研究科 金沢大学, 情報・システム研究機構データサイエンス共同利用基盤施設 情報・システム研究機構"
+    "search_text": "2C1-4 差分プライバシーツール DPpack のユーザビリティ評価:既存研究の推奨事項と初学者の学習体験に基づく分析 阿部 実以奈 杉山 拓海 小野 元 南 和宏 中央大学国際経営学部, 情報・システム研究機構 中央大学大学院経済学研究科, 情報・システム研究機構 金沢大学, 情報・システム研究機構データサイエンス共同利用基盤施設 情報・システム研究機構"
+  },
+  {
+    "event": "CSS2026",
+    "session": "2C3: チュートリアル講演・招待講演・ライトニングトークセッション",
+    "id": "2C3-invited-1",
+    "title": "入門者向けチュートリアル",
+    "authors": [
+      {
+        "name": "中林 美郷",
+        "affiliations": [
+          "NTT社会情報研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "2C3-invited-1 入門者向けチュートリアル 中林 美郷 NTT社会情報研究所"
+  },
+  {
+    "event": "CSS2026",
+    "session": "2C3: チュートリアル講演・招待講演・ライトニングトークセッション",
+    "id": "2C3-invited-2",
+    "title": "招待講演 証明の外側 — 仕様・証明・実装をつなぐヒューマンチェックをどう減らすか",
+    "authors": [
+      {
+        "name": "神波 真聖",
+        "affiliations": [
+          "Nyx Foudnation"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "2C3-invited-2 招待講演 証明の外側 — 仕様・証明・実装をつなぐヒューマンチェックをどう減らすか 神波 真聖 Nyx Foudnation"
+  },
+  {
+    "event": "CSS2026",
+    "session": "2C3: チュートリアル講演・招待講演・ライトニングトークセッション",
+    "id": "2C3-invited-3",
+    "title": "ライトニングトークセッション",
+    "authors": [],
+    "search_text": "2C3-invited-3 ライトニングトークセッション"
+  },
+  {
+    "event": "CSS2026",
+    "session": "2C4: 招待講演・ハンズオン",
+    "id": "2C4-invited-1",
+    "title": "招待講演 Tamarin Proverを用いた形式検証への参入",
+    "authors": [
+      {
+        "name": "田中 篤",
+        "affiliations": [
+          "大阪大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "2C4-invited-1 招待講演 Tamarin Proverを用いた形式検証への参入 田中 篤 大阪大学"
+  },
+  {
+    "event": "CSS2026",
+    "session": "2C4: 招待講演・ハンズオン",
+    "id": "2C4-invited-2",
+    "title": "Tamarin Proverハンズオン",
+    "authors": [
+      {
+        "name": "花谷 嘉一",
+        "affiliations": [
+          "東芝"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "田中 篤",
+        "affiliations": [
+          "大阪大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "2C4-invited-2 Tamarin Proverハンズオン 花谷 嘉一 田中 篤 東芝 大阪大学"
   },
   {
     "event": "CSS2026",
@@ -2800,10 +2880,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2D1-1 安全なMCPレジストリのための検証フレームワークの提案と実証評価 浦川 太良 中村 徹 東京都市大学大学院 総合理工学研究科 情報専攻 東京都市大学大学院 総合理工学研究科 情報専攻 学生論文賞",
     "awards": [
       "学生論文賞"
-    ]
+    ],
+    "search_text": "2D1-1 安全なMCPレジストリのための検証フレームワークの提案と実証評価 浦川 太良 中村 徹 東京都市大学大学院 総合理工学研究科 情報専攻 東京都市大学大学院 総合理工学研究科 情報専攻 学生論文賞"
   },
   {
     "event": "CSS2026",
@@ -2869,10 +2949,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2D1-3 ファインチューニング親子関係の推定によるLLM 系統木構造の再構成手法 小川 聡太 山辺 翔二郎 西山 大輝 佐久間 淳 東京科学大学 東京科学大学 東京科学大学 東京科学大学 優秀論文賞",
     "awards": [
       "優秀論文賞"
-    ]
+    ],
+    "search_text": "2D1-3 ファインチューニング親子関係の推定によるLLM 系統木構造の再構成手法 小川 聡太 山辺 翔二郎 西山 大輝 佐久間 淳 東京科学大学 東京科学大学 東京科学大学 東京科学大学 優秀論文賞"
   },
   {
     "event": "CSS2026",
@@ -3360,10 +3440,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2D4-3 階層型強化学習における Leader 観測攻撃に対する Follower 側防御 宇井 貴斗 山辺 翔二郎 佐久間 淳 東京科学大学 東京科学大学 東京科学大学, 理化学研究所 革新知能統合研究センター 奨励賞",
     "awards": [
       "奨励賞"
-    ]
+    ],
+    "search_text": "2D4-3 階層型強化学習における Leader 観測攻撃に対する Follower 側防御 宇井 貴斗 山辺 翔二郎 佐久間 淳 東京科学大学 東京科学大学 東京科学大学, 理化学研究所 革新知能統合研究センター 奨励賞"
   },
   {
     "event": "CSS2026",
@@ -3478,10 +3558,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2F1-1 脆弱性検知条件の供給源の再検討 —検知精度による NVD・VulnCheck・一次データソース の比較と LLM による構造化— 中岡 典弘 篠原 俊一 フューチャー株式会社 フューチャー株式会社 最優秀論文賞",
     "awards": [
       "最優秀論文賞"
-    ]
+    ],
+    "search_text": "2F1-1 脆弱性検知条件の供給源の再検討 —検知精度による NVD・VulnCheck・一次データソース の比較と LLM による構造化— 中岡 典弘 篠原 俊一 フューチャー株式会社 フューチャー株式会社 最優秀論文賞"
   },
   {
     "event": "CSS2026",
@@ -3591,7 +3671,7 @@
       {
         "name": "Jiratchaya Phinyodom",
         "affiliations": [
-          "Okayama University"
+          "Graduate School of Environmental, Life, Natural Science and Technology, Okayama University"
         ],
         "is_presenter": true,
         "presenter_symbol": "◎"
@@ -3599,7 +3679,7 @@
       {
         "name": "Yuta Shimamoto",
         "affiliations": [
-          "Okayama University"
+          "Graduate School of Environmental, Life, Natural Science and Technology, Okayama University"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
@@ -3607,13 +3687,13 @@
       {
         "name": "Toshihiro Yamauchi",
         "affiliations": [
-          "Okayama University"
+          "Faculty of Environmental, Life, Natural Science and Technology, Okayama University"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2F1-5 AI-Based Prioritization of Cascaded Vulnerabilities in Software Supply Chains Using Software Bills of Materials Jiratchaya Phinyodom Yuta Shimamoto Toshihiro Yamauchi Okayama University Okayama University Okayama University"
+    "search_text": "2F1-5 AI-Based Prioritization of Cascaded Vulnerabilities in Software Supply Chains Using Software Bills of Materials Jiratchaya Phinyodom Yuta Shimamoto Toshihiro Yamauchi Graduate School of Environmental, Life, Natural Science and Technology, Okayama University Graduate School of Environmental, Life, Natural Science and Technology, Okayama University Faculty of Environmental, Life, Natural Science and Technology, Okayama University"
   },
   {
     "event": "CSS2026",
@@ -3790,10 +3870,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2F3-5 VRセキュリティ・プライバシーに対するユーザー認識の反復横断調査 倉﨑 翔大 金岡 晃 東邦大学 東邦大学 学生論文賞",
     "awards": [
       "学生論文賞"
-    ]
+    ],
+    "search_text": "2F3-5 VRセキュリティ・プライバシーに対するユーザー認識の反復横断調査 倉﨑 翔大 金岡 晃 東邦大学 東邦大学 学生論文賞"
   },
   {
     "event": "CSS2026",
@@ -3924,10 +4004,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2F4-3 Xユーザはインプレゾンビをどのように見分け，どのような印象を抱くのか：インタビュー調査 戸田 穂乃香 古谷 諭史 金井 文宏 秋山 満昭 NTT株式会社 社会情報研究所 NTT株式会社 社会情報研究所 NTT株式会社 社会情報研究所 NTT株式会社 社会情報研究所 奨励賞",
     "awards": [
       "奨励賞"
-    ]
+    ],
+    "search_text": "2F4-3 Xユーザはインプレゾンビをどのように見分け，どのような印象を抱くのか：インタビュー調査 戸田 穂乃香 古谷 諭史 金井 文宏 秋山 満昭 NTT株式会社 社会情報研究所 NTT株式会社 社会情報研究所 NTT株式会社 社会情報研究所 NTT株式会社 社会情報研究所 奨励賞"
   },
   {
     "event": "CSS2026",
@@ -4299,13 +4379,13 @@
         "name": "金 光兆",
         "affiliations": [
           "韓国科学技術院",
-          "IRIS"
+          "IRCS"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2G2-3 単独制御は安全性の十分条件か？ ：電子署名の信頼モデル再考 櫻井 幸一 金 光兆 九州大学 韓国科学技術院 IRIS"
+    "search_text": "2G2-3 単独制御は安全性の十分条件か？ ：電子署名の信頼モデル再考 櫻井 幸一 金 光兆 九州大学 韓国科学技術院 IRCS"
   },
   {
     "event": "CSS2026",
@@ -4339,10 +4419,10 @@
         "presenter_symbol": "〇"
       }
     ],
-    "search_text": "2G2-5 AIエージェント時代のトラストサービス 須賀 祐治 株式会社インターネットイニシアティブ 奨励賞",
     "awards": [
       "奨励賞"
-    ]
+    ],
+    "search_text": "2G2-5 AIエージェント時代のトラストサービス 須賀 祐治 株式会社インターネットイニシアティブ 奨励賞"
   },
   {
     "event": "CSS2026",
@@ -4466,10 +4546,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2G3-4 SCS評価制度下におけるサイバー保険加入を考慮したリスク中立企業のセキュリティ投資誘因分析 金井 瞭真 松浦 幹太 東京大学 東京大学 優秀論文賞",
     "awards": [
       "優秀論文賞"
-    ]
+    ],
+    "search_text": "2G3-4 SCS評価制度下におけるサイバー保険加入を考慮したリスク中立企業のセキュリティ投資誘因分析 金井 瞭真 松浦 幹太 東京大学 東京大学 優秀論文賞"
   },
   {
     "event": "CSS2026",
@@ -4725,10 +4805,35 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2G4-5 無記憶漸進的トラスト：Agentic AIのための非集権的トラストアーキテクチャー 亀谷 広務 八槇 博史 東京電機大学大学院システムデザイン工学研究科情報システム工学専攻 東京電機大学大学院システムデザイン工学研究科情報システム工学専攻 学生論文賞",
     "awards": [
       "学生論文賞"
-    ]
+    ],
+    "search_text": "2G4-5 無記憶漸進的トラスト：Agentic AIのための非集権的トラストアーキテクチャー 亀谷 広務 八槇 博史 東京電機大学大学院システムデザイン工学研究科情報システム工学専攻 東京電機大学大学院システムデザイン工学研究科情報システム工学専攻 学生論文賞"
+  },
+  {
+    "event": "CSS2026",
+    "session": "3A4: AWS企画① 招待講演：信頼できるAIのためのAIセーフティ・セキュリティ技術",
+    "id": "3A4-invited-1",
+    "title": "AWS企画① 招待講演：信頼できるAIのためのAIセーフティ・セキュリティ技術",
+    "authors": [
+      {
+        "name": "綿岡 晃輝",
+        "affiliations": [
+          "SB Intuitions"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "澁谷 紘人",
+        "affiliations": [
+          "SB Intuitions"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "3A4-invited-1 AWS企画① 招待講演：信頼できるAIのためのAIセーフティ・セキュリティ技術 綿岡 晃輝 澁谷 紘人 SB Intuitions SB Intuitions"
   },
   {
     "event": "CSS2026",
@@ -4893,10 +4998,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3B1-5 LLMを用いたデータセット生成によるハードウェアトロイ検出におけるパープルチームフレームワーク 吉見 尚 戸川 望 早稲田大学 早稲田大学 学生論文賞",
     "awards": [
       "学生論文賞"
-    ]
+    ],
+    "search_text": "3B1-5 LLMを用いたデータセット生成によるハードウェアトロイ検出におけるパープルチームフレームワーク 吉見 尚 戸川 望 早稲田大学 早稲田大学 学生論文賞"
   },
   {
     "event": "CSS2026",
@@ -5129,10 +5234,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3B3-1 マルウェア動的解析における観測性向上を目的としたAPIフック自動生成手法の提案 高林 りずむ グエン チ ヴァン アン 田辺 瑠偉 吉岡 克成 横浜国立大学大学院環境情報学府 横浜国立大学先端科学高等研究院 横浜国立大学先端科学高等研究院 横浜国立大学大学院環境情報研究院 横浜国立大学先端科学高等研究院 学生論文賞",
     "awards": [
       "学生論文賞"
-    ]
+    ],
+    "search_text": "3B3-1 マルウェア動的解析における観測性向上を目的としたAPIフック自動生成手法の提案 高林 りずむ グエン チ ヴァン アン 田辺 瑠偉 吉岡 克成 横浜国立大学大学院環境情報学府 横浜国立大学先端科学高等研究院 横浜国立大学先端科学高等研究院 横浜国立大学大学院環境情報研究院 横浜国立大学先端科学高等研究院 学生論文賞"
   },
   {
     "event": "CSS2026",
@@ -5437,10 +5542,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3B4-4 RATを介した攻撃者操作の録画収集とVLM・LLMによる自動分析可能性の検証 藤井 翔太 亀谷 功 青木 翔 久井 雅史 川口 信隆 佐藤 隆行 日立製作所 日立製作所 日立製作所 日立製作所 日立製作所 日立製作所 奨励賞",
     "awards": [
       "奨励賞"
-    ]
+    ],
+    "search_text": "3B4-4 RATを介した攻撃者操作の録画収集とVLM・LLMによる自動分析可能性の検証 藤井 翔太 亀谷 功 青木 翔 久井 雅史 川口 信隆 佐藤 隆行 日立製作所 日立製作所 日立製作所 日立製作所 日立製作所 日立製作所 奨励賞"
   },
   {
     "event": "CSS2026",
@@ -6130,10 +6235,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3D4-5 CPEの表記揺れ・情報欠落に対応した製品情報に基づくNVDからの既知脆弱性特定手法 櫛引 淳之介 林 嘉乃 九鬼 琉 佐々木 貴之 吉岡 克成 横浜国立大学 横浜国立大学 横浜国立大学 横浜国立大学 横浜国立大学 奨励賞",
     "awards": [
       "奨励賞"
-    ]
+    ],
+    "search_text": "3D4-5 CPEの表記揺れ・情報欠落に対応した製品情報に基づくNVDからの既知脆弱性特定手法 櫛引 淳之介 林 嘉乃 九鬼 琉 佐々木 貴之 吉岡 克成 横浜国立大学 横浜国立大学 横浜国立大学 横浜国立大学 横浜国立大学 奨励賞"
   },
   {
     "event": "CSS2026",
@@ -6348,7 +6453,7 @@
       {
         "name": "Shihao Zhou",
         "affiliations": [
-          "Waseda University"
+          "Department of Communication Science and Engineering, School of Fundamental Science and Engineering, Waseda University"
         ],
         "is_presenter": true,
         "presenter_symbol": "◎"
@@ -6356,13 +6461,13 @@
       {
         "name": "Tetsuya Sakai",
         "affiliations": [
-          "Waseda University"
+          "Department of Communication Science and Engineering, School of Fundamental Science and Engineering, Waseda University"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3E1-5 Error-Informed Prompting for Multilingual Phishing Detection with Large Language Models Shihao Zhou Tetsuya Sakai Waseda University Waseda University"
+    "search_text": "3E1-5 Error-Informed Prompting for Multilingual Phishing Detection with Large Language Models Shihao Zhou Tetsuya Sakai Department of Communication Science and Engineering, School of Fundamental Science and Engineering, Waseda University Department of Communication Science and Engineering, School of Fundamental Science and Engineering, Waseda University"
   },
   {
     "event": "CSS2026",
@@ -6468,10 +6573,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3E2-2 悪性SIMアプレットによる通信チャネル占有攻撃の脅威評価 迫本 澪 渡邉 龍星 古橋 俊輝 森 達哉 早稲田大学 早稲田大学 エヌ・エフ・ラボラトリーズ 筑波大学 早稲田大学 NICT 理研AIP 優秀論文賞",
     "awards": [
       "優秀論文賞"
-    ]
+    ],
+    "search_text": "3E2-2 悪性SIMアプレットによる通信チャネル占有攻撃の脅威評価 迫本 澪 渡邉 龍星 古橋 俊輝 森 達哉 早稲田大学 早稲田大学 エヌ・エフ・ラボラトリーズ 筑波大学 早稲田大学 NICT 理研AIP 優秀論文賞"
   },
   {
     "event": "CSS2026",
@@ -6760,10 +6865,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3E3-3 LLMを用いた初期集団生成によるEvolving Exact Decompilationの探索性能改善 齊藤 遼太 西垣 正勝 大木 哲史 静岡大学 静岡大学 静岡大学, RIKEN AIP 奨励賞",
     "awards": [
       "奨励賞"
-    ]
+    ],
+    "search_text": "3E3-3 LLMを用いた初期集団生成によるEvolving Exact Decompilationの探索性能改善 齊藤 遼太 西垣 正勝 大木 哲史 静岡大学 静岡大学 静岡大学, RIKEN AIP 奨励賞"
   },
   {
     "event": "CSS2026",
@@ -6796,10 +6901,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3E3-4 LLMのWebサイト安全性判定能力に関する評価 染谷 俊介 松嶋 修斗 田辺 瑠偉 順天堂大学 健康データサイエンス学部 順天堂大学 健康データサイエンス学部 順天堂大学 健康データサイエンス学部 学生論文賞",
     "awards": [
       "学生論文賞"
-    ]
+    ],
+    "search_text": "3E3-4 LLMのWebサイト安全性判定能力に関する評価 染谷 俊介 松嶋 修斗 田辺 瑠偉 順天堂大学 健康データサイエンス学部 順天堂大学 健康データサイエンス学部 順天堂大学 健康データサイエンス学部 学生論文賞"
   },
   {
     "event": "CSS2026",
@@ -7103,10 +7208,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3F2-3 短縮タグGCMに対する認証鍵回復攻撃の改良 井上 明子 岩田 哲 峯松 一彦 NEC 名古屋大学 NEC 優秀論文賞",
     "awards": [
       "優秀論文賞"
-    ]
+    ],
+    "search_text": "3F2-3 短縮タグGCMに対する認証鍵回復攻撃の改良 井上 明子 岩田 哲 峯松 一彦 NEC 名古屋大学 NEC 優秀論文賞"
   },
   {
     "event": "CSS2026",
@@ -7224,10 +7329,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3F3-1 Rotom : 定数乗算を用いたMCU向け高速暗号の設計 森田 健斗 峯松 一彦 髙 和真 阪本 光星 上野 嶺 五十部 孝典 兵庫県立大学 NEC 大阪大学 NICT 大阪大学 三菱電機 大阪大学 京都大学 大阪大学 優秀論文賞",
     "awards": [
       "優秀論文賞"
-    ]
+    ],
+    "search_text": "3F3-1 Rotom : 定数乗算を用いたMCU向け高速暗号の設計 森田 健斗 峯松 一彦 髙 和真 阪本 光星 上野 嶺 五十部 孝典 兵庫県立大学 NEC 大阪大学 NICT 大阪大学 三菱電機 大阪大学 京都大学 大阪大学 優秀論文賞"
   },
   {
     "event": "CSS2026",
@@ -7310,10 +7415,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3F3-4 PetitMacに対するCommitting安全性解析 久田 暁速 藤堂 洋介 岩田 哲 名古屋大学 大学院工学研究科 NTT社会情報研究所 名古屋大学 未来材料・システム研究所 奨励賞",
     "awards": [
       "奨励賞"
-    ]
+    ],
+    "search_text": "3F3-4 PetitMacに対するCommitting安全性解析 久田 暁速 藤堂 洋介 岩田 哲 名古屋大学 大学院工学研究科 NTT社会情報研究所 名古屋大学 未来材料・システム研究所 奨励賞"
   },
   {
     "event": "CSS2026",
@@ -7349,10 +7454,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3F4-1 AEADの非鍵コミット性を利用した効率的な共通鍵型秘密通信の設計 木村 隼人 山下 勇斗 五十部 孝典 NICT 大阪大学 大阪大学 NICT 大阪大学 NICT 奨励賞",
     "awards": [
       "奨励賞"
-    ]
+    ],
+    "search_text": "3F4-1 AEADの非鍵コミット性を利用した効率的な共通鍵型秘密通信の設計 木村 隼人 山下 勇斗 五十部 孝典 NICT 大阪大学 大阪大学 NICT 大阪大学 NICT 奨励賞"
   },
   {
     "event": "CSS2026",
@@ -7386,10 +7491,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3F4-2 送信者アナモルフィック暗号と双否認可能暗号の関係について 谷下 友一 松田 隆宏 松浦 幹太 東京大学 産業技術総合研究所 産業技術総合研究所 東京大学 学生論文賞",
     "awards": [
       "学生論文賞"
-    ]
+    ],
+    "search_text": "3F4-2 送信者アナモルフィック暗号と双否認可能暗号の関係について 谷下 友一 松田 隆宏 松浦 幹太 東京大学 産業技術総合研究所 産業技術総合研究所 東京大学 学生論文賞"
   },
   {
     "event": "CSS2026",
@@ -7432,10 +7537,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3F4-3 アナモルフィック耐性署名 此島 零二 淺野 京一 山下 恭佑 原 啓祐 大阪大学 産業技術総合研究所 中央大学 産業技術総合研究所 大阪大学 産業技術総合研究所 学生論文賞",
     "awards": [
       "学生論文賞"
-    ]
+    ],
+    "search_text": "3F4-3 アナモルフィック耐性署名 此島 零二 淺野 京一 山下 恭佑 原 啓祐 大阪大学 産業技術総合研究所 中央大学 産業技術総合研究所 大阪大学 産業技術総合研究所 学生論文賞"
   },
   {
     "event": "CSS2026",
@@ -7551,11 +7656,11 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3G1-1 公開ブロックチェーンにおける資産レイヤ制裁の実効到達性の測定 渡邉 卓弥 高田 雄太 伊藤 大貴 熊谷 裕志 神薗 雅紀 デロイト トーマツ サイバー合同会社 デロイト トーマツ サイバー合同会社 デロイト トーマツ サイバー合同会社 デロイト トーマツ サイバー合同会社 デロイト トーマツ サイバー合同会社 一般社団法人デロイト トーマツ 戦略研究所 奨励賞 エシカルプラクティス研究賞",
     "awards": [
       "奨励賞",
       "エシカルプラクティス研究賞"
-    ]
+    ],
+    "search_text": "3G1-1 公開ブロックチェーンにおける資産レイヤ制裁の実効到達性の測定 渡邉 卓弥 高田 雄太 伊藤 大貴 熊谷 裕志 神薗 雅紀 デロイト トーマツ サイバー合同会社 デロイト トーマツ サイバー合同会社 デロイト トーマツ サイバー合同会社 デロイト トーマツ サイバー合同会社 デロイト トーマツ サイバー合同会社 一般社団法人デロイト トーマツ 戦略研究所 奨励賞 エシカルプラクティス研究賞"
   },
   {
     "event": "CSS2026",
@@ -7869,10 +7974,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3G2-3 コンソーシアム型ブロックチェーンにおけるデプロイ経路の限定と監査強制によるスマートコントラクトのライフサイクル管理 山本 和弥 瀧田 愼 野村 健太 林田 淳一郎 石井 龍 佐古 健太郎 永井 達也 渡邉 卓弥 齋藤 恆和 高田 雄太 熊谷 裕志 神薗 雅紀 葛野 弘樹 白石 善明 神戸大学 神戸大学 デロイト トーマツ サイバー合同会社 デロイト トーマツ サイバー合同会社 デロイト トーマツ サイバー合同会社 デロイト トーマツ サイバー合同会社 デロイト トーマツ サイバー合同会社 デロイト トーマツ サイバー合同会社 デロイト トーマツ サイバー合同会社 デロイト トーマツ サイバー合同会社 デロイト トーマツ サイバー合同会社 デロイト トーマツ サイバー合同会社, 一般社団法人デロイト トーマツ戦略研究所 神戸大学 神戸大学 学生論文賞",
     "awards": [
       "学生論文賞"
-    ]
+    ],
+    "search_text": "3G2-3 コンソーシアム型ブロックチェーンにおけるデプロイ経路の限定と監査強制によるスマートコントラクトのライフサイクル管理 山本 和弥 瀧田 愼 野村 健太 林田 淳一郎 石井 龍 佐古 健太郎 永井 達也 渡邉 卓弥 齋藤 恆和 高田 雄太 熊谷 裕志 神薗 雅紀 葛野 弘樹 白石 善明 神戸大学 神戸大学 デロイト トーマツ サイバー合同会社 デロイト トーマツ サイバー合同会社 デロイト トーマツ サイバー合同会社 デロイト トーマツ サイバー合同会社 デロイト トーマツ サイバー合同会社 デロイト トーマツ サイバー合同会社 デロイト トーマツ サイバー合同会社 デロイト トーマツ サイバー合同会社 デロイト トーマツ サイバー合同会社 デロイト トーマツ サイバー合同会社, 一般社団法人デロイト トーマツ戦略研究所 神戸大学 神戸大学 学生論文賞"
   },
   {
     "event": "CSS2026",
@@ -8029,11 +8134,11 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3G3-2 JC-STARにおける自己評価プロセスの実態と制度への期待に関するメーカーインタビュー調査 眞田 颯哉 菅野 和奏 渡部 湊斗 上園 大智 藤井 翔太 藤田 彬 佐々木 貴之 吉岡 克成 横浜国立大学 横浜国立大学 横浜国立大学 横浜国立大学 横浜国立大学 横浜国立大学 国立研究開発法人情報通信研究機構 横浜国立大学 横浜国立大学 優秀論文賞 エシカルプラクティス研究賞",
     "awards": [
       "優秀論文賞",
       "エシカルプラクティス研究賞"
-    ]
+    ],
+    "search_text": "3G3-2 JC-STARにおける自己評価プロセスの実態と制度への期待に関するメーカーインタビュー調査 眞田 颯哉 菅野 和奏 渡部 湊斗 上園 大智 藤井 翔太 藤田 彬 佐々木 貴之 吉岡 克成 横浜国立大学 横浜国立大学 横浜国立大学 横浜国立大学 横浜国立大学 横浜国立大学 国立研究開発法人情報通信研究機構 横浜国立大学 横浜国立大学 優秀論文賞 エシカルプラクティス研究賞"
   },
   {
     "event": "CSS2026",
@@ -8416,301 +8521,506 @@
   },
   {
     "event": "CSS2026",
-    "session": "3H3: 脅威分析・リスク分析1",
+    "session": "3H3: 自動車セキュリティ1",
     "id": "3H3-1",
-    "title": "The Paradox of Cyber Risk and Patient Safety: A Comprehensive Risk Assessment of IoMT-Enabled Diabetes Therapies",
+    "title": "グラフベースIDSの判定根拠と正常基準値を用いた攻撃対象CAN ID候補抽出手法",
     "authors": [
       {
-        "name": "Akiko Takahashi",
+        "name": "谷口 友哉",
         "affiliations": [
-          "Institute of Information Security"
+          "名城大学"
         ],
         "is_presenter": true,
-        "presenter_symbol": "〇"
+        "presenter_symbol": "◎"
       },
       {
-        "name": "Takao Okubo",
+        "name": "倉地 亮",
         "affiliations": [
-          "Institute of Information Security"
+          "名城大学",
+          "名古屋大学"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3H3-1 The Paradox of Cyber Risk and Patient Safety: A Comprehensive Risk Assessment of IoMT-Enabled Diabetes Therapies Akiko Takahashi Takao Okubo Institute of Information Security Institute of Information Security"
+    "search_text": "3H3-1 グラフベースIDSの判定根拠と正常基準値を用いた攻撃対象CAN ID候補抽出手法 谷口 友哉 倉地 亮 名城大学 名城大学 名古屋大学"
   },
   {
     "event": "CSS2026",
-    "session": "3H3: 脅威分析・リスク分析1",
+    "session": "3H3: 自動車セキュリティ1",
     "id": "3H3-2",
-    "title": "ダイナミックリスクアセスメントにおける攻撃尤度推定手法に注目したセキュリティリスク評価式の検討",
+    "title": "SMDR: A Lightweight Detection-and-Repair Framework Against Temporal Misalignment Attacks on Multimodal 3D Detection for Autonomous Driving",
     "authors": [
       {
-        "name": "川西 康之",
+        "name": "Jingjing Rao",
         "affiliations": [
-          "産業技術総合研究所"
+          "College of Information Science and Engineering, Ritsumeikan University"
         ],
         "is_presenter": true,
         "presenter_symbol": "〇"
       },
       {
-        "name": "西原 秀明",
+        "name": "Tetsutaro Uehara",
         "affiliations": [
-          "産業技術総合研究所"
+          "College of Information Science and Engineering, Ritsumeikan University"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
       },
       {
-        "name": "吉田 博隆",
+        "name": "Soramichi Akiyama",
         "affiliations": [
-          "産業技術総合研究所"
-        ],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
-        "name": "井上 博之",
-        "affiliations": [
-          "京都産業大学"
+          "College of Information Science and Engineering, Ritsumeikan University"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3H3-2 ダイナミックリスクアセスメントにおける攻撃尤度推定手法に注目したセキュリティリスク評価式の検討 川西 康之 西原 秀明 吉田 博隆 井上 博之 産業技術総合研究所 産業技術総合研究所 産業技術総合研究所 京都産業大学"
+    "search_text": "3H3-2 SMDR: A Lightweight Detection-and-Repair Framework Against Temporal Misalignment Attacks on Multimodal 3D Detection for Autonomous Driving Jingjing Rao Tetsutaro Uehara Soramichi Akiyama College of Information Science and Engineering, Ritsumeikan University College of Information Science and Engineering, Ritsumeikan University College of Information Science and Engineering, Ritsumeikan University"
   },
   {
     "event": "CSS2026",
-    "session": "3H3: 脅威分析・リスク分析1",
+    "session": "3H3: 自動車セキュリティ1",
     "id": "3H3-3",
-    "title": "実行時観測情報と外部リスク指標を統合したソフトウェア脆弱性トリアージ手法",
+    "title": "自動運転における HD マップ改ざん攻撃の体系化と End-to-End 評価",
     "authors": [
       {
-        "name": "三宅 貴義",
+        "name": "佐藤 光優",
         "affiliations": [
-          "岡山大学 大学院環境生命自然科学研究科"
+          "早稲田大学"
         ],
         "is_presenter": true,
-        "presenter_symbol": "〇"
+        "presenter_symbol": "◎"
       },
       {
-        "name": "山内 利宏",
+        "name": "鶴岡 豪",
         "affiliations": [
-          "岡山大学 学術研究院環境生命自然科学学域"
+          "早稲田大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "野本 一輝",
+        "affiliations": [
+          "デロイト トーマツ サイバー合同会社"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "田中 優奈",
+        "affiliations": [
+          "デロイト トーマツ サイバー合同会社"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "森 達哉",
+        "affiliations": [
+          "早稲田大学",
+          "国立研究開発法人情報通信研究機構",
+          "理化学研究所革新知能統合研究センター"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3H3-3 実行時観測情報と外部リスク指標を統合したソフトウェア脆弱性トリアージ手法 三宅 貴義 山内 利宏 岡山大学 大学院環境生命自然科学研究科 岡山大学 学術研究院環境生命自然科学学域 学生論文賞",
     "awards": [
       "学生論文賞"
-    ]
+    ],
+    "search_text": "3H3-3 自動運転における HD マップ改ざん攻撃の体系化と End-to-End 評価 佐藤 光優 鶴岡 豪 野本 一輝 田中 優奈 森 達哉 早稲田大学 早稲田大学 デロイト トーマツ サイバー合同会社 デロイト トーマツ サイバー合同会社 早稲田大学 国立研究開発法人情報通信研究機構 理化学研究所革新知能統合研究センター 学生論文賞"
   },
   {
     "event": "CSS2026",
-    "session": "3H3: 脅威分析・リスク分析1",
+    "session": "3H3: 自動車セキュリティ1",
     "id": "3H3-4",
-    "title": "STAMP/STPAとMRC-EDCを統合した準定量的リスク評価手法の提案",
+    "title": "Vehicle-Agnostic Multi-Class Attack Attribution on the CAN Bus",
     "authors": [
       {
-        "name": "大野 佳寿馬",
+        "name": "Shuo Peng",
         "affiliations": [
-          "創価大学"
+          "Waseda University"
         ],
         "is_presenter": true,
         "presenter_symbol": "◎"
       },
       {
-        "name": "佐々木 良一",
+        "name": "Zhihe Zhang",
         "affiliations": [
-          "東京電機大学"
+          "Waseda University"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
       },
       {
-        "name": "金子 朋子",
+        "name": "Go Tsuruoka",
         "affiliations": [
-          "創価大学"
+          "Waseda University"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "Tatsuya Mori",
+        "affiliations": [
+          "Waseda University",
+          "RIKEN AIP",
+          "NICT"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3H3-4 STAMP/STPAとMRC-EDCを統合した準定量的リスク評価手法の提案 大野 佳寿馬 佐々木 良一 金子 朋子 創価大学 東京電機大学 創価大学 優秀論文賞",
     "awards": [
       "優秀論文賞"
-    ]
+    ],
+    "search_text": "3H3-4 Vehicle-Agnostic Multi-Class Attack Attribution on the CAN Bus Shuo Peng Zhihe Zhang Go Tsuruoka Tatsuya Mori Waseda University Waseda University Waseda University Waseda University RIKEN AIP NICT 優秀論文賞"
   },
   {
     "event": "CSS2026",
-    "session": "3H3: 脅威分析・リスク分析1",
+    "session": "3H3: 自動車セキュリティ1",
     "id": "3H3-5",
-    "title": "セキュリティパッチ適用前後におけるアクセス制御の影響評価",
+    "title": "V2X に対する攻撃の体系的評価によるコンポーネントレベルとシステムレベルの乖離の検証",
     "authors": [
       {
-        "name": "埜口 裕矢",
+        "name": "平井 航大",
         "affiliations": [
-          "NTT社会情報研究所"
+          "早稲田大学"
         ],
         "is_presenter": true,
-        "presenter_symbol": "〇"
+        "presenter_symbol": "◎"
       },
       {
-        "name": "鐘本 楊",
+        "name": "田中 優奈",
         "affiliations": [
-          "NTT社会情報研究所"
+          "デロイト トーマツ サイバー合同会社"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
       },
       {
-        "name": "大庭 翔介",
+        "name": "野本 一輝",
         "affiliations": [
-          "NTT社会情報研究所"
+          "デロイト トーマツ サイバー合同会社"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
       },
       {
-        "name": "荒川 玲佳",
+        "name": "鶴岡 豪",
         "affiliations": [
-          "NTT社会情報研究所"
+          "早稲田大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "森 達哉",
+        "affiliations": [
+          "早稲田大学",
+          "国立研究開発法人情報通信研究機構",
+          "理化学研究所革新知能統合研究センター"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3H3-5 セキュリティパッチ適用前後におけるアクセス制御の影響評価 埜口 裕矢 鐘本 楊 大庭 翔介 荒川 玲佳 NTT社会情報研究所 NTT社会情報研究所 NTT社会情報研究所 NTT社会情報研究所"
+    "search_text": "3H3-5 V2X に対する攻撃の体系的評価によるコンポーネントレベルとシステムレベルの乖離の検証 平井 航大 田中 優奈 野本 一輝 鶴岡 豪 森 達哉 早稲田大学 デロイト トーマツ サイバー合同会社 デロイト トーマツ サイバー合同会社 早稲田大学 早稲田大学 国立研究開発法人情報通信研究機構 理化学研究所革新知能統合研究センター"
   },
   {
     "event": "CSS2026",
-    "session": "3H4: 脅威分析・リスク分析2",
+    "session": "3H4: 自動車セキュリティ2",
     "id": "3H4-1",
-    "title": "選挙期の政党公式Xアカウントリプライ空間における投稿行動の縦断分析",
+    "title": "ブラックホール攻撃: Occupancy Predictionを用いた自動運転に対するハイジャック攻撃の提案とその対策",
     "authors": [
       {
-        "name": "丸田 佳",
+        "name": "鶴岡 豪",
         "affiliations": [
-          "デロイト トーマツ サイバー合同会社"
+          "早稲田大学",
+          "産業技術総合研究所"
         ],
         "is_presenter": true,
-        "presenter_symbol": "〇"
+        "presenter_symbol": "◎"
       },
       {
-        "name": "渡邉 卓弥",
+        "name": "佐藤 貴海",
         "affiliations": [
-          "デロイト トーマツ サイバー合同会社"
+          "慶應義塾大学"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
       },
       {
-        "name": "古川 凌也",
+        "name": "飯島 涼",
         "affiliations": [
-          "デロイト トーマツ サイバー合同会社"
+          "産業技術総合研究所"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
       },
       {
-        "name": "高田 雄太",
+        "name": "森 達哉",
         "affiliations": [
-          "デロイト トーマツ サイバー合同会社"
-        ],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
-        "name": "熊谷 裕志",
-        "affiliations": [
-          "デロイト トーマツ サイバー合同会社"
-        ],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
-        "name": "神薗 雅紀",
-        "affiliations": [
-          "デロイト トーマツ サイバー合同会社, 一般社団法人デロイト トーマツ 戦略研究所"
+          "早稲田大学",
+          "情報通信研究機構",
+          "理研AIP"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3H4-1 選挙期の政党公式Xアカウントリプライ空間における投稿行動の縦断分析 丸田 佳 渡邉 卓弥 古川 凌也 高田 雄太 熊谷 裕志 神薗 雅紀 デロイト トーマツ サイバー合同会社 デロイト トーマツ サイバー合同会社 デロイト トーマツ サイバー合同会社 デロイト トーマツ サイバー合同会社 デロイト トーマツ サイバー合同会社 デロイト トーマツ サイバー合同会社, 一般社団法人デロイト トーマツ 戦略研究所 奨励賞",
     "awards": [
       "奨励賞"
-    ]
+    ],
+    "search_text": "3H4-1 ブラックホール攻撃: Occupancy Predictionを用いた自動運転に対するハイジャック攻撃の提案とその対策 鶴岡 豪 佐藤 貴海 飯島 涼 森 達哉 早稲田大学 産業技術総合研究所 慶應義塾大学 産業技術総合研究所 早稲田大学 情報通信研究機構 理研AIP 奨励賞"
   },
   {
     "event": "CSS2026",
-    "session": "3H4: 脅威分析・リスク分析2",
+    "session": "3H4: 自動車セキュリティ2",
     "id": "3H4-2",
-    "title": "サイバーインシデントによる経済的影響と国際比較",
+    "title": "敵対的パッチによる偽障害物生成攻撃のシステムレベル評価",
     "authors": [
       {
-        "name": "柴﨑 夏音",
+        "name": "斧田 洋人",
         "affiliations": [
-          "芝浦工業大学"
+          "早稲田大学"
         ],
         "is_presenter": true,
         "presenter_symbol": "◎"
       },
       {
-        "name": "持永 大",
+        "name": "鶴岡 豪",
         "affiliations": [
-          "芝浦工業大学"
+          "早稲田大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "末次 響",
+        "affiliations": [
+          "早稲田大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "大西 健斗",
+        "affiliations": [
+          "三菱電機"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "拓矢 東",
+        "affiliations": [
+          "三菱電機"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "小関 義博",
+        "affiliations": [
+          "三菱電機"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "中井 綱人",
+        "affiliations": [
+          "三菱電機"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "森 達哉",
+        "affiliations": [
+          "早稲田大学, 情報通信研究機構, 理研 AIP"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3H4-2 サイバーインシデントによる経済的影響と国際比較 柴﨑 夏音 持永 大 芝浦工業大学 芝浦工業大学"
+    "search_text": "3H4-2 敵対的パッチによる偽障害物生成攻撃のシステムレベル評価 斧田 洋人 鶴岡 豪 末次 響 大西 健斗 拓矢 東 小関 義博 中井 綱人 森 達哉 早稲田大学 早稲田大学 早稲田大学 三菱電機 三菱電機 三菱電機 三菱電機 早稲田大学, 情報通信研究機構, 理研 AIP"
   },
   {
     "event": "CSS2026",
-    "session": "3H4: 脅威分析・リスク分析2",
+    "session": "3H4: 自動車セキュリティ2",
     "id": "3H4-3",
-    "title": "地政学的変動下におけるサイバーセキュリティ公共財の持続性評価：脆弱性情報・悪用観測・リスク優先順位付け機能の依存構造分析",
+    "title": "Detecting Sensor Attacks on Autonomous Vehicles through Latent Correlations",
     "authors": [
       {
-        "name": "井上 圭",
+        "name": "Yinan Zhao",
         "affiliations": [
-          "株式会社ラック"
-        ],
-        "is_presenter": true,
-        "presenter_symbol": "〇"
-      }
-    ],
-    "search_text": "3H4-3 地政学的変動下におけるサイバーセキュリティ公共財の持続性評価：脆弱性情報・悪用観測・リスク優先順位付け機能の依存構造分析 井上 圭 株式会社ラック"
-  },
-  {
-    "event": "CSS2026",
-    "session": "3H4: 脅威分析・リスク分析2",
-    "id": "3H4-4",
-    "title": "開示文書に基づくサイバーリスク指標の再現検証",
-    "authors": [
-      {
-        "name": "栁 暁",
-        "affiliations": [
-          "情報セキュリティ大学院大学"
+          "Waseda University"
         ],
         "is_presenter": true,
         "presenter_symbol": "◎"
       },
       {
-        "name": "桑名 栄二",
+        "name": "Lachlan Moore",
         "affiliations": [
-          "情報セキュリティ大学院大学"
+          "Waseda University",
+          "NICT"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "Sara Rampazzi",
+        "affiliations": [
+          "University of Florida"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "Tatsuya Mori",
+        "affiliations": [
+          "Waseda University",
+          "NICT",
+          "RIKEN AIP"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3H4-4 開示文書に基づくサイバーリスク指標の再現検証 栁 暁 桑名 栄二 情報セキュリティ大学院大学 情報セキュリティ大学院大学"
+    "search_text": "3H4-3 Detecting Sensor Attacks on Autonomous Vehicles through Latent Correlations Yinan Zhao Lachlan Moore Sara Rampazzi Tatsuya Mori Waseda University Waseda University NICT University of Florida Waseda University NICT RIKEN AIP"
+  },
+  {
+    "event": "CSS2026",
+    "session": "3H4: 自動車セキュリティ2",
+    "id": "3H4-4",
+    "title": "近傍の物体に擬態した敵対的パッチによるターゲット物体検出の妨害攻撃",
+    "authors": [
+      {
+        "name": "末次 響",
+        "affiliations": [
+          "早稲田大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "鶴岡 豪",
+        "affiliations": [
+          "早稲田大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "斧田 洋人",
+        "affiliations": [
+          "早稲田大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "田中 優奈",
+        "affiliations": [
+          "デロイト トーマツ サイバー合同会社"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "野本 一輝",
+        "affiliations": [
+          "デロイト トーマツ サイバー合同会社"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "森 達哉",
+        "affiliations": [
+          "早稲田大学",
+          "情報通信研究機構",
+          "理研 AIP"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "3H4-4 近傍の物体に擬態した敵対的パッチによるターゲット物体検出の妨害攻撃 末次 響 鶴岡 豪 斧田 洋人 田中 優奈 野本 一輝 森 達哉 早稲田大学 早稲田大学 早稲田大学 デロイト トーマツ サイバー合同会社 デロイト トーマツ サイバー合同会社 早稲田大学 情報通信研究機構 理研 AIP"
+  },
+  {
+    "event": "CSS2026",
+    "session": "3H4: 自動車セキュリティ2",
+    "id": "3H4-5",
+    "title": "An Empirical Study of the Robustness of World-Model-Based Planning",
+    "authors": [
+      {
+        "name": "Jiadong Liu",
+        "affiliations": [
+          "Waseda University"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "◎"
+      },
+      {
+        "name": "Tatsuya Mori",
+        "affiliations": [
+          "Waseda University",
+          "NICT",
+          "RIKEN AIP"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "3H4-5 An Empirical Study of the Robustness of World-Model-Based Planning Jiadong Liu Tatsuya Mori Waseda University Waseda University NICT RIKEN AIP"
+  },
+  {
+    "event": "CSS2026",
+    "session": "4A1: AWS企画② パネルディスカッション：AIセキュリティと今後の教育展開",
+    "id": "4A1-invited-1",
+    "title": "AWS企画② パネルディスカッション：AIセキュリティと今後の教育展開",
+    "authors": [
+      {
+        "name": "野口 貴秀",
+        "affiliations": [
+          "文科省 専門教育課 情報教育推進第一係長"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "大坪 雄平",
+        "affiliations": [
+          "警察庁",
+          "情報セキュリティ大学院大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "丸山 祐丞",
+        "affiliations": [
+          "EAGLYS",
+          "早稲田大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "矢内 直人",
+        "affiliations": [
+          "Panasonic"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "4A1-invited-1 AWS企画② パネルディスカッション：AIセキュリティと今後の教育展開 野口 貴秀 大坪 雄平 丸山 祐丞 矢内 直人 文科省 専門教育課 情報教育推進第一係長 警察庁 情報セキュリティ大学院大学 EAGLYS 早稲田大学 Panasonic"
   },
   {
     "event": "CSS2026",
@@ -8784,10 +9094,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "4B1-2 SPHINCS+B：署名処理をバッチ化したSPHINCS+ 三好 茜音 高橋 康 縫田 光司 矢内 直人 パナソニック ホールディングス株式会社 パナソニック ホールディングス株式会社 九州大学 パナソニック ホールディングス株式会社 優秀論文賞",
     "awards": [
       "優秀論文賞"
-    ]
+    ],
+    "search_text": "4B1-2 SPHINCS+B：署名処理をバッチ化したSPHINCS+ 三好 茜音 高橋 康 縫田 光司 矢内 直人 パナソニック ホールディングス株式会社 パナソニック ホールディングス株式会社 九州大学 パナソニック ホールディングス株式会社 優秀論文賞"
   },
   {
     "event": "CSS2026",
@@ -9312,10 +9622,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "4B3-5 LLMエージェントによる.NETマルウェアの難読化解除 栗原 北斗 櫻井 慶裕 岡本 剛 神奈川工科大学 神奈川工科大学 神奈川工科大学 学生論文賞",
     "awards": [
       "学生論文賞"
-    ]
+    ],
+    "search_text": "4B3-5 LLMエージェントによる.NETマルウェアの難読化解除 栗原 北斗 櫻井 慶裕 岡本 剛 神奈川工科大学 神奈川工科大学 神奈川工科大学 学生論文賞"
   },
   {
     "event": "CSS2026",
@@ -9356,10 +9666,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "4B4-1 複数サーバの多重ランダム化による差分プライベート頻度分布推定 安藤 太一 村上 隆夫 江利口 礼央 清 雄一 電気通信大学, 統計数理研究所 統計数理研究所, 情報システム研究機構, 産業技術総合研究所, 理研AIP 産業技術総合研究所 電気通信大学 学生論文賞",
     "awards": [
       "学生論文賞"
-    ]
+    ],
+    "search_text": "4B4-1 複数サーバの多重ランダム化による差分プライベート頻度分布推定 安藤 太一 村上 隆夫 江利口 礼央 清 雄一 電気通信大学, 統計数理研究所 統計数理研究所, 情報システム研究機構, 産業技術総合研究所, 理研AIP 産業技術総合研究所 電気通信大学 学生論文賞"
   },
   {
     "event": "CSS2026",
@@ -9471,6 +9781,56 @@
       }
     ],
     "search_text": "4B4-4 ストリーミングデータのw-event differential privacyに関する一考察 髙岡 陽色 王 立華 野島 良 菊池 浩明 立命館大学 情報通信研究機構 立命館大学 明治大学"
+  },
+  {
+    "event": "CSS2026",
+    "session": "4C2: MWS企画 チュートリアル：Artifact Evaluationから考える研究の透明性・再現性とこれからのセキュリティ研究コミュニティ",
+    "id": "4C2-invited-1",
+    "title": "[パネルディスカッション]",
+    "authors": [
+      {
+        "name": "久保 佑介",
+        "affiliations": [
+          "NTTドコモビジネス株式会社"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "佐々木 貴之",
+        "affiliations": [
+          "横浜国立大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "中塚 義道",
+        "affiliations": [
+          "国立研究開発法人 情報通信研究機構"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "篠田 陽一",
+        "affiliations": [
+          "MWS組織委員会",
+          "NTTドコモビジネス株式会社"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "秋山 満昭",
+        "affiliations": [
+          "NTT株式会社"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "4C2-invited-1 [パネルディスカッション] 久保 佑介 佐々木 貴之 中塚 義道 篠田 陽一 秋山 満昭 NTTドコモビジネス株式会社 横浜国立大学 国立研究開発法人 情報通信研究機構 MWS組織委員会 NTTドコモビジネス株式会社 NTT株式会社"
   },
   {
     "event": "CSS2026",
@@ -10308,10 +10668,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "4E1-3 反証可能義務論理を用いたプライバシーポリシーの形式化と自動検証 中林 美郷 池田 美穂 奥田 哲矢 NTT社会情報研究所 NTT社会情報研究所 NTT社会情報研究所 奨励賞",
     "awards": [
       "奨励賞"
-    ]
+    ],
+    "search_text": "4E1-3 反証可能義務論理を用いたプライバシーポリシーの形式化と自動検証 中林 美郷 池田 美穂 奥田 哲矢 NTT社会情報研究所 NTT社会情報研究所 NTT社会情報研究所 奨励賞"
   },
   {
     "event": "CSS2026",
@@ -10582,16 +10942,16 @@
         "affiliations": [
           "情報セキュリティ大学院大学"
         ],
-        "is_presenter": false,
-        "presenter_symbol": ""
+        "is_presenter": true,
+        "presenter_symbol": "〇"
       },
       {
         "name": "大塚 玲",
         "affiliations": [
           "情報セキュリティ大学院大学"
         ],
-        "is_presenter": true,
-        "presenter_symbol": "〇"
+        "is_presenter": false,
+        "presenter_symbol": ""
       }
     ],
     "search_text": "4E3-4 Instruction-Conditioned Adapter：Instructionに基づく動的制御によるプロンプトインジェクション防御 米田 智紀 大塚 玲 情報セキュリティ大学院大学 情報セキュリティ大学院大学"
@@ -10768,10 +11128,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "4E4-4 局所敵対的摂動による音楽記号認識の選択的妨害に基づく楽譜保護手法 狩野 花奈 西垣 正勝 大木 哲史 静岡大学 静岡大学 静岡大学 学生論文賞",
     "awards": [
       "学生論文賞"
-    ]
+    ],
+    "search_text": "4E4-4 局所敵対的摂動による音楽記号認識の選択的妨害に基づく楽譜保護手法 狩野 花奈 西垣 正勝 大木 哲史 静岡大学 静岡大学 静岡大学 学生論文賞"
   },
   {
     "event": "CSS2026",
@@ -10812,10 +11172,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "4E4-5 敵対的摂動型ビジュアルプロンプトインジェクションにおける視覚言語モデルの内部状態の分析 熊谷 瞭 竹本 修 野崎 佑典 吉川 雅弥 名城大学 名城大学 名城大学 名城大学 学生論文賞",
     "awards": [
       "学生論文賞"
-    ]
+    ],
+    "search_text": "4E4-5 敵対的摂動型ビジュアルプロンプトインジェクションにおける視覚言語モデルの内部状態の分析 熊谷 瞭 竹本 修 野崎 佑典 吉川 雅弥 名城大学 名城大学 名城大学 名城大学 学生論文賞"
   },
   {
     "event": "CSS2026",
@@ -10848,10 +11208,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "4F1-1 多変数多項式求解問題からシンドローム復号問題への効率的な帰着の構成 鈴木 真翔 相川 勇輔 高木 剛 東京大学 東京大学 東京大学 優秀論文賞",
     "awards": [
       "優秀論文賞"
-    ]
+    ],
+    "search_text": "4F1-1 多変数多項式求解問題からシンドローム復号問題への効率的な帰着の構成 鈴木 真翔 相川 勇輔 高木 剛 東京大学 東京大学 東京大学 優秀論文賞"
   },
   {
     "event": "CSS2026",
@@ -11066,10 +11426,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "4F2-2 Impossibility Result of Local Linear Key Distillation for Algebraic Authentication Codes with Arbitration Kazuha Murakami Yohei Watanabe Mitsugu Iwamoto The University of Electro-Communications The University of Electro-Communications AIST The University of Electro-Communications 奨励賞",
     "awards": [
       "奨励賞"
-    ]
+    ],
+    "search_text": "4F2-2 Impossibility Result of Local Linear Key Distillation for Algebraic Authentication Codes with Arbitration Kazuha Murakami Yohei Watanabe Mitsugu Iwamoto The University of Electro-Communications The University of Electro-Communications AIST The University of Electro-Communications 奨励賞"
   },
   {
     "event": "CSS2026",
@@ -11414,13 +11774,13 @@
         "name": "金 光兆",
         "affiliations": [
           "韓国科学技術院",
-          "IRIS"
+          "IRCS"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
       }
     ],
-    "search_text": "4G4-1 長寿命システムにおける耐量子暗号移行と長期安全性 ― リモート署名を中心とした二重脅威の視点と信頼ライフサイクル管理 ― 櫻井 幸一 金 光兆 九州大学 韓国科学技術院 IRIS"
+    "search_text": "4G4-1 長寿命システムにおける耐量子暗号移行と長期安全性 ― リモート署名を中心とした二重脅威の視点と信頼ライフサイクル管理 ― 櫻井 幸一 金 光兆 九州大学 韓国科学技術院 IRCS"
   },
   {
     "event": "CSS2026",
@@ -11604,10 +11964,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "4H1-1 衛星セキュリティのためのRoot of Trust：構成要素の選定と放射線耐性評価 中川 雄太 山本 悠介 ファハルドタピア イサイ ロドリゲスレオン ラファエル 熊谷 裕志 神薗 雅紀 デロイトトーマツサイバー合同会社 デロイトトーマツサイバー合同会社 デロイトトーマツサイバー合同会社 デロイトトーマツサイバー合同会社 デロイトトーマツサイバー合同会社 デロイトトーマツサイバー合同会社 奨励賞",
     "awards": [
       "奨励賞"
-    ]
+    ],
+    "search_text": "4H1-1 衛星セキュリティのためのRoot of Trust：構成要素の選定と放射線耐性評価 中川 雄太 山本 悠介 ファハルドタピア イサイ ロドリゲスレオン ラファエル 熊谷 裕志 神薗 雅紀 デロイトトーマツサイバー合同会社 デロイトトーマツサイバー合同会社 デロイトトーマツサイバー合同会社 デロイトトーマツサイバー合同会社 デロイトトーマツサイバー合同会社 デロイトトーマツサイバー合同会社 奨励賞"
   },
   {
     "event": "CSS2026",
@@ -11684,7 +12044,7 @@
       {
         "name": "Xuzhen Li",
         "affiliations": [
-          "Ritsumeikan University"
+          "Graduate School of Information Science and Engineering, Ritsumeikan University"
         ],
         "is_presenter": true,
         "presenter_symbol": "◎"
@@ -11692,7 +12052,7 @@
       {
         "name": "Jingjing Rao",
         "affiliations": [
-          "Ritsumeikan University"
+          "College of Information Science and Engineering, Ritsumeikan University"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
@@ -11700,13 +12060,13 @@
       {
         "name": "Tetsutaro Uehara",
         "affiliations": [
-          "Ritsumeikan University"
+          "College of Information Science and Engineering, Ritsumeikan University"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
       }
     ],
-    "search_text": "4H1-4 A Capability-Based Isolation Model for USB Device Access on MMU-less RTOS Using a Local WebAssembly Runtime Xuzhen Li Jingjing Rao Tetsutaro Uehara Ritsumeikan University Ritsumeikan University Ritsumeikan University"
+    "search_text": "4H1-4 A Capability-Based Isolation Model for USB Device Access on MMU-less RTOS Using a Local WebAssembly Runtime Xuzhen Li Jingjing Rao Tetsutaro Uehara Graduate School of Information Science and Engineering, Ritsumeikan University College of Information Science and Engineering, Ritsumeikan University College of Information Science and Engineering, Ritsumeikan University"
   },
   {
     "event": "CSS2026",
@@ -11747,10 +12107,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "4H2-1 コンテナ環境におけるBPF Tokenのポリシー表現上の限界を補完する防御方式の提案と評価 木場 翔太 長谷川 皓一 山口 由紀子 嶋田 創 名古屋大学大学院情報学研究科 国立情報学研究所ストラテジックサイバーレジリエンス研究開発センター 名古屋大学情報基盤センター 名古屋大学情報基盤センター 学生論文賞",
     "awards": [
       "学生論文賞"
-    ]
+    ],
+    "search_text": "4H2-1 コンテナ環境におけるBPF Tokenのポリシー表現上の限界を補完する防御方式の提案と評価 木場 翔太 長谷川 皓一 山口 由紀子 嶋田 創 名古屋大学大学院情報学研究科 国立情報学研究所ストラテジックサイバーレジリエンス研究開発センター 名古屋大学情報基盤センター 名古屋大学情報基盤センター 学生論文賞"
   },
   {
     "event": "CSS2026",
@@ -12163,10 +12523,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "4H4-2 One Ciphertext, Two Views: Discordのグループ通話における映像注入攻撃 山下 勇斗 木村 隼人 田中 篤 五十部 孝典 大阪大学 NICT NICT 大阪大学 大阪大学 大阪大学 最優秀論文賞",
     "awards": [
       "最優秀論文賞"
-    ]
+    ],
+    "search_text": "4H4-2 One Ciphertext, Two Views: Discordのグループ通話における映像注入攻撃 山下 勇斗 木村 隼人 田中 篤 五十部 孝典 大阪大学 NICT NICT 大阪大学 大阪大学 大阪大学 最優秀論文賞"
   },
   {
     "event": "CSS2026",
@@ -12449,10 +12809,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "5B2-1 マルウェア動的解析における対話的イベント応答のためのVLMベースエージェントの設計と評価 塙 剛生 藤井 翔太 日立製作所 日立製作所 奨励賞",
     "awards": [
       "奨励賞"
-    ]
+    ],
+    "search_text": "5B2-1 マルウェア動的解析における対話的イベント応答のためのVLMベースエージェントの設計と評価 塙 剛生 藤井 翔太 日立製作所 日立製作所 奨励賞"
   },
   {
     "event": "CSS2026",
@@ -12936,10 +13296,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "5C2-1 連合学習における複数通信ラウンドのモデル更新を用いた解析的データ再構成攻撃 山﨑 雄輔 三浦 尭之 伊東 燦 岩花 一輝 山下 智也 芝原 俊樹 磯貝 奈穂 深見 匠 田中 政志 NTT株式会社 NTT株式会社 東北大学 NTT株式会社 NTT株式会社 NTT株式会社 NTT株式会社 NTT株式会社 NTT株式会社 優秀論文賞",
     "awards": [
       "優秀論文賞"
-    ]
+    ],
+    "search_text": "5C2-1 連合学習における複数通信ラウンドのモデル更新を用いた解析的データ再構成攻撃 山﨑 雄輔 三浦 尭之 伊東 燦 岩花 一輝 山下 智也 芝原 俊樹 磯貝 奈穂 深見 匠 田中 政志 NTT株式会社 NTT株式会社 東北大学 NTT株式会社 NTT株式会社 NTT株式会社 NTT株式会社 NTT株式会社 NTT株式会社 優秀論文賞"
   },
   {
     "event": "CSS2026",
@@ -13030,10 +13390,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "5C2-4 PDC-Bench: LLMは開示粒度の制約をどこまで忠実に守るか 藤田 晃輔 西山 大輝 佐久間 淳 東京科学大学 東京科学大学 東京科学大学 学生論文賞",
     "awards": [
       "学生論文賞"
-    ]
+    ],
+    "search_text": "5C2-4 PDC-Bench: LLMは開示粒度の制約をどこまで忠実に守るか 藤田 晃輔 西山 大輝 佐久間 淳 東京科学大学 東京科学大学 東京科学大学 学生論文賞"
   },
   {
     "event": "CSS2026",
@@ -13044,13 +13404,13 @@
       {
         "name": "Xuping Huang",
         "affiliations": [
-          "Shimane University"
+          "Graduate School of Natural Science and Technology, Shimane University"
         ],
         "is_presenter": true,
         "presenter_symbol": "〇"
       }
     ],
-    "search_text": "5C2-5 Adversarial Voice Anonymization using Smooth Phase Dispersion Xuping Huang Shimane University"
+    "search_text": "5C2-5 Adversarial Voice Anonymization using Smooth Phase Dispersion Xuping Huang Graduate School of Natural Science and Technology, Shimane University"
   },
   {
     "event": "CSS2026",
@@ -13547,10 +13907,10 @@
         "presenter_symbol": "〇"
       }
     ],
-    "search_text": "5E2-3 TEE Anchor: ベンダ中立かつTEE 横断的な物理攻撃対策機構 櫻井 碧 株式会社Acompany Confidential Computing Lab 奨励賞",
     "awards": [
       "奨励賞"
-    ]
+    ],
+    "search_text": "5E2-3 TEE Anchor: ベンダ中立かつTEE 横断的な物理攻撃対策機構 櫻井 碧 株式会社Acompany Confidential Computing Lab 奨励賞"
   },
   {
     "event": "CSS2026",

@@ -6,12 +6,6 @@
     "title": "数体篩法実装は双子smooth素数の探索に役立つか?",
     "authors": [
       {
-        "name": "Can NFS Implementation Find Twin Smooth Primes?",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "青木 和麻呂",
         "affiliations": [
           "文教大学情報学部"
@@ -53,12 +47,6 @@
     "title": "Quantum Resistance on Modes of Operation in Block Ciphers",
     "authors": [
       {
-        "name": "Quantum Resistance on Modes of Operation in Block Ciphers",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "Jeeun Lee",
         "affiliations": [
           "Korea Institute for Advanced Study"
@@ -67,7 +55,7 @@
         "presenter_symbol": "◎"
       }
     ],
-    "search_text": "1A1-2 Quantum Resistance on Modes of Operation in Block Ciphers Quantum Resistance on Modes of Operation in Block Ciphers Jeeun Lee Korea Institute for Advanced Study"
+    "search_text": "1A1-2 Quantum Resistance on Modes of Operation in Block Ciphers Jeeun Lee Korea Institute for Advanced Study"
   },
   {
     "event": "SCIS2022",
@@ -76,15 +64,9 @@
     "title": "A Practical Lattice-based Threshold Signature",
     "authors": [
       {
-        "name": "A Practical Lattice-based Threshold Signature",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "Yi Xu",
         "affiliations": [
-          "Japan Advanced Institute of Science and Technology(JAIST"
+          "Japan Advanced Institute of Science and Technology(JAIST)"
         ],
         "is_presenter": true,
         "presenter_symbol": "◎"
@@ -92,7 +74,7 @@
       {
         "name": "Yuntao Wang",
         "affiliations": [
-          "Japan Advanced Institute of Science and Technology(JAIST"
+          "Japan Advanced Institute of Science and Technology(JAIST)"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
@@ -100,13 +82,13 @@
       {
         "name": "Eiichiro Fujisaki",
         "affiliations": [
-          "Japan Advanced Institute of Science and Technology(JAIST"
+          "Japan Advanced Institute of Science and Technology(JAIST)"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1A1-3 A Practical Lattice-based Threshold Signature A Practical Lattice-based Threshold Signature Yi Xu Yuntao Wang Eiichiro Fujisaki Japan Advanced Institute of Science and Technology(JAIST Japan Advanced Institute of Science and Technology(JAIST Japan Advanced Institute of Science and Technology(JAIST"
+    "search_text": "1A1-3 A Practical Lattice-based Threshold Signature Yi Xu Yuntao Wang Eiichiro Fujisaki Japan Advanced Institute of Science and Technology(JAIST) Japan Advanced Institute of Science and Technology(JAIST) Japan Advanced Institute of Science and Technology(JAIST)"
   },
   {
     "event": "SCIS2022",
@@ -114,12 +96,6 @@
     "id": "1A1-4",
     "title": "SABERにおける数論変換のC言語実装",
     "authors": [
-      {
-        "name": "C Language Implementation of Number Theoretic Transform in Saber",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "青木大地",
         "affiliations": [
@@ -162,12 +138,6 @@
     "title": "A study of the Kipnis-Shamir approach against the Rainbow signature scheme",
     "authors": [
       {
-        "name": "A study of the Kipnis-Shamir approach against the Rainbow signature scheme",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "Yasuhiko Ikematsu",
         "affiliations": [
           "Kyushu University"
@@ -184,7 +154,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1A1-5 A study of the Kipnis-Shamir approach against the Rainbow signature scheme A study of the Kipnis-Shamir approach against the Rainbow signature scheme Yasuhiko Ikematsu Shuhei Nakamura Kyushu University Nihon University"
+    "search_text": "1A1-5 A study of the Kipnis-Shamir approach against the Rainbow signature scheme Yasuhiko Ikematsu Shuhei Nakamura Kyushu University Nihon University"
   },
   {
     "event": "SCIS2022",
@@ -192,12 +162,6 @@
     "id": "1A1-6",
     "title": "多変数多項式署名Rainbowに対する新たな乱数固定のフォルト攻撃",
     "authors": [
-      {
-        "name": "New Fault Attack on Rainbow by Fixing Randomness",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "加藤拓",
         "affiliations": [
@@ -232,12 +196,6 @@
     "title": "NIST PQC Round3候補の鍵カプセル化方式の匿名性",
     "authors": [
       {
-        "name": "Anonymity of NIST PQC Round-3 KEMs",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "草川 恵太",
         "affiliations": [
           "NTT社会情報研究所"
@@ -254,12 +212,6 @@
     "id": "1A2-2",
     "title": "同種写像暗号B-SIDHの実験による計算量評価と効率的な素数pの条件",
     "authors": [
-      {
-        "name": "Computational Estimation of B-SIDH by Experiments and  Condition of Good Prime Number",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "大槻紗季",
         "affiliations": [
@@ -293,7 +245,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1A2-2 同種写像暗号B-SIDHの実験による計算量評価と効率的な素数pの条件 Computational Estimation of B-SIDH by Experiments and  Condition of Good Prime Number 大槻紗季 青木和麻呂 小貫啓史 高木剛 東京大学大学院情報理工学系研究科 文教大学情報学部 東京大学大学院情報理工学系研究科 東京大学大学院情報理工学系研究科"
+    "search_text": "1A2-2 同種写像暗号B-SIDHの実験による計算量評価と効率的な素数pの条件 Computational Estimation of B-SIDH by Experiments and Condition of Good Prime Number 大槻紗季 青木和麻呂 小貫啓史 高木剛 東京大学大学院情報理工学系研究科 文教大学情報学部 東京大学大学院情報理工学系研究科 東京大学大学院情報理工学系研究科"
   },
   {
     "event": "SCIS2022",
@@ -301,12 +253,6 @@
     "id": "1A2-3",
     "title": "耐量子計算機署名Mod FalconのToom-Cook法及びRadix4 FFTによる高速化",
     "authors": [
-      {
-        "name": "Fast Implementation of Post Quantum Signature Mod Falcon with Toom-Cook Method and Radix4 FFT",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "福原大毅",
         "affiliations": [
@@ -357,12 +303,6 @@
     "title": "近似イデアルGCD問題に基づく不定方程式暗号のバリエーションについて",
     "authors": [
       {
-        "name": "A variant of the indeterminate equation cryptosystems based on the approximate ideal GCD problem",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "秋山 浩一郎",
         "affiliations": [
           "株式会社東芝 研究開発センター"
@@ -388,12 +328,6 @@
     "title": "A New Efficient Variant of the XL Algorithm Using the Arithmetic over Polynomial Matrices",
     "authors": [
       {
-        "name": "A New Efficient Variant of the XL Algorithm Using the Arithmetic over Polynomial Matrices",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "古江弘樹",
         "affiliations": [
           "東京大学"
@@ -410,7 +344,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1A2-5 A New Efficient Variant of the XL Algorithm Using the Arithmetic over Polynomial Matrices A New Efficient Variant of the XL Algorithm Using the Arithmetic over Polynomial Matrices 古江弘樹 工藤桃成 東京大学 東京大学"
+    "search_text": "1A2-5 A New Efficient Variant of the XL Algorithm Using the Arithmetic over Polynomial Matrices 古江弘樹 工藤桃成 東京大学 東京大学"
   },
   {
     "event": "SCIS2022",
@@ -418,12 +352,6 @@
     "id": "1A2-6",
     "title": "MQ問題の解決のためのHybrid approachの改良の検討",
     "authors": [
-      {
-        "name": "Development of hybrid approach for solving MQ problem",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "坂田康亮",
         "affiliations": [
@@ -441,12 +369,6 @@
     "id": "1A3-1",
     "title": "究極の本人確認のための3層構造公開鍵暗号の提案－第3報",
     "authors": [
-      {
-        "name": "3 Layer Public Key Cryptosystem for Ultimate Personal Identification–Rep. No.3",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "辻井 重男",
         "affiliations": [
@@ -529,12 +451,6 @@
     "title": "被覆攻撃の対象となる偶標数有限体上の楕円・超楕円曲線に対する同種条件下の完全分類",
     "authors": [
       {
-        "name": "A classification of elliptic and hyperelliptic curves over finite fields of even characteristic subjected to the cover attack under the isogeny condition",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "村井公輔",
         "affiliations": [
           "中央大学理工学研究科情報工学専攻"
@@ -576,12 +492,6 @@
     "title": "A Study of Non-malleability Definitions on Timed Commitments",
     "authors": [
       {
-        "name": "A Study of Non-malleability Definitions on Timed Commitments",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "Zehua Shang",
         "affiliations": [
           "Kyoto University"
@@ -606,7 +516,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1A3-3 A Study of Non-malleability Definitions on Timed Commitments A Study of Non-malleability Definitions on Timed Commitments Zehua Shang Mehdi Tibouchi Masayuki Abe Kyoto University Kyoto University. NTT Secure Platform Laboratories Kyoto University. NTT Secure Platform Laboratories"
+    "search_text": "1A3-3 A Study of Non-malleability Definitions on Timed Commitments Zehua Shang Mehdi Tibouchi Masayuki Abe Kyoto University Kyoto University. NTT Secure Platform Laboratories Kyoto University. NTT Secure Platform Laboratories"
   },
   {
     "event": "SCIS2022",
@@ -614,12 +524,6 @@
     "id": "1A4-1",
     "title": "Lossy Trapdoor function の幾つかの亜種について",
     "authors": [
-      {
-        "name": "n some variants of lossy trapdoor function",
-        "affiliations": [],
-        "is_presenter": true,
-        "presenter_symbol": "O"
-      },
       {
         "name": "星野 文学",
         "affiliations": [
@@ -629,7 +533,7 @@
         "presenter_symbol": "〇"
       }
     ],
-    "search_text": "1A4-1 Lossy Trapdoor function の幾つかの亜種について n some variants of lossy trapdoor function 星野 文学 長崎県立大学"
+    "search_text": "1A4-1 Lossy Trapdoor function の幾つかの亜種について On some variants of lossy trapdoor function 星野 文学 長崎県立大学"
   },
   {
     "event": "SCIS2022",
@@ -637,12 +541,6 @@
     "id": "1A4-2",
     "title": "効率的な漏洩耐性鍵隔離暗号",
     "authors": [
-      {
-        "name": "An Efficient Construction of Leakage-Resilient Key-Insulated Encryption",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "淺野京一",
         "affiliations": [
@@ -677,12 +575,6 @@
     "id": "1A4-3",
     "title": "匿名放送型暗号及び認証における非漸近的タイトな下界と最適構成法について",
     "authors": [
-      {
-        "name": "Non-Asymptotically Tight Lower Bounds and Optimal Constructions of Anonymous Broadcast Encryption and Authentication",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "小林大航",
         "affiliations": [
@@ -726,12 +618,6 @@
     "title": "公開鍵暗号の平文空間の効率的な拡張方法について",
     "authors": [
       {
-        "name": "n Expanding the Plaintext Space of Public Key Encryption",
-        "affiliations": [],
-        "is_presenter": true,
-        "presenter_symbol": "O"
-      },
-      {
         "name": "松田 隆宏",
         "affiliations": [
           "国立研究開発法人 産業技術総合研究所"
@@ -740,7 +626,7 @@
         "presenter_symbol": "〇"
       }
     ],
-    "search_text": "1A4-4 公開鍵暗号の平文空間の効率的な拡張方法について n Expanding the Plaintext Space of Public Key Encryption 松田 隆宏 国立研究開発法人 産業技術総合研究所"
+    "search_text": "1A4-4 公開鍵暗号の平文空間の効率的な拡張方法について On Expanding the Plaintext Space of Public Key Encryption 松田 隆宏 国立研究開発法人 産業技術総合研究所"
   },
   {
     "event": "SCIS2022",
@@ -748,12 +634,6 @@
     "id": "2A1-1",
     "title": "格子暗号におけるノイズの数論変換の実装について",
     "authors": [
-      {
-        "name": "n Implementation of the Number Theoretic Transform for Noise in Lattice-based Cryptography",
-        "affiliations": [],
-        "is_presenter": true,
-        "presenter_symbol": "O"
-      },
       {
         "name": "米村智子",
         "affiliations": [
@@ -771,7 +651,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2A1-1 格子暗号におけるノイズの数論変換の実装について n Implementation of the Number Theoretic Transform for Noise in Lattice-based Cryptography 米村智子 秋山浩一郎 株式会社東芝 株式会社東芝"
+    "search_text": "2A1-1 格子暗号におけるノイズの数論変換の実装について On Implementation of the Number Theoretic Transform for Noise in Lattice-based Cryptography 米村智子 秋山浩一郎 株式会社東芝 株式会社東芝"
   },
   {
     "event": "SCIS2022",
@@ -779,12 +659,6 @@
     "id": "2A1-2",
     "title": "SQISignの公開鍵の安全性",
     "authors": [
-      {
-        "name": "n the security of the public keys in SQISign",
-        "affiliations": [],
-        "is_presenter": true,
-        "presenter_symbol": "O"
-      },
       {
         "name": "小貫啓史",
         "affiliations": [
@@ -794,7 +668,7 @@
         "presenter_symbol": "〇"
       }
     ],
-    "search_text": "2A1-2 SQISignの公開鍵の安全性 n the security of the public keys in SQISign 小貫啓史 東京大学大学院情報理工学系研究科"
+    "search_text": "2A1-2 SQISignの公開鍵の安全性 On the security of the public keys in SQISign 小貫啓史 東京大学大学院情報理工学系研究科"
   },
   {
     "event": "SCIS2022",
@@ -802,12 +676,6 @@
     "id": "2A1-3",
     "title": "SIKEに対するvOW法の内部関数の新計算手法",
     "authors": [
-      {
-        "name": "A new method for computing internal functions of the vOW algorithm for SIKE",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "神戸祐太",
         "affiliations": [
@@ -875,12 +743,6 @@
     "title": "Implementations on identity-based signature schemes based on variants of CSIDH",
     "authors": [
       {
-        "name": "Implementations on identity-based signature schemes based on variants of CSIDH",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "Hyungrok Jo",
         "affiliations": [
           "Yokohama National University. IAS"
@@ -897,7 +759,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2A1-4 Implementations on identity-based signature schemes based on variants of CSIDH Implementations on identity-based signature schemes based on variants of CSIDH Hyungrok Jo Junji Shikata Yokohama National University. IAS Yokohama National University"
+    "search_text": "2A1-4 Implementations on identity-based signature schemes based on variants of CSIDH Hyungrok Jo Junji Shikata Yokohama National University. IAS Yokohama National University"
   },
   {
     "event": "SCIS2022",
@@ -905,12 +767,6 @@
     "id": "2A2-1",
     "title": "NIST PQC Round3候補の鍵カプセル化方式への故障注入攻撃",
     "authors": [
-      {
-        "name": "Fault-Injection Attacks against NIST's Post-Quantum Cryptography Round 3 KEM Candidates",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "草川 恵太",
         "affiliations": [
@@ -961,12 +817,6 @@
     "title": "Web PKI 業界が耐量子計算機暗号への移行を急がなくて良い 3 つの理由",
     "authors": [
       {
-        "name": "Three Reasons why Migration to PQC is not an urgent issue for Web PKI",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "伊藤 忠彦",
         "affiliations": [
           "セコム株式会社"
@@ -992,12 +842,6 @@
     "title": "NTRU格子の拡張と格子攻撃",
     "authors": [
       {
-        "name": "An extension of NTRU lattices and its lattice attack",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "中邑聡史",
         "affiliations": [
           "NTT 社会情報研究所"
@@ -1022,12 +866,6 @@
     "id": "2A3-1",
     "title": "指定された追跡可能性を有するグループ署名の双線形群における例示",
     "authors": [
-      {
-        "name": "An Instantiation of Group Signatures with Designated Traceability in Bilinear Groups",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "穴田 啓晃",
         "affiliations": [
@@ -1062,12 +900,6 @@
     "title": "Mathematical Structure of Finsler Encryption and Signature",
     "authors": [
       {
-        "name": "Mathematical Structure of Finsler Encryption and Signature",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "永野 哲也",
         "affiliations": [
           "長崎県立大学"
@@ -1084,7 +916,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2A3-2 Mathematical Structure of Finsler Encryption and Signature Mathematical Structure of Finsler Encryption and Signature 永野 哲也 穴田 啓晃 長崎県立大学 長崎県立大学"
+    "search_text": "2A3-2 Mathematical Structure of Finsler Encryption and Signature 永野 哲也 穴田 啓晃 長崎県立大学 長崎県立大学"
   },
   {
     "event": "SCIS2022",
@@ -1092,12 +924,6 @@
     "id": "2A3-3",
     "title": "カメレオン署名を用いたFIDO認証の権限移譲機能の検討",
     "authors": [
-      {
-        "name": "Account Dalegation of FIDO using Chameleon Signature",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "成松怜央",
         "affiliations": [
@@ -1131,12 +957,6 @@
     "id": "2A3-4",
     "title": "FK12曲線上のペアリングにおける最終べきアルゴリズムの改良",
     "authors": [
-      {
-        "name": "Improvement of Algorithm for Computing Final Exponentiation for Pairing on FK12",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "池坂和真",
         "affiliations": [
@@ -1186,12 +1006,6 @@
     "id": "2A4-1",
     "title": "BLS12曲線上のペアリングにおけるG2上の有理点生成の高速化",
     "authors": [
-      {
-        "name": "Fast Generating Rational Points on G2 for Pairing on BLS12",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "飯田 智宏",
         "affiliations": [
@@ -1258,12 +1072,6 @@
     "title": "準同型暗号を用いたE2EE画像重ね合わせの検討",
     "authors": [
       {
-        "name": "Image Overlaying without Decryption by Homomorphic Cryptosystem",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "上野真奈",
         "affiliations": [
           "NTT社会情報研究所"
@@ -1305,12 +1113,6 @@
     "title": "Linked Data 型 Verifiable Credentials の構成と安全性",
     "authors": [
       {
-        "name": "Linked Data based Verifiable Credentials: Security Model and Construction",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "山本 暖",
         "affiliations": [
           "株式会社インターネットイニシアティブ"
@@ -1343,12 +1145,6 @@
     "id": "2A4-4",
     "title": "複数の鍵生成局を持つ鍵失効機能付きIDベース暗号",
     "authors": [
-      {
-        "name": "Revocable Identity-Based Encryption With Multiple Private-Key Generators",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "鈴木裕大",
         "affiliations": [
@@ -1399,12 +1195,6 @@
     "title": "New Post-Quantum Digital Signature Scheme based on MinRank Problem",
     "authors": [
       {
-        "name": "New Post-Quantum Digital Signature Scheme based on MinRank Problem",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "Bagus Santoso",
         "affiliations": [
           "The University of Electro-Communications"
@@ -1437,7 +1227,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2A5-1 New Post-Quantum Digital Signature Scheme based on MinRank Problem New Post-Quantum Digital Signature Scheme based on MinRank Problem Bagus Santoso Yasuhiko Ikematsu Shuhei Nakamura Takanori Yasuda The University of Electro-Communications Kyushu University Nihon University Okayama University of Science"
+    "search_text": "2A5-1 New Post-Quantum Digital Signature Scheme based on MinRank Problem Bagus Santoso Yasuhiko Ikematsu Shuhei Nakamura Takanori Yasuda The University of Electro-Communications Kyushu University Nihon University Okayama University of Science"
   },
   {
     "event": "SCIS2022",
@@ -1445,12 +1235,6 @@
     "id": "2A5-2",
     "title": "適切な素数選択によるKLPTアルゴリズムを利用した同種写像構成計算",
     "authors": [
-      {
-        "name": "Isogeny Construction Using the KLPT Algorithm with Suitable Prime Numbers",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "高橋 康",
         "affiliations": [
@@ -1493,12 +1277,6 @@
     "title": "Montgomery曲線のx座標を用いた3-同種計算の最小演算コスト",
     "authors": [
       {
-        "name": "The minimal cost of operations on 3-isogeny computation via x-coordinates of Montgomery curves",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "守谷共起",
         "affiliations": [
           "東京大学"
@@ -1540,12 +1318,6 @@
     "title": "超特別アーベル多様体によるエクスパンダー族の構成とその暗号応用に向けて",
     "authors": [
       {
-        "name": "Construction of expander families from superspecial abelian varieties toward cryptographic applications",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "相川勇輔",
         "affiliations": [
           "三菱電機"
@@ -1579,12 +1351,6 @@
     "title": "ベイズ最適化を用いたデータ・クエリ効率の良いBlack-box Universal Adversarial Attacks",
     "authors": [
       {
-        "name": "Data and Query Efficient Black-box Universal Adversarial Attacks with Bayesian Optimization",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "由比藤 真",
         "affiliations": [
           "茨城大学"
@@ -1609,12 +1375,6 @@
     "id": "3A1-2",
     "title": "開発エンジニア向け機械学習セキュリティ脅威分析技術",
     "authors": [
-      {
-        "name": "A Threat Analysis Method on Machine Learning Security for System Development Engineers",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "矢嶋純",
         "affiliations": [
@@ -1673,12 +1433,6 @@
     "title": "機械学習を用いたZigBeeネットワーク上の不正通信検知手法の提案",
     "authors": [
       {
-        "name": "Machine Learning-based Anomaly Detection in ZigBee Networks",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "大塩智也",
         "affiliations": [
           "東洋大学"
@@ -1719,12 +1473,6 @@
     "id": "3A2-1",
     "title": "メンバーシップ推論攻撃に対する交差蒸留を利用した防御手法",
     "authors": [
-      {
-        "name": "Defense method using knowledge cross-distillation against membership inference attacks",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "Rishav Chourasia",
         "affiliations": [
@@ -1783,12 +1531,6 @@
     "title": "量子化誤差を考慮したAdversarial trainingの提案と評価",
     "authors": [
       {
-        "name": "Proposal and Evaluation of Quantization Aware Adversarial Training",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "増田春樹",
         "affiliations": [
           "立命館大学"
@@ -1822,12 +1564,6 @@
     "title": "分布外データに対する脆弱性と検知",
     "authors": [
       {
-        "name": "ut-of-distribution Vulnerability and Detection",
-        "affiliations": [],
-        "is_presenter": true,
-        "presenter_symbol": "O"
-      },
-      {
         "name": "江田 智尊",
         "affiliations": [
           "富士通株式会社"
@@ -1844,7 +1580,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3A2-3 分布外データに対する脆弱性と検知 ut-of-distribution Vulnerability and Detection 江田 智尊 森川 郁也 富士通株式会社 富士通株式会社"
+    "search_text": "3A2-3 分布外データに対する脆弱性と検知 Out-of-distribution Vulnerability and Detection 江田 智尊 森川 郁也 富士通株式会社 富士通株式会社"
   },
   {
     "event": "SCIS2022",
@@ -1852,12 +1588,6 @@
     "id": "3A2-4",
     "title": "物体検出CNNに対する複数配置に着目した遠隔Adversarial Patch攻撃",
     "authors": [
-      {
-        "name": "Multiple Adversarial Patches on Object Detection using CNN",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "大西健斗",
         "affiliations": [
@@ -1892,12 +1622,6 @@
     "title": "Algebraic Group Model上でのSchnorr署名のMulti-User Securityに関する一考察",
     "authors": [
       {
-        "name": "A Note on the Multi-User Security of Schnorr Signature in Algebraic Group Model",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "福光 正幸",
         "affiliations": [
           "北海道情報大学"
@@ -1922,12 +1646,6 @@
     "id": "3A3-2",
     "title": "モノの秘匿性を考慮した「モノの電子署名」",
     "authors": [
-      {
-        "name": "\"Signature for Objects\" with Object Privacy",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "林 リウヤ",
         "affiliations": [
@@ -2037,7 +1755,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3A3-2 モノの秘匿性を考慮した「モノの電子署名」 \"Signature for Objects\" with Object Privacy 林 リウヤ 浅野 泰輝 林田 淳一郎 松田 隆宏 山田 翔太 勝又 秀一 坂井 祐介 照屋 唯紀 シュルツ ヤコブ アッタラパドゥン ナッタポン 花岡 悟一郎 松浦 幹太 松本 勉 東京大学生産技術研究所 産業技術総合研究所 東京大学生産技術研究所 産業技術総合研究所 東京大学生産技術研究所 産業技術総合研究所 産業技術総合研究所 産業技術総合研究所 産業技術総合研究所 産業技術総合研究所 産業技術総合研究所 産業技術総合研究所 産業技術総合研究所 産業技術総合研究所 東京大学生産技術研究所 産業技術総合研究所 横浜国立大学大学院環境情報研究院"
+    "search_text": "3A3-2 モノの秘匿性を考慮した「モノの電子署名」 \"Signature for Objects\" with Object Privacy 林 リウヤ 浅野 泰輝 林田 淳一郎 松田 隆宏 山田 翔太 勝又 秀一 坂井 祐介 照屋 唯紀 シュルツ ヤコブ アッタラパドゥン ナッタポン 花岡 悟一郎 松浦 幹太 松本 勉 東京大学生産技術研究所 産業技術総合研究所 東京大学生産技術研究所 産業技術総合研究所 東京大学生産技術研究所 産業技術総合研究所 産業技術総合研究所 産業技術総合研究所 産業技術総合研究所 産業技術総合研究所 産業技術総合研究所 産業技術総合研究所 産業技術総合研究所 産業技術総合研究所 東京大学生産技術研究所 産業技術総合研究所 横浜国立大学大学院環境情報研究院 SCIS論文賞",
+    "awards": [
+      "SCIS論文賞"
+    ]
   },
   {
     "event": "SCIS2022",
@@ -2045,12 +1766,6 @@
     "id": "3A3-3",
     "title": "対話的追跡機能付き集約署名における署名送信間隔に関する制約と評価",
     "authors": [
-      {
-        "name": "Constraints and Evaluations on Signature Transmission Interval for Aggregate Signatures with Interactive Tracing",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "石井 龍",
         "affiliations": [
@@ -2127,12 +1842,6 @@
     "title": "組み合わせ AONT の安全性に関するエントロピー解析",
     "authors": [
       {
-        "name": "Entropy Analysis on Security of Combinatorial AONT",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "赤尾 奏名汰",
         "affiliations": [
           "九州大学大学院 システム情報科学府"
@@ -2166,12 +1875,6 @@
     "title": "暗号プロトコルの転用性と堅固性 : 歴史と現状と課題",
     "authors": [
       {
-        "name": "divertibility and non-malleability of cryptographic protocols",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "櫻井 幸一",
         "affiliations": [
           "九州大学"
@@ -2188,12 +1891,6 @@
     "id": "3A3-6",
     "title": "「モノの電子署名」の複数物体への拡張",
     "authors": [
-      {
-        "name": "Extension of \"Signature for Objects\" to Multiple Objects",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "浅野 泰輝",
         "affiliations": [
@@ -2309,12 +2006,6 @@
     "title": "Optimal Lattice Trapdoor for the Klein-GPV and Peikert Sampler",
     "authors": [
       {
-        "name": "ptimal Lattice Trapdoor for the Klein-GPV and Peikert Sampler",
-        "affiliations": [],
-        "is_presenter": true,
-        "presenter_symbol": "O"
-      },
-      {
         "name": "Chao Sun",
         "affiliations": [
           "Kyoto University"
@@ -2347,7 +2038,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "4A1-1 Optimal Lattice Trapdoor for the Klein-GPV and Peikert Sampler ptimal Lattice Trapdoor for the Klein-GPV and Peikert Sampler Chao Sun Thomas Espitau Mehdi Tibouchi Masayuki Abe Kyoto University NTT Corporation NTT Corporation. Kyoto University NTT Corporation. Kyoto University"
+    "search_text": "4A1-1 Optimal Lattice Trapdoor for the Klein-GPV and Peikert Sampler Chao Sun Thomas Espitau Mehdi Tibouchi Masayuki Abe Kyoto University NTT Corporation NTT Corporation. Kyoto University NTT Corporation. Kyoto University"
   },
   {
     "event": "SCIS2022",
@@ -2355,12 +2046,6 @@
     "id": "4A1-2",
     "title": "上質の電子署名アルゴリズム",
     "authors": [
-      {
-        "name": "Premium Digital Signature Algorithm",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "安田 英幸",
         "affiliations": [
@@ -2379,12 +2064,6 @@
     "title": "位数が4kの有限体上楕円曲線の点の位数の判定法",
     "authors": [
       {
-        "name": "Determining the evenness of order of points on elliptic curves on finite fields with order of 4k",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "白勢政明",
         "affiliations": [
           "公立はこだて未来大学"
@@ -2401,12 +2080,6 @@
     "id": "4A1-4",
     "title": "F4-styleアルゴリズムのMQ問題に対する多項式選択方法",
     "authors": [
-      {
-        "name": "Polynomial selections on an F4-style algorithm for solving the MQ problem",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "伊藤琢真",
         "affiliations": [
@@ -2449,12 +2122,6 @@
     "title": "Multi-Parallel MMTアルゴリズムによる高次元SDPの解読",
     "authors": [
       {
-        "name": "Multi-Parallel MMT Algorithm for Solving High-Dimensional SDP",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "成定 真太郎",
         "affiliations": [
           "KDDI総合研究所"
@@ -2487,12 +2154,6 @@
     "id": "4A2-2",
     "title": "Tuple Sieve Algorithmの並列化の提案",
     "authors": [
-      {
-        "name": "Study on Parallelizing the Tuple Sieve Algorithm",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "Keiichi Imai",
         "affiliations": [
@@ -2527,12 +2188,6 @@
     "title": "トレース写像を用いたRing-LWE問題に対する格子攻撃の再考",
     "authors": [
       {
-        "name": "Revisiting lattice-based attacks using trace map for Ring-LWE",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "奥村伸也",
         "affiliations": [
           "大阪大学"
@@ -2566,12 +2221,6 @@
     "title": "動的解析ログを用いたマルウェアの早期目的推定に向けた特徴量の予測手法に関する検討",
     "authors": [
       {
-        "name": "A Study on Feature Prediction Methods for Early Object Estimation  of Malware Using Dynamic Analysis Logs",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "朝倉 紗斗至",
         "affiliations": [
           "電気通信大学"
@@ -2604,7 +2253,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1B1-1 動的解析ログを用いたマルウェアの早期目的推定に向けた特徴量の予測手法に関する検討 A Study on Feature Prediction Methods for Early Object Estimation  of Malware Using Dynamic Analysis Logs 朝倉 紗斗至 中川 恒 押場 博光 市野 将嗣 電気通信大学 株式会社FFRIセキュリティ 株式会社FFRIセキュリティ 電気通信大学"
+    "search_text": "1B1-1 動的解析ログを用いたマルウェアの早期目的推定に向けた特徴量の予測手法に関する検討 A Study on Feature Prediction Methods for Early Object Estimation of Malware Using Dynamic Analysis Logs 朝倉 紗斗至 中川 恒 押場 博光 市野 将嗣 電気通信大学 株式会社FFRIセキュリティ 株式会社FFRIセキュリティ 電気通信大学"
   },
   {
     "event": "SCIS2022",
@@ -2612,12 +2261,6 @@
     "id": "1B1-2",
     "title": "信頼情報を基にした業務高信頼化方式",
     "authors": [
-      {
-        "name": "A Method for Reliable Business Operations Based on Trust Information",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "角田 忠信",
         "affiliations": [
@@ -2668,12 +2311,6 @@
     "title": "Weighted Signed Networkを用いた公平な業務信頼度の計算方法",
     "authors": [
       {
-        "name": "Method of Calculating Work Reliability in Weighted Signed Network",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "山口純平",
         "affiliations": [
           "富士通株式会社"
@@ -2723,12 +2360,6 @@
     "title": "An Access Control System for Verifiable Credentials with Selective Disclosure",
     "authors": [
       {
-        "name": "An Access Control System for Verifiable Credentials with Selective Disclosure",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "林俊安",
         "affiliations": [
           "金沢大学"
@@ -2753,7 +2384,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1B1-4 An Access Control System for Verifiable Credentials with Selective Disclosure An Access Control System for Verifiable Credentials with Selective Disclosure 林俊安 鄭振牟 満保雅浩 金沢大学 金沢大学 金沢大学"
+    "search_text": "1B1-4 An Access Control System for Verifiable Credentials with Selective Disclosure 林俊安 鄭振牟 満保雅浩 金沢大学 金沢大学 金沢大学"
   },
   {
     "event": "SCIS2022",
@@ -2761,12 +2392,6 @@
     "id": "1B1-5",
     "title": "TEEを活用したIDベース認証付き鍵交換の実装に関する考察",
     "authors": [
-      {
-        "name": "n the Implementation of Identity-Based Authenticated Key Exchange using TEE",
-        "affiliations": [],
-        "is_presenter": true,
-        "presenter_symbol": "O"
-      },
       {
         "name": "工藤史堯",
         "affiliations": [
@@ -2792,7 +2417,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1B1-5 TEEを活用したIDベース認証付き鍵交換の実装に関する考察 n the Implementation of Identity-Based Authenticated Key Exchange using TEE 工藤史堯 飯島悠介 永井彰 NTT社会情報研究所 NTT社会情報研究所 NTT社会情報研究所"
+    "search_text": "1B1-5 TEEを活用したIDベース認証付き鍵交換の実装に関する考察 On the Implementation of Identity-Based Authenticated Key Exchange using TEE 工藤史堯 飯島悠介 永井彰 NTT社会情報研究所 NTT社会情報研究所 NTT社会情報研究所"
   },
   {
     "event": "SCIS2022",
@@ -2800,12 +2425,6 @@
     "id": "1B1-6",
     "title": "スマートフォンを活用した金融決済サービスのセキュリティをどう向上させるか",
     "authors": [
-      {
-        "name": "How to Improve the Security of Financial and Payment Services with Smartphones",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "宇根正志",
         "affiliations": [
@@ -2831,12 +2450,6 @@
     "id": "1B2-1",
     "title": "フォレンジック調査の補助のためのWindows APIコールログを用いた不正プログラムの動作再現ツール",
     "authors": [
-      {
-        "name": "A Reproduction Tool of Malicious Programs Behavior by Using WinAPI Call Logs for Supporting Digital Forensic Investigation",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "松田 尚也",
         "affiliations": [
@@ -2878,12 +2491,6 @@
     "id": "1B2-2",
     "title": "Hybrid Zero Trust Architectureにおける機械学習を用いた不正操作の検知",
     "authors": [
-      {
-        "name": "ML Detection Method for malicious operation  in Hybrid Zero Trust Architecture",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "石出港士",
         "affiliations": [
@@ -2933,7 +2540,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1B2-2 Hybrid Zero Trust Architectureにおける機械学習を用いた不正操作の検知 ML Detection Method for malicious operation  in Hybrid Zero Trust Architecture 石出港士 岡田怜士 吉倉昌利 松田亘 藤本万里子 満永拓邦 東洋大学 東洋大学 東洋大学 NTT 東洋大 東洋大"
+    "search_text": "1B2-2 Hybrid Zero Trust Architectureにおける機械学習を用いた不正操作の検知 ML Detection Method for malicious operation in Hybrid Zero Trust Architecture 石出港士 岡田怜士 吉倉昌利 松田亘 藤本万里子 満永拓邦 東洋大学 東洋大学 東洋大学 NTT 東洋大 東洋大"
   },
   {
     "event": "SCIS2022",
@@ -2941,12 +2548,6 @@
     "id": "1B2-3",
     "title": "ファームウェア更新に対するIETF RATS準拠リモートアテステーションの設計",
     "authors": [
-      {
-        "name": "A Design for Remote Attestation based on IETF RATS to protect firmware update",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "内匠真也",
         "affiliations": [
@@ -2981,12 +2582,6 @@
     "title": "IPカメラのセキュリティに対する調査手法の検討と判明した問題点の考察",
     "authors": [
       {
-        "name": "A study of research methods for IP camera security and Consideration of the problems identified",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "下山 啓",
         "affiliations": [
           "情報セキュリティ大学院大学"
@@ -3011,12 +2606,6 @@
     "id": "1B2-5",
     "title": "オンラインサンドボックスにおけるMITRE ATT&CKマッピング機能に係る実態調査",
     "authors": [
-      {
-        "name": "Survey on Mapping Function for Malware Behaviors to MITRE ATT&CK of Online Malware Sandbox",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "藤井 翔太",
         "affiliations": [
@@ -3043,7 +2632,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1B2-5 オンラインサンドボックスにおけるMITRE ATT&CKマッピング機能に係る実態調査 Survey on Mapping Function for Malware Behaviors to MITRE ATT&CK of Online Malware Sandbox 藤井 翔太 山岸 伶 山内 利宏 株式会社 日立製作所 岡山大学 大学院自然科学研究科 株式会社 日立製作所 岡山大学 学術研究院自然科学学域"
+    "search_text": "1B2-5 オンラインサンドボックスにおけるMITRE ATT&CKマッピング機能に係る実態調査 Survey on Mapping Function for Malware Behaviors to MITRE ATT&CK of Online Malware Sandbox 藤井 翔太 山岸 伶 山内 利宏 株式会社 日立製作所 岡山大学 大学院自然科学研究科 株式会社 日立製作所 岡山大学 学術研究院自然科学学域 SCIS論文賞",
+    "awards": [
+      "SCIS論文賞"
+    ]
   },
   {
     "event": "SCIS2022",
@@ -3051,12 +2643,6 @@
     "id": "1B2-6",
     "title": "患者異常監視システムにおいて患者異常と機器異常を切り分ける方式の提案・評価と支援システムの構想",
     "authors": [
-      {
-        "name": "Proposal and evaluation of a method for isolating patient abnormalities and equipment abnormalities in a patient abnormality monitoring system and concept of a support system",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "佐々木良一",
         "affiliations": [
@@ -3074,12 +2660,6 @@
     "id": "1B3-1",
     "title": "対話的に通信制御が可能なマルウェア解析システム",
     "authors": [
-      {
-        "name": "SWAN: Sandbox with traffic Whitelisting for ANalyzing malware",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "濱島 圭佑",
         "affiliations": [
@@ -3114,12 +2694,6 @@
     "title": "Adversarial Attack against DNN-based DDoS Intrusion Detection System",
     "authors": [
       {
-        "name": "Adversarial Attack against DNN-based DDoS Intrusion Detection System",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "Mariama Mbow",
         "affiliations": [
           "Kyushu University"
@@ -3144,7 +2718,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1B3-2 Adversarial Attack against DNN-based DDoS Intrusion Detection System Adversarial Attack against DNN-based DDoS Intrusion Detection System Mariama Mbow Hiroshi Koide Kouichi Sakurai Kyushu University Kyushu University Kyushu University"
+    "search_text": "1B3-2 Adversarial Attack against DNN-based DDoS Intrusion Detection System Mariama Mbow Hiroshi Koide Kouichi Sakurai Kyushu University Kyushu University Kyushu University"
   },
   {
     "event": "SCIS2022",
@@ -3152,12 +2726,6 @@
     "id": "1B3-3",
     "title": "脆弱性の概念実証コードに対する網羅的な攻撃パケット生成を用いた侵入検知システムのシグネチャ自動生成",
     "authors": [
-      {
-        "name": "Automatic Signature Generation for Intrusion Detection Systems by Generating Packets Exhaustively from Proof of Concept Code of Vulnerabilities",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "小林 雅季",
         "affiliations": [
@@ -3199,12 +2767,6 @@
     "id": "1B3-4",
     "title": "ハニーポットで観測される絨毯爆撃型DRDoS攻撃の分析",
     "authors": [
-      {
-        "name": "Analyzing Carpet Bombing DRDoS Attacks Observed by Honeypot",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "毛 清昕",
         "affiliations": [
@@ -3250,12 +2812,6 @@
     "title": "標的型マルウェアの通信先情報に基づくC&Cサーバ監視による攻撃誘引",
     "authors": [
       {
-        "name": "Luring Cyber Attacks by Monitoring C&C Servers Based on Targeted Malware Destination Information",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "細見勇介",
         "affiliations": [
           "立命館大学"
@@ -3297,12 +2853,6 @@
     "title": "情報指向ネットワークにおける分散コンテンツ配送による安全性と効率の改善",
     "authors": [
       {
-        "name": "Improving Security and Efficiency through Distributed Content Delivery in Information-Centric Networking",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "佐久田 尚",
         "affiliations": [
           "東京理科大学"
@@ -3327,12 +2877,6 @@
     "id": "1B4-3",
     "title": "教師なし学習を用いた低レートDoS攻撃検知手法の設計と実装",
     "authors": [
-      {
-        "name": "A Design and Implementation of Low-Rate DoS Attack Detection Method Using Unsupervised Learning",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "榧場 叶耀",
         "affiliations": [
@@ -3385,12 +2929,6 @@
     "title": "ドキュメント化されていないヘッダを活用した機械学習によるマルウェア分類",
     "authors": [
       {
-        "name": "Malware Classification by Machine Learning Using Undocumented Header",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "小久保 博崇",
         "affiliations": [
           "富士通株式会社"
@@ -3416,12 +2954,6 @@
     "title": "データ分布情報を用いたレンジクエリに対するボリューム漏洩攻撃",
     "authors": [
       {
-        "name": "Volume leakage attack against range queries using data distribution information",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "小谷俊輔",
         "affiliations": [
           "筑波大学システム情報工学研究群"
@@ -3446,14 +2978,6 @@
     "id": "2B1-3",
     "title": "確率モデルと実験による増分故障解析の安全性評価",
     "authors": [
-      {
-        "name": "Security Evaluation of IFA",
-        "affiliations": [
-          "Incremental Fault Analysis"
-        ],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "加藤光",
         "affiliations": [
@@ -3487,7 +3011,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2B1-3 確率モデルと実験による増分故障解析の安全性評価 Security Evaluation of IFA 加藤光 菅原健 崎山一男 李陽 Incremental Fault Analysis 電気通信大学 電気通信大学 電気通信大学 電気通信大学"
+    "search_text": "2B1-3 確率モデルと実験による増分故障解析の安全性評価 Security Evaluation of IFA(Incremental Fault Analysis) Using Probability Model and Experiments 加藤光 菅原健 崎山一男 李陽 電気通信大学 電気通信大学 電気通信大学 電気通信大学"
   },
   {
     "event": "SCIS2022",
@@ -3495,12 +3019,6 @@
     "id": "2B1-4",
     "title": "脆弱性自動検知に向けたバイナリプログラム解析ツールの開発",
     "authors": [
-      {
-        "name": "Development of a Binary Program Analysis Tool for Automatic Vulnerability Detection",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "泉田大宗",
         "affiliations": [
@@ -3535,12 +3053,6 @@
     "title": "サイバー攻撃者のインテリジェンス収集のためのディープマルウェア解析",
     "authors": [
       {
-        "name": "Deep malware analysis for collecting intelligence of cyber attackers",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "村上弘和",
         "affiliations": [
           "株式会社 CyCraft Japan"
@@ -3565,12 +3077,6 @@
     "id": "2B2-2",
     "title": "ランサムウェアの解析とその対策に関する研究",
     "authors": [
-      {
-        "name": "Research on the analysis of ransomware and its countermeasures",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "古門良介",
         "affiliations": [
@@ -3628,12 +3134,6 @@
     "id": "2B2-3",
     "title": "引数情報を用いたAPIコール列に基づくマルウェアのファミリ分類手法",
     "authors": [
-      {
-        "name": "Malware Family Classification Method Based on API Call Sequences That Considering Argument Information",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "廣瀬 優希",
         "affiliations": [
@@ -3708,12 +3208,6 @@
     "title": "クラウドアプリケーションの完全性を保証するKubernetesマニフェストの署名検証手法",
     "authors": [
       {
-        "name": "Kubernetes manifest signing and verification method for cloud application integrity",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "北原啓州",
         "affiliations": [
           "IBM東京基礎研究所"
@@ -3738,12 +3232,6 @@
     "id": "2B3-1",
     "title": "準パススルー型ハイパーバイザを用いて取得したメモリデータの分析",
     "authors": [
-      {
-        "name": "Analysis of Memory Data Acquired Using a Parapass-through Hypervisor",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "大森 貴通",
         "affiliations": [
@@ -3777,12 +3265,6 @@
     "id": "2B3-2",
     "title": "ペネトレーションテスト自動化に向けたサイバー攻撃手段の定量的評価法の提案",
     "authors": [
-      {
-        "name": "A Proporsal of Cyber Attack Technique Scoring Method Toward Automatic Penetration Test",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "木藤 圭亮",
         "affiliations": [
@@ -3841,12 +3323,6 @@
     "title": "MITRE ATT&CK Techniques の関連性に基づく攻撃検知の検討",
     "authors": [
       {
-        "name": "Study on Attack Detection Based on Relevance of MITRE ATT&CK Techniques",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "葛西裕紀",
         "affiliations": [
           "東洋大学"
@@ -3880,12 +3356,6 @@
     "title": "NS3を用いたIoTマルウェア感染拡大・攻撃シミュレータの実装",
     "authors": [
       {
-        "name": "Implementation of an IoT malware infection spread and attack simulator using NS3",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "石田 裕貴",
         "affiliations": [
           "株式会社セキュアブレイン"
@@ -3911,12 +3381,6 @@
     "title": "IoTマルウェア基礎情報の調査",
     "authors": [
       {
-        "name": "Investigation of Basic Information on IoT Malware",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "周家興",
         "affiliations": [
           "東京電機大学"
@@ -3941,12 +3405,6 @@
     "id": "2B4-2",
     "title": "プロキシログから抽出した通信パターンによる異常検知",
     "authors": [
-      {
-        "name": "Anomaly detection using communication pattern from Proxy log",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "名倉 悠",
         "affiliations": [
@@ -3980,12 +3438,6 @@
     "id": "2B4-3",
     "title": "文書類似性モデル評価手法による潜在意味解析に基づくセキュリティレポート検索の評価",
     "authors": [
-      {
-        "name": "Evaluation of Security Report Retrieval Based on Latent Semantic Analysis Using Document Similarity Model Evaluation Method",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "添田綾香",
         "affiliations": [
@@ -4052,12 +3504,6 @@
     "title": "逆引きDNSの登録状況とDNSSECの暗号アルゴリズムに関する実態調査",
     "authors": [
       {
-        "name": "Field study of registration status of Reverse DNS and cryptographic algorithm of DNSSEC",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "山口詩織",
         "affiliations": [
           "長崎県立大学"
@@ -4082,12 +3528,6 @@
     "id": "2B5-2",
     "title": "疑似攻撃ログによるAIを用いた攻撃検知技術の強化",
     "authors": [
-      {
-        "name": "Enhancement of Attack Detection Technology using AI with Synthetic-Log Generation",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "山本 匠",
         "affiliations": [
@@ -4178,12 +3618,6 @@
     "title": "IoT環境における動的セキュリティ管理システム",
     "authors": [
       {
-        "name": "Dynamic Security Management System in IoT Environment",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "竹内佑樹",
         "affiliations": [
           "法政大学"
@@ -4225,12 +3659,6 @@
     "title": "IPアドレスをサブジェクトに含んだWebサーバ証明書の調査と分析",
     "authors": [
       {
-        "name": "Study of Web Server Certificates Containing IP Addresses As Subjects",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "金岡 晃",
         "affiliations": [
           "東邦大学"
@@ -4264,12 +3692,6 @@
     "title": "AI safety とsecurity の研究動向：国際と国内・産学官",
     "authors": [
       {
-        "name": "divertibility and non-malleability of cryptographic protocols",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "櫻井 幸一",
         "affiliations": [
           "九州大学"
@@ -4292,14 +3714,8 @@
     "event": "SCIS2022",
     "session": "3B1：自動車セキュリティ3",
     "id": "3B1-2",
-    "title": "人工知能搭載システムに対する安全性論証の現状とセキュリティ論証に向けた課題　～自動運転システムの例～",
+    "title": "人工知能搭載システムに対する安全性論証の現状とセキュリティ論証に向けた課題 ～自動運転システムの例～",
     "authors": [
-      {
-        "name": "Current Status of Safety and Security Assurance for System using AI",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "溝口 誠一郎",
         "affiliations": [
@@ -4317,7 +3733,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3B1-2 人工知能搭載システムに対する安全性論証の現状とセキュリティ論証に向けた課題　～自動運転システムの例～ Current Status of Safety and Security Assurance for System using AI 溝口 誠一郎 櫻井 幸一 DNVビジネスアシュアランスジャパン株式会社 九州大学大学院システム情報科学研究院"
+    "search_text": "3B1-2 人工知能搭載システムに対する安全性論証の現状とセキュリティ論証に向けた課題 ～自動運転システムの例～ Current Status of Safety and Security Assurance for System using AI 溝口 誠一郎 櫻井 幸一 DNVビジネスアシュアランスジャパン株式会社 九州大学大学院システム情報科学研究院"
   },
   {
     "event": "SCIS2022",
@@ -4325,12 +3741,6 @@
     "id": "3B1-3",
     "title": "車載システムに対するデジタル・フォレンジックに向けての一考察",
     "authors": [
-      {
-        "name": "A Study on Digital Forensics for in-vehicle System",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "味岡 仁雅",
         "affiliations": [
@@ -4389,12 +3799,6 @@
     "title": "サイバーフィジカルシステムの効率の良いセキュリティ設計のためのリスク分析手順の検討",
     "authors": [
       {
-        "name": "Examinations of risk analysis procedures for efficient security design of cyber-physical systems",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "川西 康之",
         "affiliations": [
           "住友電気工業株式会社"
@@ -4436,12 +3840,6 @@
     "title": "Observing CAN Message Timestamps on Automotive Testbeds",
     "authors": [
       {
-        "name": "bserving CAN Message Timestamps on Automotive Testbeds",
-        "affiliations": [],
-        "is_presenter": true,
-        "presenter_symbol": "O"
-      },
-      {
         "name": "Camille GAY",
         "affiliations": [
           "Yokohama National University",
@@ -4459,7 +3857,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3B1-5 Observing CAN Message Timestamps on Automotive Testbeds bserving CAN Message Timestamps on Automotive Testbeds Camille GAY Tsutomu MATSUMOTO Yokohama National University Toyota Motor Corporation Yokohama National University"
+    "search_text": "3B1-5 Observing CAN Message Timestamps on Automotive Testbeds Camille GAY Tsutomu MATSUMOTO Yokohama National University Toyota Motor Corporation Yokohama National University"
   },
   {
     "event": "SCIS2022",
@@ -4467,12 +3865,6 @@
     "id": "3B2-1",
     "title": "eKYCにおける安全な失効機能 - 中央銀行デジタル通貨のプライバシー保護",
     "authors": [
-      {
-        "name": "Secure Revocation Features in eKYC - Privacy Protection in Central Bank Digital Currency",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "宝木 和夫",
         "affiliations": [
@@ -4531,18 +3923,6 @@
     "title": "糖尿病罹患リスクを予測するヘルスケアデータの匿名化コンテストPWS Cup 2021データの解析",
     "authors": [
       {
-        "name": "Analysis on Competition on Anonymized Healthcare Data to be qualified for Diabetes Prevalence Study",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
-        "name": "PWS Cup 2021",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "菊池 浩明",
         "affiliations": [
           "明治大学"
@@ -4559,7 +3939,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3B2-2 糖尿病罹患リスクを予測するヘルスケアデータの匿名化コンテストPWS Cup 2021データの解析 Analysis on Competition on Anonymized Healthcare Data to be qualified for Diabetes Prevalence Study PWS Cup 2021 菊池 浩明 馬 瑞強 明治大学 明治大学"
+    "search_text": "3B2-2 糖尿病罹患リスクを予測するヘルスケアデータの匿名化コンテストPWS Cup 2021データの解析 Analysis on Competition on Anonymized Healthcare Data to be qualified for Diabetes Prevalence Study, PWS Cup 2021 菊池 浩明 馬 瑞強 明治大学 明治大学"
   },
   {
     "event": "SCIS2022",
@@ -4567,12 +3947,6 @@
     "id": "3B2-3",
     "title": "Webアクセス履歴データにおける本人一致率の評価",
     "authors": [
-      {
-        "name": "Evaluation of Personal Match Rate in Web Browsing History Data",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "加藤拓弥",
         "affiliations": [
@@ -4599,12 +3973,6 @@
     "title": "Users' Interest in Algorithmic Transparency Aspects of Privacy Tools",
     "authors": [
       {
-        "name": "Users' Interest in Algorithmic Transparency Aspects of Privacy Tools",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "Vanessa Bracamonte",
         "affiliations": [
           "KDDI Research. Inc."
@@ -4621,7 +3989,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3B2-4 Users' Interest in Algorithmic Transparency Aspects of Privacy Tools Users' Interest in Algorithmic Transparency Aspects of Privacy Tools Vanessa Bracamonte Takamasa Isohara KDDI Research. Inc. KDDI Research. Inc."
+    "search_text": "3B2-4 Users' Interest in Algorithmic Transparency Aspects of Privacy Tools Vanessa Bracamonte Takamasa Isohara KDDI Research. Inc. KDDI Research. Inc."
   },
   {
     "event": "SCIS2022",
@@ -4629,12 +3997,6 @@
     "id": "3B3-1",
     "title": "加飾印刷技術とマルチモーダル人工物メトリクス（第2報）",
     "authors": [
-      {
-        "name": "Decorative Printing Technique and Multi-modal Artifact Metrics #2",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "于圣昆",
         "affiliations": [
@@ -4676,12 +4038,6 @@
     "id": "3B3-2",
     "title": "Face Parsingを用いた顔認証モデルの解釈",
     "authors": [
-      {
-        "name": "Interpretation of face recognition models using face parsing",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "河合洋弥",
         "affiliations": [
@@ -4732,12 +4088,6 @@
     "title": "位置情報を活用した認証手法における認証精度と検知時間との関係",
     "authors": [
       {
-        "name": "Trade-off between Accuracy and Detection Time on Location-based Authentication",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "小林良輔",
         "affiliations": [
           "三菱電機インフォメーションシステムズ株式会社"
@@ -4762,12 +4112,6 @@
     "id": "3B3-4",
     "title": "特徴量間のユークリッド距離を類似度とするキャンセラブルバイオメトリクス",
     "authors": [
-      {
-        "name": "Cancelable Biometrics based on Euclidean distance",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "肥後春菜",
         "affiliations": [
@@ -4810,12 +4154,6 @@
     "title": "Attack graphを用いたサイバーレンジシナリオの自動生成",
     "authors": [
       {
-        "name": "Automatic generating of cyber range scenarios using Attack graph",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "中田亮太郎",
         "affiliations": [
           "一橋大学"
@@ -4841,12 +4179,6 @@
     "title": "SDN-based Detection Method against DoS/DDoS attacks in an IoT environment",
     "authors": [
       {
-        "name": "SDN-based Detection Method against DoS/DDoS attacks in an IoT environment",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "Abdul Adhim",
         "affiliations": [
           "東洋大学"
@@ -4871,7 +4203,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "4B1-2 SDN-based Detection Method against DoS/DDoS attacks in an IoT environment SDN-based Detection Method against DoS/DDoS attacks in an IoT environment Abdul Adhim Satoshi Okada Takuho Mitsunaga 東洋大学 東洋大学 東洋大学"
+    "search_text": "4B1-2 SDN-based Detection Method against DoS/DDoS attacks in an IoT environment Abdul Adhim Satoshi Okada Takuho Mitsunaga 東洋大学 東洋大学 東洋大学"
   },
   {
     "event": "SCIS2022",
@@ -4879,12 +4211,6 @@
     "id": "4B1-3",
     "title": "SDNを用いたDDoS攻撃に対する防御機構構築",
     "authors": [
-      {
-        "name": "Defense Mechanism Against DDoS attacks using SDN",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "徳山 凌",
         "affiliations": [
@@ -4912,13 +4238,13 @@
       {
         "name": "岡崎 裕之",
         "affiliations": [
-          "信州大学 学術研究院(工学系"
+          "信州大学 学術研究院(工学系)"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
       }
     ],
-    "search_text": "4B1-3 SDNを用いたDDoS攻撃に対する防御機構構築 Defense Mechanism Against DDoS attacks using SDN 徳山 凌 布田 裕一 鈴木 彦文 岡崎 裕之 東京工科大学大学院 コンピュータサイエンス専攻 東京工科大学 コンピュータサイエンス学部 信州大学 総合情報センター 信州大学 学術研究院(工学系"
+    "search_text": "4B1-3 SDNを用いたDDoS攻撃に対する防御機構構築 Defense Mechanism Against DDoS attacks using SDN 徳山 凌 布田 裕一 鈴木 彦文 岡崎 裕之 東京工科大学大学院 コンピュータサイエンス専攻 東京工科大学 コンピュータサイエンス学部 信州大学 総合情報センター 信州大学 学術研究院(工学系)"
   },
   {
     "event": "SCIS2022",
@@ -4926,12 +4252,6 @@
     "id": "4B1-4",
     "title": "追跡可能集約署名プロトコルのためのクラウド上シミュレータの提案とプロトタイプ実装",
     "authors": [
-      {
-        "name": "Proposal and Prototype Implementation of a Cloud-Based Simulator for Traceable Aggregate Signature Protocol",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "宋 子豪",
         "affiliations": [
@@ -4974,7 +4294,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "4B1-4 追跡可能集約署名プロトコルのためのクラウド上シミュレータの提案とプロトタイプ実装 Proposal and Prototype Implementation of a Cloud-Based Simulator for Traceable Aggregate Signature Protocol 宋 子豪 安西 陸 坂本 純一 吉田 直樹 松本 勉 横浜国立大学 横浜国立大学 横浜国立大学 産業技術総合研究所 横浜国立大学 横浜国立大学"
+    "search_text": "4B1-4 追跡可能集約署名プロトコルのためのクラウド上シミュレータの提案とプロトタイプ実装 Proposal and Prototype Implementation of a Cloud-Based Simulator for Traceable Aggregate Signature Protocol 宋 子豪 安西 陸 坂本 純一 吉田 直樹 松本 勉 横浜国立大学 横浜国立大学 横浜国立大学 産業技術総合研究所 横浜国立大学 横浜国立大学 SCIS論文賞",
+    "awards": [
+      "SCIS論文賞"
+    ]
   },
   {
     "event": "SCIS2022",
@@ -4982,12 +4305,6 @@
     "id": "4B1-5",
     "title": "Rust言語によるフィルタ機能を付加したソフトウェアブリッジの実装と検証",
     "authors": [
-      {
-        "name": "Implementation and Verification of Software Bridges with Filtering Mechanisms in Rust",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "細谷 昂平",
         "affiliations": [
@@ -5022,12 +4339,6 @@
     "title": "関数呼び出しグラフと関数埋め込みに基づくマルウェア分類手法",
     "authors": [
       {
-        "name": "Malware Classification based on Function Call Graph and Function Embedding",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "林 実奈美",
         "affiliations": [
           "警察大学校"
@@ -5060,12 +4371,6 @@
     "id": "4B2-2",
     "title": "多点観測型多要素認証：単一クレデンシャルによる多要素認証の達成",
     "authors": [
-      {
-        "name": "Multi-Observed Multi-Factor Authentication: A Multi Factor Authentication Using Single Credential",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "野崎 真之介",
         "affiliations": [
@@ -5148,12 +4453,6 @@
     "title": "IoTアクチュエータにおけるセキュリティの一考察",
     "authors": [
       {
-        "name": "A Study of Security in IoT Actuators",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "小林信博",
         "affiliations": [
           "長崎県立大学シーボルト校"
@@ -5170,12 +4469,6 @@
     "id": "4B2-4",
     "title": "サイバー攻撃に対するレジリエントな縮退運転システムの設計と実装",
     "authors": [
-      {
-        "name": "Synthesis and  implementation of Resilient Fallback Control System",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "阪田恒晟",
         "affiliations": [
@@ -5217,7 +4510,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "4B2-4 サイバー攻撃に対するレジリエントな縮退運転システムの設計と実装 Synthesis and  implementation of Resilient Fallback Control System 阪田恒晟 藤田真太郎 澤田賢治 遠藤 浩通 松本 典剛 電気通信大学 電気通信大学 電気通信大学 日立製作所 日立製作所"
+    "search_text": "4B2-4 サイバー攻撃に対するレジリエントな縮退運転システムの設計と実装 Synthesis and implementation of Resilient Fallback Control System 阪田恒晟 藤田真太郎 澤田賢治 遠藤 浩通 松本 典剛 電気通信大学 電気通信大学 電気通信大学 日立製作所 日立製作所"
   },
   {
     "event": "SCIS2022",
@@ -5225,12 +4518,6 @@
     "id": "4B2-5",
     "title": "Enabling Integrity Protection for GitOps based Application Deployment",
     "authors": [
-      {
-        "name": "Enabling Integrity Protection for GitOps based Application Deployment",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "Kugamoorthy Gajananan",
         "affiliations": [
@@ -5264,7 +4551,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "4B2-5 Enabling Integrity Protection for GitOps based Application Deployment Enabling Integrity Protection for GitOps based Application Deployment Kugamoorthy Gajananan Yuji Watanabe Hirokuni Kitahara Ruriko Kudo IBM Research - Tokyo IBM Research - Tokyo IBM Research - Tokyo IBM Research - Tokyo"
+    "search_text": "4B2-5 Enabling Integrity Protection for GitOps based Application Deployment Kugamoorthy Gajananan Yuji Watanabe Hirokuni Kitahara Ruriko Kudo IBM Research - Tokyo IBM Research - Tokyo IBM Research - Tokyo IBM Research - Tokyo"
   },
   {
     "event": "SCIS2022",
@@ -5272,12 +4559,6 @@
     "id": "1C1-1",
     "title": "耐量子鍵カプセル化メカニズムに対する一般化サイドチャネル攻撃",
     "authors": [
-      {
-        "name": "A Generic Side-Channel Attack on Post-Quantum KEMs",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "上野 嶺",
         "affiliations": [
@@ -5341,12 +4622,6 @@
     "title": "フーリエ解析ベース攻撃に対するECDSAのエラーレートに基づく解析",
     "authors": [
       {
-        "name": "Error-rate-based analysis of ECDSA against Fourier analysis-based attacks",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "大﨑俊輔",
         "affiliations": [
           "筑波大学情報学群情報科学類"
@@ -5371,12 +4646,6 @@
     "id": "1C1-3",
     "title": "動的 FPGA 電源電流の RTL 解析に基づく電力解析攻撃への耐性予測",
     "authors": [
-      {
-        "name": "Power Analysis Attack Resistance Prediction Based on RTL Calculation of Dynamic FPGA Power Current",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "日室雅貴",
         "affiliations": [
@@ -5410,12 +4679,6 @@
     "id": "1C1-4",
     "title": "パイプライン化されたAES S-boxへのフォールト攻撃に対する安全性評価",
     "authors": [
-      {
-        "name": "Security Evaluation against Fault Attacks on Pipelined AES S-box",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "平田遼",
         "affiliations": [
@@ -5466,12 +4729,6 @@
     "title": "サイドチャネル攻撃により得られるBinary GCD演算系列に対するエラーモデル",
     "authors": [
       {
-        "name": "Error model for binary GCD operation sequences obtained by side-channel attacks",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "谷健太",
         "affiliations": [
           "筑波大学システム情報工学研究群"
@@ -5496,12 +4753,6 @@
     "id": "1C2-1",
     "title": "最終ラウンド候補の認証機能付き軽量暗号に対する高位合成の評価",
     "authors": [
-      {
-        "name": "Evaluation of High-Level Synthesis for Finalists in Authenticated Lightweight Cryptography",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "竹本 修",
         "affiliations": [
@@ -5543,12 +4794,6 @@
     "id": "1C2-2",
     "title": "RAMBleedによるOpenSSL暗号鍵導出",
     "authors": [
-      {
-        "name": "Derivation of OpenSSL Cryptographic Key with RAMBleed",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "冨田千尋",
         "affiliations": [
@@ -5598,7 +4843,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1C2-2 RAMBleedによるOpenSSL暗号鍵導出 Derivation of OpenSSL Cryptographic Key with RAMBleed 冨田千尋 瀧田愼 福島和英 仲野有登 白石善明 森井昌克 神戸大学大学院工学研究科 兵庫県立大学大学院情報科学研究科 株式会社KDDI総合研究所 情報セキュリティグループ 株式会社KDDI総合研究所 情報セキュリティグループ 神戸大学大学院工学研究科 神戸大学大学院工学研究科"
+    "search_text": "1C2-2 RAMBleedによるOpenSSL暗号鍵導出 Derivation of OpenSSL Cryptographic Key with RAMBleed 冨田千尋 瀧田愼 福島和英 仲野有登 白石善明 森井昌克 神戸大学大学院工学研究科 兵庫県立大学大学院情報科学研究科 株式会社KDDI総合研究所 情報セキュリティグループ 株式会社KDDI総合研究所 情報セキュリティグループ 神戸大学大学院工学研究科 神戸大学大学院工学研究科 SCIS論文賞",
+    "awards": [
+      "SCIS論文賞"
+    ]
   },
   {
     "event": "SCIS2022",
@@ -5606,12 +4854,6 @@
     "id": "1C2-3",
     "title": "Intel SGX における2 つのリモートアテステーションの利点と欠点の考察",
     "authors": [
-      {
-        "name": "A Discussion of the Advantages and Disadvantages of Two Remote Attestations in Intel SGX",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "矢川 嵩",
         "affiliations": [
@@ -5654,12 +4896,6 @@
     "title": "TEEの保護を用いたProvenance AuditingのIoT機器への適用",
     "authors": [
       {
-        "name": "Provenance Auditing with TEE Protection Applied to IoT Devices",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "竹村太一",
         "affiliations": [
           "産業技術総合研究所，電気通信大学"
@@ -5692,12 +4928,6 @@
     "id": "1C2-5",
     "title": "実環境を想定したトロイ回路を対象とした機械学習によるハードウェアトロイ識別",
     "authors": [
-      {
-        "name": "N/A",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "栗原樹",
         "affiliations": [
@@ -5748,12 +4978,6 @@
     "title": "STM32 上の AES コプロセッサを用いた OCB の高性能ソフトウェア実装",
     "authors": [
       {
-        "name": "Software Implementation of OCB Using AES Coprocessor on STM32 Microcontroller",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "金 剛山",
         "affiliations": [
           "電気通信大学"
@@ -5778,12 +5002,6 @@
     "id": "1C3-1",
     "title": "消費電力波形の形状を考慮したIoTデバイス異常動作検知手法",
     "authors": [
-      {
-        "name": "N/A",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "久古幸汰",
         "affiliations": [
@@ -5817,12 +5035,6 @@
     "id": "1C3-2",
     "title": "GRUおよびLSTMを利用した定常状態電力波形推定手法の評価",
     "authors": [
-      {
-        "name": "N/A",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "高崎和成",
         "affiliations": [
@@ -5864,12 +5076,6 @@
     "id": "1C3-3",
     "title": "グラフ学習を用いたハードウェアトロイ識別における説明性の検討",
     "authors": [
-      {
-        "name": "N/A",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "山下一樹",
         "affiliations": [
@@ -5920,12 +5126,6 @@
     "title": "勾配ブースティング決定木と識別結果伝搬法によるハードウェアトロイ識別",
     "authors": [
       {
-        "name": "N/A",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "根岸良太郎",
         "affiliations": [
           "早稲田大学"
@@ -5958,12 +5158,6 @@
     "id": "1C4-1",
     "title": "RISC−VとSubRISC+におけるLED暗号のBitslice実装の評価",
     "authors": [
-      {
-        "name": "Implementation and Evaluation of Bit-sliced LED on RISC-V and SubRISC+",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "渡辺陸",
         "affiliations": [
@@ -6014,12 +5208,6 @@
     "title": "ハードウェア実装AESに対するAggregated Mono-Bit modelモデルを利用した深層学習サイドチャネル攻撃",
     "authors": [
       {
-        "name": "Deep Learning Side-Channel Attack using Aggregated Mono-Bitmodel against Hardware-Implemented AES",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "橋本 尚志",
         "affiliations": [
           "立命館大学"
@@ -6068,12 +5256,6 @@
     "id": "1C4-3",
     "title": "電磁波サイドチャネルとスクリーミングチャネルの同時収集攻撃の検証",
     "authors": [
-      {
-        "name": "Attack Verification Using Simultaneous Measurements From Electromagnetic Side-Channel and Screaming Channel",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "松川 侑生",
         "affiliations": [
@@ -6124,12 +5306,6 @@
     "title": "ECDSAハードウェア実装におけるテンプレート攻撃と格子攻撃による秘密鍵復元の検討",
     "authors": [
       {
-        "name": "Template Attacks on ECDSA Hardware and Key Recovery via Lattice Attacks",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "阿部浩太郎",
         "affiliations": [
           "東京大学"
@@ -6154,12 +5330,6 @@
     "id": "2C1-1",
     "title": "FIDO認証を用いたECサイトのセキュリティ強化手法",
     "authors": [
-      {
-        "name": "The method for enhancing the security of E-Commerce sites using FIDO authentication",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "内藤猛",
         "affiliations": [
@@ -6201,12 +5371,6 @@
     "id": "2C1-2",
     "title": "脆弱性のテスト環境を併用利用した攻撃検知・防御支援システム",
     "authors": [
-      {
-        "name": "Web Attack Detection and Prevention System in Conjunction with Vulnerable Testing Environment",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "張 邯尹",
         "affiliations": [
@@ -6281,12 +5445,6 @@
     "title": "ゼロトラストアーキテクチャにおけるブラウザフィンガープリントを利用したアクセス制御",
     "authors": [
       {
-        "name": "Access Control Using Browser Fingerprints in Zero Trust Architecture",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "高木祥一",
         "affiliations": [
           "情報セキュリティ大学院大学"
@@ -6312,12 +5470,6 @@
     "title": "Cookie Bomb攻撃を検知するブラウザ拡張機能",
     "authors": [
       {
-        "name": "Browser extension to detect cookie bomb attack",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "岡澤 佳寛",
         "affiliations": [
           "東京電機大学大学院"
@@ -6342,12 +5494,6 @@
     "id": "2C1-5",
     "title": "パッシブフィンガープリントによる多値分類モデルを用いたID推定の試み",
     "authors": [
-      {
-        "name": "A Proposal for Identity Prediction Using Passive Fingerprints by Multi-class Classification Model",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "升田尚幸",
         "affiliations": [
@@ -6414,12 +5560,6 @@
     "title": "ハードウェア実装AESに対するMulti-bitラベルを用いたノンプロファイリング深層学習サイドチャネル攻撃",
     "authors": [
       {
-        "name": "Non-Profiling Deep Learning Side-Channel Attacks using Multi-bit label against Hardware-Implemented AES",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "福田 悠太",
         "affiliations": [
           "立命館大学"
@@ -6461,12 +5601,6 @@
     "title": "M&Mにより対策されたAES暗号ハードウェアの乱数依存性について",
     "authors": [
       {
-        "name": "n the Dependency of Randomness in AES Hardware with M&M Countermeasure",
-        "affiliations": [],
-        "is_presenter": true,
-        "presenter_symbol": "O"
-      },
-      {
         "name": "塚原 麻輝",
         "affiliations": [
           "電気通信大学"
@@ -6507,7 +5641,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2C2-2 M&Mにより対策されたAES暗号ハードウェアの乱数依存性について n the Dependency of Randomness in AES Hardware with M&M Countermeasure 塚原 麻輝 平田 遼 宮原 大輝 李 陽 崎山 一男 電気通信大学 電気通信大学 電気通信大学 電気通信大学 電気通信大学"
+    "search_text": "2C2-2 M&Mにより対策されたAES暗号ハードウェアの乱数依存性について On the Dependency of Randomness in AES Hardware with M&M Countermeasure 塚原 麻輝 平田 遼 宮原 大輝 李 陽 崎山 一男 電気通信大学 電気通信大学 電気通信大学 電気通信大学 電気通信大学"
   },
   {
     "event": "SCIS2022",
@@ -6515,12 +5649,6 @@
     "id": "2C2-3",
     "title": "バレルシフタと加算器によるビット非独立なサイドチャネルリークの発生機序とその対策",
     "authors": [
-      {
-        "name": "Causality and Countermeasures of Bit-Interaction Side-Channel Leakage from Barrel Shifter and Adder",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "浅野多聞",
         "affiliations": [
@@ -6546,12 +5674,6 @@
     "id": "2C3-1",
     "title": "組込み型ハイパーバイザにおけるVirtIOを利用した不正ファイルアクセス監視方法",
     "authors": [
-      {
-        "name": "Malicious File Access Monitoring using VirtIO in Embedded Hypervisor",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "大野 仁",
         "affiliations": [
@@ -6585,12 +5707,6 @@
     "id": "2C3-2",
     "title": "時系列データベースを用いたCANの侵入検知システムの提案",
     "authors": [
-      {
-        "name": "The Intrusion Detection System for CAN with time-series database",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "倉地 亮",
         "affiliations": [
@@ -6641,12 +5757,6 @@
     "title": "ISO/SAE 21434プロセスを踏まえた車載IDSの要件分析",
     "authors": [
       {
-        "name": "Requirements Analysis of Automotive IDS based on ISO/SAE 21434",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "倉地 亮",
         "affiliations": [
           "名古屋大学"
@@ -6688,12 +5798,6 @@
     "title": "深層強化学習によるWebアプリケーションのペネトレーションテストの自動化に向けて",
     "authors": [
       {
-        "name": "Towards Automation of Penetration Testing for Web Applications by Deep Reinforcement Learning",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "久野 朔",
         "affiliations": [
           "東京大学生産技術研究所"
@@ -6718,12 +5822,6 @@
     "id": "2C4-2",
     "title": "フィッシングを識別するための機械学習におけるデータセットの影響",
     "authors": [
-      {
-        "name": "Effects of datasets on machine learning to identify Phishing",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "中本 雄一",
         "affiliations": [
@@ -6750,12 +5848,6 @@
     "title": "リクエストパラメータ変換によるWebアプリケーション脆弱性診断ツールの精度向上に関する研究",
     "authors": [
       {
-        "name": "Improving Web Application Vulnerability Testing Tool by Request Parameter Conversion",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "木村正太朗",
         "affiliations": [
           "情報セキュリティ大学院大学"
@@ -6780,12 +5872,6 @@
     "id": "2C4-4",
     "title": "Google検索結果から当選詐欺サイトへのリダイレクトチェーンの収集自動化",
     "authors": [
-      {
-        "name": "Automated Log Collection of Redirect Chains from Google Search to Prize Draw Scam",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "白井 優武",
         "affiliations": [
@@ -6819,12 +5905,6 @@
     "id": "2C5-1",
     "title": "車載Ethernet環境におけるフロープローブの性能評価",
     "authors": [
-      {
-        "name": "Performance Evaluation of Flow Probe in Automotive Ethernet",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "加賀有貴",
         "affiliations": [
@@ -6890,12 +5970,6 @@
     "id": "2C5-2",
     "title": "車載イーサネット向けイベント送信付き周期型通信における侵入検知手法の検討",
     "authors": [
-      {
-        "name": "A Study on Anomaly Detection of Periodic Transmissions mixed Sporadic Messages for Automotive Ethernet",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "増川 京佑",
         "affiliations": [
@@ -6970,12 +6044,6 @@
     "title": "サイバーキルチェーンに基づく車両における攻撃行動把握手法の検討",
     "authors": [
       {
-        "name": "A Study on Attacker Behavior Detection in Vehicles using Cyber Kill Chain",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "福田 國統",
         "affiliations": [
           "住友電気工業株式会社"
@@ -7025,12 +6093,6 @@
     "title": "Reputation Framework for VANETs from Blockchain Structure",
     "authors": [
       {
-        "name": "Reputation Framework for VANETs from Blockchain Structure",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "Maharage Nisansala Sevwandi Perera",
         "affiliations": [
           "Advanced Telecommunications Research Institute International"
@@ -7079,7 +6141,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2C5-4 Reputation Framework for VANETs from Blockchain Structure Reputation Framework for VANETs from Blockchain Structure Maharage Nisansala Sevwandi Perera Toru Nakamura Masayuki Hashimoto Hiroyuki Yokoyama Chen-Mou Cheng Kouichi Sakurai Advanced Telecommunications Research Institute International KDDI Research Advanced Telecommunications Research Institute International Advanced Telecommunications Research Institute International Kanazawa University Kyushu University"
+    "search_text": "2C5-4 Reputation Framework for VANETs from Blockchain Structure Maharage Nisansala Sevwandi Perera Toru Nakamura Masayuki Hashimoto Hiroyuki Yokoyama Chen-Mou Cheng Kouichi Sakurai Advanced Telecommunications Research Institute International KDDI Research Advanced Telecommunications Research Institute International Advanced Telecommunications Research Institute International Kanazawa University Kyushu University"
   },
   {
     "event": "SCIS2022",
@@ -7087,12 +6149,6 @@
     "id": "3C1-1",
     "title": "家庭を模したIoT家電ハニーポットを用いた攻撃者の行動の観測および検証",
     "authors": [
-      {
-        "name": "Analyzing attacker's behavior using IoT home appliances honeypot",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "大塚瑠莉",
         "affiliations": [
@@ -7128,12 +6184,6 @@
     "title": "IoTマルウェア配布サーバの継続的監視による検体遷移の調査",
     "authors": [
       {
-        "name": "Investigation of Malware Transitions through Continuous Monitoring of IoT Malware Download Servers",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "徐 競博",
         "affiliations": [
           "立命館大学"
@@ -7166,12 +6216,6 @@
     "id": "3C1-3",
     "title": "SDNを利用したセキュアなホームネットワーク",
     "authors": [
-      {
-        "name": "Secure Home Network with SDN",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "松永和也",
         "affiliations": [
@@ -7214,12 +6258,6 @@
     "title": "SVMによる工場ネットワークにおける偽装通信の検知手法のリアルタイム性の検証",
     "authors": [
       {
-        "name": "Evaluation of the Real-time Performance of Detection of Fake Communication over Factory Networks using SVM",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "原田雄基",
         "affiliations": [
           "東京工科大学大学院 コンピュータサイエンス専攻"
@@ -7238,13 +6276,13 @@
       {
         "name": "岡崎裕之",
         "affiliations": [
-          "信州大学 学術研究院(工学系"
+          "信州大学 学術研究院(工学系)"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3C1-4 SVMによる工場ネットワークにおける偽装通信の検知手法のリアルタイム性の検証 Evaluation of the Real-time Performance of Detection of Fake Communication over Factory Networks using SVM 原田雄基 布田裕一 岡崎裕之 東京工科大学大学院 コンピュータサイエンス専攻 東京工科大学 コンピュータサイエンス学部 信州大学 学術研究院(工学系"
+    "search_text": "3C1-4 SVMによる工場ネットワークにおける偽装通信の検知手法のリアルタイム性の検証 Evaluation of the Real-time Performance of Detection of Fake Communication over Factory Networks using SVM 原田雄基 布田裕一 岡崎裕之 東京工科大学大学院 コンピュータサイエンス専攻 東京工科大学 コンピュータサイエンス学部 信州大学 学術研究院(工学系)"
   },
   {
     "event": "SCIS2022",
@@ -7252,12 +6290,6 @@
     "id": "3C2-1",
     "title": "敵対的サンプル攻撃を適用した回路設計情報におけるニューラルネットワークを用いたハードウェアトロイ識別に関する特徴量の検討",
     "authors": [
-      {
-        "name": "Effective Feature Extraction Against Adversarial Example Attacks in Hardware-Trojan Detection at Gate-Level Netlists",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "加藤友浩",
         "affiliations": [
@@ -7316,12 +6348,6 @@
     "title": "高速RNSモンゴメリ乗算器の小面積化のためのパラメータ選択法",
     "authors": [
       {
-        "name": "Parameter Selection Method for Small Area of Fast RNS Montgomery Multiplier",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "芳賀陸雄",
         "affiliations": [
           "奈良先端科学技術大学院大学"
@@ -7368,14 +6394,8 @@
     "event": "SCIS2022",
     "session": "3C2：ハードウェアセキュリティ3",
     "id": "3C2-3",
-    "title": "物理的サイバー攻撃検知手法の一検討　－ハードウェアトロイの検知－",
+    "title": "物理的サイバー攻撃検知手法の一検討 －ハードウェアトロイの検知－",
     "authors": [
-      {
-        "name": "A Study on Detection Method for Physical Cyber Attacks -Hardware Trojan Detection-",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "西田 奏太",
         "affiliations": [
@@ -7417,7 +6437,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3C2-3 物理的サイバー攻撃検知手法の一検討　－ハードウェアトロイの検知－ A Study on Detection Method for Physical Cyber Attacks -Hardware Trojan Detection- 西田 奏太 清水 晶太 櫻澤 聡 伊澤 真人 加藤 勇夫 住友電気工業株式会社 住友電気工業株式会社 住友電気工業株式会社 住友電気工業株式会社 住友電気工業株式会社"
+    "search_text": "3C2-3 物理的サイバー攻撃検知手法の一検討 －ハードウェアトロイの検知－ A Study on Detection Method for Physical Cyber Attacks -Hardware Trojan Detection- 西田 奏太 清水 晶太 櫻澤 聡 伊澤 真人 加藤 勇夫 住友電気工業株式会社 住友電気工業株式会社 住友電気工業株式会社 住友電気工業株式会社 住友電気工業株式会社"
   },
   {
     "event": "SCIS2022",
@@ -7425,12 +6445,6 @@
     "id": "3C2-4",
     "title": "ナノ人工物メトリックシステムの実験的精度評価",
     "authors": [
-      {
-        "name": "Experimental Accuracy Evaluation of Nano-Artifact Metric Systems",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "高濱皐史郎",
         "affiliations": [
@@ -7465,12 +6479,6 @@
     "title": "レーザーを用いた MEMS 圧力センサへのシグナルインジェクション攻撃",
     "authors": [
       {
-        "name": "A Preliminary Experiment on Laser-Based Signal Injection Attack on MEMS Pressure Sensors",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "田中 樹",
         "affiliations": [
           "電気通信大学"
@@ -7496,12 +6504,6 @@
     "title": "高速フーリエ変換と機械学習を用いたIoT機器の異常検知",
     "authors": [
       {
-        "name": "Anomaly detection of IoT devices using fast Fourier transform and machine learning",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "木田良一",
         "affiliations": [
           "株式会社ラック"
@@ -7526,12 +6528,6 @@
     "id": "3C3-3",
     "title": "PMBusのセキュリティに関する一考察",
     "authors": [
-      {
-        "name": "A study of Security Issue about PMBus",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "岡田 悠聖",
         "affiliations": [
@@ -7565,12 +6561,6 @@
     "id": "3C3-4",
     "title": "ワクチン低温物流に関わる温度センサのアナログサイバーセキュリティ",
     "authors": [
-      {
-        "name": "Analog Cybersecurity of Temperature Sensors in Vaccine Cold-Chain Transportation",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "ヤン ロン",
         "affiliations": [
@@ -7613,12 +6603,6 @@
     "title": "レーザー振動計を用いた MLCC からの音響サイドチャネルリークの測定",
     "authors": [
       {
-        "name": "Measuring Acoustic Side-Channel Leakage from MLCC using Laser Vibrometer",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "土井康平",
         "affiliations": [
           "電気通信大学"
@@ -7644,12 +6628,6 @@
     "title": "Efficient Modular Inversion Resisting Side Channel Attack",
     "authors": [
       {
-        "name": "Efficient Modular Inversion Resisting Side Channel Attack",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "Yaoan Jin",
         "affiliations": [
           "大阪大学工学研究科"
@@ -7666,7 +6644,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "4C1-1 Efficient Modular Inversion Resisting Side Channel Attack Efficient Modular Inversion Resisting Side Channel Attack Yaoan Jin Atsuko Miyaji 大阪大学工学研究科 大阪大学工学研究科"
+    "search_text": "4C1-1 Efficient Modular Inversion Resisting Side Channel Attack Yaoan Jin Atsuko Miyaji 大阪大学工学研究科 大阪大学工学研究科"
   },
   {
     "event": "SCIS2022",
@@ -7674,12 +6652,6 @@
     "id": "4C1-2",
     "title": "PIN認証プログラムへの命令改変フォールト攻撃の形式的影響評価",
     "authors": [
-      {
-        "name": "How to Formally Evaluate the Effects of Instruction Manipulation Attacks on PIN Authentication Programs",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "林 俊吾",
         "affiliations": [
@@ -7715,12 +6687,6 @@
     "title": "マスキング対策実装に対するサイドチャネル攻撃成功確率の情報理論的解析",
     "authors": [
       {
-        "name": "Information Theoretical Analysis of Success Rate in Side Channel Attacks on Masking Countermeasures",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "伊東燦",
         "affiliations": [
           "東北大学工学研究科"
@@ -7753,12 +6719,6 @@
     "id": "4C1-4",
     "title": "FPGA実装したAES回路の模擬スイッチング電流波形に基づくサイドチャネル情報漏洩帯域の考察",
     "authors": [
-      {
-        "name": "Side-Channel Information Leakage Band Consideration Based on Simulated Switching Current Spectrum of AES Circuit Implemented on FPGA",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "下田洸平",
         "affiliations": [
@@ -7800,12 +6760,6 @@
     "id": "4C2-1",
     "title": "BLS12-381曲線上ペアリング計算の低レイテンシFPGA実装",
     "authors": [
-      {
-        "name": "Low-latency hardware implementation of BLS12-381 Pairing",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "安西 陸",
         "affiliations": [
@@ -7857,12 +6811,6 @@
     "title": "車載カメラの車両・人物検出に対する色調改変攻撃とその対策",
     "authors": [
       {
-        "name": "Color Alteration Attacks on On-Board Camera's Vehicle/Person Detection and Their Countermeasure",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "上田晋生",
         "affiliations": [
           "横浜国立大学"
@@ -7903,12 +6851,6 @@
     "id": "4C2-3",
     "title": "物理的障壁を考慮した超音波による接触通知フレームワークの提案",
     "authors": [
-      {
-        "name": "A proposal for an ultrasonic-based Exposure Notification framework considering physical barriers",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "相場 智也",
         "affiliations": [
@@ -7958,12 +6900,6 @@
     "id": "4C2-4",
     "title": "LiDARベース物体認識システムの攻撃耐性評価用シミュレータ",
     "authors": [
-      {
-        "name": "A Simulator for Evaluating Attack Resistance of LiDAR-based Object Recognition Systems",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "一ノ瀬竜矢",
         "affiliations": [
@@ -8022,12 +6958,6 @@
     "title": "グラフ学習にもとづく不正回路検知に対する強化学習を用いた自律的な脆弱性検査の提案",
     "authors": [
       {
-        "name": "n Autonomous Vulnerability Assessment Using Reinforcement Learning for Malicious Circuit Detection Based on Graph Learning",
-        "affiliations": [],
-        "is_presenter": true,
-        "presenter_symbol": "O"
-      },
-      {
         "name": "長谷川 健人",
         "affiliations": [
           "KDDI総合研究所"
@@ -8052,7 +6982,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "4C2-5 グラフ学習にもとづく不正回路検知に対する強化学習を用いた自律的な脆弱性検査の提案 n Autonomous Vulnerability Assessment Using Reinforcement Learning for Malicious Circuit Detection Based on Graph Learning 長谷川 健人 披田野 清良 福島 和英 KDDI総合研究所 KDDI総合研究所 KDDI総合研究所"
+    "search_text": "4C2-5 グラフ学習にもとづく不正回路検知に対する強化学習を用いた自律的な脆弱性検査の提案 On Autonomous Vulnerability Assessment Using Reinforcement Learning for Malicious Circuit Detection Based on Graph Learning 長谷川 健人 披田野 清良 福島 和英 KDDI総合研究所 KDDI総合研究所 KDDI総合研究所"
   },
   {
     "event": "SCIS2022",
@@ -8060,12 +6990,6 @@
     "id": "1D1-1",
     "title": "NFT流通における深層学習を用いた分散型真正性検証プロトコルの提案",
     "authors": [
-      {
-        "name": "A Proposal for a Distributed Authenticity Verification Protocol Using Deep Learning for NFT market",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "木村圭吾",
         "affiliations": [
@@ -8099,12 +7023,6 @@
     "id": "1D1-2",
     "title": "NFT 流通市場に対するEditable Metadata 脆弱性の一考察",
     "authors": [
-      {
-        "name": "A Study on Editable Metadata Vulnerabilities on NFT Marketplaces",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "清水嶺",
         "affiliations": [
@@ -8154,12 +7072,6 @@
     "id": "1D1-3",
     "title": "NFT流通プロセスにおける不正検知のための監査システム",
     "authors": [
-      {
-        "name": "Audit System for Fraud Detection in NFT Exchanges",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "東知哉",
         "affiliations": [
@@ -8218,12 +7130,6 @@
     "title": "暗号資産に関する全世界におけるサイバーインシデントの調査とリスクの考察",
     "authors": [
       {
-        "name": "A survey and risk considerations of global cyber incidents and for crypto assets",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "都築 祐人",
         "affiliations": [
           "筑波大学"
@@ -8281,12 +7187,6 @@
     "title": "プライバシーに考慮した身分証明を使ったトークン取引の新方式の提案と実証システムの試作",
     "authors": [
       {
-        "name": "Design and evaluation of token trading system with privacy preserving identity disclosure mechanisms",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "佐藤出",
         "affiliations": [
           "富士通株式会社"
@@ -8311,12 +7211,6 @@
     "id": "1D2-1",
     "title": "不正な認証を防ぐための顔画像の非識別化に関する検討",
     "authors": [
-      {
-        "name": "A study on de-identification of face image for preventing outsiders from authorization",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "内田秀継",
         "affiliations": [
@@ -8350,12 +7244,6 @@
     "id": "1D2-2",
     "title": "攻撃発生確率を考慮した生体認証システムのリスク分析手法に関する一検討",
     "authors": [
-      {
-        "name": "A Methodology for Risk Analysis of Biometric Recognition Systems Considering the Attack Occurrence Probability",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "大木哲史",
         "affiliations": [
@@ -8406,12 +7294,6 @@
     "title": "収集Wi-Fiデータから算出される統計量を利用した行動認証手法",
     "authors": [
       {
-        "name": "A Behavioral Authentication Method Using Statistics Calculated from Collected Wi-Fi Data",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "大河澪耶",
         "affiliations": [
           "東京大学大学院 情報理工学系研究科"
@@ -8445,12 +7327,6 @@
     "title": "Vision Transformerを用いた顔なりすまし攻撃検知手法とその評価",
     "authors": [
       {
-        "name": "A Face Spoofing Detection Method Using Vision Transformer and its Evaluation",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "渡邉浩太",
         "affiliations": [
           "東北大学大学院"
@@ -8483,12 +7359,6 @@
     "id": "1D2-5",
     "title": "Fuzzy鍵を用いたグループ署名技術",
     "authors": [
-      {
-        "name": "Group signature with Fuzzy key",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "川名のん",
         "affiliations": [
@@ -8547,12 +7417,6 @@
     "title": "エンターテイメントとセキュリティを融合した本人認証アプリの試作と評価",
     "authors": [
       {
-        "name": "Personal Authentication Application Combining Entertainment and Security",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "鈴木真樹史",
         "affiliations": [
           "工学院大学"
@@ -8578,12 +7442,6 @@
     "title": "Privacy-preserving Blockchain-based Global Data Sharing for Federated Learning with Non-IID Data",
     "authors": [
       {
-        "name": "Privacy-preserving Blockchain-based Global Data Sharing for Federated Learning with Non-IID Data",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "Zhuotao Lian",
         "affiliations": [
           "The University of Aizu"
@@ -8608,7 +7466,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1D3-1 Privacy-preserving Blockchain-based Global Data Sharing for Federated Learning with Non-IID Data Privacy-preserving Blockchain-based Global Data Sharing for Federated Learning with Non-IID Data Zhuotao Lian Qingkui Zeng Chunhua Su The University of Aizu Nanjing University of Information Science and Technology. The University of Aizu"
+    "search_text": "1D3-1 Privacy-preserving Blockchain-based Global Data Sharing for Federated Learning with Non-IID Data Zhuotao Lian Qingkui Zeng Chunhua Su The University of Aizu Nanjing University of Information Science and Technology. The University of Aizu"
   },
   {
     "event": "SCIS2022",
@@ -8616,12 +7474,6 @@
     "id": "1D3-2",
     "title": "GAN構造を用いたポイズニング検知",
     "authors": [
-      {
-        "name": "Detecting Poisoning Attacks using GAN Structure",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "清水俊也",
         "affiliations": [
@@ -8639,12 +7491,6 @@
     "id": "1D3-3",
     "title": "JPEG圧縮由来の歪み信号に対する応答特性に基づくAdversarial Examples検知手法",
     "authors": [
-      {
-        "name": "Detection of Adversarial Examples Using Sensitivities to JPEG Compression-Derived Signals",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "角森健太",
         "affiliations": [
@@ -8695,12 +7541,6 @@
     "title": "イメージセンサインターフェースへのフォルト攻撃でトリガする DNN へのバックドア攻撃",
     "authors": [
       {
-        "name": "Backdoor Attack against DNN triggered by Electrical Fault Injection on Image Sensor Interface",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "大山 達哉",
         "affiliations": [
           "立命館大学"
@@ -8742,12 +7582,6 @@
     "title": "Data Lineage Management with Unlearning Method for Machine Learning Security and Privacy Issues",
     "authors": [
       {
-        "name": "Data Lineage Management with Unlearning Method for Machine Learning Security and Privacy Issues",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "Haibo ZHANG",
         "affiliations": [
           "Department of Information Science and Technology. Kyushu University"
@@ -8780,7 +7614,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1D4-1 Data Lineage Management with Unlearning Method for Machine Learning Security and Privacy Issues Data Lineage Management with Unlearning Method for Machine Learning Security and Privacy Issues Haibo ZHANG Toru NAKAMURA Takamasa ISOHARA Kouichi SAKURAI Department of Information Science and Technology. Kyushu University KDDI Research Inc. KDDI Research Inc. Department of Information Science and Technology. Kyushu University"
+    "search_text": "1D4-1 Data Lineage Management with Unlearning Method for Machine Learning Security and Privacy Issues Haibo ZHANG Toru NAKAMURA Takamasa ISOHARA Kouichi SAKURAI Department of Information Science and Technology. Kyushu University KDDI Research Inc. KDDI Research Inc. Department of Information Science and Technology. Kyushu University"
   },
   {
     "event": "SCIS2022",
@@ -8788,12 +7622,6 @@
     "id": "1D4-2",
     "title": "部分観測マルコフ決定過程によるニューラルエージェント強化学習を使用した自律型SQL インジェクション攻撃手法",
     "authors": [
-      {
-        "name": "The autonomous SQL injection exploitation using neural agent reinforcement learning by partial observation Markov decision process",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "佐竹達也",
         "affiliations": [
@@ -8819,12 +7647,6 @@
     "id": "1D4-3",
     "title": "機械学習を用いたフォグ環境の異常検知効率の考察",
     "authors": [
-      {
-        "name": "Consideration of the efficiency of anomaly detection in fog computing using machine learning",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "牧野俊太郎",
         "affiliations": [
@@ -8859,12 +7681,6 @@
     "title": "Intel SGXによる安全で高速なDNN推論の実装方式",
     "authors": [
       {
-        "name": "Secure and Efficient DNN Inference with Intel SGX",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "藤原啓成",
         "affiliations": [
           "株式会社 日立製作所"
@@ -8889,12 +7705,6 @@
     "id": "2D1-1",
     "title": "勾配系の説明付きモデルに対するデータフリーモデル抽出攻撃",
     "authors": [
-      {
-        "name": "Data-Free Model Extraction Attacks against Gradients-Based Explainable AI",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "三浦尭之",
         "affiliations": [
@@ -8930,12 +7740,6 @@
     "title": "部分観測マルコフ決定過程に基づいたニューラルエージェントを使用したペネトレーションテスト手法の提案",
     "authors": [
       {
-        "name": "Proposal of a penetration testing method using neural agents based on partially observable markov decision process",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "米田智紀",
         "affiliations": [
           "情報セキュリティ大学院大学"
@@ -8960,12 +7764,6 @@
     "id": "2D1-3",
     "title": "ビザンチンロバストな連合学習における学習モデル保護の基礎検討",
     "authors": [
-      {
-        "name": "Towards Trained Model Protection for Byzantine-Robust Federated Learning",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "中井 綱人",
         "affiliations": [
@@ -9000,12 +7798,6 @@
     "title": "角膜鏡面ハイライトに基づくDeepFake画像検出について",
     "authors": [
       {
-        "name": "DeepFake Image Detections Based on Corneal Specular Highlight",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "清水 一樹",
         "affiliations": [
           "金沢大学"
@@ -9031,12 +7823,6 @@
     "title": "機械学習を用いた暗号プロトコルの安全性検証フレームワーク",
     "authors": [
       {
-        "name": "A Security Verification Framework of Cryptographic Protocols With Machine Learning",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "大野 乾太郎",
         "affiliations": [
           "NTT コンピュータ＆データサイエンス研究所"
@@ -9061,12 +7847,6 @@
     "id": "2D2-1",
     "title": "電子指紋は機械学習の二段階攻撃に使えるか？",
     "authors": [
-      {
-        "name": "Evaluation with Fingerprints on Two-Stage Attacks for Machine Learning Models",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "岩花 一輝",
         "affiliations": [
@@ -9109,12 +7889,6 @@
     "title": "モデル抽出攻撃の定式化を通じた体系的な整理",
     "authors": [
       {
-        "name": "Systematization of MEA via formalizations",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "小松みさき",
         "affiliations": [
           "株式会社東芝 研究開発センター"
@@ -9139,12 +7913,6 @@
     "id": "2D2-3",
     "title": "OP-TEEを用いた隔離AIハードウェアアクセラレーションの実装評価",
     "authors": [
-      {
-        "name": "Implementation and Evaluation of Isolated AI hardware acceleration with OP-TEE",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "中井綱人",
         "affiliations": [
@@ -9179,12 +7947,6 @@
     "title": "シンプルブラックボックス攻撃の対策手法に関する検討",
     "authors": [
       {
-        "name": "Designing Countermeasures of the Simple Black-box Attack",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "鵜島廉",
         "affiliations": [
           "金沢大学"
@@ -9217,12 +7979,6 @@
     "id": "2D3-1",
     "title": "ブロックチェーンを用いた重複データ排除機能付きマルチクラウドストレージ監査方式",
     "authors": [
-      {
-        "name": "Deduplicatable Multi-Cloud Storage Data Auditing Scheme Using Blockchain",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "廣友雅徳",
         "affiliations": [
@@ -9273,12 +8029,6 @@
     "title": "Conclave: A Collective Stake Pool Protocol",
     "authors": [
       {
-        "name": "Conclave: A Collective Stake Pool Protocol",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "Dimitris Karakostas",
         "affiliations": [
           "University of Edinburgh",
@@ -9305,7 +8055,7 @@
         "presenter_symbol": "◎"
       }
     ],
-    "search_text": "2D3-2 Conclave: A Collective Stake Pool Protocol Conclave: A Collective Stake Pool Protocol Dimitris Karakostas Aggelos Kiayias ラランジェラマリオ University of Edinburgh Input Output Hong Kong University of Edinburgh Input Output Hong Kong 東京工業大学・インプットアウトプットホンコン"
+    "search_text": "2D3-2 Conclave: A Collective Stake Pool Protocol Dimitris Karakostas Aggelos Kiayias ラランジェラマリオ University of Edinburgh Input Output Hong Kong University of Edinburgh Input Output Hong Kong 東京工業大学・インプットアウトプットホンコン"
   },
   {
     "event": "SCIS2022",
@@ -9313,12 +8063,6 @@
     "id": "2D3-3",
     "title": "プライバシーを考慮したブロックチェーンを用いた柔軟なコンタクトトレーシング手法",
     "authors": [
-      {
-        "name": "A blockchain-based flexible contact tracing considering privacy",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "福田竜央",
         "affiliations": [
@@ -9337,7 +8081,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2D3-3 プライバシーを考慮したブロックチェーンを用いた柔軟なコンタクトトレーシング手法 A blockchain-based flexible contact tracing considering privacy 福田竜央 面和成 筑波大学 筑波大学 情報通信研究機構"
+    "search_text": "2D3-3 プライバシーを考慮したブロックチェーンを用いた柔軟なコンタクトトレーシング手法 A blockchain-based flexible contact tracing considering privacy 福田竜央 面和成 筑波大学 筑波大学 情報通信研究機構 SCIS論文賞",
+    "awards": [
+      "SCIS論文賞"
+    ]
   },
   {
     "event": "SCIS2022",
@@ -9345,12 +8092,6 @@
     "id": "2D4-1",
     "title": "LPWAネットワークに適したノード間分散台帳方式の分割に関する一考察",
     "authors": [
-      {
-        "name": "Considerations for Partitioning the Distributed Ledger among Nodes on LPWA Network",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "江口 力哉",
         "affiliations": [
@@ -9441,12 +8182,6 @@
     "title": "Interhead Hydra: Two Heads are Better than One",
     "authors": [
       {
-        "name": "Interhead Hydra: Two Heads are Better than One",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "Maxim Jourenko",
         "affiliations": [
           "東京大学"
@@ -9471,7 +8206,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2D4-2 Interhead Hydra: Two Heads are Better than One Interhead Hydra: Two Heads are Better than One Maxim Jourenko Mario Larangeira Keisuke Tanaka 東京大学 東京工業大学. IOHK 東京工業大学"
+    "search_text": "2D4-2 Interhead Hydra: Two Heads are Better than One Maxim Jourenko Mario Larangeira Keisuke Tanaka 東京大学 東京工業大学. IOHK 東京工業大学"
   },
   {
     "event": "SCIS2022",
@@ -9479,12 +8214,6 @@
     "id": "2D4-3",
     "title": "LPWAネットワーク上の分散台帳を用いたポイント取引システムの端末設計",
     "authors": [
-      {
-        "name": "Design of a terminal for a point transaction system using distributed ledger on LPWA network",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "丸山 優祐",
         "affiliations": [
@@ -9575,12 +8304,6 @@
     "title": "分散台帳への秘密鍵の封入による協同運用可能な公開鍵証明書発行基盤の実装と評価",
     "authors": [
       {
-        "name": "Implementation and Evaluation of a Public Key Certificate Issuance Platform for Cooperative Operation by Enclosing Private Keys in a Distributed Ledger",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "熊谷圭太",
         "affiliations": [
           "名古屋工業大学"
@@ -9621,12 +8344,6 @@
     "id": "2D5-1",
     "title": "AI認証：説明可能AIによるニューラルネットの識別",
     "authors": [
-      {
-        "name": "AI Authentication by Explainable AI",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "芦澤奈実",
         "affiliations": [
@@ -9685,12 +8402,6 @@
     "title": "人工知能を伴う監視カメラによる全方位からの撮影に対する耐人物検出機能を持つ衣類の作成",
     "authors": [
       {
-        "name": "Creation of Clothes with Human Detection Resistance against Shooting from All Directions by Surveillance Cameras with Artificial Intelligence",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "金井 春輝",
         "affiliations": [
           "東京工科大学大学院"
@@ -9716,12 +8427,6 @@
     "title": "シンボルが削除されたIoTマルウェアにおける自然言語処理を用いた関数名推定",
     "authors": [
       {
-        "name": "Function Name Estimation by Natural Language Processing in Symbol-Stripped IoT Malware",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "イボット アリジャン",
         "affiliations": [
           "筑波大学"
@@ -9746,12 +8451,6 @@
     "id": "3D1-1",
     "title": "ペアリング高速計算に適した楕円曲線における群所属判定",
     "authors": [
-      {
-        "name": "A Note on Group Membership Check in Elliptic Curves for Pairings",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "安田貴徳",
         "affiliations": [
@@ -9786,12 +8485,6 @@
     "title": "鍵付き準同型暗号における演算の拡張と安全性",
     "authors": [
       {
-        "name": "How extension of evaluation algorithms affects security of keyed-homomorphic encryption",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "篠木 寛鵬",
         "affiliations": [
           "東京大学"
@@ -9818,12 +8511,6 @@
     "title": "帰着効率がタイトなhelper付きUnruh変換の提案と効率的なディジタル署名の構成",
     "authors": [
       {
-        "name": "Unruh Transform using Helper with Tight Reduction and Construction of Efficient Digital Signatures",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "加藤拓",
         "affiliations": [
           "東京大学大学院情報理工学系研究科数理情報学専攻"
@@ -9848,7 +8535,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3D1-3 帰着効率がタイトなhelper付きUnruh変換の提案と効率的なディジタル署名の構成 Unruh Transform using Helper with Tight Reduction and Construction of Efficient Digital Signatures 加藤拓 古江弘樹 高木剛 東京大学大学院情報理工学系研究科数理情報学専攻 東京大学大学院情報理工学系研究科数理情報学専攻 東京大学大学院情報理工学系研究科数理情報学専攻"
+    "search_text": "3D1-3 帰着効率がタイトなhelper付きUnruh変換の提案と効率的なディジタル署名の構成 Unruh Transform using Helper with Tight Reduction and Construction of Efficient Digital Signatures 加藤拓 古江弘樹 高木剛 東京大学大学院情報理工学系研究科数理情報学専攻 東京大学大学院情報理工学系研究科数理情報学専攻 東京大学大学院情報理工学系研究科数理情報学専攻 SCIS論文賞",
+    "awards": [
+      "SCIS論文賞"
+    ]
   },
   {
     "event": "SCIS2022",
@@ -9856,12 +8546,6 @@
     "id": "3D2-1",
     "title": "低リソースデバイス制御のための匿名放送型認証技術の提案",
     "authors": [
-      {
-        "name": "Practical anonymous broadcast authentification from DLP and lattices",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "青野 良範",
         "affiliations": [
@@ -9887,12 +8571,6 @@
     "id": "3D2-2",
     "title": "LWE問題を用いたマジック状態生成機能の検証",
     "authors": [
-      {
-        "name": "Computational self-testing for entangled magic states",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "竹内 勇貴",
         "affiliations": [
@@ -9943,12 +8621,6 @@
     "title": "高効率な失効機能付きIDベース認証鍵交換の構成",
     "authors": [
       {
-        "name": "Construction of Efficient Revocable Identity-Based Authenticated Key Exchange",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "中川 皓平",
         "affiliations": [
           "NTT社会情報研究所"
@@ -9998,12 +8670,6 @@
     "title": "QUICへのIDベース認証鍵交換TFNSの適用と実装評価",
     "authors": [
       {
-        "name": "Application of ID-Based Authenticated Key Exchange TFNS to QUIC and Its Implementation",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "村上啓造",
         "affiliations": [
           "NTT社会情報研究所"
@@ -10044,12 +8710,6 @@
     "id": "3D2-5",
     "title": "追跡可能集約署名に対する潜在的な攻撃とその対処法に関する考察",
     "authors": [
-      {
-        "name": "A Study of A Potential Attack on Fault-Tolerant Aggregate Signature Schemes and How to Deal with It",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "山下恭佑",
         "affiliations": [
@@ -10118,12 +8778,6 @@
     "title": "fastTextとLSTMを用いたマルウェア検知手法の提案",
     "authors": [
       {
-        "name": "Proposal of Malware Detection Method Using fastText and LSTM to PE Strings",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "岸端 晃毅",
         "affiliations": [
           "岩手県立大学 ソフトウェア情報学研究科"
@@ -10148,12 +8802,6 @@
     "id": "3D3-2",
     "title": "VMMを用いたプログラム実行時の証拠取得機能における取得対象の拡張と改ざん耐性の向上",
     "authors": [
-      {
-        "name": "Extension of Target Information and Improvement of Tamper Resistance for VMM-Based Evidence Collection Function of Program Execution",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "伊藤 寛史",
         "affiliations": [
@@ -10198,12 +8846,6 @@
     "title": "IoT機器における効率的な真贋判定方式",
     "authors": [
       {
-        "name": "Efficient authenticity and integrity monitoring technology for IoT devices",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "千葉伸浩",
         "affiliations": [
           "NTT社会情報研究所"
@@ -10237,12 +8879,6 @@
     "title": "ゼロトラストを利用したIRMによる情報流出対策の考察",
     "authors": [
       {
-        "name": "Information leakage prevention by IRM using Zero Trust",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "宇野 正人",
         "affiliations": [
           "東京通信大学"
@@ -10267,12 +8903,6 @@
     "id": "3D3-5",
     "title": "NASを標的とするランサムウェア攻撃のハニーポットと動的解析による分析",
     "authors": [
-      {
-        "name": "Analyzing Ransomware Attacks Targeting NAS using Honeypot and Sandbox",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "安井浩基",
         "affiliations": [
@@ -10333,12 +8963,6 @@
     "title": "制御システムに対する脆弱性を考慮したスーパーバイザの設計",
     "authors": [
       {
-        "name": "Synthesis of Control Systems Supervisor Considering Vulnerability",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "小川寛太",
         "affiliations": [
           "電気通信大学"
@@ -10371,12 +8995,6 @@
     "id": "4D1-2",
     "title": "制御システムにおけるインシデント発生後の状態復帰動作の導出方法",
     "authors": [
-      {
-        "name": "A Method for Deriving the State Recovery Operation after an Incident in a Control System",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "池田佳輝",
         "affiliations": [
@@ -10427,12 +9045,6 @@
     "title": "シーケンス制御システムに対するホワイトリスト式異常検知のための正常状態遷移のモデル化",
     "authors": [
       {
-        "name": "Normal State Transition Modeling for Whitelisting Function of Sequential Control System",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "藤田真太郎",
         "affiliations": [
           "電気通信大学"
@@ -10457,12 +9069,6 @@
     "id": "4D2-1",
     "title": "信頼度を用いた実用的なProof of Personhoodプロトコルの提案",
     "authors": [
-      {
-        "name": "A Practical Proof of Personhood Protocol Using Credit Score",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "兵頭昇虎",
         "affiliations": [
@@ -10489,12 +9095,6 @@
     "title": "公開ブロックチェーンのためのプライバシー保護データ共有フレームワーク",
     "authors": [
       {
-        "name": "A Privacy-Preserving Data Sharing Framework for Public Blockchains",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "丁 曄澎",
         "affiliations": [
           "東京大学"
@@ -10519,12 +9119,6 @@
     "id": "4D2-3",
     "title": "自律分散型組織DAOの匿名環境下における内部告発手法",
     "authors": [
-      {
-        "name": "Whistleblowing Method in Anonymous Environment of Decentralized Autonomous Organization:DAO",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "津田匠貴",
         "affiliations": [
@@ -10583,12 +9177,6 @@
     "title": "分散型アイデンティティの永続的利用とプライバシー保護",
     "authors": [
       {
-        "name": "Privacy enhanced durable usage of decentralized identity",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "坂本拓也",
         "affiliations": [
           "富士通株式会社"
@@ -10630,12 +9218,6 @@
     "title": "鍵紛失時における非常ボタン式資金退避手法の実装と評価",
     "authors": [
       {
-        "name": "An Implementation and Evaluation on \"Emergency Button\" Which Enables Crypto Asset Evacuation When Key Loss",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "松崎 なつめ",
         "affiliations": [
           "長崎県立大学"
@@ -10661,13 +9243,7 @@
     "title": "検証可能なマッチング方式の一提案",
     "authors": [
       {
-        "name": "A Proposal for a Verifiable Matching Method",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
-        "name": "福岡　尊",
+        "name": "福岡 尊",
         "affiliations": [
           "富士通株式会社"
         ],
@@ -10675,7 +9251,7 @@
         "presenter_symbol": "◎"
       },
       {
-        "name": "坂本　拓也",
+        "name": "坂本 拓也",
         "affiliations": [
           "富士通株式会社"
         ],
@@ -10683,7 +9259,7 @@
         "presenter_symbol": ""
       },
       {
-        "name": "牛田　芽生恵",
+        "name": "牛田 芽生恵",
         "affiliations": [
           "富士通株式会社"
         ],
@@ -10691,7 +9267,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "4D2-6 検証可能なマッチング方式の一提案 A Proposal for a Verifiable Matching Method 福岡　尊 坂本　拓也 牛田　芽生恵 富士通株式会社 富士通株式会社 富士通株式会社"
+    "search_text": "4D2-6 検証可能なマッチング方式の一提案 A Proposal for a Verifiable Matching Method 福岡 尊 坂本 拓也 牛田 芽生恵 富士通株式会社 富士通株式会社 富士通株式会社"
   },
   {
     "event": "SCIS2022",
@@ -10699,12 +9275,6 @@
     "id": "1E1-1",
     "title": "TTPを用いて1台のサーバで構成可能な秘密分散法による秘匿計算",
     "authors": [
-      {
-        "name": "Secrecy Computation using Secret Sharing Scheme Configurable on a Single Server using Trusted Third Party",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "岩村惠市",
         "affiliations": [
@@ -10739,12 +9309,6 @@
     "title": "Computational Irrelevancy: Bridging the Gap between Pseudo- and Real Randomness in MPC Protocols",
     "authors": [
       {
-        "name": "Computational Irrelevancy: Bridging the Gap between Pseudo- and Real Randomness in MPC Protocols",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "Nariyasu Heseri",
         "affiliations": [
           "東京大学情報理工学系研究科数理情報学専攻"
@@ -10762,7 +9326,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1E1-2 Computational Irrelevancy: Bridging the Gap between Pseudo- and Real Randomness in MPC Protocols Computational Irrelevancy: Bridging the Gap between Pseudo- and Real Randomness in MPC Protocols Nariyasu Heseri Koji Nuida 東京大学情報理工学系研究科数理情報学専攻 Kyushu University AIST"
+    "search_text": "1E1-2 Computational Irrelevancy: Bridging the Gap between Pseudo- and Real Randomness in MPC Protocols Nariyasu Heseri Koji Nuida 東京大学情報理工学系研究科数理情報学専攻 Kyushu University AIST"
   },
   {
     "event": "SCIS2022",
@@ -10770,14 +9334,6 @@
     "id": "1E1-3",
     "title": "HQC暗号を応用した秘匿内積計算プロトコル（III）",
     "authors": [
-      {
-        "name": "A Secure Computation Protocal of Inner Product Using HQC Cryptosystem",
-        "affiliations": [
-          "III"
-        ],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "中山太雅",
         "affiliations": [
@@ -10819,7 +9375,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1E1-3 HQC暗号を応用した秘匿内積計算プロトコル（III） A Secure Computation Protocal of Inner Product Using HQC Cryptosystem 中山太雅 廣友雅徳 福田洋治 毛利公美 白石善明 III 佐賀大学 佐賀大学 近畿大学 岐阜大学 神戸大学"
+    "search_text": "1E1-3 HQC暗号を応用した秘匿内積計算プロトコル（III） A Secure Computation Protocal of Inner Product Using HQC Cryptosystem (III) 中山太雅 廣友雅徳 福田洋治 毛利公美 白石善明 佐賀大学 佐賀大学 近畿大学 岐阜大学 神戸大学"
   },
   {
     "event": "SCIS2022",
@@ -10827,12 +9383,6 @@
     "id": "1E1-4",
     "title": "プログレッシブ型視覚暗号に対する安全性評価に関する考察",
     "authors": [
-      {
-        "name": "A study of security analysis of Progressive Visual Cryptography",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "レ タン タイ ビン",
         "affiliations": [
@@ -10858,12 +9408,6 @@
     "id": "1E2-1",
     "title": "IoTネットワークにおける検証者指定署名方式",
     "authors": [
-      {
-        "name": "Multi-Designated Verifier Signatures over IoT Networks",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "渡邉 洋平",
         "affiliations": [
@@ -10900,12 +9444,6 @@
     "title": "Concurrent Group Operations on TreeKEM",
     "authors": [
       {
-        "name": "Concurrent Group Operations on TreeKEM",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "小柳優悟",
         "affiliations": [
           "東京工業大学"
@@ -10930,7 +9468,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1E2-2 Concurrent Group Operations on TreeKEM Concurrent Group Operations on TreeKEM 小柳優悟 石井将大 田中圭介 東京工業大学 東京工業大学 東京工業大学"
+    "search_text": "1E2-2 Concurrent Group Operations on TreeKEM 小柳優悟 石井将大 田中圭介 東京工業大学 東京工業大学 東京工業大学"
   },
   {
     "event": "SCIS2022",
@@ -10938,12 +9476,6 @@
     "id": "1E2-3",
     "title": "ProVerifによる検索可能暗号の形式的安全性検証について",
     "authors": [
-      {
-        "name": "Formal Verification of Security for Searchable Symmetric Encryption using ProVerif",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "鈴木孝誠",
         "affiliations": [
@@ -10963,7 +9495,7 @@
       {
         "name": "三重野武彦",
         "affiliations": [
-          "エプソンアヴァシス（株"
+          "エプソンアヴァシス（株）、信州大"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
@@ -10993,7 +9525,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1E2-3 ProVerifによる検索可能暗号の形式的安全性検証について Formal Verification of Security for Searchable Symmetric Encryption using ProVerif 鈴木孝誠 山本博章 三重野武彦 荒井研一 岡崎裕之 布田裕一 信州大学 信州大学 エプソンアヴァシス（株 長崎大学 信州大学 東京工科大学"
+    "search_text": "1E2-3 ProVerifによる検索可能暗号の形式的安全性検証について Formal Verification of Security for Searchable Symmetric Encryption using ProVerif 鈴木孝誠 山本博章 三重野武彦 荒井研一 岡崎裕之 布田裕一 信州大学 信州大学 エプソンアヴァシス（株）、信州大 長崎大学 信州大学 東京工科大学"
   },
   {
     "event": "SCIS2022",
@@ -11001,12 +9533,6 @@
     "id": "1E2-4",
     "title": "実用に向けたPKI-IDクロスドメイン認証鍵交換の評価",
     "authors": [
-      {
-        "name": "An Evaluation of PKI-ID Cross-domain Authenticated Key Exchange",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "飯島 悠介",
         "affiliations": [
@@ -11048,12 +9574,6 @@
     "id": "1E2-5",
     "title": "鍵失効可能な検索可能暗号",
     "authors": [
-      {
-        "name": "A Study on Searchable Encryption with Key Revocation",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "平野 貴人",
         "affiliations": [
@@ -11112,12 +9632,6 @@
     "title": "参加者情報を秘匿する非同期グループメッセージング方式",
     "authors": [
       {
-        "name": "Membership Privacy for Asynchronous Group Messaging",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "江村 恵太",
         "affiliations": [
           "情報通信研究機構"
@@ -11167,12 +9681,6 @@
     "title": "暗号のための脳機能拡張：信用できる計算機が不要な署名方式の提案",
     "authors": [
       {
-        "name": "Brain function extension for cryptography : How to realize digital signature without trustworthy terminal",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "松本 彩花",
         "affiliations": [
           "東京工業大学"
@@ -11214,12 +9722,6 @@
     "title": "金銭的ペナルティに基づく公平な秘密計算におけるラウンド数の改善",
     "authors": [
       {
-        "name": "Improving Round Complexity in Secure Computation with Penalties",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "中井 雄士",
         "affiliations": [
           "電気通信大学"
@@ -11244,12 +9746,6 @@
     "id": "1E3-3",
     "title": "復号制御付IDベース暗号の安全性に関する考察",
     "authors": [
-      {
-        "name": "Security notions of decryption-controllable identity-based encryption",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "宮永 英和",
         "affiliations": [
@@ -11316,12 +9812,6 @@
     "title": "最大鍵漏洩攻撃に対して安全で計算効率のよいPKI-ID混在認証鍵交換",
     "authors": [
       {
-        "name": "Efficient PKI-ID cross-domain authenticated key exchange secure against maximal exposure attacks",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "靑栁光太郎",
         "affiliations": [
           "豊橋技術科学大学"
@@ -11371,12 +9861,6 @@
     "title": "メッセージ長を拡張する耐量子コミットメント方式",
     "authors": [
       {
-        "name": "Message-restriction-free commitment scheme based on lattice assumption",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "宮地秀至",
         "affiliations": [
           "大阪大学"
@@ -11409,12 +9893,6 @@
     "id": "1E4-1",
     "title": "OS更新の促進アプローチに関する長期実証実験",
     "authors": [
-      {
-        "name": "Long-Term Demonstration Experiment about Promoting to OS Update",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "佐野絢音",
         "affiliations": [
@@ -11464,12 +9942,6 @@
     "id": "1E4-2",
     "title": "Twitter上における意図的な大規模情報拡散の因子となる特徴点分析",
     "authors": [
-      {
-        "name": "Analyzing Factors of Influence Operations in Twitter",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "林 尚弘",
         "affiliations": [
@@ -11528,12 +10000,6 @@
     "title": "AIシステムの利用者視点からのトラスト構築の考察",
     "authors": [
       {
-        "name": "Consideration on building trust form the viewpoint of AI system users",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "島 成佳",
         "affiliations": [
           "長崎県立大学"
@@ -11566,12 +10032,6 @@
     "id": "2E1-1",
     "title": "ネットワーク上のユーザー間の主観的評価を秘匿する秘匿信頼度計算技術",
     "authors": [
-      {
-        "name": "Secure Rating Computation on Weighted Signed Networks",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "坂巻 慶行",
         "affiliations": [
@@ -11622,12 +10082,6 @@
     "title": "同一のカードを用いた秘密計算",
     "authors": [
       {
-        "name": "Secure Multi-Party Computations Using Identical Cards",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "高橋 俊彦",
         "affiliations": [
           "新潟大学工学部"
@@ -11645,12 +10099,6 @@
     "title": "Generating Residue Number System Bases",
     "authors": [
       {
-        "name": "Generating Residue Number System Bases",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "Jean-Claude Bajard",
         "affiliations": [
           "Sorbonne University"
@@ -11661,7 +10109,7 @@
       {
         "name": "Kazuhide Fukushima",
         "affiliations": [
-          "KDDI Research,  Inc"
+          "KDDI Research, Inc"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
@@ -11669,7 +10117,7 @@
       {
         "name": "Shinsaku Kiyomoto",
         "affiliations": [
-          "KDDI Research,  Inc"
+          "KDDI Research, Inc"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
@@ -11685,7 +10133,7 @@
       {
         "name": "Arnaud Sipasseuth",
         "affiliations": [
-          "KDDI Research,  Inc"
+          "KDDI Research, Inc"
         ],
         "is_presenter": true,
         "presenter_symbol": "〇"
@@ -11699,7 +10147,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2E1-3 Generating Residue Number System Bases Generating Residue Number System Bases Jean-Claude Bajard Kazuhide Fukushima Shinsaku Kiyomoto Thomas Plantard Arnaud Sipasseuth Willy Susilo Sorbonne University KDDI Research,  Inc KDDI Research,  Inc University of Wollongong KDDI Research,  Inc University of Wollongong"
+    "search_text": "2E1-3 Generating Residue Number System Bases Jean-Claude Bajard Kazuhide Fukushima Shinsaku Kiyomoto Thomas Plantard Arnaud Sipasseuth Willy Susilo Sorbonne University KDDI Research, Inc KDDI Research, Inc University of Wollongong KDDI Research, Inc University of Wollongong"
   },
   {
     "event": "SCIS2022",
@@ -11707,12 +10155,6 @@
     "id": "2E1-4",
     "title": "秘密計算によるk-means法とk-means++法",
     "authors": [
-      {
-        "name": "K-Means Clustering and K-Means++ in secure computation",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "三品気吹",
         "affiliations": [
@@ -11755,12 +10197,6 @@
     "title": "チャージ型決済の実現方法とそのセキュリティ",
     "authors": [
       {
-        "name": "Digital Payment Schemes and their Security",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "田村裕子",
         "affiliations": [
           "日本銀行"
@@ -11778,12 +10214,6 @@
     "title": "範囲証明つき準同型暗号とその対話的プロトコル",
     "authors": [
       {
-        "name": "Homomorphic encryption with range proof and its interactive protocol",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "光成滋生",
         "affiliations": [
           "サイボウズ・ラボ株式会社"
@@ -11800,12 +10230,6 @@
     "id": "2E2-3",
     "title": "Invisible and Unlinkable Policy-Based Sanitizable Signatures",
     "authors": [
-      {
-        "name": "Invisible and Unlinkable Policy-Based Sanitizable Signatures",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "石坂 理人",
         "affiliations": [
@@ -11831,7 +10255,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2E2-3 Invisible and Unlinkable Policy-Based Sanitizable Signatures Invisible and Unlinkable Policy-Based Sanitizable Signatures 石坂 理人 福島 和英 田中 圭介 KDDI総合研究所 KDDI総合研究所 東京工業大学大学院"
+    "search_text": "2E2-3 Invisible and Unlinkable Policy-Based Sanitizable Signatures 石坂 理人 福島 和英 田中 圭介 KDDI総合研究所 KDDI総合研究所 東京工業大学大学院"
   },
   {
     "event": "SCIS2022",
@@ -11839,12 +10263,6 @@
     "id": "2E2-4",
     "title": "指数部検査を省略したFSU方式のピア事後指定安全性",
     "authors": [
-      {
-        "name": "Post-Specified Peer Security of FSU Scheme without Exponent Check",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "小山幸保",
         "affiliations": [
@@ -11895,14 +10313,6 @@
     "title": "Algebraic Group ModelにおけるFiat-Shamir Bulletproofsの頑健性について",
     "authors": [
       {
-        "name": "Fiat-Shamir Bulletproofs are Non-malleable",
-        "affiliations": [
-          "in the Algebraic Group Model"
-        ],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "Chaya Ganesh",
         "affiliations": [
           "Indian Institute of Science"
@@ -11943,7 +10353,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2E3-1 Algebraic Group ModelにおけるFiat-Shamir Bulletproofsの頑健性について Fiat-Shamir Bulletproofs are Non-malleable Chaya Ganesh Claudio Orlandi Mahak Pancholi Akira Takahashi Daniel Tschudi in the Algebraic Group Model Indian Institute of Science Aarhus University Aarhus University Aarhus University Concordium"
+    "search_text": "2E3-1 Algebraic Group ModelにおけるFiat-Shamir Bulletproofsの頑健性について Fiat-Shamir Bulletproofs are Non-malleable (in the Algebraic Group Model) Chaya Ganesh Claudio Orlandi Mahak Pancholi Akira Takahashi Daniel Tschudi Indian Institute of Science Aarhus University Aarhus University Aarhus University Concordium"
   },
   {
     "event": "SCIS2022",
@@ -11951,12 +10361,6 @@
     "id": "2E3-2",
     "title": "A Quantum Search-to-Decision Reduction for the LPN Problem",
     "authors": [
-      {
-        "name": "A Quantum Search-to-Decision Reduction for the LPN Problem",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "数藤恭平",
         "affiliations": [
@@ -11998,7 +10402,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2E3-2 A Quantum Search-to-Decision Reduction for the LPN Problem A Quantum Search-to-Decision Reduction for the LPN Problem 数藤恭平 手塚真徹 原啓祐 吉田雄祐 田中圭介 東京工業大学 東京工業大学 東京工業大学. 産業技術総合研究所 東京工業大学 東京工業大学"
+    "search_text": "2E3-2 A Quantum Search-to-Decision Reduction for the LPN Problem 数藤恭平 手塚真徹 原啓祐 吉田雄祐 田中圭介 東京工業大学 東京工業大学 東京工業大学. 産業技術総合研究所 東京工業大学 東京工業大学"
   },
   {
     "event": "SCIS2022",
@@ -12006,12 +10410,6 @@
     "id": "2E3-3",
     "title": "Cryptographic hash functions based on Triplet and Sextet graphs",
     "authors": [
-      {
-        "name": "Cryptographic hash functions based on Triplet and Sextet graphs",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "Hyungrok Jo",
         "affiliations": [
@@ -12029,7 +10427,7 @@
         "presenter_symbol": "◎"
       }
     ],
-    "search_text": "2E3-3 Cryptographic hash functions based on Triplet and Sextet graphs Cryptographic hash functions based on Triplet and Sextet graphs Hyungrok Jo Shohei Satake Yokohama National University. IAS Kumamoto University"
+    "search_text": "2E3-3 Cryptographic hash functions based on Triplet and Sextet graphs Hyungrok Jo Shohei Satake Yokohama National University. IAS Kumamoto University"
   },
   {
     "event": "SCIS2022",
@@ -12037,12 +10435,6 @@
     "id": "2E4-1",
     "title": "状態更新を含むプロトコルに対するTamarin Proverを用いたリプレイ攻撃の検証に向けて",
     "authors": [
-      {
-        "name": "Towards Verification of Replay Attacks against Protocols Containing State Updates using Tamarin Prover",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "佐藤瑞己",
         "affiliations": [
@@ -12068,12 +10460,6 @@
     "id": "2E4-2",
     "title": "ユーザの持つメモリが定数な検証可能な動的検索可能暗号",
     "authors": [
-      {
-        "name": "Verifiable Dynamic Symmetric Searchable Encryption with Constant User Memory",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "小澤響平",
         "affiliations": [
@@ -12107,12 +10493,6 @@
     "id": "2E4-3",
     "title": "Malicious Private Key Generators in Identity-Based Authenticated Key Exchange",
     "authors": [
-      {
-        "name": "Malicious Private Key Generators in Identity-Based Authenticated Key Exchange",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "Kazuma Wariki",
         "affiliations": [
@@ -12170,7 +10550,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2E4-3 Malicious Private Key Generators in Identity-Based Authenticated Key Exchange Malicious Private Key Generators in Identity-Based Authenticated Key Exchange Kazuma Wariki Atsushi Fujioka Taroh Sasaki Kazuki Yoneyama Yuki Okano Akira Nagai Koutarou Suzuki Kanagawa University Graduate School Kanagawa University Kanagawa University Ibaraki University NTT Social Informatics Laboratories NTT Social Informatics Laboratories Toyohashi University of Technology"
+    "search_text": "2E4-3 Malicious Private Key Generators in Identity-Based Authenticated Key Exchange Kazuma Wariki Atsushi Fujioka Taroh Sasaki Kazuki Yoneyama Yuki Okano Akira Nagai Koutarou Suzuki Kanagawa University Graduate School Kanagawa University Kanagawa University Ibaraki University NTT Social Informatics Laboratories NTT Social Informatics Laboratories Toyohashi University of Technology"
   },
   {
     "event": "SCIS2022",
@@ -12178,12 +10558,6 @@
     "id": "2E4-4",
     "title": "強フォワード秘匿性を満たす匿名一方向認証鍵交換",
     "authors": [
-      {
-        "name": "Anonymous One-Sided Authenticated Key Exchange with Strong Forward Secrecy",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "石橋 錬",
         "affiliations": [
@@ -12201,7 +10575,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2E4-4 強フォワード秘匿性を満たす匿名一方向認証鍵交換 Anonymous One-Sided Authenticated Key Exchange with Strong Forward Secrecy 石橋 錬 米山 一樹 茨城大学大学院理工学研究科 茨城大学"
+    "search_text": "2E4-4 強フォワード秘匿性を満たす匿名一方向認証鍵交換 Anonymous One-Sided Authenticated Key Exchange with Strong Forward Secrecy 石橋 錬 米山 一樹 茨城大学大学院理工学研究科 茨城大学 SCIS論文賞",
+    "awards": [
+      "SCIS論文賞"
+    ]
   },
   {
     "event": "SCIS2022",
@@ -12209,12 +10586,6 @@
     "id": "2E5-1",
     "title": "拡張したMean King問題を応用した量子鍵配送の安全性の検討Ⅱ：識別可能性と情報攪乱",
     "authors": [
-      {
-        "name": "Study on Security of Quantum Key Distribution using Extended Mean King's Problem : Distinguishability and Information Disturbance",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "米田昌矢",
         "affiliations": [
@@ -12241,12 +10612,6 @@
     "title": "Advantage of the key relay protocol over secure network coding",
     "authors": [
       {
-        "name": "Advantage of the key relay protocol over secure network coding",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "加藤 豪",
         "affiliations": [
           "NTTコミュニケーション科学基礎研究所"
@@ -12271,7 +10636,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2E5-2 Advantage of the key relay protocol over secure network coding Advantage of the key relay protocol over secure network coding 加藤 豪 藤原 幹生 鶴丸 豊広 NTTコミュニケーション科学基礎研究所 NICT 三菱電機株式会社"
+    "search_text": "2E5-2 Advantage of the key relay protocol over secure network coding 加藤 豪 藤原 幹生 鶴丸 豊広 NTTコミュニケーション科学基礎研究所 NICT 三菱電機株式会社"
   },
   {
     "event": "SCIS2022",
@@ -12279,12 +10644,6 @@
     "id": "2E5-3",
     "title": "QMAに対するCertified Everlastingゼロ知識証明",
     "authors": [
-      {
-        "name": "Certified Everlasting Zero-Knowledge Proof for QMA",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "廣岡 大河",
         "affiliations": [
@@ -12327,12 +10686,6 @@
     "title": "Quantum-Accessible Security of Stateless Hash-based Signature Schemes",
     "authors": [
       {
-        "name": "Quantum-Accessible Security of Stateless Hash-based Signature Schemes",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "Quan YUAN",
         "affiliations": [
           "Kyoto University"
@@ -12357,7 +10710,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2E5-4 Quantum-Accessible Security of Stateless Hash-based Signature Schemes Quantum-Accessible Security of Stateless Hash-based Signature Schemes Quan YUAN Mehdi TIBOUCHI Masayuki ABE Kyoto University NTT Laboratories. Kyoto University NTT Laboratories. Kyoto University"
+    "search_text": "2E5-4 Quantum-Accessible Security of Stateless Hash-based Signature Schemes Quan YUAN Mehdi TIBOUCHI Masayuki ABE Kyoto University NTT Laboratories. Kyoto University NTT Laboratories. Kyoto University"
   },
   {
     "event": "SCIS2022",
@@ -12365,12 +10718,6 @@
     "id": "3E1-1",
     "title": "秘密分散法による5ラウンド決定木評価",
     "authors": [
-      {
-        "name": "Secret Sharing-based 5-Round Private Decision Tree Evaluation",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "Naman Gupta",
         "affiliations": [
@@ -12413,12 +10760,6 @@
     "title": "実数に対する四捨五入を利用した秘密分散法による秘匿計算方式の提案",
     "authors": [
       {
-        "name": "Proposal of Secure Computation Methods using Secret Sharing with Rounding off Real Numbers",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "納所勇之介",
         "affiliations": [
           "東京理科大学大学院"
@@ -12452,12 +10793,6 @@
     "title": "秘密分散を用いた秘匿浮動小数点数除算・平方根計算の改良",
     "authors": [
       {
-        "name": "Improvements of Secure Floating-Point Division and Square Root Computation Using Secret Sharing",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "仁平 貴大",
         "affiliations": [
           "東京大学大学院 情報理工学系研究科 数理情報学専攻"
@@ -12483,12 +10818,6 @@
     "id": "3E1-4",
     "title": "秘密計算ライブラリMEVAL3における乗算の高速化実装について",
     "authors": [
-      {
-        "name": "A fast implementation of multiplication in the secure computation library MEVAL3",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "橋本 順子",
         "affiliations": [
@@ -12522,12 +10851,6 @@
     "id": "3E2-1",
     "title": "分散台帳技術におけるユーザの同意に基づくアクセス制御フレームワーク",
     "authors": [
-      {
-        "name": "An Access Control Framework Based on User Consent in Distributed Ledger Technology",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "掛井将平",
         "affiliations": [
@@ -12578,12 +10901,6 @@
     "title": "Comparison of transaction cost on different fair exchange protocols",
     "authors": [
       {
-        "name": "Comparison of transaction cost on different fair exchange protocols",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "HUAN ZHANG",
         "affiliations": [
           "Kyoto university"
@@ -12616,7 +10933,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3E2-2 Comparison of transaction cost on different fair exchange protocols Comparison of transaction cost on different fair exchange protocols HUAN ZHANG Mehdi Tibouchi Miguel Ambrona Masayuki Abe Kyoto university NTT Corporation. Kyoto university NTT Corporation NTT Corporation. Kyoto university"
+    "search_text": "3E2-2 Comparison of transaction cost on different fair exchange protocols HUAN ZHANG Mehdi Tibouchi Miguel Ambrona Masayuki Abe Kyoto university NTT Corporation. Kyoto university NTT Corporation NTT Corporation. Kyoto university"
   },
   {
     "event": "SCIS2022",
@@ -12624,14 +10941,6 @@
     "id": "3E2-3",
     "title": "トークン型電子現金方式のCentral Bank Digital Currency(CBDC) への適用可能性に関する初期検討",
     "authors": [
-      {
-        "name": "Preliminary study on the applicability of token-type electronic cash system to Central Bank Digital Currency",
-        "affiliations": [
-          "CBDC"
-        ],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "荒川幸寛",
         "affiliations": [
@@ -12673,7 +10982,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3E2-3 トークン型電子現金方式のCentral Bank Digital Currency(CBDC) への適用可能性に関する初期検討 Preliminary study on the applicability of token-type electronic cash system to Central Bank Digital Currency 荒川幸寛 奥田哲矢 齋藤恆和 ティブシ・メディ 阿部正幸 CBDC 京都大学大学院 ＮＴＴ社会情報研究所 ＮＴＴ社会情報研究所 ＮＴＴ社会情報研究所 ＮＴＴ社会情報研究所"
+    "search_text": "3E2-3 トークン型電子現金方式のCentral Bank Digital Currency(CBDC) への適用可能性に関する初期検討 Preliminary study on the applicability of token-type electronic cash system to Central Bank Digital Currency (CBDC) 荒川幸寛 奥田哲矢 齋藤恆和 ティブシ・メディ 阿部正幸 京都大学大学院 ＮＴＴ社会情報研究所 ＮＴＴ社会情報研究所 ＮＴＴ社会情報研究所 ＮＴＴ社会情報研究所"
   },
   {
     "event": "SCIS2022",
@@ -12681,12 +10990,6 @@
     "id": "3E3-1",
     "title": "大規模データにも対応した秘密計算階層型クラスタリング",
     "authors": [
-      {
-        "name": "Privacy Preserving Hierarchical Clustering for Large Scale Data",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "三品気吹",
         "affiliations": [
@@ -12729,12 +11032,6 @@
     "title": "秘匿SQL Window関数プロトコルの提案",
     "authors": [
       {
-        "name": "Secure SQL Window Functions",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "須藤 弘貴",
         "affiliations": [
           "NTT社会情報研究所"
@@ -12759,12 +11056,6 @@
     "id": "3E3-3",
     "title": "データベースの等結合後に加重合計を求める秘密計算プロトコル",
     "authors": [
-      {
-        "name": "A Secure Protocol for Computing Weighted-Sum after Equijoin of Databases",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "富田潤一",
         "affiliations": [
@@ -12815,12 +11106,6 @@
     "title": "プライバシを保護したRNNによる非対話型文書分類",
     "authors": [
       {
-        "name": "ne round classification of encrypted text data using RNN",
-        "affiliations": [],
-        "is_presenter": true,
-        "presenter_symbol": "O"
-      },
-      {
         "name": "齋藤拓巳",
         "affiliations": [
           "東京工業大学"
@@ -12853,7 +11138,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3E3-4 プライバシを保護したRNNによる非対話型文書分類 ne round classification of encrypted text data using RNN 齋藤拓巳 岡響 中橋彬 尾形わかは 東京工業大学 アイマトリックス研究所株式会社 アイマトリックス研究所株式会社 東京工業大学"
+    "search_text": "3E3-4 プライバシを保護したRNNによる非対話型文書分類 One round classification of encrypted text data using RNN 齋藤拓巳 岡響 中橋彬 尾形わかは 東京工業大学 アイマトリックス研究所株式会社 アイマトリックス研究所株式会社 東京工業大学"
   },
   {
     "event": "SCIS2022",
@@ -12861,12 +11146,6 @@
     "id": "3E3-5",
     "title": "多項式補間による整数型準同型大小比較/除算の改良",
     "authors": [
-      {
-        "name": "Improvement of integer-wise homomorphic comparison and division using polynomial interpolation",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "森村洸生",
         "affiliations": [
@@ -12892,12 +11171,6 @@
     "id": "3E3-6",
     "title": "出力埋め込み可能な紛失擬似ランダム関数に基づく多者間秘匿積集合プロトコルの効率化",
     "authors": [
-      {
-        "name": "An Efficient Multi-Party Private Set Intersection Protocol Based on Oblivious Programmable PRFs",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "清水 聖也",
         "affiliations": [
@@ -12941,12 +11214,6 @@
     "title": "軽量ブロック暗号CHAMに対するBit-based Division Property Using Three Subsetsを用いたIntegral攻撃",
     "authors": [
       {
-        "name": "Integral Attack with Bit-based Division Property Using Three Subsets on lightweight block cipher CHAM",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "中曽根 彰人",
         "affiliations": [
           "東京理科大学"
@@ -12971,12 +11238,6 @@
     "id": "4E1-2",
     "title": "PMACrx：ベクトル入力をサポートする高安全なメッセージ認証コード",
     "authors": [
-      {
-        "name": "PMACrx: Highly Secure Message Authentication Code Supporting Vectorized Input",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "笠原 颯登",
         "affiliations": [
@@ -13003,12 +11264,6 @@
     "title": "単一鍵のTweakableブロック暗号を用いたブロック暗号の安全性",
     "authors": [
       {
-        "name": "Security of Block Cipher Based on Single Key Tweakable Block Cipher",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "辻 健斗",
         "affiliations": [
           "名古屋大学"
@@ -13033,12 +11288,6 @@
     "id": "4E1-4",
     "title": "NIST軽量暗号最終候補におけるソフトウェア実装性能の評価",
     "authors": [
-      {
-        "name": "Performance Evaluation of Software Implementation for the NIST Lightweight Cryptography Finalists",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "北原 知明",
         "affiliations": [
@@ -13097,12 +11346,6 @@
     "title": "整数型平文空間における非線形2変数準同型演算の高速化",
     "authors": [
       {
-        "name": "An efficient algorithm for non-linear two-variate homomorphic evaluation on integer-wise plaintext space",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "前田大輔",
         "affiliations": [
           "筑波大学"
@@ -13128,12 +11371,6 @@
     "title": "準同型暗号に基づく秘密計算の能動的攻撃者に対する秘匿性について",
     "authors": [
       {
-        "name": "n Privacy against Malicious Adversaries for Secure Computation Based on Homomorphic Encryption",
-        "affiliations": [],
-        "is_presenter": true,
-        "presenter_symbol": "O"
-      },
-      {
         "name": "縫田 光司",
         "affiliations": [
           "九州大学",
@@ -13143,7 +11380,7 @@
         "presenter_symbol": "〇"
       }
     ],
-    "search_text": "4E2-2 準同型暗号に基づく秘密計算の能動的攻撃者に対する秘匿性について n Privacy against Malicious Adversaries for Secure Computation Based on Homomorphic Encryption 縫田 光司 九州大学 産業技術総合研究所"
+    "search_text": "4E2-2 準同型暗号に基づく秘密計算の能動的攻撃者に対する秘匿性について On Privacy against Malicious Adversaries for Secure Computation Based on Homomorphic Encryption 縫田 光司 九州大学 産業技術総合研究所"
   },
   {
     "event": "SCIS2022",
@@ -13151,12 +11388,6 @@
     "id": "4E2-3",
     "title": "ブロック暗号RAGHAVの高階差分特性",
     "authors": [
-      {
-        "name": "Higher Order Differential Property of Block Cipher RAGHAV",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "芝山 直喜",
         "affiliations": [
@@ -13183,12 +11414,6 @@
     "title": "Google Adiantumに対する量子攻撃",
     "authors": [
       {
-        "name": "Quantum Attacks against Google Adiantum",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "栗原昂汰",
         "affiliations": [
           "名古屋大学"
@@ -13205,7 +11430,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "4E2-4 Google Adiantumに対する量子攻撃 Quantum Attacks against Google Adiantum 栗原昂汰 岩田哲 名古屋大学 名古屋大学"
+    "search_text": "4E2-4 Google Adiantumに対する量子攻撃 Quantum Attacks against Google Adiantum 栗原昂汰 岩田哲 名古屋大学 名古屋大学 SCIS論文賞",
+    "awards": [
+      "SCIS論文賞"
+    ]
   },
   {
     "event": "SCIS2022",
@@ -13213,12 +11441,6 @@
     "id": "4E2-5",
     "title": "WPA2/WPA3無線LAN機器に対する新たなDoS攻撃とその効果",
     "authors": [
-      {
-        "name": "New DoS attacks against WPA2/WPA3 wireless LAN devices and their effects",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "西井大智",
         "affiliations": [
@@ -13261,12 +11483,6 @@
     "title": "RoccaとAEGISファミリーのラウンド関数の安全性評価",
     "authors": [
       {
-        "name": "Security Evaluation for Round Functions of Rocca and AEGIS Families",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "竹内 信幸",
         "affiliations": [
           "兵庫県立大学"
@@ -13300,12 +11516,6 @@
     "title": "倍ブロック長圧縮関数の量子衝突計算困難性について",
     "authors": [
       {
-        "name": "A Note on Quantum Collision Resistance of Double-Block-Length Compression Functions",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "廣瀬勝一",
         "affiliations": [
           "福井大学"
@@ -13330,12 +11540,6 @@
     "id": "1F1-3",
     "title": "Fibonacci数列を利用したS-box及び転置関数によるAESへの有効性調査",
     "authors": [
-      {
-        "name": "A Study on the behavior of functions using Fibonaacci for AES",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "阿部友美",
         "affiliations": [
@@ -13362,12 +11566,6 @@
     "title": "軽量ブロック暗号 DLBCA に対する MILP を用いた Integral 攻撃",
     "authors": [
       {
-        "name": "Integral attack on lightweight block cipher DLBCA using MILP",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "廣見紗妃",
         "affiliations": [
           "東京理科大学 理工学研究科 電気工学専攻"
@@ -13392,12 +11590,6 @@
     "id": "1F1-5",
     "title": "軽量ブロック暗号DoTに対するMILPを用いた線形攻撃",
     "authors": [
-      {
-        "name": "Linear attack on lightweight block cipher DoT using MILP",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "青柳光祐",
         "affiliations": [
@@ -13424,12 +11616,6 @@
     "title": "軽量ブロック暗号LBC-IoTに対するMILPを用いた線形攻撃耐性評価",
     "authors": [
       {
-        "name": "MILP-Based Linear Attack on Lightweight Block Cipher \"LBC-IoT\"",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "安士颯真",
         "affiliations": [
           "東京理科大学"
@@ -13454,12 +11640,6 @@
     "id": "1F2-2",
     "title": "プロービング攻撃による漏洩情報を用いたAES鍵復元アルゴリズムの改良",
     "authors": [
-      {
-        "name": "An Improved AES Key Recovery Algorithm Using Key Leakage by Probing Attacks",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "植村友紀",
         "affiliations": [
@@ -13528,12 +11708,6 @@
     "title": "Bernstein-Vazirani量子アルゴリズムに基づくランダムブール関数の隠れシフト問題の求解について",
     "authors": [
       {
-        "name": "Solving Boolean Hidden Shift Problem based on Bernstein-Vazirani Quantum Algorithm",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "八藤後 彬",
         "affiliations": [
           "茨城大学大学院 理工学研究科 情報工学専攻"
@@ -13558,12 +11732,6 @@
     "id": "1F2-4",
     "title": "少命令セット組込みプロセッサにおけるARX型暗号アルゴリズムの実装と評価",
     "authors": [
-      {
-        "name": "Implementation and Evaluation of ARX-based Ciphers on a Simple Instruction-Set Embedded Processor",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "楊明宇",
         "affiliations": [
@@ -13614,24 +11782,6 @@
     "title": "Elephantに対する鍵回復，識別及び偽造攻撃",
     "authors": [
       {
-        "name": "Key Recovery",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
-        "name": "Distinguishing",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
-        "name": "and Forgery Attacks against Elephant",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "土生亮",
         "affiliations": [
           "名古屋大学"
@@ -13648,7 +11798,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1F2-5 Elephantに対する鍵回復，識別及び偽造攻撃 Key Recovery Distinguishing and Forgery Attacks against Elephant 土生亮 岩田哲 名古屋大学 名古屋大学"
+    "search_text": "1F2-5 Elephantに対する鍵回復，識別及び偽造攻撃 Key Recovery, Distinguishing, and Forgery Attacks against Elephant 土生亮 岩田哲 名古屋大学 名古屋大学"
   },
   {
     "event": "SCIS2022",
@@ -13656,12 +11806,6 @@
     "id": "1F2-6",
     "title": "軽量ブロック暗号CRAFTのハッシュ関数への応用に関する考察",
     "authors": [
-      {
-        "name": "research on application of block cipher CRAFT for hash function",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "西尾明日駆",
         "affiliations": [
@@ -13687,12 +11831,6 @@
     "id": "1F3-1",
     "title": "プライバシー情報提供の可否に関する調査-経年変化に関する考察-",
     "authors": [
-      {
-        "name": "A Study of Willingness for Private Information Providing - Estimating Change over the Year from 2010 to 2021-",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "金森 祥子",
         "affiliations": [
@@ -13736,12 +11874,6 @@
     "id": "1F3-2",
     "title": "パーソナルデータの等結合に適した匿名化技術の考察",
     "authors": [
-      {
-        "name": "n Anonymization for Equi-Join of Personal Data",
-        "affiliations": [],
-        "is_presenter": true,
-        "presenter_symbol": "O"
-      },
       {
         "name": "千田浩司",
         "affiliations": [
@@ -13815,7 +11947,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1F3-2 パーソナルデータの等結合に適した匿名化技術の考察 n Anonymization for Equi-Join of Personal Data 千田浩司 紀伊真昇 市川敦謙 野澤一真 長谷川慶太 堂面拓也 中川智尋 青野博 寺田雅之 NTT NTT NTT NTTドコモ NTTドコモ NTTドコモ NTTドコモ NTTドコモ NTTドコモ"
+    "search_text": "1F3-2 パーソナルデータの等結合に適した匿名化技術の考察 On Anonymization for Equi-Join of Personal Data 千田浩司 紀伊真昇 市川敦謙 野澤一真 長谷川慶太 堂面拓也 中川智尋 青野博 寺田雅之 NTT NTT NTT NTTドコモ NTTドコモ NTTドコモ NTTドコモ NTTドコモ NTTドコモ"
   },
   {
     "event": "SCIS2022",
@@ -13823,12 +11955,6 @@
     "id": "1F3-3",
     "title": "Attested Execution Secure Processor-based Architecture for Self-Sovereign Identity Systems Preserving Privacy",
     "authors": [
-      {
-        "name": "Attested Execution Secure Processor-based Architecture for Self-Sovereign Identity Systems Preserving Privacy",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "Koichi Moriyama",
         "affiliations": [
@@ -13846,7 +11972,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1F3-3 Attested Execution Secure Processor-based Architecture for Self-Sovereign Identity Systems Preserving Privacy Attested Execution Secure Processor-based Architecture for Self-Sovereign Identity Systems Preserving Privacy Koichi Moriyama Akira Otsuka Institute of Information Security Institute of Information Security"
+    "search_text": "1F3-3 Attested Execution Secure Processor-based Architecture for Self-Sovereign Identity Systems Preserving Privacy Koichi Moriyama Akira Otsuka Institute of Information Security Institute of Information Security"
   },
   {
     "event": "SCIS2022",
@@ -13854,12 +11980,6 @@
     "id": "1F3-4",
     "title": "安全性と有用性を両立する半導体ウェハマップのデータマスキングの検討",
     "authors": [
-      {
-        "name": "Tward a secure and analyzable data masking method for wafer maps",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "花谷 嘉一",
         "affiliations": [
@@ -13885,12 +12005,6 @@
     "id": "1F3-5",
     "title": "属性推定攻撃を考慮する匿名化データの安全性指標の提案",
     "authors": [
-      {
-        "name": "A Privacy Measure of Anonymized Data against Attribute Inference Attack",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "紀伊真昇",
         "affiliations": [
@@ -13933,12 +12047,6 @@
     "title": "灯台とABCプレースの物理的ゼロ知識証明",
     "authors": [
       {
-        "name": "Physical Zero-Knowledge Proofs for Lighthouses and ABC End View",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "深澤拓朗",
         "affiliations": [
           "工学院大学"
@@ -13963,12 +12071,6 @@
     "id": "1F4-2",
     "title": "秘匿置換を用いた効率的なn入力多数決カードプロトコル",
     "authors": [
-      {
-        "name": "Efficient Card-Based Majority Voting Protocol with n Inputs Using Private Permutations",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "安部芳紀",
         "affiliations": [
@@ -14012,7 +12114,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1F4-2 秘匿置換を用いた効率的なn入力多数決カードプロトコル Efficient Card-Based Majority Voting Protocol with n Inputs Using Private Permutations 安部芳紀 中井雄士 渡邉洋平 岩本貢 太田和夫 電気通信大学 電気通信大学 電気通信大学 産業技術総合研究所 電気通信大学 電気通信大学 産業技術総合研究所"
+    "search_text": "1F4-2 秘匿置換を用いた効率的なn入力多数決カードプロトコル Efficient Card-Based Majority Voting Protocol with n Inputs Using Private Permutations 安部芳紀 中井雄士 渡邉洋平 岩本貢 太田和夫 電気通信大学 電気通信大学 電気通信大学 産業技術総合研究所 電気通信大学 電気通信大学 産業技術総合研究所 SCIS論文賞",
+    "awards": [
+      "SCIS論文賞"
+    ]
   },
   {
     "event": "SCIS2022",
@@ -14020,12 +12125,6 @@
     "id": "1F4-3",
     "title": "最小のカード枚数による対称関数の秘密計算について",
     "authors": [
-      {
-        "name": "Secure Computations of Symmetric Functions with Minimum Cards",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "四方隼人",
         "affiliations": [
@@ -14068,12 +12167,6 @@
     "title": "情報理論的安全性を有する宇宙ロケット用セキュア通信方式の性能実証飛行",
     "authors": [
       {
-        "name": "Performance Evaluation Flight of an Information Theoretically Secure Wireless Protocol for Space Launch Vehicles",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "森岡澄夫",
         "affiliations": [
           "インターステラテクノロジズ株式会社"
@@ -14106,12 +12199,6 @@
     "id": "2F1-2",
     "title": "Distant Supervisionによるサイバーセキュリティ文書のマルチラベル分類",
     "authors": [
-      {
-        "name": "Multi-label Classification of Cybersecurity Text with Distant Supervision",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "石井 将大",
         "affiliations": [
@@ -14154,12 +12241,6 @@
     "title": "Efficient Machine Learning Method for Protocol Fuzzing: Improvement of Sequence-to-Sequence Model and Refined Training Data",
     "authors": [
       {
-        "name": "Efficient Machine Learning Method for Protocol Fuzzing: Improvement of Sequence-to-Sequence Model and Refined Training Data",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "Bo Wang",
         "affiliations": [
           "JVCKENWOOD Corporation"
@@ -14192,7 +12273,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2F1-3 Efficient Machine Learning Method for Protocol Fuzzing: Improvement of Sequence-to-Sequence Model and Refined Training Data Efficient Machine Learning Method for Protocol Fuzzing: Improvement of Sequence-to-Sequence Model and Refined Training Data Bo Wang Toshihiro Maruyama Ako Suzuki Yuichi KAJI JVCKENWOOD Corporation JVCKENWOOD Corporation JVCKENWOOD Corporation Nagoya University"
+    "search_text": "2F1-3 Efficient Machine Learning Method for Protocol Fuzzing: Improvement of Sequence-to-Sequence Model and Refined Training Data Bo Wang Toshihiro Maruyama Ako Suzuki Yuichi KAJI JVCKENWOOD Corporation JVCKENWOOD Corporation JVCKENWOOD Corporation Nagoya University"
   },
   {
     "event": "SCIS2022",
@@ -14200,12 +12281,6 @@
     "id": "2F1-4",
     "title": "Android用ファジングツールの適用及びその性能評価",
     "authors": [
-      {
-        "name": "Application of fuzzing tool for Android and its performance evaluation",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "佐久間耀大朗",
         "affiliations": [
@@ -14240,12 +12315,6 @@
     "title": "データに対する匿名加工を考慮したデジタル署名の検討",
     "authors": [
       {
-        "name": "A Study on Digital Signature Considering Data Anonymization",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "肥後 春菜",
         "affiliations": [
           "NEC"
@@ -14271,7 +12340,9 @@
       },
       {
         "name": "田宮 寛人",
-        "affiliations": [],
+        "affiliations": [
+          "NEC"
+        ],
         "is_presenter": false,
         "presenter_symbol": ""
       },
@@ -14284,7 +12355,7 @@
         "presenter_symbol": "◎"
       }
     ],
-    "search_text": "2F2-1 データに対する匿名加工を考慮したデジタル署名の検討 A Study on Digital Signature Considering Data Anonymization 肥後 春菜 一色 寿幸 森 健吾 田宮 寛人 土田 光 NEC NEC NEC NEC"
+    "search_text": "2F2-1 データに対する匿名加工を考慮したデジタル署名の検討 A Study on Digital Signature Considering Data Anonymization 肥後 春菜 一色 寿幸 森 健吾 田宮 寛人 土田 光 NEC NEC NEC NEC NEC"
   },
   {
     "event": "SCIS2022",
@@ -14292,12 +12363,6 @@
     "id": "2F2-2",
     "title": "分散型ID（DID）/検証可能属性証明（VC）技術を利用した自己主権型アイデンティティ情報利活用基盤（SSIUF）に関する考察",
     "authors": [
-      {
-        "name": "Self-Sovereign Identity-information Utilization Framework using Decentralized Identifier/Verifiable Credential technologies",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "才所敏明",
         "affiliations": [
@@ -14332,12 +12397,6 @@
     "title": "動的サンプリングを使用した勾配ブースティング決定木の連合追加学習",
     "authors": [
       {
-        "name": "Federated Continuous Learning of Gradient Boosting Decision Trees Using Dynamic Sampling",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "三浦 啓吾",
         "affiliations": [
           "神戸大学"
@@ -14371,12 +12430,6 @@
     "title": "能力主義的公平なマッチングと効率的な判定アルゴリズム",
     "authors": [
       {
-        "name": "Meritocratic Fair Matching and Its Efficient Decision Algorithm",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "中村 徹",
         "affiliations": [
           "KDDI総合研究所"
@@ -14401,12 +12454,6 @@
     "id": "2F3-2",
     "title": "テレワークにおけるBYOD利用時のセキュリティ等の不安に関する分析",
     "authors": [
-      {
-        "name": "An Analysis on Anxiety toward Security in Telework by BYOD",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "森 淳子",
         "affiliations": [
@@ -14449,12 +12496,6 @@
     "title": "Web 上パスワード認証システムに関するUXデザインの実態調査： 不親切なパスワード登録エラーメッセージ表示",
     "authors": [
       {
-        "name": "A Survey of User Experience Design regarding Password Registration Error Message in Web-based Password Authentication System",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "藤田 真浩",
         "affiliations": [
           "三菱電機株式会社"
@@ -14496,12 +12537,6 @@
     "title": "Become a Security Monopoly: Gamification to Learn Cyber Defense Matrix",
     "authors": [
       {
-        "name": "Become a Security Monopoly: Gamification to Learn Cyber Defense Matrix",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "Chen Chung-Kuan",
         "affiliations": [
           "CyCraft Technology"
@@ -14526,7 +12561,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2F3-4 Become a Security Monopoly: Gamification to Learn Cyber Defense Matrix Become a Security Monopoly: Gamification to Learn Cyber Defense Matrix Chen Chung-Kuan Kao Wei-Chia Cheng Chen-mou CyCraft Technology CyCraft Technology Kanazawa University"
+    "search_text": "2F3-4 Become a Security Monopoly: Gamification to Learn Cyber Defense Matrix Chen Chung-Kuan Kao Wei-Chia Cheng Chen-mou CyCraft Technology CyCraft Technology Kanazawa University"
   },
   {
     "event": "SCIS2022",
@@ -14534,12 +12569,6 @@
     "id": "2F4-1",
     "title": "シャッフル1回のみの秘密計算に必要なカード枚数について",
     "authors": [
-      {
-        "name": "A Note on the Number of Cards Required for Secure Computations with Single Shuffle",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "葛馬知紀",
         "affiliations": [
@@ -14581,7 +12610,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2F4-1 シャッフル1回のみの秘密計算に必要なカード枚数について A Note on the Number of Cards Required for Secure Computations with Single Shuffle 葛馬知紀 五十鈴川頼宗 豊田航大 宮原大輝 水木 敬明 東北大学 東北大学 東北大学 電気通信大学 東北大学"
+    "search_text": "2F4-1 シャッフル1回のみの秘密計算に必要なカード枚数について A Note on the Number of Cards Required for Secure Computations with Single Shuffle 葛馬知紀 五十鈴川頼宗 豊田航大 宮原大輝 水木 敬明 東北大学 東北大学 東北大学 電気通信大学 東北大学 SCIS論文賞",
+    "awards": [
+      "SCIS論文賞"
+    ]
   },
   {
     "event": "SCIS2022",
@@ -14589,12 +12621,6 @@
     "id": "2F4-2",
     "title": "3値入力可能な可換半群の条件を満たす非コミットメント型AND演算拡張カードベースプロトコルの構成",
     "authors": [
-      {
-        "name": "Constructions of non-commitment card-based 3-inputs extended-AND protocols that satisfy the conditions of commutative semi-group",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "須賀祐治",
         "affiliations": [
@@ -14604,7 +12630,10 @@
         "presenter_symbol": "〇"
       }
     ],
-    "search_text": "2F4-2 3値入力可能な可換半群の条件を満たす非コミットメント型AND演算拡張カードベースプロトコルの構成 Constructions of non-commitment card-based 3-inputs extended-AND protocols that satisfy the conditions of commutative semi-group 須賀祐治 株式会社インターネットイニシアティブ"
+    "search_text": "2F4-2 3値入力可能な可換半群の条件を満たす非コミットメント型AND演算拡張カードベースプロトコルの構成 Constructions of non-commitment card-based 3-inputs extended-AND protocols that satisfy the conditions of commutative semi-group 須賀祐治 株式会社インターネットイニシアティブ イノベーション論文賞",
+    "awards": [
+      "イノベーション論文賞"
+    ]
   },
   {
     "event": "SCIS2022",
@@ -14612,12 +12641,6 @@
     "id": "2F4-3",
     "title": "一様で閉じたシャッフルの効率的な実装",
     "authors": [
-      {
-        "name": "How to Efficiently Implement Uniform Closed Shuffles",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "岩成慶太",
         "affiliations": [
@@ -14669,12 +12692,6 @@
     "title": "カードベース暗号を題材にした小中学生向け授業の報告",
     "authors": [
       {
-        "name": "A Report on a Lecture for Elementary and Junior High School Using Card-based Cryptography",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "品川 和雅",
         "affiliations": [
           "茨城大学",
@@ -14692,12 +12709,6 @@
     "id": "2F5-1",
     "title": "手札に関する不正者を検出可能な新しい秘密計算カードプロトコルの提案",
     "authors": [
-      {
-        "name": "Proposition of New Secure Multiparty Computation Protocols for Unfair Player Using a Deck of Cards",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "小泉康一",
         "affiliations": [
@@ -14724,12 +12735,6 @@
     "title": "パイルスクランブルシャッフルからのグラフ自己同型シャッフルの構成",
     "authors": [
       {
-        "name": "Graph Automorphism Shuffles from Pile-Scramble Shuffles",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "宮本 賢伍",
         "affiliations": [
           "茨城大学"
@@ -14755,12 +12760,6 @@
     "id": "2F5-3",
     "title": "有限群の一様分解とその一様閉シャッフルへの応用",
     "authors": [
-      {
-        "name": "Uniform Decomposition of Finite Groups and Its Application to Uniform-closed Shuffles",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "金井 和貴",
         "affiliations": [
@@ -14796,12 +12795,6 @@
     "title": "ハイパースペクトルカメラによるカードベース暗号の安全性評価に向けた基礎的検討",
     "authors": [
       {
-        "name": "Fundamental Study on Evaluating Security in Card-based Cryptography Using Hyperspectral Camera",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "嶌野雅久",
         "affiliations": [
           "電気通信大学"
@@ -14834,12 +12827,6 @@
     "id": "3F1-1",
     "title": "ドアを開け放したのは誰か？IoT機器のセキュリティ問題の改善に向けた根本原因調査",
     "authors": [
-      {
-        "name": "Who Left the Door Open? Investigating the Root Causes of IoT Devices' Insecurity for Effective Remediation",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "乃万 誉也",
         "affiliations": [
@@ -14908,12 +12895,6 @@
     "title": "Trust-awareなビジネス設計のためのビジネストラスト分析支援システム",
     "authors": [
       {
-        "name": "Business Trust Analysis Support System for Trust-aware Business Design",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "小牧 大治郎",
         "affiliations": [
           "富士通株式会社"
@@ -14970,12 +12951,6 @@
     "id": "3F1-3",
     "title": "ビジネストラスト分析のためのユースケース整理とパターン分析",
     "authors": [
-      {
-        "name": "Use Case Survey and Pattern Analysis for Business Trust Analysis",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "山口 俊輔",
         "affiliations": [
@@ -15034,12 +13009,6 @@
     "title": "ステークホルダー信頼関係図を用いたビジネストラスト分析手法",
     "authors": [
       {
-        "name": "Business Trust Analysis Method with a Trust Relationship Map of Stakeholders",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "笠波 昌昭",
         "affiliations": [
           "富士通株式会社"
@@ -15097,12 +13066,6 @@
     "title": "Private Relayアクセスにおける端末識別の試み",
     "authors": [
       {
-        "name": "A Proposal for Identify Devices over Private Relay",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "渡名喜 瑞稀",
         "affiliations": [
           "明治大学大学院"
@@ -15151,12 +13114,6 @@
     "id": "3F2-2",
     "title": "レスポンスの情報を用いたWebAPIのアクセスコントロールに関する脆弱性診断方式",
     "authors": [
-      {
-        "name": "A Vulnerability Assessment Method for WebAPI Access Control Using Response Information",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "田谷 透",
         "affiliations": [
@@ -15223,12 +13180,6 @@
     "title": "WebAuthnを基にしたWebサービスにおける端末追加のためのプロトコルの評価",
     "authors": [
       {
-        "name": "An Evaluation of a Protocol on Addition of New Devices Based on WebAuthn",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "網川澪",
         "affiliations": [
           "北海道情報大学"
@@ -15254,12 +13205,6 @@
     "title": "セキュアチャネル上の認証プロトコルの形式検証",
     "authors": [
       {
-        "name": "Formal Verification of Authentication Protocol on Secure Channel",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "中林 美郷",
         "affiliations": [
           "NTT 社会情報研究所"
@@ -15284,12 +13229,6 @@
     "id": "3F2-5",
     "title": "MITB攻撃対象の傾向分析と脅威情報活用に関する考察",
     "authors": [
-      {
-        "name": "The trend analysis of MITB attack targets and consideration of utilizing the threat information.",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "高田一樹",
         "affiliations": [
@@ -15332,12 +13271,6 @@
     "title": "オンライン会議システム上の画面キャプチャによる情報漏洩の対策の一検討",
     "authors": [
       {
-        "name": "A Study of Countermeasures against Information Leakage by Screen Capture on Online Meeting System",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "鎌苅康大",
         "affiliations": [
           "岡山大学"
@@ -15371,12 +13304,6 @@
     "title": "準同型暗号を用いたOpaque Predicateの提案",
     "authors": [
       {
-        "name": "Constructing an Opaque Predicate using Homomorphic Encryption",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "平能 耀介",
         "affiliations": [
           "茨城大学"
@@ -15401,12 +13328,6 @@
     "id": "3F3-3",
     "title": "Intel SGXを用いたアルゴリズム変換型プロキシ再暗号化システムの実装・評価",
     "authors": [
-      {
-        "name": "Implementation and Evaluation on a Proxy Re-Encryption System for  Conversion of the Cryptgraphical Algorithms using Intel SGX",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "西平 侑磨",
         "affiliations": [
@@ -15441,7 +13362,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3F3-3 Intel SGXを用いたアルゴリズム変換型プロキシ再暗号化システムの実装・評価 Implementation and Evaluation on a Proxy Re-Encryption System for  Conversion of the Cryptgraphical Algorithms using Intel SGX 西平 侑磨 鈴木 達也 渡邉 英伸 大東 俊博 東海大学 筑波大学 広島大学 東海大学 情報通信研究機構"
+    "search_text": "3F3-3 Intel SGXを用いたアルゴリズム変換型プロキシ再暗号化システムの実装・評価 Implementation and Evaluation on a Proxy Re-Encryption System for Conversion of the Cryptgraphical Algorithms using Intel SGX 西平 侑磨 鈴木 達也 渡邉 英伸 大東 俊博 東海大学 筑波大学 広島大学 東海大学 情報通信研究機構"
   },
   {
     "event": "SCIS2022",
@@ -15449,12 +13370,6 @@
     "id": "3F3-4",
     "title": "Secure codes with two-stage traitor tracing",
     "authors": [
-      {
-        "name": "Secure codes with two-stage traitor tracing",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "顧 玉杰",
         "affiliations": [
@@ -15464,7 +13379,7 @@
         "presenter_symbol": "〇"
       }
     ],
-    "search_text": "3F3-4 Secure codes with two-stage traitor tracing Secure codes with two-stage traitor tracing 顧 玉杰 九州大学"
+    "search_text": "3F3-4 Secure codes with two-stage traitor tracing 顧 玉杰 九州大学"
   },
   {
     "event": "SCIS2022",
@@ -15472,12 +13387,6 @@
     "id": "4F1-1",
     "title": "現実的な攻撃モデルを通した主成分分析のプライバシー的観点からの考察",
     "authors": [
-      {
-        "name": "A Study of the Privacy Perspective on Principal Componet Analysis via a Realistic Attack Model",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "山城大海",
         "affiliations": [
@@ -15503,12 +13412,6 @@
     "id": "4F1-2",
     "title": "コロナ禍におけるセキュリティ・インシデント被害等に対する株価の反応に関する分析",
     "authors": [
-      {
-        "name": "Analysis about Reactions of Security Incidents in Japanese Stock Market under COVID-19 Pandemic",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "竹村 敏彦",
         "affiliations": [
@@ -15543,14 +13446,6 @@
     "title": "情報モラル教育ゲームの開発（Part.2-2）（情報モラル指導モデルカリキュラム表：e3-1とe3-2の実装と評価）",
     "authors": [
       {
-        "name": "Development and Evaluation of Information Moral Education Game",
-        "affiliations": [
-          "Part.2-1"
-        ],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "澤田 匡佑",
         "affiliations": [
           "工学院大学大学院 工学研究科情報学専攻"
@@ -15575,7 +13470,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "4F1-3 情報モラル教育ゲームの開発（Part.2-2）（情報モラル指導モデルカリキュラム表：e3-1とe3-2の実装と評価） Development and Evaluation of Information Moral Education Game 澤田 匡佑 池原 元 藤川 真樹 Part.2-1 工学院大学大学院 工学研究科情報学専攻 工学院大学大学院 工学研究科情報学専攻 工学院大学 情報学部"
+    "search_text": "4F1-3 情報モラル教育ゲームの開発（Part.2-2）（情報モラル指導モデルカリキュラム表：e3-1とe3-2の実装と評価） Development and Evaluation of Information Moral Education Game (Part.2-1) ; Implementation of e3-1 and e3-2 澤田 匡佑 池原 元 藤川 真樹 工学院大学大学院 工学研究科情報学専攻 工学院大学大学院 工学研究科情報学専攻 工学院大学 情報学部"
   },
   {
     "event": "SCIS2022",
@@ -15583,12 +13478,6 @@
     "id": "4F1-4",
     "title": "顔認証システムの人種バイアスに影響を与える潜在的要因の調査",
     "authors": [
-      {
-        "name": "Research on Potential Factors Affecting Racial Bias in Face Recognition",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "佐藤 佑哉",
         "affiliations": [
@@ -15639,12 +13528,6 @@
     "title": "ブラックボックス型モデル反転攻撃におけるユーザ類似性を考慮した生成モデルの検討",
     "authors": [
       {
-        "name": "Generative Model with User Similarity in Black-Box Model Inversion",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "井田 天星",
         "affiliations": [
           "静岡大学"
@@ -15693,12 +13576,6 @@
     "id": "4F2-1",
     "title": "デジタルフォレンジック調査選定に資するリスクコミュニケータの提案",
     "authors": [
-      {
-        "name": "A Proposal of Risk-Communicator for Cost-effective Selection of Digital Forensic Investigation",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "佐々木 葵",
         "affiliations": [
@@ -15773,12 +13650,6 @@
     "title": "電子証明書を取り巻く仕組みの分析とその活用",
     "authors": [
       {
-        "name": "Analysis of the mechanism surrounding digital certificates and its utilization",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "野村 健太",
         "affiliations": [
           "デロイトトーマツサイバー合同会社"
@@ -15828,12 +13699,6 @@
     "title": "データ流通におけるトラスト管理モデルの技術的課題分析",
     "authors": [
       {
-        "name": "Analysis of Trustworthiness in Data Trading and Its Technical Issues",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "磯原 隆将",
         "affiliations": [
           "KDDI総合研究所"
@@ -15875,12 +13740,6 @@
     "title": "Theoretical Security against adversarial examples on Gaussian Processes",
     "authors": [
       {
-        "name": "Theoretical Security against adversarial examples on Gaussian Processes",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
         "name": "前嶋啓彰",
         "affiliations": [
           "情報セキュリティ大学院大学; NTTテクノクロス株式会社"
@@ -15897,7 +13756,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "4F2-4 Theoretical Security against adversarial examples on Gaussian Processes Theoretical Security against adversarial examples on Gaussian Processes 前嶋啓彰 大塚玲 情報セキュリティ大学院大学; NTTテクノクロス株式会社 情報セキュリティ大学院大学"
+    "search_text": "4F2-4 Theoretical Security against adversarial examples on Gaussian Processes 前嶋啓彰 大塚玲 情報セキュリティ大学院大学; NTTテクノクロス株式会社 情報セキュリティ大学院大学"
   },
   {
     "event": "SCIS2022",
@@ -15905,12 +13764,6 @@
     "id": "4F2-5",
     "title": "機械学習ベースマルウェア検知モデルに対するclean-labelバックドア攻撃とその対策について",
     "authors": [
-      {
-        "name": "Clean-label backdoor attack against machine learning-based malware detection models and countermeasures",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
       {
         "name": "鄭万嘉",
         "affiliations": [

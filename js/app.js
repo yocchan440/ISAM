@@ -465,11 +465,25 @@ document.addEventListener('DOMContentLoaded', () => {
                 eventHtml = `<a href="${eventUrl}" class="event-link" target="_blank" rel="noopener noreferrer" title="公式プログラムサイトを開く">${escapeHtml(eventStr)} <span class="link-arrow">↗</span></a>`;
             }
 
-            const awardIcons = { '最優秀論文賞': '🏆', '優秀論文賞': '🥇', '奨励賞': '✨', '学生論文賞': '🎓', 'コンセプト研究賞': '💡', 'エシカルプラクティス研究賞': '🧭' };
-            const awardClasses = { '最優秀論文賞': 'best', '優秀論文賞': 'excellent', '奨励賞': 'encouragement', '学生論文賞': 'student', 'コンセプト研究賞': 'concept', 'エシカルプラクティス研究賞': 'ethical' };
-            const awardsHtml = (paper.awards || []).map(a =>
-                `<span class="award-badge award-${awardClasses[a] || 'other'}">${awardIcons[a] || '🏅'} ${escapeHtml(a)}</span>`
-            ).join('');
+            // 賞名からバッジの種類とアイコンを決定 (MWS/PWS等のワークショップ賞は 'workshop')
+            const awardKinds = [
+                [/^(MWS|PWS|UWS|OWS|BWS)/, 'workshop', '🛠️'],
+                [/20周年/, 'anniv', '🎉'],
+                [/ポスター/, 'poster', '📌'],
+                [/イノベーション論文賞/, 'innovation', '🚀'],
+                [/^SCIS論文賞/, 'scis', '📜'],
+                [/最優秀/, 'best', '🏆'],
+                [/優秀デモ/, 'demo', '🖥️'],
+                [/優秀/, 'excellent', '🥇'],
+                [/奨励/, 'encouragement', '✨'],
+                [/学生/, 'student', '🎓'],
+                [/コンセプト/, 'concept', '💡'],
+                [/エシカル/, 'ethical', '🧭']
+            ];
+            const awardsHtml = (paper.awards || []).map(a => {
+                const kind = awardKinds.find(k => k[0].test(a));
+                return `<span class="award-badge award-${kind ? kind[1] : 'other'}">${kind ? kind[2] : '🏅'} ${escapeHtml(a)}</span>`;
+            }).join('');
 
             const paperIdx = state.filteredPapers.indexOf(paper);
 

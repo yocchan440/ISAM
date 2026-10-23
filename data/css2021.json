@@ -549,7 +549,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1C2-3 コネクテッドカーはインターネット上から発見可能か？ 植田 岳洋 佐々木 貴之 吉岡 克成 松本 勉 横浜国立大学大学院環境情報学府 横浜国立大学先端科学高等研究院 横浜国立大学大学院環境情報研究院 先端科学高等研究院 横浜国立大学大学院環境情報研究院 先端科学高等研究院"
+    "search_text": "1C2-3 コネクテッドカーはインターネット上から発見可能か？ 植田 岳洋 佐々木 貴之 吉岡 克成 松本 勉 横浜国立大学大学院環境情報学府 横浜国立大学先端科学高等研究院 横浜国立大学大学院環境情報研究院 先端科学高等研究院 横浜国立大学大学院環境情報研究院 先端科学高等研究院 優秀論文賞",
+    "awards": [
+      "優秀論文賞"
+    ]
   },
   {
     "event": "CSS2021",
@@ -1200,7 +1203,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1D3-3 クラウドソーシングを用いたWebAuthnベース生体認証のユーザビリティ調査 山口 修司 五味 秀仁 大神 渉 日暮 立 ヤフー株式会社 ヤフー株式会社 ヤフー株式会社 ヤフー株式会社"
+    "search_text": "1D3-3 クラウドソーシングを用いたWebAuthnベース生体認証のユーザビリティ調査 山口 修司 五味 秀仁 大神 渉 日暮 立 ヤフー株式会社 ヤフー株式会社 ヤフー株式会社 ヤフー株式会社 優秀論文賞",
+    "awards": [
+      "優秀論文賞"
+    ]
   },
   {
     "event": "CSS2021",
@@ -1294,7 +1300,7 @@
       {
         "name": "Maharage Nisansala Sevwandi Perera",
         "affiliations": [
-          "Adaptive Communications Research Laboratories, Advanced Telecommunications Research Institute International (ATR"
+          "Adaptive Communications Research Laboratories, Advanced Telecommunications Research Institute International (ATR)"
         ],
         "is_presenter": true,
         "presenter_symbol": "○"
@@ -1302,7 +1308,8 @@
       {
         "name": "Toru Nakamura",
         "affiliations": [
-          "Adaptive Communications Research Laboratories, Advanced Telecommunications Research Institute International (ATR"
+          "Adaptive Communications Research Laboratories, Advanced Telecommunications Research Institute International (ATR)",
+          "KDDI Research, Inc."
         ],
         "is_presenter": false,
         "presenter_symbol": ""
@@ -1310,7 +1317,7 @@
       {
         "name": "Masayuki Hashimoto",
         "affiliations": [
-          "Adaptive Communications Research Laboratories, Advanced Telecommunications Research Institute International (ATR"
+          "Adaptive Communications Research Laboratories, Advanced Telecommunications Research Institute International (ATR)"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
@@ -1318,7 +1325,7 @@
       {
         "name": "Hiroyuki Yokoyama",
         "affiliations": [
-          "Adaptive Communications Research Laboratories, Advanced Telecommunications Research Institute International (ATR"
+          "Adaptive Communications Research Laboratories, Advanced Telecommunications Research Institute International (ATR)"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
@@ -1326,7 +1333,8 @@
       {
         "name": "Chen-Mou Cheng",
         "affiliations": [
-          "Adaptive Communications Research Laboratories, Advanced Telecommunications Research Institute International (ATR"
+          "Adaptive Communications Research Laboratories, Advanced Telecommunications Research Institute International (ATR)",
+          "Kanazawa University"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
@@ -1334,13 +1342,14 @@
       {
         "name": "Kouichi Sakurai",
         "affiliations": [
-          "Adaptive Communications Research Laboratories, Advanced Telecommunications Research Institute International (ATR"
+          "Adaptive Communications Research Laboratories, Advanced Telecommunications Research Institute International (ATR)",
+          "Faculty of Information Science and Electrical Engineering, Kyushu University"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1E3-3 Efficient Revocation and Anonymous Revocation in VANETs Using Ring Signatures Maharage Nisansala Sevwandi Perera Toru Nakamura Masayuki Hashimoto Hiroyuki Yokoyama Chen-Mou Cheng Kouichi Sakurai Adaptive Communications Research Laboratories, Advanced Telecommunications Research Institute International (ATR Adaptive Communications Research Laboratories, Advanced Telecommunications Research Institute International (ATR Adaptive Communications Research Laboratories, Advanced Telecommunications Research Institute International (ATR Adaptive Communications Research Laboratories, Advanced Telecommunications Research Institute International (ATR Adaptive Communications Research Laboratories, Advanced Telecommunications Research Institute International (ATR Adaptive Communications Research Laboratories, Advanced Telecommunications Research Institute International (ATR"
+    "search_text": "1E3-3 Efficient Revocation and Anonymous Revocation in VANETs Using Ring Signatures Maharage Nisansala Sevwandi Perera Toru Nakamura Masayuki Hashimoto Hiroyuki Yokoyama Chen-Mou Cheng Kouichi Sakurai Adaptive Communications Research Laboratories, Advanced Telecommunications Research Institute International (ATR) Adaptive Communications Research Laboratories, Advanced Telecommunications Research Institute International (ATR) KDDI Research, Inc. Adaptive Communications Research Laboratories, Advanced Telecommunications Research Institute International (ATR) Adaptive Communications Research Laboratories, Advanced Telecommunications Research Institute International (ATR) Adaptive Communications Research Laboratories, Advanced Telecommunications Research Institute International (ATR) Kanazawa University Adaptive Communications Research Laboratories, Advanced Telecommunications Research Institute International (ATR) Faculty of Information Science and Electrical Engineering, Kyushu University"
   },
   {
     "event": "CSS2021",
@@ -1381,7 +1390,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1B4-1 差分プライベートなベイジアンニューラルネットワークのプライバシーリスク 芝原 俊樹 三浦 尭之 紀伊 真昇 市川 敦謙 NTT社会情報研究所 NTT社会情報研究所 NTT社会情報研究所 NTT社会情報研究所"
+    "search_text": "1B4-1 差分プライベートなベイジアンニューラルネットワークのプライバシーリスク 芝原 俊樹 三浦 尭之 紀伊 真昇 市川 敦謙 NTT社会情報研究所 NTT社会情報研究所 NTT社会情報研究所 NTT社会情報研究所 奨励賞",
+    "awards": [
+      "奨励賞"
+    ]
   },
   {
     "event": "CSS2021",
@@ -1537,7 +1549,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1C4-1 トリガとモデル両方の識別不可能性を持つバックドア攻撃 岩花 一輝 矢内 直人 藤原 融 大阪大学 大阪大学 大阪大学"
+    "search_text": "1C4-1 トリガとモデル両方の識別不可能性を持つバックドア攻撃 岩花 一輝 矢内 直人 藤原 融 大阪大学 大阪大学 大阪大学 学生論文賞",
+    "awards": [
+      "学生論文賞"
+    ]
   },
   {
     "event": "CSS2021",
@@ -1741,7 +1756,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1D4-2 偽造ウェブサイトに対する顔画像生成技術を用いた判別支援手法の設計と実装 山崎 慎治 宮本 大輔 東京大学大学院 東京大学大学院"
+    "search_text": "1D4-2 偽造ウェブサイトに対する顔画像生成技術を用いた判別支援手法の設計と実装 山崎 慎治 宮本 大輔 東京大学大学院 東京大学大学院 学生論文賞",
+    "awards": [
+      "学生論文賞"
+    ]
   },
   {
     "event": "CSS2021",
@@ -1850,7 +1868,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1E4-1 最小枚数の非コミット型６入力ANDプロトコルのシャッフル回数の改善 五十鈴川 頼宗 宮原 大輝 水木 敬明 東北大学 東北大学 産業技術総合研究所 東北大学 産業技術総合研究所"
+    "search_text": "1E4-1 最小枚数の非コミット型６入力ANDプロトコルのシャッフル回数の改善 五十鈴川 頼宗 宮原 大輝 水木 敬明 東北大学 東北大学 産業技術総合研究所 東北大学 産業技術総合研究所 学生論文賞",
+    "awards": [
+      "学生論文賞"
+    ]
   },
   {
     "event": "CSS2021",
@@ -2145,7 +2166,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2A1-4 遺伝的アルゴリズムに基づいた広域スキャンのフィンガープリント特定技術の提案 田中 智 韓 燦洙 高橋 健志 藤澤 克樹 国立研究開発法人情報通信研究機構 九州大学 国立研究開発法人情報通信研究機構 国立研究開発法人情報通信研究機構 九州大学"
+    "search_text": "2A1-4 遺伝的アルゴリズムに基づいた広域スキャンのフィンガープリント特定技術の提案 田中 智 韓 燦洙 高橋 健志 藤澤 克樹 国立研究開発法人情報通信研究機構 九州大学 国立研究開発法人情報通信研究機構 国立研究開発法人情報通信研究機構 九州大学 学生論文賞",
+    "awards": [
+      "学生論文賞"
+    ]
   },
   {
     "event": "CSS2021",
@@ -2156,7 +2180,7 @@
       {
         "name": "宮坂 剛",
         "affiliations": [
-          "(株"
+          "(株)アイネス総合研究所"
         ],
         "is_presenter": true,
         "presenter_symbol": "○"
@@ -2194,7 +2218,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2C1-1 侵入検知に向けたシステム内悪性活動の紐付け及び可視化システムの開発 宮坂 剛 大窪 巳祐 末次 信貴 稲葉 緑 橋本 正樹 (株 情報セキュリティ大学院大学 情報セキュリティ大学院大学 情報セキュリティ大学院大学 情報セキュリティ大学院大学"
+    "search_text": "2C1-1 侵入検知に向けたシステム内悪性活動の紐付け及び可視化システムの開発 宮坂 剛 大窪 巳祐 末次 信貴 稲葉 緑 橋本 正樹 (株)アイネス総合研究所 情報セキュリティ大学院大学 情報セキュリティ大学院大学 情報セキュリティ大学院大学 情報セキュリティ大学院大学"
   },
   {
     "event": "CSS2021",
@@ -2334,7 +2358,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2D1-1 青少年の適切なICT利活用に関わる親子の関係性調査 澤谷 雪子 佐野 絢音 中村 徹 磯原 隆将 株式会社KDDI総合研究所 株式会社KDDI総合研究所 株式会社KDDI総合研究所 株式会社KDDI総合研究所"
+    "search_text": "2D1-1 青少年の適切なICT利活用に関わる親子の関係性調査 澤谷 雪子 佐野 絢音 中村 徹 磯原 隆将 株式会社KDDI総合研究所 株式会社KDDI総合研究所 株式会社KDDI総合研究所 株式会社KDDI総合研究所 奨励賞",
+    "awards": [
+      "奨励賞"
+    ]
   },
   {
     "event": "CSS2021",
@@ -3081,7 +3108,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2A3-3 ラベル付きオープンデータセットを活用した2入力深層学習モデルによるネットワーク異常検知 吉村 尚人 白石 善明 森井 昌克 神戸大学 神戸大学 神戸大学"
+    "search_text": "2A3-3 ラベル付きオープンデータセットを活用した2入力深層学習モデルによるネットワーク異常検知 吉村 尚人 白石 善明 森井 昌克 神戸大学 神戸大学 神戸大学 学生論文賞",
+    "awards": [
+      "学生論文賞"
+    ]
   },
   {
     "event": "CSS2021",
@@ -3184,7 +3214,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2E3-2 AES-NIを用いたBeyond 5G向け認証暗号Roccaのラウンド関数の最適性の検証 竹内 信幸 阪本 光星 五十部 孝典 兵庫県立大学 兵庫県立大学 兵庫県立大学 国立研究開発法人情報通信研究機構 国立研究開発法人科学技術振興機構"
+    "search_text": "2E3-2 AES-NIを用いたBeyond 5G向け認証暗号Roccaのラウンド関数の最適性の検証 竹内 信幸 阪本 光星 五十部 孝典 兵庫県立大学 兵庫県立大学 兵庫県立大学 国立研究開発法人情報通信研究機構 国立研究開発法人科学技術振興機構 学生論文賞",
+    "awards": [
+      "学生論文賞"
+    ]
   },
   {
     "event": "CSS2021",
@@ -3219,7 +3252,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2E3-3 エンドツーエンド暗号化SFrameに対する安全性評価 五十部 孝典 伊藤 竜馬 峯松 一彦 兵庫県立大学 国立研究開発法人情報通信研究機構 国立研究開発法人科学技術振興機構 国立研究開発法人情報通信研究機構 日本電気株式会社"
+    "search_text": "2E3-3 エンドツーエンド暗号化SFrameに対する安全性評価 五十部 孝典 伊藤 竜馬 峯松 一彦 兵庫県立大学 国立研究開発法人情報通信研究機構 国立研究開発法人科学技術振興機構 国立研究開発法人情報通信研究機構 日本電気株式会社 奨励賞",
+    "awards": [
+      "奨励賞"
+    ]
   },
   {
     "event": "CSS2021",
@@ -3360,7 +3396,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2C4-1 KeycloakにおけるOAuth 2.0ベースのセキュリティプロファイルの柔軟な実現方法 (第二報) 乗松 隆志 中村 雄一 株式会社 日立製作所 株式会社 日立製作所"
+    "search_text": "2C4-1 KeycloakにおけるOAuth 2.0ベースのセキュリティプロファイルの柔軟な実現方法 (第二報) 乗松 隆志 中村 雄一 株式会社 日立製作所 株式会社 日立製作所 奨励賞",
+    "awards": [
+      "奨励賞"
+    ]
   },
   {
     "event": "CSS2021",
@@ -3369,7 +3408,7 @@
     "title": "カーネルにおけるMemory Protection Keyを用いた権限情報保護機構の提案",
     "authors": [
       {
-        "name": "葛󠄀野 弘樹",
+        "name": "葛野 弘樹",
         "affiliations": [
           "セコム株式会社 IS 研究所"
         ],
@@ -3385,7 +3424,7 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2C4-2 カーネルにおけるMemory Protection Keyを用いた権限情報保護機構の提案 葛󠄀野 弘樹 山内 利宏 セコム株式会社 IS 研究所 岡山大学学術研究院自然科学学域"
+    "search_text": "2C4-2 カーネルにおけるMemory Protection Keyを用いた権限情報保護機構の提案 葛野 弘樹 山内 利宏 セコム株式会社 IS 研究所 岡山大学学術研究院自然科学学域"
   },
   {
     "event": "CSS2021",
@@ -3967,7 +4006,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3E1-1 モノの電子署名：物体に署名するための一検討 林 リウヤ 浅野 泰輝 林田 淳一郎 松田 隆宏 山田 翔太 勝又 秀一 坂井 祐介 照屋 唯紀 シュルツ ヤコブ アッタラパドゥン ナッタポン 花岡 悟一郎 松浦 幹太 松本 勉 東京大学生産技術研究所 東京大学生産技術研究所 東京大学生産技術研究所 産業技術総合研究所 産業技術総合研究所 産業技術総合研究所 産業技術総合研究所 産業技術総合研究所 産業技術総合研究所 産業技術総合研究所 産業技術総合研究所 産業技術総合研究所 東京大学生産技術研究所 産業技術総合研究所 横浜国立大学大学院環境情報研究院"
+    "search_text": "3E1-1 モノの電子署名：物体に署名するための一検討 林 リウヤ 浅野 泰輝 林田 淳一郎 松田 隆宏 山田 翔太 勝又 秀一 坂井 祐介 照屋 唯紀 シュルツ ヤコブ アッタラパドゥン ナッタポン 花岡 悟一郎 松浦 幹太 松本 勉 東京大学生産技術研究所 東京大学生産技術研究所 東京大学生産技術研究所 産業技術総合研究所 産業技術総合研究所 産業技術総合研究所 産業技術総合研究所 産業技術総合研究所 産業技術総合研究所 産業技術総合研究所 産業技術総合研究所 産業技術総合研究所 東京大学生産技術研究所 産業技術総合研究所 横浜国立大学大学院環境情報研究院 優秀論文賞",
+    "awards": [
+      "優秀論文賞"
+    ]
   },
   {
     "event": "CSS2021",
@@ -4175,7 +4217,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3A2-2 IoTマルウェアにおける関数の依存関係と結合の順序関係に基づくライブラリ関数名の特定 赤羽 秀 川古谷 裕平 岩村 誠 岡本 剛 神奈川工科大学 NTT社会情報研究所 NTT社会情報研究所 神奈川工科大学"
+    "search_text": "3A2-2 IoTマルウェアにおける関数の依存関係と結合の順序関係に基づくライブラリ関数名の特定 赤羽 秀 川古谷 裕平 岩村 誠 岡本 剛 神奈川工科大学 NTT社会情報研究所 NTT社会情報研究所 神奈川工科大学 奨励賞",
+    "awards": [
+      "奨励賞"
+    ]
   },
   {
     "event": "CSS2021",
@@ -4225,7 +4270,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3A2-3 スクリプト実行環境に対する実行遅延・実行停止を回避する機能の自動付与手法 碓井 利宣 幾世 知範 川古谷 裕平 岩村 誠 松浦 幹太 NTT社会情報研究所 東京大学生産技術研究所 NTT社会情報研究所 NTT社会情報研究所 NTT社会情報研究所 東京大学生産技術研究所"
+    "search_text": "3A2-3 スクリプト実行環境に対する実行遅延・実行停止を回避する機能の自動付与手法 碓井 利宣 幾世 知範 川古谷 裕平 岩村 誠 松浦 幹太 NTT社会情報研究所 東京大学生産技術研究所 NTT社会情報研究所 NTT社会情報研究所 NTT社会情報研究所 東京大学生産技術研究所 優秀論文賞",
+    "awards": [
+      "優秀論文賞"
+    ]
   },
   {
     "event": "CSS2021",
@@ -4300,7 +4348,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3C2-2 接触確認フレームワークに対する陽性者特定攻撃の評価と対策 野本 一輝 秋山 満昭 衛藤 将史 猪俣 敦夫 森 達哉 早稲田大学 日本電信電話株式会社 総務省 大阪大学 早稲田大学 国立研究開発法人情報通信研究機構"
+    "search_text": "3C2-2 接触確認フレームワークに対する陽性者特定攻撃の評価と対策 野本 一輝 秋山 満昭 衛藤 将史 猪俣 敦夫 森 達哉 早稲田大学 日本電信電話株式会社 総務省 大阪大学 早稲田大学 国立研究開発法人情報通信研究機構 最優秀論文賞",
+    "awards": [
+      "最優秀論文賞"
+    ]
   },
   {
     "event": "CSS2021",
@@ -4311,7 +4362,9 @@
       {
         "name": "才所 敏明",
         "affiliations": [
-          "（株"
+          "（株）IT 企画",
+          "中央大学研究開発機構",
+          "(株)ZenmuTech"
         ],
         "is_presenter": true,
         "presenter_symbol": "○"
@@ -4328,13 +4381,13 @@
         "name": "櫻井 幸一",
         "affiliations": [
           "九州大学大学院システム情報科学研究院＆サイバーセキュリティーセンター",
-          "（株"
+          "（株）国際電気通信基盤技術研究所"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3C2-3 自己主権型アイデンティティ情報利活用基盤に関する考察 才所 敏明 辻井 重男 櫻井 幸一 （株 中央大学研究開発機構 九州大学大学院システム情報科学研究院＆サイバーセキュリティーセンター （株"
+    "search_text": "3C2-3 自己主権型アイデンティティ情報利活用基盤に関する考察 才所 敏明 辻井 重男 櫻井 幸一 （株）IT 企画 中央大学研究開発機構 (株)ZenmuTech 中央大学研究開発機構 九州大学大学院システム情報科学研究院＆サイバーセキュリティーセンター （株）国際電気通信基盤技術研究所"
   },
   {
     "event": "CSS2021",
@@ -4345,7 +4398,7 @@
       {
         "name": "花谷 嘉一",
         "affiliations": [
-          "（株"
+          "（株）東芝研究開発センターサイバーセキュリティ技術センター"
         ],
         "is_presenter": true,
         "presenter_symbol": "○"
@@ -4353,7 +4406,7 @@
       {
         "name": "米村 智子",
         "affiliations": [
-          "（株"
+          "（株）東芝研究開発センターサイバーセキュリティ技術センター"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
@@ -4361,7 +4414,7 @@
       {
         "name": "小美濃 つかさ",
         "affiliations": [
-          "（株"
+          "（株）東芝研究開発センターサイバーセキュリティ技術センター"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
@@ -4369,7 +4422,7 @@
       {
         "name": "小松 みさき",
         "affiliations": [
-          "（株"
+          "（株）東芝研究開発センターサイバーセキュリティ技術センター"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
@@ -4377,7 +4430,7 @@
       {
         "name": "池田 竜朗",
         "affiliations": [
-          "（株"
+          "（株）東芝研究開発センターサイバーセキュリティ技術センター"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
@@ -4385,7 +4438,7 @@
       {
         "name": "足立 泰則",
         "affiliations": [
-          "東芝デジタルソリューションズ（株"
+          "東芝デジタルソリューションズ（株）ICTソリューション事業部"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
@@ -4393,7 +4446,7 @@
       {
         "name": "栗田 英和",
         "affiliations": [
-          "東芝デジタルソリューションズ（株"
+          "東芝デジタルソリューションズ（株）ICTソリューション事業部"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
@@ -4401,13 +4454,13 @@
       {
         "name": "山口 泰平",
         "affiliations": [
-          "（株"
+          "（株）東芝技術企画部ライフサイエンス推進室"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3C2-4 ゲノム情報を適切に利活用するためのデータ流通プラットフォームの開発 花谷 嘉一 米村 智子 小美濃 つかさ 小松 みさき 池田 竜朗 足立 泰則 栗田 英和 山口 泰平 （株 （株 （株 （株 （株 東芝デジタルソリューションズ（株 東芝デジタルソリューションズ（株 （株"
+    "search_text": "3C2-4 ゲノム情報を適切に利活用するためのデータ流通プラットフォームの開発 花谷 嘉一 米村 智子 小美濃 つかさ 小松 みさき 池田 竜朗 足立 泰則 栗田 英和 山口 泰平 （株）東芝研究開発センターサイバーセキュリティ技術センター （株）東芝研究開発センターサイバーセキュリティ技術センター （株）東芝研究開発センターサイバーセキュリティ技術センター （株）東芝研究開発センターサイバーセキュリティ技術センター （株）東芝研究開発センターサイバーセキュリティ技術センター 東芝デジタルソリューションズ（株）ICTソリューション事業部 東芝デジタルソリューションズ（株）ICTソリューション事業部 （株）東芝技術企画部ライフサイエンス推進室"
   },
   {
     "event": "CSS2021",
@@ -4432,7 +4485,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3E2-1 3ラウンドFeistel暗号に対するGroverのアルゴリズムを用いた効率的な鍵回復攻撃 台座 崇規 米山 一樹 茨城大学大学院理工学研究科 茨城大学"
+    "search_text": "3E2-1 3ラウンドFeistel暗号に対するGroverのアルゴリズムを用いた効率的な鍵回復攻撃 台座 崇規 米山 一樹 茨城大学大学院理工学研究科 茨城大学 奨励賞",
+    "awards": [
+      "奨励賞"
+    ]
   },
   {
     "event": "CSS2021",
@@ -4580,7 +4636,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3C3-1 QRコード化した身分証明書顔写真による本人認証システムの開発 中嶋 祥吾 瀧田 愼 白石 善明 森井 昌克 神戸大学 兵庫県立大学 神戸大学 神戸大学"
+    "search_text": "3C3-1 QRコード化した身分証明書顔写真による本人認証システムの開発 中嶋 祥吾 瀧田 愼 白石 善明 森井 昌克 神戸大学 兵庫県立大学 神戸大学 神戸大学 学生論文賞",
+    "awards": [
+      "学生論文賞"
+    ]
   },
   {
     "event": "CSS2021",
@@ -4851,7 +4910,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3E3-3 機械学習を用いたCyber Threat Intelligenceの構造化と横断的分析 藤井 翔太 川口 信隆 重本 倫宏 山内 利宏 株式会社日立製作所 岡山大学大学院自然科学研究科 株式会社日立製作所 株式会社日立製作所 岡山大学 学術研究院自然科学学域"
+    "search_text": "3E3-3 機械学習を用いたCyber Threat Intelligenceの構造化と横断的分析 藤井 翔太 川口 信隆 重本 倫宏 山内 利宏 株式会社日立製作所 岡山大学大学院自然科学研究科 株式会社日立製作所 株式会社日立製作所 岡山大学 学術研究院自然科学学域 優秀論文賞",
+    "awards": [
+      "優秀論文賞"
+    ]
   },
   {
     "event": "CSS2021",
@@ -4933,7 +4995,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3B4-1 完全準同型暗号を用いた秘匿LTLオンラインモニタリング 伴野 良太郎 松岡 航太郎 松本 直樹 Bian Song 和賀 正樹 末永 幸平 京都大学大学院 通信情報システム専攻 京都大学大学院 通信情報システム専攻 京都大学大学院 知能情報学専攻 京都大学大学院 通信情報システム専攻 京都大学大学院 通信情報システム専攻 京都大学大学院 通信情報システム専攻"
+    "search_text": "3B4-1 完全準同型暗号を用いた秘匿LTLオンラインモニタリング 伴野 良太郎 松岡 航太郎 松本 直樹 Bian Song 和賀 正樹 末永 幸平 京都大学大学院 通信情報システム専攻 京都大学大学院 通信情報システム専攻 京都大学大学院 知能情報学専攻 京都大学大学院 通信情報システム専攻 京都大学大学院 通信情報システム専攻 京都大学大学院 通信情報システム専攻 優秀論文賞",
+    "awards": [
+      "優秀論文賞"
+    ]
   },
   {
     "event": "CSS2021",
@@ -5098,7 +5163,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3C4-2 Androidアプリの自動リンクにおける悪意のあるリンク生成リスクの検討 辻 知希 嶋田 創 山口 由紀子 長谷川 皓一 名古屋大学 大学院 情報学研究科 名古屋大学 情報基盤センター 名古屋大学 情報基盤センター 名古屋大学 情報連携推進本部 情報セキュリティ室"
+    "search_text": "3C4-2 Androidアプリの自動リンクにおける悪意のあるリンク生成リスクの検討 辻 知希 嶋田 創 山口 由紀子 長谷川 皓一 名古屋大学 大学院 情報学研究科 名古屋大学 情報基盤センター 名古屋大学 情報基盤センター 名古屋大学 情報連携推進本部 情報セキュリティ室 優秀論文賞",
+    "awards": [
+      "優秀論文賞"
+    ]
   },
   {
     "event": "CSS2021",
@@ -5404,7 +5472,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "4A1-4 SleepHop: 動的バイナリ計装によるマルウェアのタイミング攻撃の無効化 鈴木 克弥 大山 恵弘 筑波大学 筑波大学"
+    "search_text": "4A1-4 SleepHop: 動的バイナリ計装によるマルウェアのタイミング攻撃の無効化 鈴木 克弥 大山 恵弘 筑波大学 筑波大学 奨励賞",
+    "awards": [
+      "奨励賞"
+    ]
   },
   {
     "event": "CSS2021",
@@ -5707,7 +5778,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "4C1-2 深層強化学習を用いたWebアプリの脆弱性検査のためのAIエージェント 谷崎 俊介 廣友 雅徳 白石 善明 佐賀大学理工学部 佐賀大学理工学部 神戸大学大学院工学研究科"
+    "search_text": "4C1-2 深層強化学習を用いたWebアプリの脆弱性検査のためのAIエージェント 谷崎 俊介 廣友 雅徳 白石 善明 佐賀大学理工学部 佐賀大学理工学部 神戸大学大学院工学研究科 奨励賞",
+    "awards": [
+      "奨励賞"
+    ]
   },
   {
     "event": "CSS2021",
@@ -5971,7 +6045,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "4D1-3 入札額の上限漏洩を防止した資金拘束型の封印入札オークション 陳 浩太 江村 恵太 佐藤 慎悟 面 和成 筑波大学 情報通信研究機構 情報通信研究機構 情報通信研究機構 筑波大学 情報通信研究機構"
+    "search_text": "4D1-3 入札額の上限漏洩を防止した資金拘束型の封印入札オークション 陳 浩太 江村 恵太 佐藤 慎悟 面 和成 筑波大学 情報通信研究機構 情報通信研究機構 情報通信研究機構 筑波大学 情報通信研究機構 奨励賞",
+    "awards": [
+      "奨励賞"
+    ]
   },
   {
     "event": "CSS2021",

@@ -1,7 +1,7 @@
 [
   {
     "event": "CSS1999",
-    "session": "会場 A :Session 1A(暗号) - 座長 : 松本 勉 \n\n(横浜国立大)",
+    "session": "1A: 暗号",
     "id": "1A-1",
     "title": "分散機関の相対的時刻印を利用した絶対的時刻印生成プロトコル",
     "authors": [
@@ -26,7 +26,7 @@
   },
   {
     "event": "CSS1999",
-    "session": "会場 A :Session 1A(暗号) - 座長 : 松本 勉 \n\n(横浜国立大)",
+    "session": "1A: 暗号",
     "id": "1A-2",
     "title": "Gaudry's variant の Cab 曲線への適用",
     "authors": [
@@ -43,7 +43,7 @@
   },
   {
     "event": "CSS1999",
-    "session": "会場 A :Session 1A(暗号) - 座長 : 松本 勉 \n\n(横浜国立大)",
+    "session": "1A: 暗号",
     "id": "1A-3",
     "title": "平文暗号の考察（暗号の犯罪利用の一形態について）",
     "authors": [
@@ -54,11 +54,11 @@
         "presenter_symbol": "○"
       }
     ],
-    "search_text": "1A-3 平文暗号の考察（暗号の犯罪利用の一形態について） 五十嵐 育弘 "
+    "search_text": "1A-3 平文暗号の考察（暗号の犯罪利用の一形態について） 五十嵐 育弘"
   },
   {
     "event": "CSS1999",
-    "session": "会場 A :Session 1A(暗号) - 座長 : 松本 勉 \n\n(横浜国立大)",
+    "session": "1A: 暗号",
     "id": "1A-4",
     "title": "署名依頼者のメッセージ復元に基づく委任署名",
     "authors": [
@@ -91,7 +91,7 @@
   },
   {
     "event": "CSS1999",
-    "session": "会場 A :Session 1A(暗号) - 座長 : 松本 勉 \n\n(横浜国立大)",
+    "session": "1A: 暗号",
     "id": "1A-5",
     "title": "安全性が強化されたElGamal型暗号の安全性に関する考察",
     "authors": [
@@ -132,7 +132,7 @@
   },
   {
     "event": "CSS1999",
-    "session": "会場 B :Session 1B(ソフトウェア保護・プライバシ保護) - 座長 : \n\n佐々木 良一 (日立)",
+    "session": "1B: ソフトウェア保護・プライバシ保護",
     "id": "1B-1",
     "title": "公平な到達確認プロトコル",
     "authors": [
@@ -157,7 +157,7 @@
   },
   {
     "event": "CSS1999",
-    "session": "会場 B :Session 1B(ソフトウェア保護・プライバシ保護) - 座長 : \n\n佐々木 良一 (日立)",
+    "session": "1B: ソフトウェア保護・プライバシ保護",
     "id": "1B-2",
     "title": "環状経路を用いた匿名性と位置情報プライバシの保護",
     "authors": [
@@ -198,7 +198,7 @@
   },
   {
     "event": "CSS1999",
-    "session": "会場 B :Session 1B(ソフトウェア保護・プライバシ保護) - 座長 : \n\n佐々木 良一 (日立)",
+    "session": "1B: ソフトウェア保護・プライバシ保護",
     "id": "1B-3",
     "title": "耐タンパ・移動エージェントの提案",
     "authors": [
@@ -231,7 +231,7 @@
   },
   {
     "event": "CSS1999",
-    "session": "会場 B :Session 1B(ソフトウェア保護・プライバシ保護) - 座長 : \n\n佐々木 良一 (日立)",
+    "session": "1B: ソフトウェア保護・プライバシ保護",
     "id": "1B-4",
     "title": "IC カードから CPU への秘密情報の送信",
     "authors": [
@@ -272,12 +272,12 @@
   },
   {
     "event": "CSS1999",
-    "session": "会場 B :Session 1B(ソフトウェア保護・プライバシ保護) - 座長 : \n\n佐々木 良一 (日立)",
+    "session": "1B: ソフトウェア保護・プライバシ保護",
     "id": "1B-5",
-    "title": "Micr",
+    "title": "Microsoft Office 2000のディジタル証明によるマクロウイルス対策実験",
     "authors": [
       {
-        "name": "s○ft ○ffice 2000のディジタル証明によるマクロウイルス対策実験○千石 靖",
+        "name": "千石 靖",
         "affiliations": [
           "金沢工大"
         ],
@@ -293,12 +293,12 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1B-5 Micr s○ft ○ffice 2000のディジタル証明によるマクロウイルス対策実験○千石 靖 服部 進実 金沢工大 金沢工大"
+    "search_text": "1B-5 Microsoft Office 2000のディジタル証明によるマクロウイルス対策実験 千石 靖 服部 進実 金沢工大 金沢工大"
   },
   {
     "event": "CSS1999",
-    "session": "会場 A :Session S1(特別講演 \n\n1) - 座長 : 林 彬 (金沢工大)",
-    "id": "S1-1",
+    "session": "S1: 特別講演 1",
+    "id": "invited-1",
     "title": "西暦2000年問題の法的側面",
     "authors": [
       {
@@ -310,36 +310,36 @@
         "presenter_symbol": "○"
       }
     ],
-    "search_text": "S1-1 西暦2000年問題の法的側面 大谷 和子 (株) 日本総研法務部長"
+    "search_text": "invited-1 西暦2000年問題の法的側面 大谷 和子 (株) 日本総研法務部長"
   },
   {
     "event": "CSS1999",
-    "session": "会場 B :Session 2B(ネットワークセキュリティ 1) - 座長 : 宮地 充子 \n\n(北陸先端大)",
+    "session": "2B: ネットワークセキュリティ 1",
     "id": "2B-1",
-    "title": "New Results",
+    "title": "New Results on Model Checking Authentication Protocols",
     "authors": [
       {
-        "name": "n M○del Checking Authenticati○n Pr○t○c○ls○Wen Wu",
+        "name": "Wen Wu",
         "affiliations": [
-          "Science University ○f T○ky○"
+          "Science University of Tokyo"
         ],
         "is_presenter": true,
         "presenter_symbol": "○"
       },
       {
-        "name": "Miz○guchi Fumi○",
+        "name": "Mizoguchi Fumio",
         "affiliations": [
-          "Science University ○f T○ky○"
+          "Science University of Tokyo"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2B-1 New Results n M○del Checking Authenticati○n Pr○t○c○ls○Wen Wu Miz○guchi Fumi○ Science University ○f T○ky○ Science University ○f T○ky○"
+    "search_text": "2B-1 New Results on Model Checking Authentication Protocols Wen Wu Mizoguchi Fumio Science University of Tokyo Science University of Tokyo"
   },
   {
     "event": "CSS1999",
-    "session": "会場 B :Session 2B(ネットワークセキュリティ 1) - 座長 : 宮地 充子 \n\n(北陸先端大)",
+    "session": "2B: ネットワークセキュリティ 1",
     "id": "2B-2",
     "title": "柔軟なメールアドレス化に伴うアクセス制御の問題",
     "authors": [
@@ -356,7 +356,7 @@
   },
   {
     "event": "CSS1999",
-    "session": "会場 B :Session 2B(ネットワークセキュリティ 1) - 座長 : 宮地 充子 \n\n(北陸先端大)",
+    "session": "2B: ネットワークセキュリティ 1",
     "id": "2B-3",
     "title": "データ・ハイディングの遠隔データ解析に対する影響",
     "authors": [
@@ -373,7 +373,7 @@
   },
   {
     "event": "CSS1999",
-    "session": "会場 A :Session 3A(電子商取引・電子入札) - 座長 : 白石 高義 (広島修道大)",
+    "session": "3A: 電子商取引・電子入札",
     "id": "3A-1",
     "title": "電子申請に適用可能な電子印紙システム",
     "authors": [
@@ -414,7 +414,7 @@
   },
   {
     "event": "CSS1999",
-    "session": "会場 A :Session 3A(電子商取引・電子入札) - 座長 : 白石 高義 (広島修道大)",
+    "session": "3A: 電子商取引・電子入札",
     "id": "3A-2",
     "title": "権利流通基盤実現のための汎用デジタルチケットシステム",
     "authors": [
@@ -455,7 +455,7 @@
   },
   {
     "event": "CSS1999",
-    "session": "会場 A :Session 3A(電子商取引・電子入札) - 座長 : 白石 高義 (広島修道大)",
+    "session": "3A: 電子商取引・電子入札",
     "id": "3A-3",
     "title": "権利流通基盤実現のための原本性保証方式",
     "authors": [
@@ -488,7 +488,7 @@
   },
   {
     "event": "CSS1999",
-    "session": "会場 A :Session 3A(電子商取引・電子入札) - 座長 : 白石 高義 (広島修道大)",
+    "session": "3A: 電子商取引・電子入札",
     "id": "3A-4",
     "title": "権利流通基盤実現のための権利情報定義言語",
     "authors": [
@@ -521,7 +521,7 @@
   },
   {
     "event": "CSS1999",
-    "session": "会場 A :Session 3A(電子商取引・電子入札) - 座長 : 白石 高義 (広島修道大)",
+    "session": "3A: 電子商取引・電子入札",
     "id": "3A-5",
     "title": "オフライン電子マネーに関する一考察",
     "authors": [
@@ -562,7 +562,7 @@
   },
   {
     "event": "CSS1999",
-    "session": "会場 A :Session 3A(電子商取引・電子入札) - 座長 : 白石 高義 (広島修道大)",
+    "session": "3A: 電子商取引・電子入札",
     "id": "3A-6",
     "title": "グループ鍵を用いた匿名電子入札方式",
     "authors": [
@@ -587,12 +587,12 @@
   },
   {
     "event": "CSS1999",
-    "session": "会場 A :Session 3A(電子商取引・電子入札) - 座長 : 白石 高義 (広島修道大)",
+    "session": "3A: 電子商取引・電子入札",
     "id": "3A-7",
-    "title": "匿名オークションを実現する分散システムの実装と評",
+    "title": "匿名オークションを実現する分散システムの実装と評価",
     "authors": [
       {
-        "name": "価菊池 浩明",
+        "name": "菊池 浩明",
         "affiliations": [
           "東海大"
         ],
@@ -624,11 +624,11 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3A-7 匿名オークションを実現する分散システムの実装と評 価菊池 浩明 掘田 信司 安部 謙介 中西 祥八郎 東海大 東海大 東海大 東海大"
+    "search_text": "3A-7 匿名オークションを実現する分散システムの実装と評価 菊池 浩明 掘田 信司 安部 謙介 中西 祥八郎 東海大 東海大 東海大 東海大"
   },
   {
     "event": "CSS1999",
-    "session": "会場 B :Session 3B(不正アクセス対策) - 座長 : 松浦 幹太 (東京大)",
+    "session": "3B: 不正アクセス対策",
     "id": "3B-1",
     "title": "パケット監視によるネットワーク侵入検出システムの実装と評価",
     "authors": [
@@ -653,24 +653,24 @@
   },
   {
     "event": "CSS1999",
-    "session": "会場 B :Session 3B(不正アクセス対策) - 座長 : 松浦 幹太 (東京大)",
+    "session": "3B: 不正アクセス対策",
     "id": "3B-2",
-    "title": "侵入解析用ビジュアルブラウザ",
+    "title": "侵入解析用ビジュアルブラウザの設計 カッコウエッグプロジェクト",
     "authors": [
       {
-        "name": "の設計 カッコウエッグプロジェクト○溝口 文雄",
+        "name": "溝口 文雄",
         "affiliations": [
           "東京理科大"
         ],
-        "is_presenter": false,
-        "presenter_symbol": ""
+        "is_presenter": true,
+        "presenter_symbol": "○"
       }
     ],
-    "search_text": "3B-2 侵入解析用ビジュアルブラウザ の設計 カッコウエッグプロジェクト○溝口 文雄 東京理科大"
+    "search_text": "3B-2 侵入解析用ビジュアルブラウザの設計 カッコウエッグプロジェクト 溝口 文雄 東京理科大"
   },
   {
     "event": "CSS1999",
-    "session": "会場 B :Session 3B(不正アクセス対策) - 座長 : 松浦 幹太 (東京大)",
+    "session": "3B: 不正アクセス対策",
     "id": "3B-3",
     "title": "定義ファイルを用いた不正アクセス対策検査ツールの開発",
     "authors": [
@@ -703,9 +703,9 @@
   },
   {
     "event": "CSS1999",
-    "session": "会場 B :Session 3B(不正アクセス対策) - 座長 : 松浦 幹太 (東京大)",
+    "session": "3B: 不正アクセス対策",
     "id": "3B-4",
-    "title": "操作権認証と操作コマンドフィルタリング機能を有する情報系−制御系連携のためのファイアウォール",
+    "title": "操作権認証と操作コマンドフィルタリング機能を有する情報系－制御系連携のためのファイアウォール",
     "authors": [
       {
         "name": "古谷 雅年",
@@ -740,11 +740,11 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3B-4 操作権認証と操作コマンドフィルタリング機能を有する情報系−制御系連携のためのファイアウォール 古谷 雅年 加藤 博光 瀬古沢 照治 小泉 岳 日立 日立 日立 リアルテック"
+    "search_text": "3B-4 操作権認証と操作コマンドフィルタリング機能を有する情報系－制御系連携のためのファイアウォール 古谷 雅年 加藤 博光 瀬古沢 照治 小泉 岳 日立 日立 日立 リアルテック"
   },
   {
     "event": "CSS1999",
-    "session": "会場 B :Session 3B(不正アクセス対策) - 座長 : 松浦 幹太 (東京大)",
+    "session": "3B: 不正アクセス対策",
     "id": "3B-5",
     "title": "オープンベンダ不正アクセス対策システムにおける統合フレームワークの提案",
     "authors": [
@@ -817,7 +817,7 @@
   },
   {
     "event": "CSS1999",
-    "session": "会場 B :Session 3B(不正アクセス対策) - 座長 : 松浦 幹太 (東京大)",
+    "session": "3B: 不正アクセス対策",
     "id": "3B-6",
     "title": "オープンベンダ不正アクセス対策システムにおけるモジュール間通信方式の提案",
     "authors": [
@@ -882,7 +882,7 @@
   },
   {
     "event": "CSS1999",
-    "session": "会場 B :Session 3B(不正アクセス対策) - 座長 : 松浦 幹太 (東京大)",
+    "session": "3B: 不正アクセス対策",
     "id": "3B-7",
     "title": "オープンベンダ不正アクセス対策システムにおけるネットワークモニタ実装方式の検討",
     "authors": [
@@ -939,8 +939,8 @@
   },
   {
     "event": "CSS1999",
-    "session": "会場 A :Session S2(特別講演 2) - 座長 : 武部 幹 (金沢工大)",
-    "id": "S2-1",
+    "session": "S2: 特別講演 2",
+    "id": "invited-2",
     "title": "ハイテク犯罪の現状と対策",
     "authors": [
       {
@@ -952,16 +952,16 @@
         "presenter_symbol": "○"
       }
     ],
-    "search_text": "S2-1 ハイテク犯罪の現状と対策 田中 昌之 石川県警本部ハイテク犯罪捜査指導官"
+    "search_text": "invited-2 ハイテク犯罪の現状と対策 田中 昌之 石川県警本部ハイテク犯罪捜査指導官"
   },
   {
     "event": "CSS1999",
-    "session": "会場 A :Session 4A(認証・識別) - 座長 : 岡本 栄司 (ウィスコンシン大)",
+    "session": "4A: 認証・識別",
     "id": "4A-1",
-    "title": "A Verificati",
+    "title": "A Verification Tool of Authentication Protocols",
     "authors": [
       {
-        "name": "n T○○l ○f Authenticati○n Pr○t○c○ls○齋藤 孝道",
+        "name": "齋藤 孝道",
         "affiliations": [
           "東京理科大"
         ],
@@ -985,11 +985,11 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "4A-1 A Verificati n T○○l ○f Authenticati○n Pr○t○c○ls○齋藤 孝道 月村 賢治 Wu Wen 東京理科大 東京理科大 東京理科大"
+    "search_text": "4A-1 A Verification Tool of Authentication Protocols 齋藤 孝道 月村 賢治 Wu Wen 東京理科大 東京理科大 東京理科大"
   },
   {
     "event": "CSS1999",
-    "session": "会場 A :Session 4A(認証・識別) - 座長 : 岡本 栄司 (ウィスコンシン大)",
+    "session": "4A: 認証・識別",
     "id": "4A-2",
     "title": "電子公証システムに要求される認証技術",
     "authors": [
@@ -1014,7 +1014,7 @@
   },
   {
     "event": "CSS1999",
-    "session": "会場 A :Session 4A(認証・識別) - 座長 : 岡本 栄司 (ウィスコンシン大)",
+    "session": "4A: 認証・識別",
     "id": "4A-3",
     "title": "バイオメトリクス装置とICカードを使った本人認証システムに関する一考察",
     "authors": [
@@ -1047,7 +1047,7 @@
   },
   {
     "event": "CSS1999",
-    "session": "会場 B :Session 4B(電子透かし 1) - 座長 : 岩村 恵一 \n\n(キヤノン)",
+    "session": "4B: 電子透かし 1",
     "id": "4B-1",
     "title": "音楽ソフトへの電子透かしの検出法に関する一考察",
     "authors": [
@@ -1072,7 +1072,7 @@
   },
   {
     "event": "CSS1999",
-    "session": "会場 B :Session 4B(電子透かし 1) - 座長 : 岩村 恵一 \n\n(キヤノン)",
+    "session": "4B: 電子透かし 1",
     "id": "4B-2",
     "title": "周波数変換係数比を用いた濃淡画像への可変表示型電子透かし",
     "authors": [
@@ -1097,7 +1097,7 @@
   },
   {
     "event": "CSS1999",
-    "session": "会場 B :Session 4B(電子透かし 1) - 座長 : 岩村 恵一 \n\n(キヤノン)",
+    "session": "4B: 電子透かし 1",
     "id": "4B-3",
     "title": "埋め込み位置を考慮した Wavelet 変換による電子透かし",
     "authors": [
@@ -1122,7 +1122,7 @@
   },
   {
     "event": "CSS1999",
-    "session": "会場 A :Session 5A(ネットワークセキュリティ 2) - 座長 : \n\n鳥居 悟 (富士通)",
+    "session": "5A: ネットワークセキュリティ 2",
     "id": "5A-1",
     "title": "閉域通信グループの実現を容易にするグループ探索プロトコルの提案",
     "authors": [
@@ -1163,7 +1163,7 @@
   },
   {
     "event": "CSS1999",
-    "session": "会場 A :Session 5A(ネットワークセキュリティ 2) - 座長 : \n\n鳥居 悟 (富士通)",
+    "session": "5A: ネットワークセキュリティ 2",
     "id": "5A-2",
     "title": "認証局を使用しない公開鍵配布方式の設計",
     "authors": [
@@ -1188,7 +1188,7 @@
   },
   {
     "event": "CSS1999",
-    "session": "会場 A :Session 5A(ネットワークセキュリティ 2) - 座長 : \n\n鳥居 悟 (富士通)",
+    "session": "5A: ネットワークセキュリティ 2",
     "id": "5A-3",
     "title": "モバイルコードの対話型安全性証明",
     "authors": [
@@ -1205,7 +1205,7 @@
   },
   {
     "event": "CSS1999",
-    "session": "会場 A :Session 5A(ネットワークセキュリティ 2) - 座長 : \n\n鳥居 悟 (富士通)",
+    "session": "5A: ネットワークセキュリティ 2",
     "id": "5A-4",
     "title": "秘密鍵の漏洩を考慮したSSL通信プロトコルの提案",
     "authors": [
@@ -1238,7 +1238,7 @@
   },
   {
     "event": "CSS1999",
-    "session": "会場 A :Session 5A(ネットワークセキュリティ 2) - 座長 : \n\n鳥居 悟 (富士通)",
+    "session": "5A: ネットワークセキュリティ 2",
     "id": "5A-5",
     "title": "リニューアル可能な暗号認証システムの検討",
     "authors": [
@@ -1279,7 +1279,7 @@
   },
   {
     "event": "CSS1999",
-    "session": "会場 A :Session 5A(ネットワークセキュリティ 2) - 座長 : \n\n鳥居 悟 (富士通)",
+    "session": "5A: ネットワークセキュリティ 2",
     "id": "5A-6",
     "title": "X.509 証明書を用いた安全な情報機器のコントロール",
     "authors": [
@@ -1312,12 +1312,12 @@
   },
   {
     "event": "CSS1999",
-    "session": "会場 A :Session 5A(ネットワークセキュリティ 2) - 座長 : \n\n鳥居 悟 (富士通)",
+    "session": "5A: ネットワークセキュリティ 2",
     "id": "5A-7",
-    "title": "クッキーを用いた情報ハイディング方式とその実",
+    "title": "クッキーを用いた情報ハイディング方式とその実装",
     "authors": [
       {
-        "name": "装松本 勉",
+        "name": "松本 勉",
         "affiliations": [
           "横浜国大"
         ],
@@ -1357,11 +1357,11 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "5A-7 クッキーを用いた情報ハイディング方式とその実 装松本 勉 池田 竜朗 牧野 京子 佐藤 明男 村瀬 一郎 横浜国大 横浜国大 三菱 三菱 三菱"
+    "search_text": "5A-7 クッキーを用いた情報ハイディング方式とその実装 松本 勉 池田 竜朗 牧野 京子 佐藤 明男 村瀬 一郎 横浜国大 横浜国大 三菱 三菱 三菱"
   },
   {
     "event": "CSS1999",
-    "session": "会場 B :Session 5B(電子透かし 2・アーキテクチャ) - 座長 : \n\n松崎 なつめ (AMSL)",
+    "session": "5B: 電子透かし 2・アーキテクチャ",
     "id": "5B-1",
     "title": "コンテンツ再配布に適した電子透かしシステム",
     "authors": [
@@ -1386,7 +1386,7 @@
   },
   {
     "event": "CSS1999",
-    "session": "会場 B :Session 5B(電子透かし 2・アーキテクチャ) - 座長 : \n\n松崎 なつめ (AMSL)",
+    "session": "5B: 電子透かし 2・アーキテクチャ",
     "id": "5B-2",
     "title": "動画像符号化手順 H.263 への電子透かしの提案",
     "authors": [
@@ -1411,7 +1411,7 @@
   },
   {
     "event": "CSS1999",
-    "session": "会場 B :Session 5B(電子透かし 2・アーキテクチャ) - 座長 : \n\n松崎 なつめ (AMSL)",
+    "session": "5B: 電子透かし 2・アーキテクチャ",
     "id": "5B-3",
     "title": "バンプマッピングによる３次元CGに対する電子透かし",
     "authors": [
@@ -1436,7 +1436,7 @@
   },
   {
     "event": "CSS1999",
-    "session": "会場 B :Session 5B(電子透かし 2・アーキテクチャ) - 座長 : \n\n松崎 なつめ (AMSL)",
+    "session": "5B: 電子透かし 2・アーキテクチャ",
     "id": "5B-4",
     "title": "ブロック間相関を利用した電子すかし法の JPEG 圧縮画像への応用",
     "authors": [
@@ -1461,7 +1461,7 @@
   },
   {
     "event": "CSS1999",
-    "session": "会場 B :Session 5B(電子透かし 2・アーキテクチャ) - 座長 : \n\n松崎 なつめ (AMSL)",
+    "session": "5B: 電子透かし 2・アーキテクチャ",
     "id": "5B-5",
     "title": "著作権保護機能つきディジタルカメラの試作",
     "authors": [
@@ -1502,7 +1502,7 @@
   },
   {
     "event": "CSS1999",
-    "session": "会場 B :Session 5B(電子透かし 2・アーキテクチャ) - 座長 : \n\n松崎 なつめ (AMSL)",
+    "session": "5B: 電子透かし 2・アーキテクチャ",
     "id": "5B-6",
     "title": "Java カードを共通的に利用するためのミドルウエアとそのセキュリティ機能の提案",
     "authors": [
@@ -1543,7 +1543,7 @@
   },
   {
     "event": "CSS1999",
-    "session": "会場 B :Session 5B(電子透かし 2・アーキテクチャ) - 座長 : \n\n松崎 なつめ (AMSL)",
+    "session": "5B: 電子透かし 2・アーキテクチャ",
     "id": "5B-7",
     "title": "セキュリティ・アーキテクチャに基づくIT設計",
     "authors": [

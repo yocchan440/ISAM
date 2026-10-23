@@ -674,6 +674,12 @@ body {
 .award-student { --h: 205; }
 .award-concept { --h: 280; }
 .award-ethical { --h: 330; }
+.award-workshop { --h: 250; }
+.award-demo { --h: 190; }
+.award-anniv { --h: 15; }
+.award-poster { --h: 100; }
+.award-innovation { --h: 270; }
+.award-scis { --h: 215; }
 
 /* 企画招待講演用の特別IDデザイン */
 .paper-item.invited .paper-id {

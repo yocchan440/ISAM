@@ -1,7 +1,7 @@
 [
   {
     "event": "CSS2002",
-    "session": "Session 1A (ネットワークセキュリティ(I))　− 座長 : 廣瀬 勝一 (京都大)会場 A : 10/30(水) 13:00 〜 14:40",
+    "session": "1A: ネットワークセキュリティ(I)",
     "id": "1A-1",
     "title": "分散環境で保存されるログファイルにおける各ログエントリー間の順序関係保証方法に関する考察",
     "authors": [
@@ -34,7 +34,7 @@
   },
   {
     "event": "CSS2002",
-    "session": "Session 1A (ネットワークセキュリティ(I))　− 座長 : 廣瀬 勝一 (京都大)会場 A : 10/30(水) 13:00 〜 14:40",
+    "session": "1A: ネットワークセキュリティ(I)",
     "id": "1A-2",
     "title": "一方向性通信を使ったセキュアな時刻配信方式および活用のためのフレームワークの提案",
     "authors": [
@@ -67,7 +67,7 @@
   },
   {
     "event": "CSS2002",
-    "session": "Session 1A (ネットワークセキュリティ(I))　− 座長 : 廣瀬 勝一 (京都大)会場 A : 10/30(水) 13:00 〜 14:40",
+    "session": "1A: ネットワークセキュリティ(I)",
     "id": "1A-3",
     "title": "リング構造を用いたタイムスタンプスキーム",
     "authors": [
@@ -108,7 +108,7 @@
   },
   {
     "event": "CSS2002",
-    "session": "Session 1A (ネットワークセキュリティ(I))　− 座長 : 廣瀬 勝一 (京都大)会場 A : 10/30(水) 13:00 〜 14:40",
+    "session": "1A: ネットワークセキュリティ(I)",
     "id": "1A-4",
     "title": "侵入検知による強固なDNSの設計",
     "authors": [
@@ -166,7 +166,7 @@
   },
   {
     "event": "CSS2002",
-    "session": "Session 1A (ネットワークセキュリティ(I))　− 座長 : 廣瀬 勝一 (京都大)会場 A : 10/30(水) 13:00 〜 14:40",
+    "session": "1A: ネットワークセキュリティ(I)",
     "id": "1A-5",
     "title": "発信源追跡のためのハイブリッドトレースバック方式の提案",
     "authors": [
@@ -207,127 +207,41 @@
   },
   {
     "event": "CSS2002",
-    "session": "Session 1B (電子商取引)　− 座長 : 松本 勉 (横浜国立大)会場 B : 10/30(水) 13:00 〜 14:40",
+    "session": "1B: 電子商取引",
     "id": "1B-1",
-    "title": "Fingerprinting Scheme Suitable t",
+    "title": "Fingerprinting Scheme Suitable to Multi-Purchase",
     "authors": [
       {
-        "name": "Multi-Purchase",
-        "affiliations": [],
-        "is_presenter": true,
-        "presenter_symbol": "○"
-      }
-    ],
-    "search_text": "1B-1 Fingerprinting Scheme Suitable t Multi-Purchase "
-  },
-  {
-    "event": "CSS2002",
-    "session": "Session 1B (電子商取引)　− 座長 : 松本 勉 (横浜国立大)会場 B : 10/30(水) 13:00 〜 14:40",
-    "id": "1B-2",
-    "title": "",
-    "authors": [
-      {
-        "name": "Jae-Gwi CH",
-        "affiliations": [],
-        "is_presenter": true,
-        "presenter_symbol": "○"
-      }
-    ],
-    "search_text": "1B-2  Jae-Gwi CH "
-  },
-  {
-    "event": "CSS2002",
-    "session": "Session 1B (電子商取引)　− 座長 : 松本 勉 (横浜国立大)会場 B : 10/30(水) 13:00 〜 14:40",
-    "id": "1B-3",
-    "title": "",
-    "authors": [
-      {
-        "name": "I",
-        "affiliations": [],
-        "is_presenter": true,
-        "presenter_symbol": "○"
-      },
-      {
-        "name": "Ji-Hwan Paark(Puky",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      }
-    ],
-    "search_text": "1B-3  I Ji-Hwan Paark(Puky "
-  },
-  {
-    "event": "CSS2002",
-    "session": "Session 1B (電子商取引)　− 座長 : 松本 勉 (横浜国立大)会場 B : 10/30(水) 13:00 〜 14:40",
-    "id": "1B-4",
-    "title": "",
-    "authors": [
-      {
-        "name": "ng Nati",
-        "affiliations": [],
-        "is_presenter": true,
-        "presenter_symbol": "○"
-      }
-    ],
-    "search_text": "1B-4  ng Nati "
-  },
-  {
-    "event": "CSS2002",
-    "session": "Session 1B (電子商取引)　− 座長 : 松本 勉 (横浜国立大)会場 B : 10/30(水) 13:00 〜 14:40",
-    "id": "1B-5",
-    "title": "",
-    "authors": [
-      {
-        "name": "nal University",
-        "affiliations": [],
-        "is_presenter": true,
-        "presenter_symbol": "○"
-      },
-      {
-        "name": "K",
-        "affiliations": [],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      }
-    ],
-    "search_text": "1B-5  nal University K "
-  },
-  {
-    "event": "CSS2002",
-    "session": "Session 1B (電子商取引)　− 座長 : 松本 勉 (横浜国立大)会場 B : 10/30(水) 13:00 〜 14:40",
-    "id": "1B-6",
-    "title": "",
-    "authors": [
-      {
-        "name": "rea)",
-        "affiliations": [],
-        "is_presenter": true,
-        "presenter_symbol": "○"
-      }
-    ],
-    "search_text": "1B-6  rea) "
-  },
-  {
-    "event": "CSS2002",
-    "session": "Session 1B (電子商取引)　− 座長 : 松本 勉 (横浜国立大)会場 B : 10/30(水) 13:00 〜 14:40",
-    "id": "1B-7",
-    "title": ",K",
-    "authors": [
-      {
-        "name": "uichi Sakurai",
+        "name": "Jae-Gwi CHOI",
         "affiliations": [
-          "Kyushu University,Japan"
+          "Pukyong National University, Korea"
         ],
         "is_presenter": true,
         "presenter_symbol": "○"
+      },
+      {
+        "name": "Ji-Hwan Paark",
+        "affiliations": [
+          "Pukyong National University, Korea"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "Kouichi Sakurai",
+        "affiliations": [
+          "Kyushu University,Japan"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
       }
     ],
-    "search_text": "1B-7 ,K uichi Sakurai Kyushu University,Japan"
+    "search_text": "1B-1 Fingerprinting Scheme Suitable to Multi-Purchase Jae-Gwi CHOI Ji-Hwan Paark Kouichi Sakurai Pukyong National University, Korea Pukyong National University, Korea Kyushu University,Japan"
   },
   {
     "event": "CSS2002",
-    "session": "Session 1B (電子商取引)　− 座長 : 松本 勉 (横浜国立大)会場 B : 10/30(水) 13:00 〜 14:40",
-    "id": "1B-8",
+    "session": "1B: 電子商取引",
+    "id": "1B-2",
     "title": "プライバシーを保持した属性鍵配信システム",
     "authors": [
       {
@@ -347,12 +261,12 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1B-8 プライバシーを保持した属性鍵配信システム 沼尾 雅之 渡邊 裕治 日本アイ・ビー・エム（株） 東京基礎研究所 日本アイ・ビー・エム（株） 東京基礎研究所"
+    "search_text": "1B-2 プライバシーを保持した属性鍵配信システム 沼尾 雅之 渡邊 裕治 日本アイ・ビー・エム（株） 東京基礎研究所 日本アイ・ビー・エム（株） 東京基礎研究所"
   },
   {
     "event": "CSS2002",
-    "session": "Session 1B (電子商取引)　− 座長 : 松本 勉 (横浜国立大)会場 B : 10/30(水) 13:00 〜 14:40",
-    "id": "1B-9",
+    "session": "1B: 電子商取引",
+    "id": "1B-3",
     "title": "携帯端末に適用可能な簡易決済システムの実装と評価",
     "authors": [
       {
@@ -388,12 +302,12 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1B-9 携帯端末に適用可能な簡易決済システムの実装と評価 清本 晋作 田中 俊昭 中尾 康二 山田 明 KDDI研究所 KDDI研究所 KDDI研究所 KDDI研究所"
+    "search_text": "1B-3 携帯端末に適用可能な簡易決済システムの実装と評価 清本 晋作 田中 俊昭 中尾 康二 山田 明 KDDI研究所 KDDI研究所 KDDI研究所 KDDI研究所"
   },
   {
     "event": "CSS2002",
-    "session": "Session 1B (電子商取引)　− 座長 : 松本 勉 (横浜国立大)会場 B : 10/30(水) 13:00 〜 14:40",
-    "id": "1B-10",
+    "session": "1B: 電子商取引",
+    "id": "1B-4",
     "title": "結合機能を有するオフラインコインの実現方法について",
     "authors": [
       {
@@ -429,28 +343,13 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1B-10 結合機能を有するオフラインコインの実現方法について 葛西 陽介 千田 栄幸 満保 雅浩 静谷 啓樹 日本電気ソフト(株) 一関工業高等専門学校電気工学科 東北大学情報科学研究科 東北大学情報科学研究科"
+    "search_text": "1B-4 結合機能を有するオフラインコインの実現方法について 葛西 陽介 千田 栄幸 満保 雅浩 静谷 啓樹 日本電気ソフト(株) 一関工業高等専門学校電気工学科 東北大学情報科学研究科 東北大学情報科学研究科"
   },
   {
     "event": "CSS2002",
-    "session": "Session 1B (電子商取引)　− 座長 : 松本 勉 (横浜国立大)会場 B : 10/30(水) 13:00 〜 14:40",
-    "id": "1B-11",
-    "title": "Peer-t",
-    "authors": [
-      {
-        "name": "-Peer地域通貨交換アプリケーションの提案",
-        "affiliations": [],
-        "is_presenter": true,
-        "presenter_symbol": "○"
-      }
-    ],
-    "search_text": "1B-11 Peer-t -Peer地域通貨交換アプリケーションの提案 "
-  },
-  {
-    "event": "CSS2002",
-    "session": "Session 1B (電子商取引)　− 座長 : 松本 勉 (横浜国立大)会場 B : 10/30(水) 13:00 〜 14:40",
-    "id": "1B-12",
-    "title": "",
+    "session": "1B: 電子商取引",
+    "id": "1B-5",
+    "title": "Peer-to-Peer地域通貨交換アプリケーションの提案",
     "authors": [
       {
         "name": "秋山 和隆",
@@ -501,11 +400,11 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1B-12  秋山 和隆 並河 岳史 手塚 一郎 菊池 宏徳 山根 信二 村山 優子 岩手県立大学 ソフトウェア情報学部 岩手県立大学 ソフトウェア情報学部 岩手県立大学 ソフトウェア情報学部 岩手県立大学 ソフトウェア情報学部 岩手県立大学 ソフトウェア情報学部 岩手県立大学 ソフトウェア情報学部"
+    "search_text": "1B-5 Peer-to-Peer地域通貨交換アプリケーションの提案 秋山 和隆 並河 岳史 手塚 一郎 菊池 宏徳 山根 信二 村山 優子 岩手県立大学 ソフトウェア情報学部 岩手県立大学 ソフトウェア情報学部 岩手県立大学 ソフトウェア情報学部 岩手県立大学 ソフトウェア情報学部 岩手県立大学 ソフトウェア情報学部 岩手県立大学 ソフトウェア情報学部"
   },
   {
     "event": "CSS2002",
-    "session": "Session 2A (アクセス制御) − 座長 : 松浦 幹太 (東京大)会場 A : 10/30(水) 14:50 〜 15:50",
+    "session": "2A: アクセス制御",
     "id": "2A-1",
     "title": "機密ファイル持ち出し防止システムの検討",
     "authors": [
@@ -530,24 +429,9 @@
   },
   {
     "event": "CSS2002",
-    "session": "Session 2A (アクセス制御) − 座長 : 松浦 幹太 (東京大)会場 A : 10/30(水) 14:50 〜 15:50",
+    "session": "2A: アクセス制御",
     "id": "2A-2",
-    "title": "複数",
-    "authors": [
-      {
-        "name": "S環境を利用したヒステリシス署名システムの実装",
-        "affiliations": [],
-        "is_presenter": true,
-        "presenter_symbol": "○"
-      }
-    ],
-    "search_text": "2A-2 複数 S環境を利用したヒステリシス署名システムの実装 "
-  },
-  {
-    "event": "CSS2002",
-    "session": "Session 2A (アクセス制御) − 座長 : 松浦 幹太 (東京大)会場 A : 10/30(水) 14:50 〜 15:50",
-    "id": "2A-3",
-    "title": "",
+    "title": "複数OS環境を利用したヒステリシス署名システムの実装",
     "authors": [
       {
         "name": "伊藤 信治",
@@ -582,12 +466,12 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2A-3  伊藤 信治 宮崎 邦彦 吉浦 裕 谷本 幸一 (株)日立製作所 システム開発研究所 (株)日立製作所 システム開発研究所 (株)日立製作所 システム開発研究所 (株)日立製作所 システム開発研究所"
+    "search_text": "2A-2 複数OS環境を利用したヒステリシス署名システムの実装 伊藤 信治 宮崎 邦彦 吉浦 裕 谷本 幸一 (株)日立製作所 システム開発研究所 (株)日立製作所 システム開発研究所 (株)日立製作所 システム開発研究所 (株)日立製作所 システム開発研究所"
   },
   {
     "event": "CSS2002",
-    "session": "Session 2A (アクセス制御) − 座長 : 松浦 幹太 (東京大)会場 A : 10/30(水) 14:50 〜 15:50",
-    "id": "2A-4",
+    "session": "2A: アクセス制御",
+    "id": "2A-3",
     "title": "セキュリティ状態のランク付け",
     "authors": [
       {
@@ -623,11 +507,11 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2A-4 セキュリティ状態のランク付け 兵藤 敏之 西垣 正勝 中村 逸一 曽我 正和 静岡大学大学院 情報学研究科 静岡大学 情報学部 NTTデータ セキュリティ事業部 岩手県立大学 ソフトウェア情報学部"
+    "search_text": "2A-3 セキュリティ状態のランク付け 兵藤 敏之 西垣 正勝 中村 逸一 曽我 正和 静岡大学大学院 情報学研究科 静岡大学 情報学部 NTTデータ セキュリティ事業部 岩手県立大学 ソフトウェア情報学部"
   },
   {
     "event": "CSS2002",
-    "session": "Session 2B (署名(I)) − 座長 : 満保 雅浩 (東北大)会場 B : 10/30(水) 14:50 〜 15:50",
+    "session": "2B: 署名(I)",
     "id": "2B-1",
     "title": "サブグループを開示可能なグループ署名",
     "authors": [
@@ -660,42 +544,18 @@
   },
   {
     "event": "CSS2002",
-    "session": "Session 2B (署名(I)) − 座長 : 満保 雅浩 (東北大)会場 B : 10/30(水) 14:50 〜 15:50",
+    "session": "2B: 署名(I)",
     "id": "2B-2",
-    "title": "Ring Signatureに基づいたk-",
+    "title": "Ring Signatureに基づいたk-out-of-n証明の提案",
     "authors": [
       {
-        "name": "ut-",
-        "affiliations": [],
-        "is_presenter": true,
-        "presenter_symbol": "○"
-      }
-    ],
-    "search_text": "2B-2 Ring Signatureに基づいたk- ut- "
-  },
-  {
-    "event": "CSS2002",
-    "session": "Session 2B (署名(I)) − 座長 : 満保 雅浩 (東北大)会場 B : 10/30(水) 14:50 〜 15:50",
-    "id": "2B-3",
-    "title": "",
-    "authors": [
-      {
-        "name": "f-n証明の提案菊池 浩明",
+        "name": "菊池 浩明",
         "affiliations": [
           "東海大学電子情報学部情報メディア学科"
         ],
-        "is_presenter": true,
-        "presenter_symbol": "○"
-      }
-    ],
-    "search_text": "2B-3  f-n証明の提案菊池 浩明 東海大学電子情報学部情報メディア学科"
-  },
-  {
-    "event": "CSS2002",
-    "session": "Session 2B (署名(I)) − 座長 : 満保 雅浩 (東北大)会場 B : 10/30(水) 14:50 〜 15:50",
-    "id": "2B-4",
-    "title": ",",
-    "authors": [
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
       {
         "name": "多田 美奈子",
         "affiliations": [
@@ -713,28 +573,13 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2B-4 , 多田 美奈子 中西 祥八郎 東海大学大学院工学研究科電気工学専攻 東海大学電子情報学部情報科学科"
+    "search_text": "2B-2 Ring Signatureに基づいたk-out-of-n証明の提案 菊池 浩明 多田 美奈子 中西 祥八郎 東海大学電子情報学部情報メディア学科 東海大学大学院工学研究科電気工学専攻 東海大学電子情報学部情報科学科"
   },
   {
     "event": "CSS2002",
-    "session": "Session 2B (署名(I)) − 座長 : 満保 雅浩 (東北大)会場 B : 10/30(水) 14:50 〜 15:50",
-    "id": "2B-5",
-    "title": "有向木の構造を有するデータに適した fail-st",
-    "authors": [
-      {
-        "name": "p 署名方式",
-        "affiliations": [],
-        "is_presenter": true,
-        "presenter_symbol": "○"
-      }
-    ],
-    "search_text": "2B-5 有向木の構造を有するデータに適した fail-st p 署名方式 "
-  },
-  {
-    "event": "CSS2002",
-    "session": "Session 2B (署名(I)) − 座長 : 満保 雅浩 (東北大)会場 B : 10/30(水) 14:50 〜 15:50",
-    "id": "2B-6",
-    "title": "",
+    "session": "2B: 署名(I)",
+    "id": "2B-3",
+    "title": "有向木の構造を有するデータに適した fail-stop 署名方式",
     "authors": [
       {
         "name": "桑門 秀典",
@@ -753,11 +598,102 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2B-6  桑門 秀典 田中 初一 神戸大学 神戸大学"
+    "search_text": "2B-3 有向木の構造を有するデータに適した fail-stop 署名方式 桑門 秀典 田中 初一 神戸大学 神戸大学"
   },
   {
     "event": "CSS2002",
-    "session": "Session 3B (電子透かし(I)) − 座長 : 岩村 恵一 (キヤノン)会場 B : 10/30(水) 16:00 〜 17:00",
+    "session": "3A: 暗号と評価(I)",
+    "id": "3A-1",
+    "title": "Multiple Power Analysis 攻撃の提案",
+    "authors": [
+      {
+        "name": "桶屋 勝幸",
+        "affiliations": [
+          "（株）日立製作所 システム開発研究所"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "櫻井 幸一",
+        "affiliations": [
+          "九州大学大学院システム情報科学研究院"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "3A-1 Multiple Power Analysis 攻撃の提案 桶屋 勝幸 櫻井 幸一 （株）日立製作所 システム開発研究所 九州大学大学院システム情報科学研究院"
+  },
+  {
+    "event": "CSS2002",
+    "session": "3A: 暗号と評価(I)",
+    "id": "3A-2",
+    "title": "Address-bit DPA による OK-ECDH と OK-ECDSA の解析報告",
+    "authors": [
+      {
+        "name": "伊藤 孝一",
+        "affiliations": [
+          "(株)富士通研究所セキュアコンピューティング研究部"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "伊豆 哲也",
+        "affiliations": [
+          "(株)富士通研究所セキュアコンピューティング研究部"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "武仲 正彦",
+        "affiliations": [
+          "(株)富士通研究所セキュアコンピューティング研究部"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "3A-2 Address-bit DPA による OK-ECDH と OK-ECDSA の解析報告 伊藤 孝一 伊豆 哲也 武仲 正彦 (株)富士通研究所セキュアコンピューティング研究部 (株)富士通研究所セキュアコンピューティング研究部 (株)富士通研究所セキュアコンピューティング研究部"
+  },
+  {
+    "event": "CSS2002",
+    "session": "3A: 暗号と評価(I)",
+    "id": "3A-3",
+    "title": "共通鍵暗号ソフトウェアの間接的ランタイムデータ探索型耐タンパー性評価法",
+    "authors": [
+      {
+        "name": "甲斐 文幸",
+        "affiliations": [
+          "横浜国立大学大学院環境情報研究院"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "○"
+      },
+      {
+        "name": "赤井 健一郎",
+        "affiliations": [
+          "横浜国立大学大学院環境情報研究院"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "松本 勉",
+        "affiliations": [
+          "横浜国立大学大学院環境情報研究院"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "3A-3 共通鍵暗号ソフトウェアの間接的ランタイムデータ探索型耐タンパー性評価法 甲斐 文幸 赤井 健一郎 松本 勉 横浜国立大学大学院環境情報研究院 横浜国立大学大学院環境情報研究院 横浜国立大学大学院環境情報研究院"
+  },
+  {
+    "event": "CSS2002",
+    "session": "3B: 電子透かし(I)",
     "id": "3B-1",
     "title": "電子透かしによる指紋画像の保護に関する考察",
     "authors": [
@@ -782,7 +718,7 @@
   },
   {
     "event": "CSS2002",
-    "session": "Session 3B (電子透かし(I)) − 座長 : 岩村 恵一 (キヤノン)会場 B : 10/30(水) 16:00 〜 17:00",
+    "session": "3B: 電子透かし(I)",
     "id": "3B-2",
     "title": "DCT係数を用いたオブジェクトへの電子透かし埋め込み法の一提案",
     "authors": [
@@ -807,7 +743,7 @@
   },
   {
     "event": "CSS2002",
-    "session": "Session 3B (電子透かし(I)) − 座長 : 岩村 恵一 (キヤノン)会場 B : 10/30(水) 16:00 〜 17:00",
+    "session": "3B: 電子透かし(I)",
     "id": "3B-3",
     "title": "二階層電子透かしの提案と評価",
     "authors": [
@@ -880,7 +816,7 @@
   },
   {
     "event": "CSS2002",
-    "session": "Session 4A (不正アクセス対策(I)) − 座長 : 石橋 勇人 (大阪市立大)会場 A : 10/30(水) 17:10 〜 18:30",
+    "session": "4A: 不正アクセス対策(I)",
     "id": "4A-1",
     "title": "ニューラルネットワークを利用した不正アクセス被害予測方式",
     "authors": [
@@ -929,7 +865,7 @@
   },
   {
     "event": "CSS2002",
-    "session": "Session 4A (不正アクセス対策(I)) − 座長 : 石橋 勇人 (大阪市立大)会場 A : 10/30(水) 17:10 〜 18:30",
+    "session": "4A: 不正アクセス対策(I)",
     "id": "4A-2",
     "title": "不正アクセスに対する被害予測システム",
     "authors": [
@@ -962,7 +898,7 @@
   },
   {
     "event": "CSS2002",
-    "session": "Session 4A (不正アクセス対策(I)) − 座長 : 石橋 勇人 (大阪市立大)会場 A : 10/30(水) 17:10 〜 18:30",
+    "session": "4A: 不正アクセス対策(I)",
     "id": "4A-3",
     "title": "不正アクセスのセンター集中管理方式",
     "authors": [
@@ -995,7 +931,7 @@
   },
   {
     "event": "CSS2002",
-    "session": "Session 4A (不正アクセス対策(I)) − 座長 : 石橋 勇人 (大阪市立大)会場 A : 10/30(水) 17:10 〜 18:30",
+    "session": "4A: 不正アクセス対策(I)",
     "id": "4A-4",
     "title": "ハードディスクのクローニングおよびクローンの利用",
     "authors": [
@@ -1052,7 +988,7 @@
   },
   {
     "event": "CSS2002",
-    "session": "Session 4B (セキュリティ評価・監査) − 座長 : 佐々木 良一 (東京電機大)会場 B : 10/30(水) 17:10 〜 18:50",
+    "session": "4B: セキュリティ評価・監査",
     "id": "4B-1",
     "title": "脆弱性指向リスクモデルによる定量リスク分析手法の開発と適用",
     "authors": [
@@ -1069,7 +1005,7 @@
   },
   {
     "event": "CSS2002",
-    "session": "Session 4B (セキュリティ評価・監査) − 座長 : 佐々木 良一 (東京電機大)会場 B : 10/30(水) 17:10 〜 18:50",
+    "session": "4B: セキュリティ評価・監査",
     "id": "4B-2",
     "title": "法制度に基づく権限委譲の電子化についての一考察",
     "authors": [
@@ -1110,7 +1046,7 @@
   },
   {
     "event": "CSS2002",
-    "session": "Session 4B (セキュリティ評価・監査) − 座長 : 佐々木 良一 (東京電機大)会場 B : 10/30(水) 17:10 〜 18:50",
+    "session": "4B: セキュリティ評価・監査",
     "id": "4B-3",
     "title": "脆弱性情報を有効活用するためのフレームワークに関する研究",
     "authors": [
@@ -1151,39 +1087,9 @@
   },
   {
     "event": "CSS2002",
-    "session": "Session 4B (セキュリティ評価・監査) − 座長 : 佐々木 良一 (東京電機大)会場 B : 10/30(水) 17:10 〜 18:50",
+    "session": "4B: セキュリティ評価・監査",
     "id": "4B-4",
-    "title": "JPCERT/CC Vend",
-    "authors": [
-      {
-        "name": "r Status N",
-        "affiliations": [],
-        "is_presenter": true,
-        "presenter_symbol": "○"
-      }
-    ],
-    "search_text": "4B-4 JPCERT/CC Vend r Status N "
-  },
-  {
-    "event": "CSS2002",
-    "session": "Session 4B (セキュリティ評価・監査) − 座長 : 佐々木 良一 (東京電機大)会場 B : 10/30(水) 17:10 〜 18:50",
-    "id": "4B-5",
-    "title": "",
-    "authors": [
-      {
-        "name": "tes DB構築に関する検討",
-        "affiliations": [],
-        "is_presenter": true,
-        "presenter_symbol": "○"
-      }
-    ],
-    "search_text": "4B-5  tes DB構築に関する検討 "
-  },
-  {
-    "event": "CSS2002",
-    "session": "Session 4B (セキュリティ評価・監査) − 座長 : 佐々木 良一 (東京電機大)会場 B : 10/30(水) 17:10 〜 18:50",
-    "id": "4B-6",
-    "title": "",
+    "title": "JPCERT/CC Vendor Status Notes DB構築に関する検討",
     "authors": [
       {
         "name": "寺田 真敏",
@@ -1202,14 +1108,30 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "4B-6  寺田 真敏 土居 範久 慶応義塾大学 慶応義塾大学"
+    "search_text": "4B-4 JPCERT/CC Vendor Status Notes DB構築に関する検討 寺田 真敏 土居 範久 慶応義塾大学 慶応義塾大学"
   },
   {
     "event": "CSS2002",
-    "session": "Session 4B (セキュリティ評価・監査) − 座長 : 佐々木 良一 (東京電機大)会場 B : 10/30(水) 17:10 〜 18:50",
-    "id": "4B-7",
-    "title": "個人環境におけるセキュリティ対策サービスに関する一考察吉井 大吾,池田 竜朗,",
+    "session": "4B: セキュリティ評価・監査",
+    "id": "4B-5",
+    "title": "個人環境におけるセキュリティ対策サービスに関する一考察",
     "authors": [
+      {
+        "name": "吉井 大吾",
+        "affiliations": [
+          "株式会社東芝 SI技術開発センター"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "池田 竜朗",
+        "affiliations": [
+          "株式会社東芝 SI技術開発センター"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
       {
         "name": "森尻 智昭",
         "affiliations": [
@@ -1227,11 +1149,11 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "4B-7 個人環境におけるセキュリティ対策サービスに関する一考察吉井 大吾,池田 竜朗, 森尻 智昭 才所 敏明 株式会社東芝 SI技術開発センター 株式会社東芝 SI技術開発センター"
+    "search_text": "4B-5 個人環境におけるセキュリティ対策サービスに関する一考察 吉井 大吾 池田 竜朗 森尻 智昭 才所 敏明 株式会社東芝 SI技術開発センター 株式会社東芝 SI技術開発センター 株式会社東芝 SI技術開発センター 株式会社東芝 SI技術開発センター"
   },
   {
     "event": "CSS2002",
-    "session": "Session 5A (コンテンツセキュリティ(I)) − 座長 : 西垣 正勝 (静岡大)会場 A : 10/31(木) 09:30 〜 10:50",
+    "session": "5A: コンテンツセキュリティ(I)",
     "id": "5A-1",
     "title": "電子化したファイルにおける内部情報の漏洩抑止について",
     "authors": [
@@ -1242,19 +1164,19 @@
         "presenter_symbol": "○"
       },
       {
-        "name": "岩井 康子メソッド分散によるJava言語の難読化手法の提案",
+        "name": "岩井 康子",
         "affiliations": [],
         "is_presenter": false,
         "presenter_symbol": ""
       }
     ],
-    "search_text": "5A-1 電子化したファイルにおける内部情報の漏洩抑止について 内山一雄 岩井 康子メソッド分散によるJava言語の難読化手法の提案 "
+    "search_text": "5A-1 電子化したファイルにおける内部情報の漏洩抑止について 内山一雄 岩井 康子"
   },
   {
     "event": "CSS2002",
-    "session": "Session 5A (コンテンツセキュリティ(I)) − 座長 : 西垣 正勝 (静岡大)会場 A : 10/31(木) 09:30 〜 10:50",
+    "session": "5A: コンテンツセキュリティ(I)",
     "id": "5A-2",
-    "title": "",
+    "title": "メソッド分散によるJava言語の難読化手法の提案",
     "authors": [
       {
         "name": "福島 和英",
@@ -1273,58 +1195,13 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "5A-2  福島 和英 櫻井 幸一 九州大学大学院システム情報科学府 九州大学大学院システム情報科学研究院"
+    "search_text": "5A-2 メソッド分散によるJava言語の難読化手法の提案 福島 和英 櫻井 幸一 九州大学大学院システム情報科学府 九州大学大学院システム情報科学研究院"
   },
   {
     "event": "CSS2002",
-    "session": "Session 5A (コンテンツセキュリティ(I)) − 座長 : 西垣 正勝 (静岡大)会場 A : 10/31(木) 09:30 〜 10:50",
+    "session": "5A: コンテンツセキュリティ(I)",
     "id": "5A-3",
-    "title": "SeP",
-    "authors": [
-      {
-        "name": "(Self Pr",
-        "affiliations": [],
-        "is_presenter": true,
-        "presenter_symbol": "○"
-      }
-    ],
-    "search_text": "5A-3 SeP (Self Pr "
-  },
-  {
-    "event": "CSS2002",
-    "session": "Session 5A (コンテンツセキュリティ(I)) − 座長 : 西垣 正勝 (静岡大)会場 A : 10/31(木) 09:30 〜 10:50",
-    "id": "5A-4",
-    "title": "",
-    "authors": [
-      {
-        "name": "tected",
-        "affiliations": [],
-        "is_presenter": true,
-        "presenter_symbol": "○"
-      }
-    ],
-    "search_text": "5A-4  tected "
-  },
-  {
-    "event": "CSS2002",
-    "session": "Session 5A (コンテンツセキュリティ(I)) − 座長 : 西垣 正勝 (静岡大)会場 A : 10/31(木) 09:30 〜 10:50",
-    "id": "5A-5",
-    "title": "",
-    "authors": [
-      {
-        "name": "bject)",
-        "affiliations": [],
-        "is_presenter": true,
-        "presenter_symbol": "○"
-      }
-    ],
-    "search_text": "5A-5  bject) "
-  },
-  {
-    "event": "CSS2002",
-    "session": "Session 5A (コンテンツセキュリティ(I)) − 座長 : 西垣 正勝 (静岡大)会場 A : 10/31(木) 09:30 〜 10:50",
-    "id": "5A-6",
-    "title": "の提案とその実現方法について",
+    "title": "SePO(Self Protected Object)の提案とその実現方法について",
     "authors": [
       {
         "name": "金岡 晃",
@@ -1343,12 +1220,12 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "5A-6 の提案とその実現方法について 金岡 晃 岡本 栄司 筑波大学大学院システム情報工学研究科 筑波大学電子・情報工学系"
+    "search_text": "5A-3 SePO(Self Protected Object)の提案とその実現方法について 金岡 晃 岡本 栄司 筑波大学大学院システム情報工学研究科 筑波大学電子・情報工学系"
   },
   {
     "event": "CSS2002",
-    "session": "Session 5A (コンテンツセキュリティ(I)) − 座長 : 西垣 正勝 (静岡大)会場 A : 10/31(木) 09:30 〜 10:50",
-    "id": "5A-7",
+    "session": "5A: コンテンツセキュリティ(I)",
+    "id": "5A-4",
     "title": "Webバグに基づくファイルの不正開封検知システムの提案",
     "authors": [
       {
@@ -1376,11 +1253,11 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "5A-7 Webバグに基づくファイルの不正開封検知システムの提案 小林 正憲 舩曵 信生 中西 透 岡山大学大学院 自然科学研究科 岡山大学 工学部 通信ネットワーク工学科 岡山大学 工学部 通信ネットワーク工学科"
+    "search_text": "5A-4 Webバグに基づくファイルの不正開封検知システムの提案 小林 正憲 舩曵 信生 中西 透 岡山大学大学院 自然科学研究科 岡山大学 工学部 通信ネットワーク工学科 岡山大学 工学部 通信ネットワーク工学科"
   },
   {
     "event": "CSS2002",
-    "session": "Session 5B (ステガノグラフィ) − 座長 : 稲葉 宏幸 (京都工芸繊維大)会場 B : 10/31(木) 09:30 〜 10:50",
+    "session": "5B: ステガノグラフィ",
     "id": "5B-1",
     "title": "改行位置の調整によるドキュメントへの情報ハイディングツールの開発",
     "authors": [
@@ -1405,7 +1282,7 @@
   },
   {
     "event": "CSS2002",
-    "session": "Session 5B (ステガノグラフィ) − 座長 : 稲葉 宏幸 (京都工芸繊維大)会場 B : 10/31(木) 09:30 〜 10:50",
+    "session": "5B: ステガノグラフィ",
     "id": "5B-2",
     "title": "手書き入力装置の特性を利用した手書きステガノグラフィの提案",
     "authors": [
@@ -1438,7 +1315,7 @@
   },
   {
     "event": "CSS2002",
-    "session": "Session 5B (ステガノグラフィ) − 座長 : 稲葉 宏幸 (京都工芸繊維大)会場 B : 10/31(木) 09:30 〜 10:50",
+    "session": "5B: ステガノグラフィ",
     "id": "5B-3",
     "title": "演奏データファイルSMFを用いたステガノグラフィ方式の再検討",
     "authors": [
@@ -1461,18 +1338,17 @@
       {
         "name": "松本 勉",
         "affiliations": [
-          "横浜国立大学大学院 環境情報学府",
-          "研究院"
+          "横浜国立大学大学院 環境情報学府/研究院"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
       }
     ],
-    "search_text": "5B-3 演奏データファイルSMFを用いたステガノグラフィ方式の再検討 井上 大介 鈴木 雅貴 松本 勉 横浜国立大学大学院 環境情報学府 横浜国立大学大学院 環境情報学府 横浜国立大学大学院 環境情報学府 研究院"
+    "search_text": "5B-3 演奏データファイルSMFを用いたステガノグラフィ方式の再検討 井上 大介 鈴木 雅貴 松本 勉 横浜国立大学大学院 環境情報学府 横浜国立大学大学院 環境情報学府 横浜国立大学大学院 環境情報学府/研究院"
   },
   {
     "event": "CSS2002",
-    "session": "Session 5B (ステガノグラフィ) − 座長 : 稲葉 宏幸 (京都工芸繊維大)会場 B : 10/31(木) 09:30 〜 10:50",
+    "session": "5B: ステガノグラフィ",
     "id": "5B-4",
     "title": "JPEG符号化列に対するステガノグラフィ",
     "authors": [
@@ -1505,7 +1381,7 @@
   },
   {
     "event": "CSS2002",
-    "session": "Session 6A (ネットワークセキュリティ(II)) − 座長 : 寺田 真敏 (日立)会場 A : 10/31(木) 11:00 〜 11:40",
+    "session": "6A: ネットワークセキュリティ(II)",
     "id": "6A-1",
     "title": "セキュアな遅延較差調停機構におけるデータの暗号化に関する検討",
     "authors": [
@@ -1546,7 +1422,7 @@
   },
   {
     "event": "CSS2002",
-    "session": "Session 6A (ネットワークセキュリティ(II)) − 座長 : 寺田 真敏 (日立)会場 A : 10/31(木) 11:00 〜 11:40",
+    "session": "6A: ネットワークセキュリティ(II)",
     "id": "6A-2",
     "title": "出所不明のパケット流出を許さないセキュアなネットワークの研究開発",
     "authors": [
@@ -1587,7 +1463,7 @@
   },
   {
     "event": "CSS2002",
-    "session": "Session 6B (個人認証(I)) − 座長 : 汐崎 陽 (大阪府立大)会場 B : 10/31(木) 11:00 〜 11:40",
+    "session": "6B: 個人認証(I)",
     "id": "6B-1",
     "title": "指紋照合装置は人工指を受け入れるか（その4）",
     "authors": [
@@ -1612,7 +1488,7 @@
   },
   {
     "event": "CSS2002",
-    "session": "Session 6B (個人認証(I)) − 座長 : 汐崎 陽 (大阪府立大)会場 B : 10/31(木) 11:00 〜 11:40",
+    "session": "6B: 個人認証(I)",
     "id": "6B-2",
     "title": "あわせ絵: 登録と通知による画像を用いた認証方式の強化法",
     "authors": [
@@ -1637,7 +1513,7 @@
   },
   {
     "event": "CSS2002",
-    "session": "Session 7A (暗号と評価(II)) − 座長 : 館林 誠 (松下電器)会場 A : 10/31(木) 12:50 〜 14:10",
+    "session": "7A: 暗号と評価(II)",
     "id": "7A-1",
     "title": "P2P環境下における動的グループ生成用暗号利用方式の評価",
     "authors": [
@@ -1694,7 +1570,7 @@
   },
   {
     "event": "CSS2002",
-    "session": "Session 7A (暗号と評価(II)) − 座長 : 館林 誠 (松下電器)会場 A : 10/31(木) 12:50 〜 14:10",
+    "session": "7A: 暗号と評価(II)",
     "id": "7A-2",
     "title": "チャットにおける鍵配送プロトコルの一提案",
     "authors": [
@@ -1727,24 +1603,9 @@
   },
   {
     "event": "CSS2002",
-    "session": "Session 7A (暗号と評価(II)) − 座長 : 館林 誠 (松下電器)会場 A : 10/31(木) 12:50 〜 14:10",
+    "session": "7A: 暗号と評価(II)",
     "id": "7A-3",
-    "title": "FSAng",
-    "authors": [
-      {
-        "name": "の再同期攻撃による解析",
-        "affiliations": [],
-        "is_presenter": true,
-        "presenter_symbol": "○"
-      }
-    ],
-    "search_text": "7A-3 FSAng の再同期攻撃による解析 "
-  },
-  {
-    "event": "CSS2002",
-    "session": "Session 7A (暗号と評価(II)) − 座長 : 館林 誠 (松下電器)会場 A : 10/31(木) 12:50 〜 14:10",
-    "id": "7A-4",
-    "title": "",
+    "title": "FSAngoの再同期攻撃による解析",
     "authors": [
       {
         "name": "市川 将志",
@@ -1779,12 +1640,12 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "7A-4  市川 将志 武田 仁己 秦野 康生 金子 敏信 東京理科大学理工学部電気工学科 東京理科大学理工学部電気工学科 東京理科大学理工学部電気工学科 東京理科大学理工学部電気工学科"
+    "search_text": "7A-3 FSAngoの再同期攻撃による解析 市川 将志 武田 仁己 秦野 康生 金子 敏信 東京理科大学理工学部電気工学科 東京理科大学理工学部電気工学科 東京理科大学理工学部電気工学科 東京理科大学理工学部電気工学科"
   },
   {
     "event": "CSS2002",
-    "session": "Session 7A (暗号と評価(II)) − 座長 : 館林 誠 (松下電器)会場 A : 10/31(木) 12:50 〜 14:10",
-    "id": "7A-5",
+    "session": "7A: 暗号と評価(II)",
+    "id": "7A-4",
     "title": "パケット到着時刻の予測誤差を使った乱数生成法",
     "authors": [
       {
@@ -1812,18 +1673,19 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "7A-5 パケット到着時刻の予測誤差を使った乱数生成法 孝富士 武史 白石 善明 森井 昌克 徳島大学工学部知能情報工学科 近畿大学理工学部情報学科 徳島大学工学部知能情報工学科"
+    "search_text": "7A-4 パケット到着時刻の予測誤差を使った乱数生成法 孝富士 武史 白石 善明 森井 昌克 徳島大学工学部知能情報工学科 近畿大学理工学部情報学科 徳島大学工学部知能情報工学科"
   },
   {
     "event": "CSS2002",
-    "session": "Session 7B (署名(II)) − 座長 : 桑門 秀典 (神戸大)会場 B : 10/31(木) 12:50 〜 13:50",
+    "session": "7B: 署名(II)",
     "id": "7B-1",
     "title": "署名生成機能の危殆化に関する一考察",
     "authors": [
       {
         "name": "洲崎 誠一",
         "affiliations": [
-          "横浜国立大学環境情報学府，日立製作所システム開発研究所"
+          "横浜国立大学環境情報学府",
+          "日立製作所システム開発研究所"
         ],
         "is_presenter": true,
         "presenter_symbol": "○"
@@ -1837,11 +1699,11 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "7B-1 署名生成機能の危殆化に関する一考察 洲崎 誠一 松本 勉 横浜国立大学環境情報学府，日立製作所システム開発研究所 横浜国立大学 環境情報研究院"
+    "search_text": "7B-1 署名生成機能の危殆化に関する一考察 洲崎 誠一 松本 勉 横浜国立大学環境情報学府 日立製作所システム開発研究所 横浜国立大学 環境情報研究院"
   },
   {
     "event": "CSS2002",
-    "session": "Session 7B (署名(II)) − 座長 : 桑門 秀典 (神戸大)会場 B : 10/31(木) 12:50 〜 13:50",
+    "session": "7B: 署名(II)",
     "id": "7B-2",
     "title": "署名履歴交差を利用したヒステリシス署名の実現方法",
     "authors": [
@@ -1882,7 +1744,7 @@
   },
   {
     "event": "CSS2002",
-    "session": "Session 7B (署名(II)) − 座長 : 桑門 秀典 (神戸大)会場 B : 10/31(木) 12:50 〜 13:50",
+    "session": "7B: 署名(II)",
     "id": "7B-3",
     "title": "多重署名方式と自明に構成された多重署名方式",
     "authors": [
@@ -1899,7 +1761,49 @@
   },
   {
     "event": "CSS2002",
-    "session": "Session 8A (ネットワークセキュリティ(III)) − 座長 : 村山 優子 (岩手県立大)会場 A : 11/01(金) 09:30 〜 10:50",
+    "session": "S1: 特別講演1",
+    "id": "invited-1",
+    "title": "ISO/IEC JTC1/SC27における情報セキュリティ標準化動向",
+    "authors": [
+      {
+        "name": "中尾康二",
+        "affiliations": [
+          "KDDI研究所 コンピュータセキュリティグループ"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      },
+      {
+        "name": "櫻井幸一",
+        "affiliations": [
+          "九州大学大学院 システム情報科学研究院"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "invited-1 ISO/IEC JTC1/SC27における情報セキュリティ標準化動向 中尾康二 櫻井幸一 KDDI研究所 コンピュータセキュリティグループ 九州大学大学院 システム情報科学研究院"
+  },
+  {
+    "event": "CSS2002",
+    "session": "S2: 特別講演2",
+    "id": "invited-2",
+    "title": "個人情報保護法案と情報セキュリティ",
+    "authors": [
+      {
+        "name": "鈴木正朝",
+        "affiliations": [
+          "ニフティ株式会社"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "invited-2 個人情報保護法案と情報セキュリティ 鈴木正朝 ニフティ株式会社"
+  },
+  {
+    "event": "CSS2002",
+    "session": "8A: ネットワークセキュリティ(III)",
     "id": "8A-1",
     "title": "受信者が第三者機関の利用法を選択する配達保証付き電子メール",
     "authors": [
@@ -1924,7 +1828,7 @@
   },
   {
     "event": "CSS2002",
-    "session": "Session 8A (ネットワークセキュリティ(III)) − 座長 : 村山 優子 (岩手県立大)会場 A : 11/01(金) 09:30 〜 10:50",
+    "session": "8A: ネットワークセキュリティ(III)",
     "id": "8A-2",
     "title": "公開鍵電話における、通話品質の変化に動的に対応するメッセージ認証方式",
     "authors": [
@@ -1973,7 +1877,7 @@
   },
   {
     "event": "CSS2002",
-    "session": "Session 8A (ネットワークセキュリティ(III)) − 座長 : 村山 優子 (岩手県立大)会場 A : 11/01(金) 09:30 〜 10:50",
+    "session": "8A: ネットワークセキュリティ(III)",
     "id": "8A-3",
     "title": "放送系チャネルを利用したセキュリティ情報配信方式の一考察",
     "authors": [
@@ -2006,7 +1910,7 @@
   },
   {
     "event": "CSS2002",
-    "session": "Session 8A (ネットワークセキュリティ(III)) − 座長 : 村山 優子 (岩手県立大)会場 A : 11/01(金) 09:30 〜 10:50",
+    "session": "8A: ネットワークセキュリティ(III)",
     "id": "8A-4",
     "title": "VPN-exchangeを利用した安全なP2P通信の実現",
     "authors": [
@@ -2031,7 +1935,7 @@
   },
   {
     "event": "CSS2002",
-    "session": "Session 8B (個人認証(II)) − 座長 : 菊地 浩明 (東海大)会場 B : 11/01(金) 09:30 〜 10:50",
+    "session": "8B: 個人認証(II)",
     "id": "8B-1",
     "title": "簡単かつ安全に転送可能なWeb認証方式とその応用",
     "authors": [
@@ -2072,7 +1976,7 @@
   },
   {
     "event": "CSS2002",
-    "session": "Session 8B (個人認証(II)) − 座長 : 菊地 浩明 (東海大)会場 B : 11/01(金) 09:30 〜 10:50",
+    "session": "8B: 個人認証(II)",
     "id": "8B-2",
     "title": "本人確認環境認証方式の提案",
     "authors": [
@@ -2105,7 +2009,7 @@
   },
   {
     "event": "CSS2002",
-    "session": "Session 8B (個人認証(II)) − 座長 : 菊地 浩明 (東海大)会場 B : 11/01(金) 09:30 〜 10:50",
+    "session": "8B: 個人認証(II)",
     "id": "8B-3",
     "title": "電子学生証とセキュリティについての検討",
     "authors": [
@@ -2138,7 +2042,7 @@
   },
   {
     "event": "CSS2002",
-    "session": "Session 8B (個人認証(II)) − 座長 : 菊地 浩明 (東海大)会場 B : 11/01(金) 09:30 〜 10:50",
+    "session": "8B: 個人認証(II)",
     "id": "8B-4",
     "title": "二次元コードのセキュリティと応用方法の検討",
     "authors": [
@@ -2155,7 +2059,7 @@
   },
   {
     "event": "CSS2002",
-    "session": "Session 9A (コンテンツセキュリティ(II)) − 座長 : 井上 徹 (広島修道大)会場 A : 11/01(金) 11:00 〜 12:00",
+    "session": "9A: コンテンツセキュリティ(II)",
     "id": "9A-1",
     "title": "インセンティブコンピューティングとその特徴",
     "authors": [
@@ -2180,7 +2084,7 @@
   },
   {
     "event": "CSS2002",
-    "session": "Session 9A (コンテンツセキュリティ(II)) − 座長 : 井上 徹 (広島修道大)会場 A : 11/01(金) 11:00 〜 12:00",
+    "session": "9A: コンテンツセキュリティ(II)",
     "id": "9A-2",
     "title": "センサー情報ネットワークにおけるプライバシー情報を保護するための収集データ暗号化手法とその鍵配布方式の提案",
     "authors": [
@@ -2205,7 +2109,7 @@
   },
   {
     "event": "CSS2002",
-    "session": "Session 9A (コンテンツセキュリティ(II)) − 座長 : 井上 徹 (広島修道大)会場 A : 11/01(金) 11:00 〜 12:00",
+    "session": "9A: コンテンツセキュリティ(II)",
     "id": "9A-3",
     "title": "プライバシーを保護したリストマッチングの拡張",
     "authors": [
@@ -2230,7 +2134,7 @@
   },
   {
     "event": "CSS2002",
-    "session": "Session 9B (PKI) − 座長 : 田中 俊昭 (KDDI研)会場 B : 11/01(金) 11:00 〜 12:00",
+    "session": "9B: PKI",
     "id": "9B-1",
     "title": "複数PKIドメインにおける証明書検証の高速化方式の研究",
     "authors": [
@@ -2263,7 +2167,7 @@
   },
   {
     "event": "CSS2002",
-    "session": "Session 9B (PKI) − 座長 : 田中 俊昭 (KDDI研)会場 B : 11/01(金) 11:00 〜 12:00",
+    "session": "9B: PKI",
     "id": "9B-2",
     "title": "効率的な証明書失効木",
     "authors": [
@@ -2304,7 +2208,7 @@
   },
   {
     "event": "CSS2002",
-    "session": "Session 9B (PKI) − 座長 : 田中 俊昭 (KDDI研)会場 B : 11/01(金) 11:00 〜 12:00",
+    "session": "9B: PKI",
     "id": "9B-3",
     "title": "GPKIおよびLGPKIにおけるルート証明書配布方式の脆弱性と解決策",
     "authors": [
@@ -2337,14 +2241,15 @@
   },
   {
     "event": "CSS2002",
-    "session": "Session 10A (実装技術) − 座長 : 松崎 なつめ (松下電器)会場 A : 11/01(金) 13:10 〜 14:50",
+    "session": "10A: 実装技術",
     "id": "10A-1",
     "title": "次世代ビルディングセキュリティシステムの提案（２）",
     "authors": [
       {
         "name": "藤川 真樹",
         "affiliations": [
-          "綜合警備保障株式会社、中央大学"
+          "綜合警備保障株式会社",
+          "中央大学"
         ],
         "is_presenter": true,
         "presenter_symbol": "○"
@@ -2366,11 +2271,11 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "10A-1 次世代ビルディングセキュリティシステムの提案（２） 藤川 真樹 土井 洋 辻井 重男 綜合警備保障株式会社、中央大学 中央大学研究開発機構 中央大学"
+    "search_text": "10A-1 次世代ビルディングセキュリティシステムの提案（２） 藤川 真樹 土井 洋 辻井 重男 綜合警備保障株式会社 中央大学 中央大学研究開発機構 中央大学"
   },
   {
     "event": "CSS2002",
-    "session": "Session 10A (実装技術) − 座長 : 松崎 なつめ (松下電器)会場 A : 11/01(金) 13:10 〜 14:50",
+    "session": "10A: 実装技術",
     "id": "10A-2",
     "title": "ブロードキャスト暗号を用いたコンテンツ配信システムの実装",
     "authors": [
@@ -2413,24 +2318,24 @@
         ],
         "is_presenter": false,
         "presenter_symbol": ""
-      },
+      }
+    ],
+    "search_text": "10A-2 ブロードキャスト暗号を用いたコンテンツ配信システムの実装 中里 純二 永由 勇二 杉浦 啓泰 菊池 浩明 中西 祥八郎 東海大学大学院工学研究科電気工学専攻 東海大学工学部電気工学科 東海大学工学部電気工学科 東海大学電子情報学部情報メディア学科 東海大学電子情報学部情報科学科"
+  },
+  {
+    "event": "CSS2002",
+    "session": "10A: 実装技術",
+    "id": "10A-3",
+    "title": "セキュアインスタントメッセージングシステムの実装",
+    "authors": [
       {
-        "name": "セキュアインスタントメッセージングシステムの実装菊池 浩明",
+        "name": "菊池 浩明",
         "affiliations": [
           "東海大学電子情報学部情報メディア学科"
         ],
         "is_presenter": false,
         "presenter_symbol": ""
-      }
-    ],
-    "search_text": "10A-2 ブロードキャスト暗号を用いたコンテンツ配信システムの実装 中里 純二 永由 勇二 杉浦 啓泰 菊池 浩明 中西 祥八郎 セキュアインスタントメッセージングシステムの実装菊池 浩明 東海大学大学院工学研究科電気工学専攻 東海大学工学部電気工学科 東海大学工学部電気工学科 東海大学電子情報学部情報メディア学科 東海大学電子情報学部情報科学科 東海大学電子情報学部情報メディア学科"
-  },
-  {
-    "event": "CSS2002",
-    "session": "Session 10A (実装技術) − 座長 : 松崎 なつめ (松下電器)会場 A : 11/01(金) 13:10 〜 14:50",
-    "id": "10A-3",
-    "title": ",",
-    "authors": [
+      },
       {
         "name": "秋山 曜佑",
         "affiliations": [
@@ -2456,11 +2361,11 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "10A-3 , 秋山 曜佑 多田 美奈子 中西 祥八郎 東海大学工学部電気工学科 東海大学大学院工学研究科電気工学専攻 東海大学電子情報学部情報科学科"
+    "search_text": "10A-3 セキュアインスタントメッセージングシステムの実装 菊池 浩明 秋山 曜佑 多田 美奈子 中西 祥八郎 東海大学電子情報学部情報メディア学科 東海大学工学部電気工学科 東海大学大学院工学研究科電気工学専攻 東海大学電子情報学部情報科学科"
   },
   {
     "event": "CSS2002",
-    "session": "Session 10A (実装技術) − 座長 : 松崎 なつめ (松下電器)会場 A : 11/01(金) 13:10 〜 14:50",
+    "session": "10A: 実装技術",
     "id": "10A-4",
     "title": "AESにおける低消費電力アーキテクチャについて",
     "authors": [
@@ -2495,23 +2400,15 @@
         ],
         "is_presenter": false,
         "presenter_symbol": ""
-      },
-      {
-        "name": "並列モンゴメリ乗算によるGF",
-        "affiliations": [
-          "2^m"
-        ],
-        "is_presenter": false,
-        "presenter_symbol": ""
       }
     ],
-    "search_text": "10A-4 AESにおける低消費電力アーキテクチャについて 池 兼次郎 萩原 大輔 櫻井 幸一 安浦 寛人 並列モンゴメリ乗算によるGF 九州松下電器株式会社 九州大学大学院システム情報科学府 九州大学システムLSI研究センター 九州大学システムLSI研究センター 2^m"
+    "search_text": "10A-4 AESにおける低消費電力アーキテクチャについて 池 兼次郎 萩原 大輔 櫻井 幸一 安浦 寛人 九州松下電器株式会社 九州大学大学院システム情報科学府 九州大学システムLSI研究センター 九州大学システムLSI研究センター"
   },
   {
     "event": "CSS2002",
-    "session": "Session 10A (実装技術) − 座長 : 松崎 なつめ (松下電器)会場 A : 11/01(金) 13:10 〜 14:50",
+    "session": "10A: 実装技術",
     "id": "10A-5",
-    "title": "上の楕円曲線演算法",
+    "title": "並列モンゴメリ乗算によるGF(2^m)上の楕円曲線演算法",
     "authors": [
       {
         "name": "小池 正修",
@@ -2531,11 +2428,11 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "10A-5 上の楕円曲線演算法 小池 正修 松本 勉 （株）東芝 SI技術開発センター 横浜国立大学 環境情報学府 横浜国立大学 環境情報研究院"
+    "search_text": "10A-5 並列モンゴメリ乗算によるGF(2^m)上の楕円曲線演算法 小池 正修 松本 勉 （株）東芝 SI技術開発センター 横浜国立大学 環境情報学府 横浜国立大学 環境情報研究院"
   },
   {
     "event": "CSS2002",
-    "session": "Session 10B (電子透かし(II)) − 座長 : 高田 豊雄 (岩手県立大)会場 B : 11/01(金) 13:10 〜 14:50",
+    "session": "10B: 電子透かし(II)",
     "id": "10B-1",
     "title": "ハイブリッド型電子透かしの性能向上に関する考察",
     "authors": [
@@ -2560,7 +2457,7 @@
   },
   {
     "event": "CSS2002",
-    "session": "Session 10B (電子透かし(II)) − 座長 : 高田 豊雄 (岩手県立大)会場 B : 11/01(金) 13:10 〜 14:50",
+    "session": "10B: 電子透かし(II)",
     "id": "10B-2",
     "title": "ウェーブレット変換を用いた切り取りと上書きに耐性のある電子透かし法",
     "authors": [
@@ -2593,7 +2490,7 @@
   },
   {
     "event": "CSS2002",
-    "session": "Session 10B (電子透かし(II)) − 座長 : 高田 豊雄 (岩手県立大)会場 B : 11/01(金) 13:10 〜 14:50",
+    "session": "10B: 電子透かし(II)",
     "id": "10B-3",
     "title": "色差成分のDCT係数と乱数系列との内積値を用いた微小な幾何学的改変に耐性のある電子透かし法",
     "authors": [
@@ -2626,7 +2523,7 @@
   },
   {
     "event": "CSS2002",
-    "session": "Session 10B (電子透かし(II)) − 座長 : 高田 豊雄 (岩手県立大)会場 B : 11/01(金) 13:10 〜 14:50",
+    "session": "10B: 電子透かし(II)",
     "id": "10B-4",
     "title": "改ざん前の状態が分かるデジタル画像の改ざん検出用電子透かし法",
     "authors": [
@@ -2643,7 +2540,7 @@
   },
   {
     "event": "CSS2002",
-    "session": "Session 10B (電子透かし(II)) − 座長 : 高田 豊雄 (岩手県立大)会場 B : 11/01(金) 13:10 〜 14:50",
+    "session": "10B: 電子透かし(II)",
     "id": "10B-5",
     "title": "電子透かしの非線形変換耐性に関する一検討",
     "authors": [
@@ -2676,7 +2573,7 @@
   },
   {
     "event": "CSS2002",
-    "session": "Session 11A (不正アクセス対策(II)) − 座長 : 鳥居 悟 (富士通研)会場 A : 11/01(金) 15:00 〜 15:40",
+    "session": "11A: 不正アクセス対策(II)",
     "id": "11A-1",
     "title": "IDS標準化：実装と評価",
     "authors": [
@@ -2701,7 +2598,7 @@
   },
   {
     "event": "CSS2002",
-    "session": "Session 11A (不正アクセス対策(II)) − 座長 : 鳥居 悟 (富士通研)会場 A : 11/01(金) 15:00 〜 15:40",
+    "session": "11A: 不正アクセス対策(II)",
     "id": "11A-2",
     "title": "分散型侵入検知システムにおける相関分析手法の提案",
     "authors": [
@@ -2726,7 +2623,7 @@
   },
   {
     "event": "CSS2002",
-    "session": "Session 11B (電子選挙) − 座長 : 中西 透 (岡山大)会場 B : 11/01(金) 15:00 〜 16:00",
+    "session": "11B: 電子選挙",
     "id": "11B-1",
     "title": "不在者投票を考慮した電子選挙システム",
     "authors": [
@@ -2751,7 +2648,7 @@
   },
   {
     "event": "CSS2002",
-    "session": "Session 11B (電子選挙) − 座長 : 中西 透 (岡山大)会場 B : 11/01(金) 15:00 〜 16:00",
+    "session": "11B: 電子選挙",
     "id": "11B-2",
     "title": "準同型暗号を利用した1人複数投票可能な電子投票方式",
     "authors": [
@@ -2800,7 +2697,7 @@
   },
   {
     "event": "CSS2002",
-    "session": "Session 11B (電子選挙) − 座長 : 中西 透 (岡山大)会場 B : 11/01(金) 15:00 〜 16:00",
+    "session": "11B: 電子選挙",
     "id": "11B-3",
     "title": "秘密カウンタを用いた電子投票システムの携帯端末への実装",
     "authors": [

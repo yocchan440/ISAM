@@ -1,7 +1,7 @@
 [
   {
     "event": "CSS2003",
-    "session": "1A 認証(1) 13:40〜14:40 座長：松本　勉（横浜国立大）",
+    "session": "1A: 認証(1)",
     "id": "1A-1",
     "title": "ユーザの生活履歴を用いた認証方式",
     "authors": [
@@ -50,9 +50,9 @@
   },
   {
     "event": "CSS2003",
-    "session": "1A 認証(1) 13:40〜14:40 座長：松本　勉（横浜国立大）",
+    "session": "1A: 認証(1)",
     "id": "1A-2",
-    "title": "A New Password-based Authentication \n\n                                        Protocol",
+    "title": "A New Password-based Authentication Protocol",
     "authors": [
       {
         "name": "辛 星漢",
@@ -79,11 +79,11 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1A-2 A New Password-based Authentication \n\n                                        Protocol 辛 星漢 古原 和邦 今井 秀樹 東京大学 東京大学 東京大学"
+    "search_text": "1A-2 A New Password-based Authentication Protocol 辛 星漢 古原 和邦 今井 秀樹 東京大学 東京大学 東京大学"
   },
   {
     "event": "CSS2003",
-    "session": "1A 認証(1) 13:40〜14:40 座長：松本　勉（横浜国立大）",
+    "session": "1A: 認証(1)",
     "id": "1A-3",
     "title": "零知識証明を用いた分散個人認証システムの設計",
     "authors": [
@@ -132,9 +132,9 @@
   },
   {
     "event": "CSS2003",
-    "session": "1B PKI 13:40〜14:40 座長：佐々木　良一（東京電機大）",
+    "session": "1B: PKI",
     "id": "1B-1",
-    "title": "Threshold Password-Based Authentication \n\n                                        Using Bilinear Pairings",
+    "title": "Threshold Password-Based Authentication Using Bilinear Pairings",
     "authors": [
       {
         "name": "Songwon Lee",
@@ -161,11 +161,11 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1B-1 Threshold Password-Based Authentication \n\n                                        Using Bilinear Pairings Songwon Lee JeongKyu Yang Kwangjo Kim Information and Communications University Information and Communications University Information and Communications University"
+    "search_text": "1B-1 Threshold Password-Based Authentication Using Bilinear Pairings Songwon Lee JeongKyu Yang Kwangjo Kim Information and Communications University Information and Communications University Information and Communications University"
   },
   {
     "event": "CSS2003",
-    "session": "1B PKI 13:40〜14:40 座長：佐々木　良一（東京電機大）",
+    "session": "1B: PKI",
     "id": "1B-2",
     "title": "単一公開鍵で検証可能な分散型オンライン証明書状態プロトコル",
     "authors": [
@@ -190,7 +190,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "1B PKI 13:40〜14:40 座長：佐々木　良一（東京電機大）",
+    "session": "1B: PKI",
     "id": "1B-3",
     "title": "デジタル署名の長期的な検証方法に関する一考察",
     "authors": [
@@ -223,9 +223,9 @@
   },
   {
     "event": "CSS2003",
-    "session": "1C 暗号プロトコル(1) 13:40〜14:40 座長：鈴木　幸太郎（NTT）",
+    "session": "1C: 暗号プロトコル(1)",
     "id": "1C-1",
-    "title": "Fair tracing based on VSS and blind \n\n                                        signature without Trustees",
+    "title": "Fair tracing based on VSS and blind signature without Trustees",
     "authors": [
       {
         "name": "ByeongGon Kim",
@@ -252,11 +252,11 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1C-1 Fair tracing based on VSS and blind \n\n                                        signature without Trustees ByeongGon Kim SungJun Min Kwangjo Kim Information and Communications University Information and Communications University Information and Communications University"
+    "search_text": "1C-1 Fair tracing based on VSS and blind signature without Trustees ByeongGon Kim SungJun Min Kwangjo Kim Information and Communications University Information and Communications University Information and Communications University"
   },
   {
     "event": "CSS2003",
-    "session": "1C 暗号プロトコル(1) 13:40〜14:40 座長：鈴木　幸太郎（NTT）",
+    "session": "1C: 暗号プロトコル(1)",
     "id": "1C-2",
     "title": "ユーザの負荷を軽減した入札プロトコル",
     "authors": [
@@ -289,7 +289,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "1C 暗号プロトコル(1) 13:40〜14:40 座長：鈴木　幸太郎（NTT）",
+    "session": "1C: 暗号プロトコル(1)",
     "id": "1C-3",
     "title": "ハッシュ連鎖つきコリジョンの生成法",
     "authors": [
@@ -330,7 +330,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "1D 実装技術(1) 13:40〜14:40 座長：菊池　浩明（東海大学）",
+    "session": "1D: 実装技術(1)",
     "id": "1D-1",
     "title": "インターネット配信される官報ディジタルデータへのディジタル署名・タイムスタンプ方式の適用",
     "authors": [
@@ -388,7 +388,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "1D 実装技術(1) 13:40〜14:40 座長：菊池　浩明（東海大学）",
+    "session": "1D: 実装技術(1)",
     "id": "1D-2",
     "title": "印刷文書に対するタイムスタンプシステム--2次元バーコード, インターネットを利用した簡便な方式",
     "authors": [
@@ -413,7 +413,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "1D 実装技術(1) 13:40〜14:40 座長：菊池　浩明（東海大学）",
+    "session": "1D: 実装技術(1)",
     "id": "1D-3",
     "title": "検証エージェントを用いたモバイルエージェント改竄検出システムの実装と評価",
     "authors": [
@@ -446,7 +446,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "2A 認証(2) 15:00〜16:20 座長：西垣　正勝（静岡大）",
+    "session": "2A: 認証(2)",
     "id": "2A-1",
     "title": "話者照合に対する合成音声詐称を防止するための合成音声検出法",
     "authors": [
@@ -479,9 +479,9 @@
   },
   {
     "event": "CSS2003",
-    "session": "2A 認証(2) 15:00〜16:20 座長：西垣　正勝（静岡大）",
+    "session": "2A: 認証(2)",
     "id": "2A-2",
-    "title": "携帯端末の動きを用いた個人認証〜認証判定パラメータの自動設定〜",
+    "title": "携帯端末の動きを用いた個人認証～認証判定パラメータの自動設定～",
     "authors": [
       {
         "name": "太田 雅敏",
@@ -516,11 +516,11 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2A-2 携帯端末の動きを用いた個人認証〜認証判定パラメータの自動設定〜 太田 雅敏 行方 エリキ 石原 進 水野 忠則 静岡大学 静岡大学 静岡大学 静岡大学"
+    "search_text": "2A-2 携帯端末の動きを用いた個人認証～認証判定パラメータの自動設定～ 太田 雅敏 行方 エリキ 石原 進 水野 忠則 静岡大学 静岡大学 静岡大学 静岡大学"
   },
   {
     "event": "CSS2003",
-    "session": "2A 認証(2) 15:00〜16:20 座長：西垣　正勝（静岡大）",
+    "session": "2A: 認証(2)",
     "id": "2A-3",
     "title": "携帯電話と二次元コードによる個人認証",
     "authors": [
@@ -545,7 +545,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "2A 認証(2) 15:00〜16:20 座長：西垣　正勝（静岡大）",
+    "session": "2A: 認証(2)",
     "id": "2A-4",
     "title": "携帯電話を用いた様々な個人認証方式の提案",
     "authors": [
@@ -586,7 +586,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "2B ネットワークセキュリティ(1) 15:00〜16:20 座長：多田　充（千葉大）",
+    "session": "2B: ネットワークセキュリティ(1)",
     "id": "2B-1",
     "title": "DDoS攻撃予測システムの開発",
     "authors": [
@@ -635,7 +635,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "2B ネットワークセキュリティ(1) 15:00〜16:20 座長：多田　充（千葉大）",
+    "session": "2B: ネットワークセキュリティ(1)",
     "id": "2B-2",
     "title": "ワームによるランダムスキャンの検知方式の検討",
     "authors": [
@@ -660,7 +660,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "2B ネットワークセキュリティ(1) 15:00〜16:20 座長：多田　充（千葉大）",
+    "session": "2B: ネットワークセキュリティ(1)",
     "id": "2B-3",
     "title": "仮想ネットワークを使った未知ウィルス検知システムの考察",
     "authors": [
@@ -693,7 +693,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "2C 暗号プロトコル (2) 15:00〜16:20 座長：渡邊　裕治（日本アイ・ビー・エム）",
+    "session": "2C: 暗号プロトコル(2)",
     "id": "2C-1",
     "title": "関連付け不能かつ任意額支払い可能な効率的オンライン電子現金プロトコル",
     "authors": [
@@ -726,7 +726,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "2C 暗号プロトコル (2) 15:00〜16:20 座長：渡邊　裕治（日本アイ・ビー・エム）",
+    "session": "2C: 暗号プロトコル(2)",
     "id": "2C-2",
     "title": "信頼するセンターグループとトーナメント方式を利用した効率的な計算量を持つ電子競売プロトコル",
     "authors": [
@@ -751,7 +751,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "2C 暗号プロトコル (2) 15:00〜16:20 座長：渡邊　裕治（日本アイ・ビー・エム）",
+    "session": "2C: 暗号プロトコル(2)",
     "id": "2C-3",
     "title": "公平な電子権利価値流通のための楽観的な交換プロトコル",
     "authors": [
@@ -784,7 +784,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "2C 暗号プロトコル (2) 15:00〜16:20 座長：渡邊　裕治（日本アイ・ビー・エム）",
+    "session": "2C: 暗号プロトコル(2)",
     "id": "2C-4",
     "title": "複利における匿名貸し出しプロトコル",
     "authors": [
@@ -817,7 +817,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "2D 実装技術(2) 15:00〜16:20 座長：小池 正修（東芝）",
+    "session": "2D: 実装技術(2)",
     "id": "2D-1",
     "title": "TYPE-II All-One Polynomial Field",
     "authors": [
@@ -850,9 +850,9 @@
   },
   {
     "event": "CSS2003",
-    "session": "2D 実装技術(2) 15:00〜16:20 座長：小池 正修（東芝）",
+    "session": "2D: 実装技術(2)",
     "id": "2D-2",
-    "title": "Securing AES against Second-Order DPA \n\n                                        by Simple Fixed-Value Masking",
+    "title": "Securing AES against Second-Order DPA by Simple Fixed-Value Masking",
     "authors": [
       {
         "name": "Hwasun Chang",
@@ -871,11 +871,11 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2D-2 Securing AES against Second-Order DPA \n\n                                        by Simple Fixed-Value Masking Hwasun Chang Kwangjo Kim Information and Communications University Information and Communications University"
+    "search_text": "2D-2 Securing AES against Second-Order DPA by Simple Fixed-Value Masking Hwasun Chang Kwangjo Kim Information and Communications University Information and Communications University"
   },
   {
     "event": "CSS2003",
-    "session": "2D 実装技術(2) 15:00〜16:20 座長：小池 正修（東芝）",
+    "session": "2D: 実装技術(2)",
     "id": "2D-3",
     "title": "直接計算による楕円曲線上のスカラー倍計算の効率化",
     "authors": [
@@ -908,7 +908,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "2D 実装技術(2) 15:00〜16:20 座長：小池 正修（東芝）",
+    "session": "2D: 実装技術(2)",
     "id": "2D-4",
     "title": "並列処理べき乗剰余演算を用いたRSA暗号実装に対するタイミング攻撃",
     "authors": [
@@ -933,7 +933,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "3A バイオメトリクス 16:40〜18:20 座長：山崎 恭（北九州市立大）",
+    "session": "3A: バイオメトリクス",
     "id": "3A-1",
     "title": "プライバシーを保護する虹彩認証方式の提案",
     "authors": [
@@ -966,7 +966,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "3A バイオメトリクス 16:40〜18:20 座長：山崎 恭（北九州市立大）",
+    "session": "3A: バイオメトリクス",
     "id": "3A-2",
     "title": "DWTと適応アルゴリズムを用いたオンライン署名照合に関する研究",
     "authors": [
@@ -1007,7 +1007,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "3A バイオメトリクス 16:40〜18:20 座長：山崎 恭（北九州市立大）",
+    "session": "3A: バイオメトリクス",
     "id": "3A-3",
     "title": "複数の指紋で暗証番号を表現する個人認証",
     "authors": [
@@ -1024,7 +1024,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "3A バイオメトリクス 16:40〜18:20 座長：山崎 恭（北九州市立大）",
+    "session": "3A: バイオメトリクス",
     "id": "3A-4",
     "title": "メカニズムベースPKI",
     "authors": [
@@ -1073,7 +1073,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "3A バイオメトリクス 16:40〜18:20 座長：山崎 恭（北九州市立大）",
+    "session": "3A: バイオメトリクス",
     "id": "3A-5",
     "title": "虹彩照合技術の脆弱性評価 （その2）",
     "authors": [
@@ -1098,7 +1098,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "3B ネットワークセキュリティ(2) 16:40〜18:20 座長：廣瀬　勝一（京都大）",
+    "session": "3B: ネットワークセキュリティ(2)",
     "id": "3B-1",
     "title": "個人情報不正送出チェック機能を持つ暗号メールの構想と基本部の開発",
     "authors": [
@@ -1131,7 +1131,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "3B ネットワークセキュリティ(2) 16:40〜18:20 座長：廣瀬　勝一（京都大）",
+    "session": "3B: ネットワークセキュリティ(2)",
     "id": "3B-2",
     "title": "ベイジアンフィルタと送信者確認方式を併用した迷惑メール対策の評価",
     "authors": [
@@ -1164,7 +1164,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "3B ネットワークセキュリティ(2) 16:40〜18:20 座長：廣瀬　勝一（京都大）",
+    "session": "3B: ネットワークセキュリティ(2)",
     "id": "3B-3",
     "title": "Webでのアンケートフォームにおけるプライバシ強化ツール",
     "authors": [
@@ -1197,7 +1197,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "3B ネットワークセキュリティ(2) 16:40〜18:20 座長：廣瀬　勝一（京都大）",
+    "session": "3B: ネットワークセキュリティ(2)",
     "id": "3B-4",
     "title": "ユーザビリティの高いセキュリティスキャナの開発",
     "authors": [
@@ -1230,7 +1230,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "3C 暗号解析 16:40〜18:20 座長：金子　敏信（東京理科大）",
+    "session": "3C: 暗号解析",
     "id": "3C-1",
     "title": "特定符号を生成しない暗号化方式に関する一提案",
     "authors": [
@@ -1255,9 +1255,9 @@
   },
   {
     "event": "CSS2003",
-    "session": "3C 暗号解析 16:40〜18:20 座長：金子　敏信（東京理科大）",
+    "session": "3C: 暗号解析",
     "id": "3C-2",
-    "title": "Optimization of Integral Cryptanalysis \n\n                                        on Reduced-Round Safer++",
+    "title": "Optimization of Integral Cryptanalysis on Reduced-Round Safer++",
     "authors": [
       {
         "name": "Yongjin Yeom",
@@ -1276,13 +1276,13 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3C-2 Optimization of Integral Cryptanalysis \n\n                                        on Reduced-Round Safer++ Yongjin Yeom Ilhwan Park National Security Research Institute National Security Research Institute"
+    "search_text": "3C-2 Optimization of Integral Cryptanalysis on Reduced-Round Safer++ Yongjin Yeom Ilhwan Park National Security Research Institute National Security Research Institute"
   },
   {
     "event": "CSS2003",
-    "session": "3C 暗号解析 16:40〜18:20 座長：金子　敏信（東京理科大）",
+    "session": "3C: 暗号解析",
     "id": "3C-3",
-    "title": "AESの操作モードに関する証明可能安全性--現実的な初期値生成と新しいSecurity \n\n                                        notion",
+    "title": "AESの操作モードに関する証明可能安全性--現実的な初期値生成と新しいSecurity notion",
     "authors": [
       {
         "name": "古屋 聡一",
@@ -1301,11 +1301,11 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3C-3 AESの操作モードに関する証明可能安全性--現実的な初期値生成と新しいSecurity \n\n                                        notion 古屋 聡一 櫻井 幸一 日立製作所 九州大学"
+    "search_text": "3C-3 AESの操作モードに関する証明可能安全性--現実的な初期値生成と新しいSecurity notion 古屋 聡一 櫻井 幸一 日立製作所 九州大学"
   },
   {
     "event": "CSS2003",
-    "session": "3C 暗号解析 16:40〜18:20 座長：金子　敏信（東京理科大）",
+    "session": "3C: 暗号解析",
     "id": "3C-4",
     "title": "RC4の弱鍵に関する考察",
     "authors": [
@@ -1338,25 +1338,17 @@
   },
   {
     "event": "CSS2003",
-    "session": "3D Secure OS 16:40〜18:20 座長：高田 豊雄（岩手県立大）",
+    "session": "3D: Secure OS",
     "id": "3D-1",
     "title": "E-BLP Security Model",
     "authors": [
       {
-        "name": "Jung-Min",
+        "name": "Jung-Min Kang",
         "affiliations": [
           "National Security Research Institute"
         ],
         "is_presenter": true,
         "presenter_symbol": "*"
-      },
-      {
-        "name": "Kang",
-        "affiliations": [
-          "National Security Research Institute"
-        ],
-        "is_presenter": false,
-        "presenter_symbol": ""
       },
       {
         "name": "Hyoung-Chun Kim",
@@ -1399,13 +1391,13 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3D-1 E-BLP Security Model Jung-Min Kang Hyoung-Chun Kim In-Sook Jang Jin-Seok Lee Wook Shin Dong-Ik Lee National Security Research Institute National Security Research Institute National Security Research Institute National Security Research Institute National Security Research Institute Kwangju Institute of Science and Technology Kwangju Institute of Science and Technology"
+    "search_text": "3D-1 E-BLP Security Model Jung-Min Kang Hyoung-Chun Kim In-Sook Jang Jin-Seok Lee Wook Shin Dong-Ik Lee National Security Research Institute National Security Research Institute National Security Research Institute National Security Research Institute Kwangju Institute of Science and Technology Kwangju Institute of Science and Technology"
   },
   {
     "event": "CSS2003",
-    "session": "3D Secure OS 16:40〜18:20 座長：高田 豊雄（岩手県立大）",
+    "session": "3D: Secure OS",
     "id": "3D-2",
-    "title": "Extended Role Based Access Control and \n\n                                        Procedural Restrictions for Secure Operating \n\n                                        Systems",
+    "title": "Extended Role Based Access Control and Procedural Restrictions for Secure Operating Systems",
     "authors": [
       {
         "name": "Wook Shin",
@@ -1448,11 +1440,11 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3D-2 Extended Role Based Access Control and \n\n                                        Procedural Restrictions for Secure Operating \n\n                                        Systems Wook Shin Dong-Ik Lee Hyoung-Chun Kim Jung-Min Kang Jin-Seok Lee Kwangjo Institute of Technology Kwangjo Institute of Technology National Security Research Institute National Security Research Institute National Security Research Institute"
+    "search_text": "3D-2 Extended Role Based Access Control and Procedural Restrictions for Secure Operating Systems Wook Shin Dong-Ik Lee Hyoung-Chun Kim Jung-Min Kang Jin-Seok Lee Kwangjo Institute of Technology Kwangjo Institute of Technology National Security Research Institute National Security Research Institute National Security Research Institute"
   },
   {
     "event": "CSS2003",
-    "session": "3D Secure OS 16:40〜18:20 座長：高田 豊雄（岩手県立大）",
+    "session": "3D: Secure OS",
     "id": "3D-3",
     "title": "簡易化されたポリシに基づいたSELinuxアクセス制御の安全性評価",
     "authors": [
@@ -1485,9 +1477,9 @@
   },
   {
     "event": "CSS2003",
-    "session": "3D Secure OS 16:40〜18:20 座長：高田 豊雄（岩手県立大）",
+    "session": "3D: Secure OS",
     "id": "3D-4",
-    "title": "Coordinating Inter-domain Access in \n\n                                        Distributed Secure OS",
+    "title": "Coordinating Inter-domain Access in Distributed Secure OS",
     "authors": [
       {
         "name": "Hyung Chan Kim",
@@ -1530,11 +1522,11 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3D-4 Coordinating Inter-domain Access in \n\n                                        Distributed Secure OS Hyung Chan Kim Dong Ik Lee Hyoung Chun Kim Jung Min Kang Jin Seok Lee Kwangju Institute of Science and Technology Kwangju Institute of Science and Technology National Security Research Institute National Security Research Institute National Security Research Institute"
+    "search_text": "3D-4 Coordinating Inter-domain Access in Distributed Secure OS Hyung Chan Kim Dong Ik Lee Hyoung Chun Kim Jung Min Kang Jin Seok Lee Kwangju Institute of Science and Technology Kwangju Institute of Science and Technology National Security Research Institute National Security Research Institute National Security Research Institute"
   },
   {
     "event": "CSS2003",
-    "session": "◎: 学生論文対象者，* : 一般講演者 10月30日（火） 4B セキュリティ評価・監査(1) 9:20〜10:40 座長：村山　優子（岩手県立大） 持ち込みPC検疫機構の提案 *三輪　信介（通信総合研究所） ネットワークサーバにおける脆弱性自動監査システム ◎毛利　公美（徳島大学），曽根　直人（鳴門教育大学），高橋　秀郎，神薗　雅紀，森井　昌克（徳島大学） プログラムの情報フロー解析における暗号技術に基づく関数への対処法 ◎大村　浩正，吉田　真紀，藤原　融（大阪大学） 4C コンテンツセキュリティ(1) 9:20〜10:40 座長：浅野　智之（ソニー） JPEG 2000アクセス制御のための鍵生成の一方式 林　淳一，*江口　貴巳，岩村　恵市 （キヤノン） 攻撃者の能力に制約がある場合の木構造鍵管理方式 ◎野島　良，楫　勇一 （奈良先端科学技術大学院大学） 一方向性ハッシュ関数を用いた階層構造を持つアクセス制御方式 *須賀 祐治，岩村 恵市（キャノン） 全文検索可能な暗号化DBの実装・評価 *清本　晋作，田中　俊昭，三宅　優（KDDI研究所），三田村　好矩（北海道大学），乗越　雅光（通信・放送機構） 5A 教育・法律 11:00〜12:20 座長：藤村　明子（NTT） 不正アクセスの禁止等に関する法律の運用（罪数判断を中心に） *奥村　徹（大阪弁護士会） コンテンツの保護とセキュリティに関する社会技術的な考察 *児玉　晴男（メディア教育開発センター） 情報セキュリティ教育の現状と将来に関する考察 *佐々木　良一，板津　守昭（東京電機大学） 5B セキュリティ評価・監査(2) 11:00〜12:20 座長：寺田　真敏（日立） 多面的安全性に着目した安全性の評価モデル *金子　格，白井　克彦（早稲田大学） セキュリティ対策案選択問題のモデル化とその評価 *中村 逸一（NTTデータ），兵藤　敏之（静岡大学），曽我 正和（岩手県立大学），西垣 \n\n                                        正勝（静岡大学） 情報セキュリティ対策の評価技法の提案 *重松　孝明（電子商取引推進協議会） SEC 2003参加報告 *菊池　浩明（東海大学），佐々木　良一（東京電機大学） 5C コンテンツセキュリティ \n\n                                    (2) 11:00〜12:20 座長：田中　俊昭（KDDI） インセンティブコンピューティング用端末ソフトウェアの一構成法 ◎鈴木　雅貴，赤井　健一郎，松本　勉（横浜国立大学） コンテンツ再生と不可分な課金演算処理によるクライアント上での課金システムの評価 *青野　博，星野　玲子，本郷　節之（NTTドコモ），鈴木　雅貴，赤井　健一郎，松本　勉（横浜国立大学） 動画像のためのIDAを利用したリアルタイムストリーミング認証方式 ◎金子　伸一郎，上田　真太郎，川口　信隆，重野　寛，岡田　謙一（慶應義塾大学） 分岐構造をもつコンテンツに対する分岐選択履歴を配信者から秘匿可能な配信システム ◎小西　祥之，吉田　真紀，藤原　融（大阪大学） S1 特別講演1 13:40〜14:40 司会：岩村　恵市（キヤノン） ISO15408及びCC認証の現状と動向について 植村　泰佳（電子商取引安全技術研究組合） S2 特別講演2 14:40〜15:40 司会：佐藤　敬（北九州市立大） 韓国におけるセキュリティ研究の現状と動向について（仮題） Choonsik Park(National Security Research \n\n                                        Institute) 6A 暗号理論(1) 16:00〜17:20 座長：満保　雅浩（東北大） Nyberg-Rueppel署名に基づく確認者指定署名 *荒木　俊輔（九州工業大学） Intrusion-Resilient Key-Evolving Schnorr \n\n                                        Signature ◎JoongMan Kim, Kwangjo Kim (Information \n\n                                        and Communications University) Schnorr Signature Scheme with Restricted \n\n                                        Signing Capability and Its Application ◎Chul-Joon Choi, Zeen Kim, Kwangjo Kim \n\n                                        (Information and Communications University) 6B ネットワークセキュリティ(3) 16:00〜17:20 座長：須賀　祐治（キヤノン） 音声ストリームの暗号化を実現するSIP Proxy Serverの開発 ◎広岡　俊彦（徳島大学），曽根 直人（鳴門教育大学），森井 昌克（徳島大学） セキュリティデバイスログ分析支援システムの広域監視への適用 *竹森　敬祐（慶應義塾大学/KDDI研究所），三宅　優，中尾　康二，菅谷　史昭（KDDI研究所），笹瀬　巌 \n\n                                        （慶應義塾大学） ユーザビリティを考慮した安全な無線 LAN システムの提案 *古森　貞（三菱電機），齋藤　孝道（東京工科大学） P2P技術を応用したセキュリティポリシの配信に関する考察 *清水　歩，加藤　岳久（東芝） 6C ステガノグラフィ (1) 16:00〜17:20 座長：田中　清（信州大） XSLTを用いたインフォメーションハイディング *村野　 正泰，村瀬　一郎，牧野　京子（三菱総合研究所），滝澤　 修（通信総合研究所），松本　勉，赤井　健一郎，鈴木　雅貴，吉岡　克成（横浜国立大学），中川　裕志（東京大学） 視覚的アタックを考慮したBPCSステガノグラフィ *新見　道治，野田　秀樹，河口　英二 （九州工業大学） BPCSステガノグラフィの複雑さヒストグラムステガナリシス *新見　道治（九州工業大学），永　智仁（ケイソフト），野田　秀樹，河口　英二（九州工業大学） 能動的攻撃に対して情報理論的に安全なステガノグラフィ ◎鷹嘴　成寿，赤井　健一郎，四方　順司，松本　勉 （横浜国立大学） 7A 暗号理論(2) 17:40〜18:40 座長：岡本　栄司（筑波大） 量子通信を利用した安全なカード配布に関する考察 ◎伊藤　忠彦，岡本　栄司，岡本　健 （筑波大学） Group Mutual Exclusion based Secure \n\n                                        Distributed Protocol ◎Jaehyrk Park , Sukkyu Gang, Kwangjo \n\n                                        Kim (Information and Communications University) 信頼できる第三者機関を用いたユーザID情報保護可能な鍵共有プロトコル ◎今本　健二，櫻井　幸一（九州大学） 7B アクセス制御 17:40〜18:40 座長：双紙　正和（北陸先端科学技術大学院大） 動的リンカを利用したユーザレベルアクセス制御機構の設計 *田端　利宏，櫻井　幸一（九州大学） 確率ネットワークを用いたプログラムの異常動作を検知する手法 ◎鑪　講平，田端　利宏，櫻井　幸一（九州大学） カプセル化構造の破壊によるJavaソースコードの難読化手法の評価尺度の提案 ◎福島　和英，田端　利宏，櫻井　幸一 （九州大学） 7C ステガノグラフィ(2) 17:40〜18:40 座長：井上　徹（広島修道大） テキスト秘密分散ツールの開発 *滝澤　修（通信総合研究所），牧野　京子（三菱総合研究所） ステガノグラフィを用いた文書流出のリアルタイム検出 ◎高木　明，田中　章司郎（島根大学） パスワード埋め込み画像によるログインシステムの開発 ◎喜代吉　容大，田中　章司郎（島根大学）",
+    "session": "4B: セキュリティ評価・監査(1)",
     "id": "4B-1",
     "title": "持ち込みPC検疫機構の提案",
     "authors": [
@@ -1551,7 +1543,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "◎: 学生論文対象者，* : 一般講演者 10月30日（火） 4B セキュリティ評価・監査(1) 9:20〜10:40 座長：村山　優子（岩手県立大） 持ち込みPC検疫機構の提案 *三輪　信介（通信総合研究所） ネットワークサーバにおける脆弱性自動監査システム ◎毛利　公美（徳島大学），曽根　直人（鳴門教育大学），高橋　秀郎，神薗　雅紀，森井　昌克（徳島大学） プログラムの情報フロー解析における暗号技術に基づく関数への対処法 ◎大村　浩正，吉田　真紀，藤原　融（大阪大学） 4C コンテンツセキュリティ(1) 9:20〜10:40 座長：浅野　智之（ソニー） JPEG 2000アクセス制御のための鍵生成の一方式 林　淳一，*江口　貴巳，岩村　恵市 （キヤノン） 攻撃者の能力に制約がある場合の木構造鍵管理方式 ◎野島　良，楫　勇一 （奈良先端科学技術大学院大学） 一方向性ハッシュ関数を用いた階層構造を持つアクセス制御方式 *須賀 祐治，岩村 恵市（キャノン） 全文検索可能な暗号化DBの実装・評価 *清本　晋作，田中　俊昭，三宅　優（KDDI研究所），三田村　好矩（北海道大学），乗越　雅光（通信・放送機構） 5A 教育・法律 11:00〜12:20 座長：藤村　明子（NTT） 不正アクセスの禁止等に関する法律の運用（罪数判断を中心に） *奥村　徹（大阪弁護士会） コンテンツの保護とセキュリティに関する社会技術的な考察 *児玉　晴男（メディア教育開発センター） 情報セキュリティ教育の現状と将来に関する考察 *佐々木　良一，板津　守昭（東京電機大学） 5B セキュリティ評価・監査(2) 11:00〜12:20 座長：寺田　真敏（日立） 多面的安全性に着目した安全性の評価モデル *金子　格，白井　克彦（早稲田大学） セキュリティ対策案選択問題のモデル化とその評価 *中村 逸一（NTTデータ），兵藤　敏之（静岡大学），曽我 正和（岩手県立大学），西垣 \n\n                                        正勝（静岡大学） 情報セキュリティ対策の評価技法の提案 *重松　孝明（電子商取引推進協議会） SEC 2003参加報告 *菊池　浩明（東海大学），佐々木　良一（東京電機大学） 5C コンテンツセキュリティ \n\n                                    (2) 11:00〜12:20 座長：田中　俊昭（KDDI） インセンティブコンピューティング用端末ソフトウェアの一構成法 ◎鈴木　雅貴，赤井　健一郎，松本　勉（横浜国立大学） コンテンツ再生と不可分な課金演算処理によるクライアント上での課金システムの評価 *青野　博，星野　玲子，本郷　節之（NTTドコモ），鈴木　雅貴，赤井　健一郎，松本　勉（横浜国立大学） 動画像のためのIDAを利用したリアルタイムストリーミング認証方式 ◎金子　伸一郎，上田　真太郎，川口　信隆，重野　寛，岡田　謙一（慶應義塾大学） 分岐構造をもつコンテンツに対する分岐選択履歴を配信者から秘匿可能な配信システム ◎小西　祥之，吉田　真紀，藤原　融（大阪大学） S1 特別講演1 13:40〜14:40 司会：岩村　恵市（キヤノン） ISO15408及びCC認証の現状と動向について 植村　泰佳（電子商取引安全技術研究組合） S2 特別講演2 14:40〜15:40 司会：佐藤　敬（北九州市立大） 韓国におけるセキュリティ研究の現状と動向について（仮題） Choonsik Park(National Security Research \n\n                                        Institute) 6A 暗号理論(1) 16:00〜17:20 座長：満保　雅浩（東北大） Nyberg-Rueppel署名に基づく確認者指定署名 *荒木　俊輔（九州工業大学） Intrusion-Resilient Key-Evolving Schnorr \n\n                                        Signature ◎JoongMan Kim, Kwangjo Kim (Information \n\n                                        and Communications University) Schnorr Signature Scheme with Restricted \n\n                                        Signing Capability and Its Application ◎Chul-Joon Choi, Zeen Kim, Kwangjo Kim \n\n                                        (Information and Communications University) 6B ネットワークセキュリティ(3) 16:00〜17:20 座長：須賀　祐治（キヤノン） 音声ストリームの暗号化を実現するSIP Proxy Serverの開発 ◎広岡　俊彦（徳島大学），曽根 直人（鳴門教育大学），森井 昌克（徳島大学） セキュリティデバイスログ分析支援システムの広域監視への適用 *竹森　敬祐（慶應義塾大学/KDDI研究所），三宅　優，中尾　康二，菅谷　史昭（KDDI研究所），笹瀬　巌 \n\n                                        （慶應義塾大学） ユーザビリティを考慮した安全な無線 LAN システムの提案 *古森　貞（三菱電機），齋藤　孝道（東京工科大学） P2P技術を応用したセキュリティポリシの配信に関する考察 *清水　歩，加藤　岳久（東芝） 6C ステガノグラフィ (1) 16:00〜17:20 座長：田中　清（信州大） XSLTを用いたインフォメーションハイディング *村野　 正泰，村瀬　一郎，牧野　京子（三菱総合研究所），滝澤　 修（通信総合研究所），松本　勉，赤井　健一郎，鈴木　雅貴，吉岡　克成（横浜国立大学），中川　裕志（東京大学） 視覚的アタックを考慮したBPCSステガノグラフィ *新見　道治，野田　秀樹，河口　英二 （九州工業大学） BPCSステガノグラフィの複雑さヒストグラムステガナリシス *新見　道治（九州工業大学），永　智仁（ケイソフト），野田　秀樹，河口　英二（九州工業大学） 能動的攻撃に対して情報理論的に安全なステガノグラフィ ◎鷹嘴　成寿，赤井　健一郎，四方　順司，松本　勉 （横浜国立大学） 7A 暗号理論(2) 17:40〜18:40 座長：岡本　栄司（筑波大） 量子通信を利用した安全なカード配布に関する考察 ◎伊藤　忠彦，岡本　栄司，岡本　健 （筑波大学） Group Mutual Exclusion based Secure \n\n                                        Distributed Protocol ◎Jaehyrk Park , Sukkyu Gang, Kwangjo \n\n                                        Kim (Information and Communications University) 信頼できる第三者機関を用いたユーザID情報保護可能な鍵共有プロトコル ◎今本　健二，櫻井　幸一（九州大学） 7B アクセス制御 17:40〜18:40 座長：双紙　正和（北陸先端科学技術大学院大） 動的リンカを利用したユーザレベルアクセス制御機構の設計 *田端　利宏，櫻井　幸一（九州大学） 確率ネットワークを用いたプログラムの異常動作を検知する手法 ◎鑪　講平，田端　利宏，櫻井　幸一（九州大学） カプセル化構造の破壊によるJavaソースコードの難読化手法の評価尺度の提案 ◎福島　和英，田端　利宏，櫻井　幸一 （九州大学） 7C ステガノグラフィ(2) 17:40〜18:40 座長：井上　徹（広島修道大） テキスト秘密分散ツールの開発 *滝澤　修（通信総合研究所），牧野　京子（三菱総合研究所） ステガノグラフィを用いた文書流出のリアルタイム検出 ◎高木　明，田中　章司郎（島根大学） パスワード埋め込み画像によるログインシステムの開発 ◎喜代吉　容大，田中　章司郎（島根大学）",
+    "session": "4B: セキュリティ評価・監査(1)",
     "id": "4B-2",
     "title": "ネットワークサーバにおける脆弱性自動監査システム",
     "authors": [
@@ -1600,7 +1592,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "◎: 学生論文対象者，* : 一般講演者 10月30日（火） 4B セキュリティ評価・監査(1) 9:20〜10:40 座長：村山　優子（岩手県立大） 持ち込みPC検疫機構の提案 *三輪　信介（通信総合研究所） ネットワークサーバにおける脆弱性自動監査システム ◎毛利　公美（徳島大学），曽根　直人（鳴門教育大学），高橋　秀郎，神薗　雅紀，森井　昌克（徳島大学） プログラムの情報フロー解析における暗号技術に基づく関数への対処法 ◎大村　浩正，吉田　真紀，藤原　融（大阪大学） 4C コンテンツセキュリティ(1) 9:20〜10:40 座長：浅野　智之（ソニー） JPEG 2000アクセス制御のための鍵生成の一方式 林　淳一，*江口　貴巳，岩村　恵市 （キヤノン） 攻撃者の能力に制約がある場合の木構造鍵管理方式 ◎野島　良，楫　勇一 （奈良先端科学技術大学院大学） 一方向性ハッシュ関数を用いた階層構造を持つアクセス制御方式 *須賀 祐治，岩村 恵市（キャノン） 全文検索可能な暗号化DBの実装・評価 *清本　晋作，田中　俊昭，三宅　優（KDDI研究所），三田村　好矩（北海道大学），乗越　雅光（通信・放送機構） 5A 教育・法律 11:00〜12:20 座長：藤村　明子（NTT） 不正アクセスの禁止等に関する法律の運用（罪数判断を中心に） *奥村　徹（大阪弁護士会） コンテンツの保護とセキュリティに関する社会技術的な考察 *児玉　晴男（メディア教育開発センター） 情報セキュリティ教育の現状と将来に関する考察 *佐々木　良一，板津　守昭（東京電機大学） 5B セキュリティ評価・監査(2) 11:00〜12:20 座長：寺田　真敏（日立） 多面的安全性に着目した安全性の評価モデル *金子　格，白井　克彦（早稲田大学） セキュリティ対策案選択問題のモデル化とその評価 *中村 逸一（NTTデータ），兵藤　敏之（静岡大学），曽我 正和（岩手県立大学），西垣 \n\n                                        正勝（静岡大学） 情報セキュリティ対策の評価技法の提案 *重松　孝明（電子商取引推進協議会） SEC 2003参加報告 *菊池　浩明（東海大学），佐々木　良一（東京電機大学） 5C コンテンツセキュリティ \n\n                                    (2) 11:00〜12:20 座長：田中　俊昭（KDDI） インセンティブコンピューティング用端末ソフトウェアの一構成法 ◎鈴木　雅貴，赤井　健一郎，松本　勉（横浜国立大学） コンテンツ再生と不可分な課金演算処理によるクライアント上での課金システムの評価 *青野　博，星野　玲子，本郷　節之（NTTドコモ），鈴木　雅貴，赤井　健一郎，松本　勉（横浜国立大学） 動画像のためのIDAを利用したリアルタイムストリーミング認証方式 ◎金子　伸一郎，上田　真太郎，川口　信隆，重野　寛，岡田　謙一（慶應義塾大学） 分岐構造をもつコンテンツに対する分岐選択履歴を配信者から秘匿可能な配信システム ◎小西　祥之，吉田　真紀，藤原　融（大阪大学） S1 特別講演1 13:40〜14:40 司会：岩村　恵市（キヤノン） ISO15408及びCC認証の現状と動向について 植村　泰佳（電子商取引安全技術研究組合） S2 特別講演2 14:40〜15:40 司会：佐藤　敬（北九州市立大） 韓国におけるセキュリティ研究の現状と動向について（仮題） Choonsik Park(National Security Research \n\n                                        Institute) 6A 暗号理論(1) 16:00〜17:20 座長：満保　雅浩（東北大） Nyberg-Rueppel署名に基づく確認者指定署名 *荒木　俊輔（九州工業大学） Intrusion-Resilient Key-Evolving Schnorr \n\n                                        Signature ◎JoongMan Kim, Kwangjo Kim (Information \n\n                                        and Communications University) Schnorr Signature Scheme with Restricted \n\n                                        Signing Capability and Its Application ◎Chul-Joon Choi, Zeen Kim, Kwangjo Kim \n\n                                        (Information and Communications University) 6B ネットワークセキュリティ(3) 16:00〜17:20 座長：須賀　祐治（キヤノン） 音声ストリームの暗号化を実現するSIP Proxy Serverの開発 ◎広岡　俊彦（徳島大学），曽根 直人（鳴門教育大学），森井 昌克（徳島大学） セキュリティデバイスログ分析支援システムの広域監視への適用 *竹森　敬祐（慶應義塾大学/KDDI研究所），三宅　優，中尾　康二，菅谷　史昭（KDDI研究所），笹瀬　巌 \n\n                                        （慶應義塾大学） ユーザビリティを考慮した安全な無線 LAN システムの提案 *古森　貞（三菱電機），齋藤　孝道（東京工科大学） P2P技術を応用したセキュリティポリシの配信に関する考察 *清水　歩，加藤　岳久（東芝） 6C ステガノグラフィ (1) 16:00〜17:20 座長：田中　清（信州大） XSLTを用いたインフォメーションハイディング *村野　 正泰，村瀬　一郎，牧野　京子（三菱総合研究所），滝澤　 修（通信総合研究所），松本　勉，赤井　健一郎，鈴木　雅貴，吉岡　克成（横浜国立大学），中川　裕志（東京大学） 視覚的アタックを考慮したBPCSステガノグラフィ *新見　道治，野田　秀樹，河口　英二 （九州工業大学） BPCSステガノグラフィの複雑さヒストグラムステガナリシス *新見　道治（九州工業大学），永　智仁（ケイソフト），野田　秀樹，河口　英二（九州工業大学） 能動的攻撃に対して情報理論的に安全なステガノグラフィ ◎鷹嘴　成寿，赤井　健一郎，四方　順司，松本　勉 （横浜国立大学） 7A 暗号理論(2) 17:40〜18:40 座長：岡本　栄司（筑波大） 量子通信を利用した安全なカード配布に関する考察 ◎伊藤　忠彦，岡本　栄司，岡本　健 （筑波大学） Group Mutual Exclusion based Secure \n\n                                        Distributed Protocol ◎Jaehyrk Park , Sukkyu Gang, Kwangjo \n\n                                        Kim (Information and Communications University) 信頼できる第三者機関を用いたユーザID情報保護可能な鍵共有プロトコル ◎今本　健二，櫻井　幸一（九州大学） 7B アクセス制御 17:40〜18:40 座長：双紙　正和（北陸先端科学技術大学院大） 動的リンカを利用したユーザレベルアクセス制御機構の設計 *田端　利宏，櫻井　幸一（九州大学） 確率ネットワークを用いたプログラムの異常動作を検知する手法 ◎鑪　講平，田端　利宏，櫻井　幸一（九州大学） カプセル化構造の破壊によるJavaソースコードの難読化手法の評価尺度の提案 ◎福島　和英，田端　利宏，櫻井　幸一 （九州大学） 7C ステガノグラフィ(2) 17:40〜18:40 座長：井上　徹（広島修道大） テキスト秘密分散ツールの開発 *滝澤　修（通信総合研究所），牧野　京子（三菱総合研究所） ステガノグラフィを用いた文書流出のリアルタイム検出 ◎高木　明，田中　章司郎（島根大学） パスワード埋め込み画像によるログインシステムの開発 ◎喜代吉　容大，田中　章司郎（島根大学）",
+    "session": "4B: セキュリティ評価・監査(1)",
     "id": "4B-3",
     "title": "プログラムの情報フロー解析における暗号技術に基づく関数への対処法",
     "authors": [
@@ -1633,106 +1625,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "4B セキュリティ評価・監査(1) 9:20〜10:40 座長：村山　優子（岩手県立大）",
-    "id": "4B-1",
-    "title": "持ち込みPC検疫機構の提案",
-    "authors": [
-      {
-        "name": "三輪 信介",
-        "affiliations": [
-          "通信総合研究所"
-        ],
-        "is_presenter": true,
-        "presenter_symbol": "*"
-      }
-    ],
-    "search_text": "4B-1 持ち込みPC検疫機構の提案 三輪 信介 通信総合研究所"
-  },
-  {
-    "event": "CSS2003",
-    "session": "4B セキュリティ評価・監査(1) 9:20〜10:40 座長：村山　優子（岩手県立大）",
-    "id": "4B-2",
-    "title": "ネットワークサーバにおける脆弱性自動監査システム",
-    "authors": [
-      {
-        "name": "毛利 公美",
-        "affiliations": [
-          "徳島大学"
-        ],
-        "is_presenter": true,
-        "presenter_symbol": "◎"
-      },
-      {
-        "name": "曽根 直人",
-        "affiliations": [
-          "鳴門教育大学"
-        ],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
-        "name": "高橋 秀郎",
-        "affiliations": [
-          "徳島大学"
-        ],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
-        "name": "神薗 雅紀",
-        "affiliations": [
-          "徳島大学"
-        ],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
-        "name": "森井 昌克",
-        "affiliations": [
-          "徳島大学"
-        ],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      }
-    ],
-    "search_text": "4B-2 ネットワークサーバにおける脆弱性自動監査システム 毛利 公美 曽根 直人 高橋 秀郎 神薗 雅紀 森井 昌克 徳島大学 鳴門教育大学 徳島大学 徳島大学 徳島大学"
-  },
-  {
-    "event": "CSS2003",
-    "session": "4B セキュリティ評価・監査(1) 9:20〜10:40 座長：村山　優子（岩手県立大）",
-    "id": "4B-3",
-    "title": "プログラムの情報フロー解析における暗号技術に基づく関数への対処法",
-    "authors": [
-      {
-        "name": "大村 浩正",
-        "affiliations": [
-          "大阪大学"
-        ],
-        "is_presenter": true,
-        "presenter_symbol": "◎"
-      },
-      {
-        "name": "吉田 真紀",
-        "affiliations": [
-          "大阪大学"
-        ],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
-        "name": "藤原 融",
-        "affiliations": [
-          "大阪大学"
-        ],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      }
-    ],
-    "search_text": "4B-3 プログラムの情報フロー解析における暗号技術に基づく関数への対処法 大村 浩正 吉田 真紀 藤原 融 大阪大学 大阪大学 大阪大学"
-  },
-  {
-    "event": "CSS2003",
-    "session": "4C コンテンツセキュリティ(1) 9:20〜10:40 座長：浅野　智之（ソニー）",
+    "session": "4C: コンテンツセキュリティ(1)",
     "id": "4C-1",
     "title": "JPEG 2000アクセス制御のための鍵生成の一方式",
     "authors": [
@@ -1765,7 +1658,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "4C コンテンツセキュリティ(1) 9:20〜10:40 座長：浅野　智之（ソニー）",
+    "session": "4C: コンテンツセキュリティ(1)",
     "id": "4C-2",
     "title": "攻撃者の能力に制約がある場合の木構造鍵管理方式",
     "authors": [
@@ -1790,7 +1683,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "4C コンテンツセキュリティ(1) 9:20〜10:40 座長：浅野　智之（ソニー）",
+    "session": "4C: コンテンツセキュリティ(1)",
     "id": "4C-3",
     "title": "一方向性ハッシュ関数を用いた階層構造を持つアクセス制御方式",
     "authors": [
@@ -1815,7 +1708,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "4C コンテンツセキュリティ(1) 9:20〜10:40 座長：浅野　智之（ソニー）",
+    "session": "4C: コンテンツセキュリティ(1)",
     "id": "4C-4",
     "title": "全文検索可能な暗号化DBの実装・評価",
     "authors": [
@@ -1864,7 +1757,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "5A 教育・法律 11:00〜12:20 座長：藤村　明子（NTT）",
+    "session": "5A: 教育・法律",
     "id": "5A-1",
     "title": "不正アクセスの禁止等に関する法律の運用（罪数判断を中心に）",
     "authors": [
@@ -1881,7 +1774,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "5A 教育・法律 11:00〜12:20 座長：藤村　明子（NTT）",
+    "session": "5A: 教育・法律",
     "id": "5A-2",
     "title": "コンテンツの保護とセキュリティに関する社会技術的な考察",
     "authors": [
@@ -1898,7 +1791,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "5A 教育・法律 11:00〜12:20 座長：藤村　明子（NTT）",
+    "session": "5A: 教育・法律",
     "id": "5A-3",
     "title": "情報セキュリティ教育の現状と将来に関する考察",
     "authors": [
@@ -1923,7 +1816,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "5B セキュリティ評価・監査(2) 11:00〜12:20 座長：寺田　真敏（日立）",
+    "session": "5B: セキュリティ評価・監査(2)",
     "id": "5B-1",
     "title": "多面的安全性に着目した安全性の評価モデル",
     "authors": [
@@ -1948,7 +1841,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "5B セキュリティ評価・監査(2) 11:00〜12:20 座長：寺田　真敏（日立）",
+    "session": "5B: セキュリティ評価・監査(2)",
     "id": "5B-2",
     "title": "セキュリティ対策案選択問題のモデル化とその評価",
     "authors": [
@@ -1989,7 +1882,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "5B セキュリティ評価・監査(2) 11:00〜12:20 座長：寺田　真敏（日立）",
+    "session": "5B: セキュリティ評価・監査(2)",
     "id": "5B-3",
     "title": "情報セキュリティ対策の評価技法の提案",
     "authors": [
@@ -2006,7 +1899,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "5B セキュリティ評価・監査(2) 11:00〜12:20 座長：寺田　真敏（日立）",
+    "session": "5B: セキュリティ評価・監査(2)",
     "id": "5B-4",
     "title": "SEC 2003参加報告",
     "authors": [
@@ -2031,7 +1924,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "5C コンテンツセキュリティ \n\n                                    (2) 11:00〜12:20 座長：田中　俊昭（KDDI）",
+    "session": "5C: コンテンツセキュリティ(2)",
     "id": "5C-1",
     "title": "インセンティブコンピューティング用端末ソフトウェアの一構成法",
     "authors": [
@@ -2064,7 +1957,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "5C コンテンツセキュリティ \n\n                                    (2) 11:00〜12:20 座長：田中　俊昭（KDDI）",
+    "session": "5C: コンテンツセキュリティ(2)",
     "id": "5C-2",
     "title": "コンテンツ再生と不可分な課金演算処理によるクライアント上での課金システムの評価",
     "authors": [
@@ -2121,7 +2014,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "5C コンテンツセキュリティ \n\n                                    (2) 11:00〜12:20 座長：田中　俊昭（KDDI）",
+    "session": "5C: コンテンツセキュリティ(2)",
     "id": "5C-3",
     "title": "動画像のためのIDAを利用したリアルタイムストリーミング認証方式",
     "authors": [
@@ -2170,7 +2063,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "5C コンテンツセキュリティ \n\n                                    (2) 11:00〜12:20 座長：田中　俊昭（KDDI）",
+    "session": "5C: コンテンツセキュリティ(2)",
     "id": "5C-4",
     "title": "分岐構造をもつコンテンツに対する分岐選択履歴を配信者から秘匿可能な配信システム",
     "authors": [
@@ -2203,8 +2096,8 @@
   },
   {
     "event": "CSS2003",
-    "session": "S1 特別講演1 13:40〜14:40 司会：岩村　恵市（キヤノン）",
-    "id": "S1-1",
+    "session": "S1: 特別講演1",
+    "id": "invited-1",
     "title": "ISO15408及びCC認証の現状と動向について",
     "authors": [
       {
@@ -2216,12 +2109,12 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "S1-1 ISO15408及びCC認証の現状と動向について 植村 泰佳 電子商取引安全技術研究組合"
+    "search_text": "invited-1 ISO15408及びCC認証の現状と動向について 植村 泰佳 電子商取引安全技術研究組合"
   },
   {
     "event": "CSS2003",
-    "session": "S2 特別講演2 14:40〜15:40 司会：佐藤　敬（北九州市立大）",
-    "id": "S2-1",
+    "session": "S2: 特別講演2",
+    "id": "invited-2",
     "title": "韓国におけるセキュリティ研究の現状と動向について（仮題）",
     "authors": [
       {
@@ -2233,11 +2126,11 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "S2-1 韓国におけるセキュリティ研究の現状と動向について（仮題） Choonsik Park National Security Research Institute"
+    "search_text": "invited-2 韓国におけるセキュリティ研究の現状と動向について（仮題） Choonsik Park National Security Research Institute"
   },
   {
     "event": "CSS2003",
-    "session": "6A 暗号理論(1) 16:00〜17:20 座長：満保　雅浩（東北大）",
+    "session": "6A: 暗号理論(1)",
     "id": "6A-1",
     "title": "Nyberg-Rueppel署名に基づく確認者指定署名",
     "authors": [
@@ -2254,9 +2147,9 @@
   },
   {
     "event": "CSS2003",
-    "session": "6A 暗号理論(1) 16:00〜17:20 座長：満保　雅浩（東北大）",
+    "session": "6A: 暗号理論(1)",
     "id": "6A-2",
-    "title": "Intrusion-Resilient Key-Evolving Schnorr \n\n                                        Signature",
+    "title": "Intrusion-Resilient Key-Evolving Schnorr Signature",
     "authors": [
       {
         "name": "JoongMan Kim",
@@ -2275,13 +2168,13 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "6A-2 Intrusion-Resilient Key-Evolving Schnorr \n\n                                        Signature JoongMan Kim Kwangjo Kim Information and Communications University Information and Communications University"
+    "search_text": "6A-2 Intrusion-Resilient Key-Evolving Schnorr Signature JoongMan Kim Kwangjo Kim Information and Communications University Information and Communications University"
   },
   {
     "event": "CSS2003",
-    "session": "6A 暗号理論(1) 16:00〜17:20 座長：満保　雅浩（東北大）",
+    "session": "6A: 暗号理論(1)",
     "id": "6A-3",
-    "title": "Schnorr Signature Scheme with Restricted \n\n                                        Signing Capability and Its Application",
+    "title": "Schnorr Signature Scheme with Restricted Signing Capability and Its Application",
     "authors": [
       {
         "name": "Chul-Joon Choi",
@@ -2308,11 +2201,11 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "6A-3 Schnorr Signature Scheme with Restricted \n\n                                        Signing Capability and Its Application Chul-Joon Choi Zeen Kim Kwangjo Kim Information and Communications University Information and Communications University Information and Communications University"
+    "search_text": "6A-3 Schnorr Signature Scheme with Restricted Signing Capability and Its Application Chul-Joon Choi Zeen Kim Kwangjo Kim Information and Communications University Information and Communications University Information and Communications University"
   },
   {
     "event": "CSS2003",
-    "session": "6B ネットワークセキュリティ(3) 16:00〜17:20 座長：須賀　祐治（キヤノン）",
+    "session": "6B: ネットワークセキュリティ(3)",
     "id": "6B-1",
     "title": "音声ストリームの暗号化を実現するSIP Proxy Serverの開発",
     "authors": [
@@ -2345,7 +2238,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "6B ネットワークセキュリティ(3) 16:00〜17:20 座長：須賀　祐治（キヤノン）",
+    "session": "6B: ネットワークセキュリティ(3)",
     "id": "6B-2",
     "title": "セキュリティデバイスログ分析支援システムの広域監視への適用",
     "authors": [
@@ -2395,7 +2288,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "6B ネットワークセキュリティ(3) 16:00〜17:20 座長：須賀　祐治（キヤノン）",
+    "session": "6B: ネットワークセキュリティ(3)",
     "id": "6B-3",
     "title": "ユーザビリティを考慮した安全な無線 LAN システムの提案",
     "authors": [
@@ -2420,7 +2313,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "6B ネットワークセキュリティ(3) 16:00〜17:20 座長：須賀　祐治（キヤノン）",
+    "session": "6B: ネットワークセキュリティ(3)",
     "id": "6B-4",
     "title": "P2P技術を応用したセキュリティポリシの配信に関する考察",
     "authors": [
@@ -2445,7 +2338,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "6C ステガノグラフィ (1) 16:00〜17:20 座長：田中　清（信州大）",
+    "session": "6C: ステガノグラフィ(1)",
     "id": "6C-1",
     "title": "XSLTを用いたインフォメーションハイディング",
     "authors": [
@@ -2526,7 +2419,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "6C ステガノグラフィ (1) 16:00〜17:20 座長：田中　清（信州大）",
+    "session": "6C: ステガノグラフィ(1)",
     "id": "6C-2",
     "title": "視覚的アタックを考慮したBPCSステガノグラフィ",
     "authors": [
@@ -2559,7 +2452,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "6C ステガノグラフィ (1) 16:00〜17:20 座長：田中　清（信州大）",
+    "session": "6C: ステガノグラフィ(1)",
     "id": "6C-3",
     "title": "BPCSステガノグラフィの複雑さヒストグラムステガナリシス",
     "authors": [
@@ -2600,7 +2493,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "6C ステガノグラフィ (1) 16:00〜17:20 座長：田中　清（信州大）",
+    "session": "6C: ステガノグラフィ(1)",
     "id": "6C-4",
     "title": "能動的攻撃に対して情報理論的に安全なステガノグラフィ",
     "authors": [
@@ -2641,7 +2534,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "7A 暗号理論(2) 17:40〜18:40 座長：岡本　栄司（筑波大）",
+    "session": "7A: 暗号理論(2)",
     "id": "7A-1",
     "title": "量子通信を利用した安全なカード配布に関する考察",
     "authors": [
@@ -2674,9 +2567,9 @@
   },
   {
     "event": "CSS2003",
-    "session": "7A 暗号理論(2) 17:40〜18:40 座長：岡本　栄司（筑波大）",
+    "session": "7A: 暗号理論(2)",
     "id": "7A-2",
-    "title": "Group Mutual Exclusion based Secure \n\n                                        Distributed Protocol",
+    "title": "Group Mutual Exclusion based Secure Distributed Protocol",
     "authors": [
       {
         "name": "Jaehyrk Park",
@@ -2703,11 +2596,11 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "7A-2 Group Mutual Exclusion based Secure \n\n                                        Distributed Protocol Jaehyrk Park Sukkyu Gang Kwangjo Kim Information and Communications University Information and Communications University Information and Communications University"
+    "search_text": "7A-2 Group Mutual Exclusion based Secure Distributed Protocol Jaehyrk Park Sukkyu Gang Kwangjo Kim Information and Communications University Information and Communications University Information and Communications University"
   },
   {
     "event": "CSS2003",
-    "session": "7A 暗号理論(2) 17:40〜18:40 座長：岡本　栄司（筑波大）",
+    "session": "7A: 暗号理論(2)",
     "id": "7A-3",
     "title": "信頼できる第三者機関を用いたユーザID情報保護可能な鍵共有プロトコル",
     "authors": [
@@ -2732,8 +2625,33 @@
   },
   {
     "event": "CSS2003",
-    "session": "7B アクセス制御 17:40〜18:40 座長：双紙　正和（北陸先端科学技術大学院大）",
+    "session": "7B: アクセス制御",
     "id": "7B-1",
+    "title": "動的リンカを利用したユーザレベルアクセス制御機構の設計",
+    "authors": [
+      {
+        "name": "田端 利宏",
+        "affiliations": [
+          "九州大学"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "*"
+      },
+      {
+        "name": "櫻井 幸一",
+        "affiliations": [
+          "九州大学"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "7B-1 動的リンカを利用したユーザレベルアクセス制御機構の設計 田端 利宏 櫻井 幸一 九州大学 九州大学"
+  },
+  {
+    "event": "CSS2003",
+    "session": "7B: アクセス制御",
+    "id": "7B-2",
     "title": "確率ネットワークを用いたプログラムの異常動作を検知する手法",
     "authors": [
       {
@@ -2761,12 +2679,12 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "7B-1 確率ネットワークを用いたプログラムの異常動作を検知する手法 鑪 講平 田端 利宏 櫻井 幸一 九州大学 九州大学 九州大学"
+    "search_text": "7B-2 確率ネットワークを用いたプログラムの異常動作を検知する手法 鑪 講平 田端 利宏 櫻井 幸一 九州大学 九州大学 九州大学"
   },
   {
     "event": "CSS2003",
-    "session": "7B アクセス制御 17:40〜18:40 座長：双紙　正和（北陸先端科学技術大学院大）",
-    "id": "7B-2",
+    "session": "7B: アクセス制御",
+    "id": "7B-3",
     "title": "カプセル化構造の破壊によるJavaソースコードの難読化手法の評価尺度の提案",
     "authors": [
       {
@@ -2794,12 +2712,37 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "7B-2 カプセル化構造の破壊によるJavaソースコードの難読化手法の評価尺度の提案 福島 和英 田端 利宏 櫻井 幸一 九州大学 九州大学 九州大学"
+    "search_text": "7B-3 カプセル化構造の破壊によるJavaソースコードの難読化手法の評価尺度の提案 福島 和英 田端 利宏 櫻井 幸一 九州大学 九州大学 九州大学"
   },
   {
     "event": "CSS2003",
-    "session": "7C ステガノグラフィ(2) 17:40〜18:40 座長：井上　徹（広島修道大）",
+    "session": "7C: ステガノグラフィ(2)",
     "id": "7C-1",
+    "title": "テキスト秘密分散ツールの開発",
+    "authors": [
+      {
+        "name": "滝澤 修",
+        "affiliations": [
+          "通信総合研究所"
+        ],
+        "is_presenter": true,
+        "presenter_symbol": "*"
+      },
+      {
+        "name": "牧野 京子",
+        "affiliations": [
+          "三菱総合研究所"
+        ],
+        "is_presenter": false,
+        "presenter_symbol": ""
+      }
+    ],
+    "search_text": "7C-1 テキスト秘密分散ツールの開発 滝澤 修 牧野 京子 通信総合研究所 三菱総合研究所"
+  },
+  {
+    "event": "CSS2003",
+    "session": "7C: ステガノグラフィ(2)",
+    "id": "7C-2",
     "title": "ステガノグラフィを用いた文書流出のリアルタイム検出",
     "authors": [
       {
@@ -2819,12 +2762,12 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "7C-1 ステガノグラフィを用いた文書流出のリアルタイム検出 高木 明 田中 章司郎 島根大学 島根大学"
+    "search_text": "7C-2 ステガノグラフィを用いた文書流出のリアルタイム検出 高木 明 田中 章司郎 島根大学 島根大学"
   },
   {
     "event": "CSS2003",
-    "session": "7C ステガノグラフィ(2) 17:40〜18:40 座長：井上　徹（広島修道大）",
-    "id": "7C-2",
+    "session": "7C: ステガノグラフィ(2)",
+    "id": "7C-3",
     "title": "パスワード埋め込み画像によるログインシステムの開発",
     "authors": [
       {
@@ -2844,13 +2787,13 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "7C-2 パスワード埋め込み画像によるログインシステムの開発 喜代吉 容大 田中 章司郎 島根大学 島根大学"
+    "search_text": "7C-3 パスワード埋め込み画像によるログインシステムの開発 喜代吉 容大 田中 章司郎 島根大学 島根大学"
   },
   {
     "event": "CSS2003",
-    "session": "◎: 学生論文対象者，* : 一般講演者 10月31日（金） 8A RFID 9:20〜10:40 座長：高木　浩光（産業技術総合研究所） Foｒward-Secure RFID Privacy Protection \n\n                                              for Low-cost RFID *大久保　美也子，鈴木　幸太郎，木下　真吾（NTT） RFIDプライバシー保護を実現する可変秘匿ID方式 *木下　真吾，星野　文学，小室　智之，藤村　明子，大久保　美也子（NTT) RFID偽造防止方式 *小林　信博，中川路　哲男（三菱電機） 法制度から見たRFIDプライバシー保護実現手段に関する考察 *藤村　明子，鈴木　幸太郎，木下　真吾，森田　光（NTT) 8B ネットワークプロトコル 9:20〜10:40 座長：齋藤　孝道（東京工科大） KINKの脆弱性:名前解決を悪用したIPsec SAの摩り替え *岡部　宣夫（横河電機），石山　政浩（東芝），坂根　昌一（横河電機），鎌田　健一（東京大学），井上　淳（東芝） DNSとTCPコネクションに関する挙動の解析 *力武　健次（大阪大学 /KDDI研究所），野川　裕紀 （大阪大学），菅谷　史昭，中尾　康二（KDDI研究所），下條　真司（大阪大学） 経路情報を用いたパケットフィルタリングによるIPアドレス詐称対策における経路情報詐称耐性の向上 ◎中野　学，松本　勉（横浜国立大学） SSH1 CRC補正攻撃に関する再考 *稲村　雄，本郷　節之（NTTドコモ） 8C 電子透かし(1) 9:20〜10:40 座長：渡辺　創（産業技術総合研究所） Digital TVを利用した超高精細電子時刻印システムに関する考察 *森垣　努，松浦　幹太，須藤　修（東京大学） ヒステリシス電子透かしによる画像の原本性保証法の提案 ◎筑田　悟資，岩田　基，汐崎　陽（大阪府立大学） MusicXMLへの電子透かし埋め込み方式 ◎渡邊 集，Bhed Bahadur Bista，高田　豊雄（岩手県立大学） JPEG圧縮耐性を持つデジタル画像の改ざん検出用電子透かし ◎佐織　高志，岩田　基，汐崎　陽（大阪府立大学） 9A プライバシー保護 11:00〜12:20 座長：星野　文学（NTT） 企業におけるプライバシーを考慮した情報システムの提案 *百合山　まどか，渡邊　裕治，沼尾　雅之（日本アイ・ビー・エム） プライバシを保護する匿名認証システムの開発 加藤　岳久，*岡田　光司，吉田　琢也（東芝） 9B IDS(1) 11:00〜12:20 座長：竹森 敬祐（KDDI） 二段階直交定量検出法とネットワーク動的防御システムへの適用 ◎安藤　類央，武藤　佳恭（慶應義塾大学） Collaborative Intrusion Detection \n\n                                              System using Fuzzy ART *Hyoung-Chun Kim, Jung-Min Kang, \n\n                                              Jin-Seok Lee (National Security \n\n                                              Research Institute) 高対話型おとりシステムの運用経験と評価 ◎澁谷　芳洋（慶應義塾大学），小池　英樹（電気通信大学），高田　哲司（ソニーコンピュータサイエンス研究所），安村　通晃（慶應義塾大学），石井　威望（東京大学） 状態監視保全手法の侵入検知への適用とその視覚化 ◎大野　 一広，小池　 英樹（電気通信大学） 9C 電子透かし(2) 11:00〜12:20 座長：井上　大介（CRL） 画像の撮影に耐性のある電子透かしの検討 *小野　束 （筑波技術短期大学），江川　雄毅 （興和） Randomized c-secure CRT符号のための新しいトレースアルゴリズム *北川　隆 ，渡辺　創 （産業技術総合研究所） フラクタル符号化における候補ドメインをDCT係数によって順位付けする電子透かし ◎佐藤　晃久，太田　正哉，山下　勝己 （大阪府立大学） ベクトル合成法によるデジタル音楽への電子透かし *岩切　宗利（防衛大学校） 10A 擬似乱数 13:40〜15:00 座長：古屋　聡一（日立） k誤り線形複雑度を用いた擬似乱数系列の評価とその高速計算法 *戒田　高康 （八代工業高等専門学校） 擬似乱数検証ツールの開発 丹羽　朗人，*栃窪　孝也（東芝） ロジスティック写像を用いた擬似乱数の乱数性について *宮崎　武，上原　聡（北九州市立大学），今村　恭己（九州工業大学） 10B IDS(2) 13:40〜15:00 座長：鳥居　悟（富士通研） ユビキタスネットワークにおける小型端末に対するネットワーク攻撃防止機構の提案 *三宅　優，窪田　歩，田中　俊昭（KDDI研究所） 自律型セキュリティ管理システムによる不正アクセス対処の効果について *内山　一雄（防衛庁） 情報エントロピーを用いたネットワーク侵入検知システムログ解析手法の提案 ◎小泉　芳（慶應義塾大学），小池　英樹（電気通信大学），高田　哲司（ソニーコンピュータサイエンス研究所），安村　通晃（慶應義塾大学），石井　威望（東京大学） 亜種攻撃を検知できる侵入検知システムの提案 *山田　明，三宅　優，田中　俊昭（KDDI研究所） 10C 電子透かし(3) 13:40〜15:00 座長：汐崎　陽（大阪府立大） 周波数領域での非線形適応システムを用いた電子透かしの耐性評価 ◎直江　健介，安藤　類央，武藤　佳恭（慶應義塾大学） 人間の視覚を考慮した相関利用型電子透かしの提案 ◎胡　継宗，山口　晃由（名古屋大学），橋山　智訓（名古屋市立大学），大熊　繁（名古屋大学） 多値画像の手法を拡張した二値画像の電子透かし *上條　浩一（日本アイ・ビー・エム）",
+    "session": "8A: RFID",
     "id": "8A-1",
-    "title": "Foｒward-Secure RFID Privacy Protection \n\n                                              for Low-cost RFID",
+    "title": "Forward-Secure RFID Privacy Protection for Low-cost RFID",
     "authors": [
       {
         "name": "大久保 美也子",
@@ -2877,11 +2820,11 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "8A-1 Foｒward-Secure RFID Privacy Protection \n\n                                              for Low-cost RFID 大久保 美也子 鈴木 幸太郎 木下 真吾 NTT NTT NTT"
+    "search_text": "8A-1 Forward-Secure RFID Privacy Protection for Low-cost RFID 大久保 美也子 鈴木 幸太郎 木下 真吾 NTT NTT NTT"
   },
   {
     "event": "CSS2003",
-    "session": "◎: 学生論文対象者，* : 一般講演者 10月31日（金） 8A RFID 9:20〜10:40 座長：高木　浩光（産業技術総合研究所） Foｒward-Secure RFID Privacy Protection \n\n                                              for Low-cost RFID *大久保　美也子，鈴木　幸太郎，木下　真吾（NTT） RFIDプライバシー保護を実現する可変秘匿ID方式 *木下　真吾，星野　文学，小室　智之，藤村　明子，大久保　美也子（NTT) RFID偽造防止方式 *小林　信博，中川路　哲男（三菱電機） 法制度から見たRFIDプライバシー保護実現手段に関する考察 *藤村　明子，鈴木　幸太郎，木下　真吾，森田　光（NTT) 8B ネットワークプロトコル 9:20〜10:40 座長：齋藤　孝道（東京工科大） KINKの脆弱性:名前解決を悪用したIPsec SAの摩り替え *岡部　宣夫（横河電機），石山　政浩（東芝），坂根　昌一（横河電機），鎌田　健一（東京大学），井上　淳（東芝） DNSとTCPコネクションに関する挙動の解析 *力武　健次（大阪大学 /KDDI研究所），野川　裕紀 （大阪大学），菅谷　史昭，中尾　康二（KDDI研究所），下條　真司（大阪大学） 経路情報を用いたパケットフィルタリングによるIPアドレス詐称対策における経路情報詐称耐性の向上 ◎中野　学，松本　勉（横浜国立大学） SSH1 CRC補正攻撃に関する再考 *稲村　雄，本郷　節之（NTTドコモ） 8C 電子透かし(1) 9:20〜10:40 座長：渡辺　創（産業技術総合研究所） Digital TVを利用した超高精細電子時刻印システムに関する考察 *森垣　努，松浦　幹太，須藤　修（東京大学） ヒステリシス電子透かしによる画像の原本性保証法の提案 ◎筑田　悟資，岩田　基，汐崎　陽（大阪府立大学） MusicXMLへの電子透かし埋め込み方式 ◎渡邊 集，Bhed Bahadur Bista，高田　豊雄（岩手県立大学） JPEG圧縮耐性を持つデジタル画像の改ざん検出用電子透かし ◎佐織　高志，岩田　基，汐崎　陽（大阪府立大学） 9A プライバシー保護 11:00〜12:20 座長：星野　文学（NTT） 企業におけるプライバシーを考慮した情報システムの提案 *百合山　まどか，渡邊　裕治，沼尾　雅之（日本アイ・ビー・エム） プライバシを保護する匿名認証システムの開発 加藤　岳久，*岡田　光司，吉田　琢也（東芝） 9B IDS(1) 11:00〜12:20 座長：竹森 敬祐（KDDI） 二段階直交定量検出法とネットワーク動的防御システムへの適用 ◎安藤　類央，武藤　佳恭（慶應義塾大学） Collaborative Intrusion Detection \n\n                                              System using Fuzzy ART *Hyoung-Chun Kim, Jung-Min Kang, \n\n                                              Jin-Seok Lee (National Security \n\n                                              Research Institute) 高対話型おとりシステムの運用経験と評価 ◎澁谷　芳洋（慶應義塾大学），小池　英樹（電気通信大学），高田　哲司（ソニーコンピュータサイエンス研究所），安村　通晃（慶應義塾大学），石井　威望（東京大学） 状態監視保全手法の侵入検知への適用とその視覚化 ◎大野　 一広，小池　 英樹（電気通信大学） 9C 電子透かし(2) 11:00〜12:20 座長：井上　大介（CRL） 画像の撮影に耐性のある電子透かしの検討 *小野　束 （筑波技術短期大学），江川　雄毅 （興和） Randomized c-secure CRT符号のための新しいトレースアルゴリズム *北川　隆 ，渡辺　創 （産業技術総合研究所） フラクタル符号化における候補ドメインをDCT係数によって順位付けする電子透かし ◎佐藤　晃久，太田　正哉，山下　勝己 （大阪府立大学） ベクトル合成法によるデジタル音楽への電子透かし *岩切　宗利（防衛大学校） 10A 擬似乱数 13:40〜15:00 座長：古屋　聡一（日立） k誤り線形複雑度を用いた擬似乱数系列の評価とその高速計算法 *戒田　高康 （八代工業高等専門学校） 擬似乱数検証ツールの開発 丹羽　朗人，*栃窪　孝也（東芝） ロジスティック写像を用いた擬似乱数の乱数性について *宮崎　武，上原　聡（北九州市立大学），今村　恭己（九州工業大学） 10B IDS(2) 13:40〜15:00 座長：鳥居　悟（富士通研） ユビキタスネットワークにおける小型端末に対するネットワーク攻撃防止機構の提案 *三宅　優，窪田　歩，田中　俊昭（KDDI研究所） 自律型セキュリティ管理システムによる不正アクセス対処の効果について *内山　一雄（防衛庁） 情報エントロピーを用いたネットワーク侵入検知システムログ解析手法の提案 ◎小泉　芳（慶應義塾大学），小池　英樹（電気通信大学），高田　哲司（ソニーコンピュータサイエンス研究所），安村　通晃（慶應義塾大学），石井　威望（東京大学） 亜種攻撃を検知できる侵入検知システムの提案 *山田　明，三宅　優，田中　俊昭（KDDI研究所） 10C 電子透かし(3) 13:40〜15:00 座長：汐崎　陽（大阪府立大） 周波数領域での非線形適応システムを用いた電子透かしの耐性評価 ◎直江　健介，安藤　類央，武藤　佳恭（慶應義塾大学） 人間の視覚を考慮した相関利用型電子透かしの提案 ◎胡　継宗，山口　晃由（名古屋大学），橋山　智訓（名古屋市立大学），大熊　繁（名古屋大学） 多値画像の手法を拡張した二値画像の電子透かし *上條　浩一（日本アイ・ビー・エム）",
+    "session": "8A: RFID",
     "id": "8A-2",
     "title": "RFIDプライバシー保護を実現する可変秘匿ID方式",
     "authors": [
@@ -2930,7 +2873,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "◎: 学生論文対象者，* : 一般講演者 10月31日（金） 8A RFID 9:20〜10:40 座長：高木　浩光（産業技術総合研究所） Foｒward-Secure RFID Privacy Protection \n\n                                              for Low-cost RFID *大久保　美也子，鈴木　幸太郎，木下　真吾（NTT） RFIDプライバシー保護を実現する可変秘匿ID方式 *木下　真吾，星野　文学，小室　智之，藤村　明子，大久保　美也子（NTT) RFID偽造防止方式 *小林　信博，中川路　哲男（三菱電機） 法制度から見たRFIDプライバシー保護実現手段に関する考察 *藤村　明子，鈴木　幸太郎，木下　真吾，森田　光（NTT) 8B ネットワークプロトコル 9:20〜10:40 座長：齋藤　孝道（東京工科大） KINKの脆弱性:名前解決を悪用したIPsec SAの摩り替え *岡部　宣夫（横河電機），石山　政浩（東芝），坂根　昌一（横河電機），鎌田　健一（東京大学），井上　淳（東芝） DNSとTCPコネクションに関する挙動の解析 *力武　健次（大阪大学 /KDDI研究所），野川　裕紀 （大阪大学），菅谷　史昭，中尾　康二（KDDI研究所），下條　真司（大阪大学） 経路情報を用いたパケットフィルタリングによるIPアドレス詐称対策における経路情報詐称耐性の向上 ◎中野　学，松本　勉（横浜国立大学） SSH1 CRC補正攻撃に関する再考 *稲村　雄，本郷　節之（NTTドコモ） 8C 電子透かし(1) 9:20〜10:40 座長：渡辺　創（産業技術総合研究所） Digital TVを利用した超高精細電子時刻印システムに関する考察 *森垣　努，松浦　幹太，須藤　修（東京大学） ヒステリシス電子透かしによる画像の原本性保証法の提案 ◎筑田　悟資，岩田　基，汐崎　陽（大阪府立大学） MusicXMLへの電子透かし埋め込み方式 ◎渡邊 集，Bhed Bahadur Bista，高田　豊雄（岩手県立大学） JPEG圧縮耐性を持つデジタル画像の改ざん検出用電子透かし ◎佐織　高志，岩田　基，汐崎　陽（大阪府立大学） 9A プライバシー保護 11:00〜12:20 座長：星野　文学（NTT） 企業におけるプライバシーを考慮した情報システムの提案 *百合山　まどか，渡邊　裕治，沼尾　雅之（日本アイ・ビー・エム） プライバシを保護する匿名認証システムの開発 加藤　岳久，*岡田　光司，吉田　琢也（東芝） 9B IDS(1) 11:00〜12:20 座長：竹森 敬祐（KDDI） 二段階直交定量検出法とネットワーク動的防御システムへの適用 ◎安藤　類央，武藤　佳恭（慶應義塾大学） Collaborative Intrusion Detection \n\n                                              System using Fuzzy ART *Hyoung-Chun Kim, Jung-Min Kang, \n\n                                              Jin-Seok Lee (National Security \n\n                                              Research Institute) 高対話型おとりシステムの運用経験と評価 ◎澁谷　芳洋（慶應義塾大学），小池　英樹（電気通信大学），高田　哲司（ソニーコンピュータサイエンス研究所），安村　通晃（慶應義塾大学），石井　威望（東京大学） 状態監視保全手法の侵入検知への適用とその視覚化 ◎大野　 一広，小池　 英樹（電気通信大学） 9C 電子透かし(2) 11:00〜12:20 座長：井上　大介（CRL） 画像の撮影に耐性のある電子透かしの検討 *小野　束 （筑波技術短期大学），江川　雄毅 （興和） Randomized c-secure CRT符号のための新しいトレースアルゴリズム *北川　隆 ，渡辺　創 （産業技術総合研究所） フラクタル符号化における候補ドメインをDCT係数によって順位付けする電子透かし ◎佐藤　晃久，太田　正哉，山下　勝己 （大阪府立大学） ベクトル合成法によるデジタル音楽への電子透かし *岩切　宗利（防衛大学校） 10A 擬似乱数 13:40〜15:00 座長：古屋　聡一（日立） k誤り線形複雑度を用いた擬似乱数系列の評価とその高速計算法 *戒田　高康 （八代工業高等専門学校） 擬似乱数検証ツールの開発 丹羽　朗人，*栃窪　孝也（東芝） ロジスティック写像を用いた擬似乱数の乱数性について *宮崎　武，上原　聡（北九州市立大学），今村　恭己（九州工業大学） 10B IDS(2) 13:40〜15:00 座長：鳥居　悟（富士通研） ユビキタスネットワークにおける小型端末に対するネットワーク攻撃防止機構の提案 *三宅　優，窪田　歩，田中　俊昭（KDDI研究所） 自律型セキュリティ管理システムによる不正アクセス対処の効果について *内山　一雄（防衛庁） 情報エントロピーを用いたネットワーク侵入検知システムログ解析手法の提案 ◎小泉　芳（慶應義塾大学），小池　英樹（電気通信大学），高田　哲司（ソニーコンピュータサイエンス研究所），安村　通晃（慶應義塾大学），石井　威望（東京大学） 亜種攻撃を検知できる侵入検知システムの提案 *山田　明，三宅　優，田中　俊昭（KDDI研究所） 10C 電子透かし(3) 13:40〜15:00 座長：汐崎　陽（大阪府立大） 周波数領域での非線形適応システムを用いた電子透かしの耐性評価 ◎直江　健介，安藤　類央，武藤　佳恭（慶應義塾大学） 人間の視覚を考慮した相関利用型電子透かしの提案 ◎胡　継宗，山口　晃由（名古屋大学），橋山　智訓（名古屋市立大学），大熊　繁（名古屋大学） 多値画像の手法を拡張した二値画像の電子透かし *上條　浩一（日本アイ・ビー・エム）",
+    "session": "8A: RFID",
     "id": "8A-3",
     "title": "RFID偽造防止方式",
     "authors": [
@@ -2955,7 +2898,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "◎: 学生論文対象者，* : 一般講演者 10月31日（金） 8A RFID 9:20〜10:40 座長：高木　浩光（産業技術総合研究所） Foｒward-Secure RFID Privacy Protection \n\n                                              for Low-cost RFID *大久保　美也子，鈴木　幸太郎，木下　真吾（NTT） RFIDプライバシー保護を実現する可変秘匿ID方式 *木下　真吾，星野　文学，小室　智之，藤村　明子，大久保　美也子（NTT) RFID偽造防止方式 *小林　信博，中川路　哲男（三菱電機） 法制度から見たRFIDプライバシー保護実現手段に関する考察 *藤村　明子，鈴木　幸太郎，木下　真吾，森田　光（NTT) 8B ネットワークプロトコル 9:20〜10:40 座長：齋藤　孝道（東京工科大） KINKの脆弱性:名前解決を悪用したIPsec SAの摩り替え *岡部　宣夫（横河電機），石山　政浩（東芝），坂根　昌一（横河電機），鎌田　健一（東京大学），井上　淳（東芝） DNSとTCPコネクションに関する挙動の解析 *力武　健次（大阪大学 /KDDI研究所），野川　裕紀 （大阪大学），菅谷　史昭，中尾　康二（KDDI研究所），下條　真司（大阪大学） 経路情報を用いたパケットフィルタリングによるIPアドレス詐称対策における経路情報詐称耐性の向上 ◎中野　学，松本　勉（横浜国立大学） SSH1 CRC補正攻撃に関する再考 *稲村　雄，本郷　節之（NTTドコモ） 8C 電子透かし(1) 9:20〜10:40 座長：渡辺　創（産業技術総合研究所） Digital TVを利用した超高精細電子時刻印システムに関する考察 *森垣　努，松浦　幹太，須藤　修（東京大学） ヒステリシス電子透かしによる画像の原本性保証法の提案 ◎筑田　悟資，岩田　基，汐崎　陽（大阪府立大学） MusicXMLへの電子透かし埋め込み方式 ◎渡邊 集，Bhed Bahadur Bista，高田　豊雄（岩手県立大学） JPEG圧縮耐性を持つデジタル画像の改ざん検出用電子透かし ◎佐織　高志，岩田　基，汐崎　陽（大阪府立大学） 9A プライバシー保護 11:00〜12:20 座長：星野　文学（NTT） 企業におけるプライバシーを考慮した情報システムの提案 *百合山　まどか，渡邊　裕治，沼尾　雅之（日本アイ・ビー・エム） プライバシを保護する匿名認証システムの開発 加藤　岳久，*岡田　光司，吉田　琢也（東芝） 9B IDS(1) 11:00〜12:20 座長：竹森 敬祐（KDDI） 二段階直交定量検出法とネットワーク動的防御システムへの適用 ◎安藤　類央，武藤　佳恭（慶應義塾大学） Collaborative Intrusion Detection \n\n                                              System using Fuzzy ART *Hyoung-Chun Kim, Jung-Min Kang, \n\n                                              Jin-Seok Lee (National Security \n\n                                              Research Institute) 高対話型おとりシステムの運用経験と評価 ◎澁谷　芳洋（慶應義塾大学），小池　英樹（電気通信大学），高田　哲司（ソニーコンピュータサイエンス研究所），安村　通晃（慶應義塾大学），石井　威望（東京大学） 状態監視保全手法の侵入検知への適用とその視覚化 ◎大野　 一広，小池　 英樹（電気通信大学） 9C 電子透かし(2) 11:00〜12:20 座長：井上　大介（CRL） 画像の撮影に耐性のある電子透かしの検討 *小野　束 （筑波技術短期大学），江川　雄毅 （興和） Randomized c-secure CRT符号のための新しいトレースアルゴリズム *北川　隆 ，渡辺　創 （産業技術総合研究所） フラクタル符号化における候補ドメインをDCT係数によって順位付けする電子透かし ◎佐藤　晃久，太田　正哉，山下　勝己 （大阪府立大学） ベクトル合成法によるデジタル音楽への電子透かし *岩切　宗利（防衛大学校） 10A 擬似乱数 13:40〜15:00 座長：古屋　聡一（日立） k誤り線形複雑度を用いた擬似乱数系列の評価とその高速計算法 *戒田　高康 （八代工業高等専門学校） 擬似乱数検証ツールの開発 丹羽　朗人，*栃窪　孝也（東芝） ロジスティック写像を用いた擬似乱数の乱数性について *宮崎　武，上原　聡（北九州市立大学），今村　恭己（九州工業大学） 10B IDS(2) 13:40〜15:00 座長：鳥居　悟（富士通研） ユビキタスネットワークにおける小型端末に対するネットワーク攻撃防止機構の提案 *三宅　優，窪田　歩，田中　俊昭（KDDI研究所） 自律型セキュリティ管理システムによる不正アクセス対処の効果について *内山　一雄（防衛庁） 情報エントロピーを用いたネットワーク侵入検知システムログ解析手法の提案 ◎小泉　芳（慶應義塾大学），小池　英樹（電気通信大学），高田　哲司（ソニーコンピュータサイエンス研究所），安村　通晃（慶應義塾大学），石井　威望（東京大学） 亜種攻撃を検知できる侵入検知システムの提案 *山田　明，三宅　優，田中　俊昭（KDDI研究所） 10C 電子透かし(3) 13:40〜15:00 座長：汐崎　陽（大阪府立大） 周波数領域での非線形適応システムを用いた電子透かしの耐性評価 ◎直江　健介，安藤　類央，武藤　佳恭（慶應義塾大学） 人間の視覚を考慮した相関利用型電子透かしの提案 ◎胡　継宗，山口　晃由（名古屋大学），橋山　智訓（名古屋市立大学），大熊　繁（名古屋大学） 多値画像の手法を拡張した二値画像の電子透かし *上條　浩一（日本アイ・ビー・エム）",
+    "session": "8A: RFID",
     "id": "8A-4",
     "title": "法制度から見たRFIDプライバシー保護実現手段に関する考察",
     "authors": [
@@ -2996,155 +2939,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "8A RFID 9:20〜10:40 座長：高木　浩光（産業技術総合研究所）",
-    "id": "8A-1",
-    "title": "Foｒward-Secure RFID Privacy Protection \n\n                                              for Low-cost RFID",
-    "authors": [
-      {
-        "name": "大久保 美也子",
-        "affiliations": [
-          "NTT"
-        ],
-        "is_presenter": true,
-        "presenter_symbol": "*"
-      },
-      {
-        "name": "鈴木 幸太郎",
-        "affiliations": [
-          "NTT"
-        ],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
-        "name": "木下 真吾",
-        "affiliations": [
-          "NTT"
-        ],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      }
-    ],
-    "search_text": "8A-1 Foｒward-Secure RFID Privacy Protection \n\n                                              for Low-cost RFID 大久保 美也子 鈴木 幸太郎 木下 真吾 NTT NTT NTT"
-  },
-  {
-    "event": "CSS2003",
-    "session": "8A RFID 9:20〜10:40 座長：高木　浩光（産業技術総合研究所）",
-    "id": "8A-2",
-    "title": "RFIDプライバシー保護を実現する可変秘匿ID方式",
-    "authors": [
-      {
-        "name": "木下 真吾",
-        "affiliations": [
-          "NTT"
-        ],
-        "is_presenter": true,
-        "presenter_symbol": "*"
-      },
-      {
-        "name": "星野 文学",
-        "affiliations": [
-          "NTT"
-        ],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
-        "name": "小室 智之",
-        "affiliations": [
-          "NTT"
-        ],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
-        "name": "藤村 明子",
-        "affiliations": [
-          "NTT"
-        ],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
-        "name": "大久保 美也子",
-        "affiliations": [
-          "NTT"
-        ],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      }
-    ],
-    "search_text": "8A-2 RFIDプライバシー保護を実現する可変秘匿ID方式 木下 真吾 星野 文学 小室 智之 藤村 明子 大久保 美也子 NTT NTT NTT NTT NTT"
-  },
-  {
-    "event": "CSS2003",
-    "session": "8A RFID 9:20〜10:40 座長：高木　浩光（産業技術総合研究所）",
-    "id": "8A-3",
-    "title": "RFID偽造防止方式",
-    "authors": [
-      {
-        "name": "小林 信博",
-        "affiliations": [
-          "三菱電機"
-        ],
-        "is_presenter": true,
-        "presenter_symbol": "*"
-      },
-      {
-        "name": "中川路 哲男",
-        "affiliations": [
-          "三菱電機"
-        ],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      }
-    ],
-    "search_text": "8A-3 RFID偽造防止方式 小林 信博 中川路 哲男 三菱電機 三菱電機"
-  },
-  {
-    "event": "CSS2003",
-    "session": "8A RFID 9:20〜10:40 座長：高木　浩光（産業技術総合研究所）",
-    "id": "8A-4",
-    "title": "法制度から見たRFIDプライバシー保護実現手段に関する考察",
-    "authors": [
-      {
-        "name": "藤村 明子",
-        "affiliations": [
-          "NTT"
-        ],
-        "is_presenter": true,
-        "presenter_symbol": "*"
-      },
-      {
-        "name": "鈴木 幸太郎",
-        "affiliations": [
-          "NTT"
-        ],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
-        "name": "木下 真吾",
-        "affiliations": [
-          "NTT"
-        ],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      },
-      {
-        "name": "森田 光",
-        "affiliations": [
-          "NTT"
-        ],
-        "is_presenter": false,
-        "presenter_symbol": ""
-      }
-    ],
-    "search_text": "8A-4 法制度から見たRFIDプライバシー保護実現手段に関する考察 藤村 明子 鈴木 幸太郎 木下 真吾 森田 光 NTT NTT NTT NTT"
-  },
-  {
-    "event": "CSS2003",
-    "session": "8B ネットワークプロトコル 9:20〜10:40 座長：齋藤　孝道（東京工科大）",
+    "session": "8B: ネットワークプロトコル",
     "id": "8B-1",
     "title": "KINKの脆弱性:名前解決を悪用したIPsec SAの摩り替え",
     "authors": [
@@ -3193,7 +2988,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "8B ネットワークプロトコル 9:20〜10:40 座長：齋藤　孝道（東京工科大）",
+    "session": "8B: ネットワークプロトコル",
     "id": "8B-2",
     "title": "DNSとTCPコネクションに関する挙動の解析",
     "authors": [
@@ -3243,7 +3038,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "8B ネットワークプロトコル 9:20〜10:40 座長：齋藤　孝道（東京工科大）",
+    "session": "8B: ネットワークプロトコル",
     "id": "8B-3",
     "title": "経路情報を用いたパケットフィルタリングによるIPアドレス詐称対策における経路情報詐称耐性の向上",
     "authors": [
@@ -3268,7 +3063,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "8B ネットワークプロトコル 9:20〜10:40 座長：齋藤　孝道（東京工科大）",
+    "session": "8B: ネットワークプロトコル",
     "id": "8B-4",
     "title": "SSH1 CRC補正攻撃に関する再考",
     "authors": [
@@ -3293,7 +3088,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "8C 電子透かし(1) 9:20〜10:40 座長：渡辺　創（産業技術総合研究所）",
+    "session": "8C: 電子透かし(1)",
     "id": "8C-1",
     "title": "Digital TVを利用した超高精細電子時刻印システムに関する考察",
     "authors": [
@@ -3326,7 +3121,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "8C 電子透かし(1) 9:20〜10:40 座長：渡辺　創（産業技術総合研究所）",
+    "session": "8C: 電子透かし(1)",
     "id": "8C-2",
     "title": "ヒステリシス電子透かしによる画像の原本性保証法の提案",
     "authors": [
@@ -3359,7 +3154,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "8C 電子透かし(1) 9:20〜10:40 座長：渡辺　創（産業技術総合研究所）",
+    "session": "8C: 電子透かし(1)",
     "id": "8C-3",
     "title": "MusicXMLへの電子透かし埋め込み方式",
     "authors": [
@@ -3392,7 +3187,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "8C 電子透かし(1) 9:20〜10:40 座長：渡辺　創（産業技術総合研究所）",
+    "session": "8C: 電子透かし(1)",
     "id": "8C-4",
     "title": "JPEG圧縮耐性を持つデジタル画像の改ざん検出用電子透かし",
     "authors": [
@@ -3425,7 +3220,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "9A プライバシー保護 11:00〜12:20 座長：星野　文学（NTT）",
+    "session": "9A: プライバシー保護",
     "id": "9A-1",
     "title": "企業におけるプライバシーを考慮した情報システムの提案",
     "authors": [
@@ -3458,7 +3253,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "9A プライバシー保護 11:00〜12:20 座長：星野　文学（NTT）",
+    "session": "9A: プライバシー保護",
     "id": "9A-2",
     "title": "プライバシを保護する匿名認証システムの開発",
     "authors": [
@@ -3491,7 +3286,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "9B IDS(1) 11:00〜12:20 座長：竹森 敬祐（KDDI）",
+    "session": "9B: IDS(1)",
     "id": "9B-1",
     "title": "二段階直交定量検出法とネットワーク動的防御システムへの適用",
     "authors": [
@@ -3516,9 +3311,9 @@
   },
   {
     "event": "CSS2003",
-    "session": "9B IDS(1) 11:00〜12:20 座長：竹森 敬祐（KDDI）",
+    "session": "9B: IDS(1)",
     "id": "9B-2",
-    "title": "Collaborative Intrusion Detection \n\n                                              System using Fuzzy ART",
+    "title": "Collaborative Intrusion Detection System using Fuzzy ART",
     "authors": [
       {
         "name": "Hyoung-Chun Kim",
@@ -3545,11 +3340,11 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "9B-2 Collaborative Intrusion Detection \n\n                                              System using Fuzzy ART Hyoung-Chun Kim Jung-Min Kang Jin-Seok Lee National Security Research Institute National Security Research Institute National Security Research Institute"
+    "search_text": "9B-2 Collaborative Intrusion Detection System using Fuzzy ART Hyoung-Chun Kim Jung-Min Kang Jin-Seok Lee National Security Research Institute National Security Research Institute National Security Research Institute"
   },
   {
     "event": "CSS2003",
-    "session": "9B IDS(1) 11:00〜12:20 座長：竹森 敬祐（KDDI）",
+    "session": "9B: IDS(1)",
     "id": "9B-3",
     "title": "高対話型おとりシステムの運用経験と評価",
     "authors": [
@@ -3598,7 +3393,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "9B IDS(1) 11:00〜12:20 座長：竹森 敬祐（KDDI）",
+    "session": "9B: IDS(1)",
     "id": "9B-4",
     "title": "状態監視保全手法の侵入検知への適用とその視覚化",
     "authors": [
@@ -3623,7 +3418,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "9C 電子透かし(2) 11:00〜12:20 座長：井上　大介（CRL）",
+    "session": "9C: 電子透かし(2)",
     "id": "9C-1",
     "title": "画像の撮影に耐性のある電子透かしの検討",
     "authors": [
@@ -3648,7 +3443,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "9C 電子透かし(2) 11:00〜12:20 座長：井上　大介（CRL）",
+    "session": "9C: 電子透かし(2)",
     "id": "9C-2",
     "title": "Randomized c-secure CRT符号のための新しいトレースアルゴリズム",
     "authors": [
@@ -3673,7 +3468,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "9C 電子透かし(2) 11:00〜12:20 座長：井上　大介（CRL）",
+    "session": "9C: 電子透かし(2)",
     "id": "9C-3",
     "title": "フラクタル符号化における候補ドメインをDCT係数によって順位付けする電子透かし",
     "authors": [
@@ -3706,7 +3501,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "9C 電子透かし(2) 11:00〜12:20 座長：井上　大介（CRL）",
+    "session": "9C: 電子透かし(2)",
     "id": "9C-4",
     "title": "ベクトル合成法によるデジタル音楽への電子透かし",
     "authors": [
@@ -3723,7 +3518,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "10A 擬似乱数 13:40〜15:00 座長：古屋　聡一（日立）",
+    "session": "10A: 擬似乱数",
     "id": "10A-1",
     "title": "k誤り線形複雑度を用いた擬似乱数系列の評価とその高速計算法",
     "authors": [
@@ -3740,7 +3535,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "10A 擬似乱数 13:40〜15:00 座長：古屋　聡一（日立）",
+    "session": "10A: 擬似乱数",
     "id": "10A-2",
     "title": "擬似乱数検証ツールの開発",
     "authors": [
@@ -3765,7 +3560,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "10A 擬似乱数 13:40〜15:00 座長：古屋　聡一（日立）",
+    "session": "10A: 擬似乱数",
     "id": "10A-3",
     "title": "ロジスティック写像を用いた擬似乱数の乱数性について",
     "authors": [
@@ -3798,7 +3593,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "10B IDS(2) 13:40〜15:00 座長：鳥居　悟（富士通研）",
+    "session": "10B: IDS(2)",
     "id": "10B-1",
     "title": "ユビキタスネットワークにおける小型端末に対するネットワーク攻撃防止機構の提案",
     "authors": [
@@ -3831,7 +3626,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "10B IDS(2) 13:40〜15:00 座長：鳥居　悟（富士通研）",
+    "session": "10B: IDS(2)",
     "id": "10B-2",
     "title": "自律型セキュリティ管理システムによる不正アクセス対処の効果について",
     "authors": [
@@ -3848,7 +3643,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "10B IDS(2) 13:40〜15:00 座長：鳥居　悟（富士通研）",
+    "session": "10B: IDS(2)",
     "id": "10B-3",
     "title": "情報エントロピーを用いたネットワーク侵入検知システムログ解析手法の提案",
     "authors": [
@@ -3897,7 +3692,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "10B IDS(2) 13:40〜15:00 座長：鳥居　悟（富士通研）",
+    "session": "10B: IDS(2)",
     "id": "10B-4",
     "title": "亜種攻撃を検知できる侵入検知システムの提案",
     "authors": [
@@ -3930,7 +3725,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "10C 電子透かし(3) 13:40〜15:00 座長：汐崎　陽（大阪府立大）",
+    "session": "10C: 電子透かし(3)",
     "id": "10C-1",
     "title": "周波数領域での非線形適応システムを用いた電子透かしの耐性評価",
     "authors": [
@@ -3963,7 +3758,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "10C 電子透かし(3) 13:40〜15:00 座長：汐崎　陽（大阪府立大）",
+    "session": "10C: 電子透かし(3)",
     "id": "10C-2",
     "title": "人間の視覚を考慮した相関利用型電子透かしの提案",
     "authors": [
@@ -4004,7 +3799,7 @@
   },
   {
     "event": "CSS2003",
-    "session": "10C 電子透かし(3) 13:40〜15:00 座長：汐崎　陽（大阪府立大）",
+    "session": "10C: 電子透かし(3)",
     "id": "10C-3",
     "title": "多値画像の手法を拡張した二値画像の電子透かし",
     "authors": [
