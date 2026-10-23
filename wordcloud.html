@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ワードクラウド｜ISAM 情報セキュリティ学術研究マップ</title>
+    <meta name="description" content="CSS・SCIS の各回の論文タイトルから形態素解析で抽出した頻出語をワードクラウドで表示します。">
+
+    <!-- テーマ(ダーク/ライト)を描画前に適用: 保存値 → OS設定 → ダーク (index.html と共通) -->
+    <script>
+        (function () {
+            var theme = 'dark';
+            try {
+                var saved = localStorage.getItem('isam-theme');
+                if (saved === 'light' || saved === 'dark') {
+                    theme = saved;
+                } else if (window.matchMedia && window.matchMedia('(prefers-color-scheme: light)').matches) {
+                    theme = 'light';
+                }
+            } catch (e) {
+                if (window.matchMedia && window.matchMedia('(prefers-color-scheme: light)').matches) theme = 'light';
+            }
+            document.documentElement.setAttribute('data-theme', theme);
+        })();
+    </script>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/wordcloud.css">
+</head>
+<body>
+    <div class="bg-glow-container">
+        <div class="bg-glow bg-glow-1"></div>
+        <div class="bg-glow bg-glow-2"></div>
+    </div>
+
+    <div class="app-container">
+        <header class="app-header">
+            <!-- テーマ切替スイッチ (ダーク/ライト) -->
+            <button type="button" id="theme-toggle" class="theme-toggle" role="switch" aria-checked="true" aria-label="ダークモード" title="ダークモード / ライトモードを切り替え">
+                <span class="theme-toggle-label" id="theme-toggle-label">ダーク</span>
+                <span class="theme-toggle-track" aria-hidden="true">
+                    <span class="theme-toggle-thumb"></span>
+                    <svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="4"/>
+                        <path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/>
+                    </svg>
+                    <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/>
+                    </svg>
+                </span>
+            </button>
+
+            <div class="logo-area">
+                <span class="logo-icon">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+                        <path d="M4 8h9M4 13h16M8 18h10M15 5l4 3-4 3" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                </span>
+                <h1>ISAM <span class="subtitle">Word Cloud</span></h1>
+            </div>
+            <p class="tagline">論文タイトルの頻出語（イベント別）</p>
+        </header>
+
+        <main class="search-dashboard">
+            <!-- 操作パネル -->
+            <section class="search-control-panel wc-controls" aria-label="表示の設定">
+                <div class="wc-field wc-field-event">
+                    <label for="wc-event" class="wc-label">イベント</label>
+                    <div class="wc-event-row">
+                        <button type="button" id="wc-prev" class="wc-step" aria-label="前のイベント" title="前のイベント">&#9664;</button>
+                        <select id="wc-event" class="sort-select wc-select" aria-label="イベントを選択"></select>
+                        <button type="button" id="wc-next" class="wc-step" aria-label="次のイベント" title="次のイベント">&#9654;</button>
+                    </div>
+                </div>
+                <div class="wc-field">
+                    <label for="wc-top" class="wc-label">表示する語数 <output id="wc-top-out" for="wc-top">80</output></label>
+                    <input type="range" id="wc-top" class="wc-range" min="20" max="120" step="10" value="80">
+                </div>
+            </section>
+
+            <!-- ワードクラウド本体 -->
+            <section class="wc-stage" aria-live="polite">
+                <div class="status-bar">
+                    <div class="stats"><span class="count-badge" id="wc-papers">-</span><span id="wc-meta" class="total-count"></span></div>
+                    <div class="total-count" id="wc-generated"></div>
+                </div>
+                <div class="wc-canvas-wrap" id="wc-canvas-wrap">
+                    <canvas id="wc-canvas" role="img" aria-label="ワードクラウド（頻度順の一覧は下の表でも確認できます）"></canvas>
+                    <div class="wc-tooltip hide" id="wc-tooltip" role="status"></div>
+                    <div class="wc-message hide" id="wc-message"></div>
+                </div>
+                <p class="wc-hint">文字の大きさは、その語を含むタイトルの数に比例します。語をクリックすると、その回でその語を含む論文を検索します。</p>
+            </section>
+
+            <!-- 頻度順の一覧 (色や位置に頼らず数値でも確認できる) -->
+            <details class="wc-list" id="wc-list-details">
+                <summary>頻度順の一覧を表示</summary>
+                <ol class="wc-list-items" id="wc-list-items"></ol>
+            </details>
+        </main>
+
+        <footer class="app-footer">
+            <p>形態素解析: SudachiPy (長単位) ／ 集計: タイトル中の出現論文数 ／ 描画: wordcloud2.js</p>
+        </footer>
+    </div>
+
+    <script src="js/vendor/wordcloud2.js"></script>
+    <script src="js/wordcloud.js"></script>
+</body>
+</html>
