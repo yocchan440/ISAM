@@ -285,7 +285,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1B-4 シミュレーション技法によるセキュリティプロトコルの匿名性検証法 河辺 義信 真野 健 櫻田 英樹 塚田 恭章 NTT NTT NTT NTT"
+    "awards": [
+      "優秀論文賞"
+    ],
+    "search_text": "1B-4 シミュレーション技法によるセキュリティプロトコルの匿名性検証法 河辺 義信 真野 健 櫻田 英樹 塚田 恭章 NTT NTT NTT NTT 優秀論文賞"
   },
   {
     "event": "CSS2005",
@@ -2036,7 +2039,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "5A-2 ベイジアンフィルタと社会ネットワーク手法を統合した迷惑メールフィルタリング 大福 泰樹 松浦 幹太 東京大学 東京大学"
+    "awards": [
+      "学生論文賞"
+    ],
+    "search_text": "5A-2 ベイジアンフィルタと社会ネットワーク手法を統合した迷惑メールフィルタリング 大福 泰樹 松浦 幹太 東京大学 東京大学 学生論文賞"
   },
   {
     "event": "CSS2005",
@@ -2408,7 +2414,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "5C-5 生体認証における生体検知手法のセキュリティ評価に関する一考察 宇根正志 田村裕子 日本銀行 日本銀行"
+    "awards": [
+      "優秀論文賞"
+    ],
+    "search_text": "5C-5 生体認証における生体検知手法のセキュリティ評価に関する一考察 宇根正志 田村裕子 日本銀行 日本銀行 優秀論文賞"
   },
   {
     "event": "CSS2005",
@@ -2604,7 +2613,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "6A-4 ネットには何台の不正ホストがいるのか？ 菊池 浩明 田中 貴之 福野 直弥 杉山 太一 菊地 大輔 寺田 真敏 土居範久 東海大学 東海大学 東海大学 中央大学 中央大学 中央大学 中央大学"
+    "awards": [
+      "学生論文賞"
+    ],
+    "search_text": "6A-4 ネットには何台の不正ホストがいるのか？ 菊池 浩明 田中 貴之 福野 直弥 杉山 太一 菊地 大輔 寺田 真敏 土居範久 東海大学 東海大学 東海大学 中央大学 中央大学 中央大学 中央大学 学生論文賞"
   },
   {
     "event": "CSS2005",
@@ -3561,7 +3573,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "8A-3 リスク低減効果に基づくシステム構成要素の評価保証レベル設定方法の提案 安細 康介 荒井 正人 永井 康彦 日立製作所 日立製作所 日立製作所"
+    "awards": [
+      "優秀論文賞"
+    ],
+    "search_text": "8A-3 リスク低減効果に基づくシステム構成要素の評価保証レベル設定方法の提案 安細 康介 荒井 正人 永井 康彦 日立製作所 日立製作所 日立製作所 優秀論文賞"
   },
   {
     "event": "CSS2005",
@@ -3610,7 +3625,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "8A-4 不安度評価モデルの実験的検討 日景 奈津子 Basabi Chakraborty 瀬川 典久 後藤 幸功 村山 優子 岩手県立大学 岩手県立大学 岩手県立大学 岩手県立大学 岩手県立大学"
+    "awards": [
+      "学生論文賞"
+    ],
+    "search_text": "8A-4 不安度評価モデルの実験的検討 日景 奈津子 Basabi Chakraborty 瀬川 典久 後藤 幸功 村山 優子 岩手県立大学 岩手県立大学 岩手県立大学 岩手県立大学 岩手県立大学 学生論文賞"
   },
   {
     "event": "CSS2005",
@@ -3725,7 +3743,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "8B-3 SeeCure: An Implmentation of Trusted Operating System on Linux Kernel Hyung Chan Kim Wook Shin R. S. Ramakrishna Kouichi Sakurai Gwangju Institute of Science and Technology University of Illinois at Urbana-Champaign Gwangju Institute of Science and Technology Kyushu University"
+    "awards": [
+      "学生論文賞"
+    ],
+    "search_text": "8B-3 SeeCure: An Implmentation of Trusted Operating System on Linux Kernel Hyung Chan Kim Wook Shin R. S. Ramakrishna Kouichi Sakurai Gwangju Institute of Science and Technology University of Illinois at Urbana-Champaign Gwangju Institute of Science and Technology Kyushu University 学生論文賞"
   },
   {
     "event": "CSS2005",

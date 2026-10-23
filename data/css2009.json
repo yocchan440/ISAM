@@ -550,7 +550,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "A5-3 パケットキャプチャーから感染種類を判定する発見的手法について 桑原 和也 菊池 浩明 寺田 真敏 藤原 将志 東海大学 東海大学 日立製作所 日立製作所"
+    "awards": [
+      "MWS学生論文賞"
+    ],
+    "search_text": "A5-3 パケットキャプチャーから感染種類を判定する発見的手法について 桑原 和也 菊池 浩明 寺田 真敏 藤原 将志 東海大学 東海大学 日立製作所 日立製作所 MWS学生論文賞"
   },
   {
     "event": "CSS2009",
@@ -624,7 +627,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "A5-5 マルウェア通信活動抑制のためのネットワーク制御 竹森 敬祐 酒井 崇裕 西垣 正勝 安藤 類央 三宅 優 ＫＤＤＩ研究所 静岡大学創造科学技術大学院 静岡大学創造科学技術大学院 独立行政法人情報通信研究機構 ＫＤＤＩ研究所"
+    "awards": [
+      "MWS優秀論文賞"
+    ],
+    "search_text": "A5-5 マルウェア通信活動抑制のためのネットワーク制御 竹森 敬祐 酒井 崇裕 西垣 正勝 安藤 類央 三宅 優 ＫＤＤＩ研究所 静岡大学創造科学技術大学院 静岡大学創造科学技術大学院 独立行政法人情報通信研究機構 ＫＤＤＩ研究所 MWS優秀論文賞"
   },
   {
     "event": "CSS2009",
@@ -1265,7 +1271,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "B1-1 GF(3^6)のn次拡大体における関数体篩法の実装実験 林 卓也 白勢 政明 高木 剛 公立はこだて未来大学 公立はこだて未来大学 公立はこだて未来大学"
+    "awards": [
+      "学生論文賞"
+    ],
+    "search_text": "B1-1 GF(3^6)のn次拡大体における関数体篩法の実装実験 林 卓也 白勢 政明 高木 剛 公立はこだて未来大学 公立はこだて未来大学 公立はこだて未来大学 学生論文賞"
   },
   {
     "event": "CSS2009",
@@ -1489,7 +1498,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "B4-2 多人数環境を考慮したSigncryptionの簡潔な一般的構成法 松田 隆宏 シュルツ ヤコブ 松浦 幹太 東京大学 東京大学 東京大学"
+    "awards": [
+      "優秀論文賞"
+    ],
+    "search_text": "B4-2 多人数環境を考慮したSigncryptionの簡潔な一般的構成法 松田 隆宏 シュルツ ヤコブ 松浦 幹太 東京大学 東京大学 東京大学 優秀論文賞"
   },
   {
     "event": "CSS2009",
@@ -1638,7 +1650,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "B5-3 署名偽造攻撃の次世代電子パスポートへの適用 酒見 由美 伊豆 哲也 武仲 正彦 野上 保之 森川 良孝 岡山大学 株式会社富士通研究所 株式会社富士通研究所 岡山大学 岡山大学"
+    "awards": [
+      "学生論文賞"
+    ],
+    "search_text": "B5-3 署名偽造攻撃の次世代電子パスポートへの適用 酒見 由美 伊豆 哲也 武仲 正彦 野上 保之 森川 良孝 岡山大学 株式会社富士通研究所 株式会社富士通研究所 岡山大学 岡山大学 学生論文賞"
   },
   {
     "event": "CSS2009",
@@ -1877,7 +1892,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "B7-2 RC4の弱鍵の一般化 寺村 亮一 大東 俊博 桑門 秀典 森井 昌克 神戸大学 広島大学 神戸大学 神戸大学"
+    "awards": [
+      "学生論文賞"
+    ],
+    "search_text": "B7-2 RC4の弱鍵の一般化 寺村 亮一 大東 俊博 桑門 秀典 森井 昌克 神戸大学 広島大学 神戸大学 神戸大学 学生論文賞"
   },
   {
     "event": "CSS2009",
@@ -2937,7 +2955,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "C8-2 A New Sensitive and Robust Grid Reputation System Based on Rating of Recommenders Yongrui Cui Mingchu Li Yizhi Ren Kouichi Sakurai Dalian University of Technology, School of Software Dalian University of Technology, School of Software Kyushu University, Dept. of Computer Science and Communication Engineering Kyushu University, Dept. of Computer Science and Communication Engineering"
+    "awards": [
+      "学生論文賞"
+    ],
+    "search_text": "C8-2 A New Sensitive and Robust Grid Reputation System Based on Rating of Recommenders Yongrui Cui Mingchu Li Yizhi Ren Kouichi Sakurai Dalian University of Technology, School of Software Dalian University of Technology, School of Software Kyushu University, Dept. of Computer Science and Communication Engineering Kyushu University, Dept. of Computer Science and Communication Engineering 学生論文賞"
   },
   {
     "event": "CSS2009",
@@ -3361,7 +3382,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "D1-1 複数認証可能なワンタイムパスワード生成器の提案と評価 足立 周介 伊沢 亮一 森井 昌克 神戸大学大学院工学研究科 神戸大学大学院自然科学研究科 神戸大学大学院工学研究科"
+    "awards": [
+      "学生論文賞"
+    ],
+    "search_text": "D1-1 複数認証可能なワンタイムパスワード生成器の提案と評価 足立 周介 伊沢 亮一 森井 昌克 神戸大学大学院工学研究科 神戸大学大学院自然科学研究科 神戸大学大学院工学研究科 学生論文賞"
   },
   {
     "event": "CSS2009",
@@ -3642,7 +3666,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "D4-3 Wolf及びLambに対する安全性の高い生体認証の提案 村上 隆夫 高橋 健太 （株）日立製作所 システム開発研究所 （株）日立製作所 システム開発研究所"
+    "awards": [
+      "優秀論文賞"
+    ],
+    "search_text": "D4-3 Wolf及びLambに対する安全性の高い生体認証の提案 村上 隆夫 高橋 健太 （株）日立製作所 システム開発研究所 （株）日立製作所 システム開発研究所 優秀論文賞"
   },
   {
     "event": "CSS2009",
@@ -4440,7 +4467,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "E1-3 訴訟リスクを考慮した情報セキュリティ対策選定方式に関する検討 臼井 佑真 山本 匠 間形 文彦 佐々木 良一 勅使河原 可海 西垣 正勝 静岡大学大学院情報学研究科 静岡大学創造科学技術大学院 日本電信電話株式会社NTT情報流通プラットフォーム研究所 東京電機大学未来科学部 創価大学大学院工学研究科 静岡大学創造科学技術大学院"
+    "awards": [
+      "学生論文賞"
+    ],
+    "search_text": "E1-3 訴訟リスクを考慮した情報セキュリティ対策選定方式に関する検討 臼井 佑真 山本 匠 間形 文彦 佐々木 良一 勅使河原 可海 西垣 正勝 静岡大学大学院情報学研究科 静岡大学創造科学技術大学院 日本電信電話株式会社NTT情報流通プラットフォーム研究所 東京電機大学未来科学部 創価大学大学院工学研究科 静岡大学創造科学技術大学院 学生論文賞"
   },
   {
     "event": "CSS2009",
@@ -4874,7 +4904,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "E5-2 サーバなりすまし攻撃に対し安全なRFIDセキュリティ方式 丹羽 弘和 高木 剛 高橋 修 公立はこだて未来大学 公立はこだて未来大学 公立はこだて未来大学"
+    "awards": [
+      "学生論文賞"
+    ],
+    "search_text": "E5-2 サーバなりすまし攻撃に対し安全なRFIDセキュリティ方式 丹羽 弘和 高木 剛 高橋 修 公立はこだて未来大学 公立はこだて未来大学 公立はこだて未来大学 学生論文賞"
   },
   {
     "event": "CSS2009",
@@ -5220,7 +5253,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "E7-4 k-匿名性の確率的指標への拡張とその適用例 五十嵐 大 千田 浩司 高橋 克巳 日本電信電話（株） 日本電信電話（株） 日本電信電話（株）"
+    "awards": [
+      "優秀論文賞"
+    ],
+    "search_text": "E7-4 k-匿名性の確率的指標への拡張とその適用例 五十嵐 大 千田 浩司 高橋 克巳 日本電信電話（株） 日本電信電話（株） 日本電信電話（株） 優秀論文賞"
   },
   {
     "event": "CSS2009",
@@ -6244,7 +6280,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "F6-2 重回帰分析を用いたサイドチャネル攻撃の高精度化 金 用大 菅原 健 林 優一 本間 尚文 青木 孝文 佐藤 証 東北大学大学院情報科学研究科 東北大学大学院情報科学研究科 東北大学大学院情報科学研究科 東北大学大学院情報科学研究科 東北大学大学院情報科学研究科 独立行政法人産業技術総合研究所 情報セキュリティ研究センター"
+    "awards": [
+      "優秀論文賞"
+    ],
+    "search_text": "F6-2 重回帰分析を用いたサイドチャネル攻撃の高精度化 金 用大 菅原 健 林 優一 本間 尚文 青木 孝文 佐藤 証 東北大学大学院情報科学研究科 東北大学大学院情報科学研究科 東北大学大学院情報科学研究科 東北大学大学院情報科学研究科 東北大学大学院情報科学研究科 独立行政法人産業技術総合研究所 情報セキュリティ研究センター 優秀論文賞"
   },
   {
     "event": "CSS2009",
@@ -6629,7 +6668,10 @@
     "id": "DPS-04",
     "title": "生体とデバイスの感度の違いを利用した映像の盗撮防止システム",
     "authors": [],
-    "search_text": "DPS-04 生体とデバイスの感度の違いを利用した映像の盗撮防止システム 総合研究大学院大学・国立情報学研究所・シャープ ディスプレイ研究所"
+    "awards": [
+      "優秀デモンストレーション賞"
+    ],
+    "search_text": "DPS-04 生体とデバイスの感度の違いを利用した映像の盗撮防止システム 総合研究大学院大学・国立情報学研究所・シャープ ディスプレイ研究所 優秀デモンストレーション賞"
   },
   {
     "event": "CSS2009",

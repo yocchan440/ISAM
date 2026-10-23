@@ -79,7 +79,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1A-2 A New Password-based Authentication Protocol 辛 星漢 古原 和邦 今井 秀樹 東京大学 東京大学 東京大学"
+    "awards": [
+      "学生論文賞"
+    ],
+    "search_text": "1A-2 A New Password-based Authentication Protocol 辛 星漢 古原 和邦 今井 秀樹 東京大学 東京大学 東京大学 学生論文賞"
   },
   {
     "event": "CSS2003",
@@ -186,7 +189,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "1B-2 単一公開鍵で検証可能な分散型オンライン証明書状態プロトコル 古賀 聡 櫻井 幸一 九州大学 九州大学"
+    "awards": [
+      "学生論文賞"
+    ],
+    "search_text": "1B-2 単一公開鍵で検証可能な分散型オンライン証明書状態プロトコル 古賀 聡 櫻井 幸一 九州大学 九州大学 学生論文賞"
   },
   {
     "event": "CSS2003",
@@ -871,7 +877,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "2D-2 Securing AES against Second-Order DPA by Simple Fixed-Value Masking Hwasun Chang Kwangjo Kim Information and Communications University Information and Communications University"
+    "awards": [
+      "学生論文賞"
+    ],
+    "search_text": "2D-2 Securing AES against Second-Order DPA by Simple Fixed-Value Masking Hwasun Chang Kwangjo Kim Information and Communications University Information and Communications University 学生論文賞"
   },
   {
     "event": "CSS2003",
@@ -1003,7 +1012,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "3A-2 DWTと適応アルゴリズムを用いたオンライン署名照合に関する研究 西口 直登 中西 功 伊藤 良生 副井 裕 鳥取大学 鳥取大学 鳥取大学 鳥取大学"
+    "awards": [
+      "学生論文賞"
+    ],
+    "search_text": "3A-2 DWTと適応アルゴリズムを用いたオンライン署名照合に関する研究 西口 直登 中西 功 伊藤 良生 副井 裕 鳥取大学 鳥取大学 鳥取大学 鳥取大学 学生論文賞"
   },
   {
     "event": "CSS2003",
@@ -1094,7 +1106,10 @@
         "presenter_symbol": "*"
       }
     ],
-    "search_text": "3A-5 虹彩照合技術の脆弱性評価 （その2） 松本 勉 平林 昌志 横浜国立大学 横浜国立大学"
+    "awards": [
+      "優秀論文賞"
+    ],
+    "search_text": "3A-5 虹彩照合技術の脆弱性評価 （その2） 松本 勉 平林 昌志 横浜国立大学 横浜国立大学 優秀論文賞"
   },
   {
     "event": "CSS2003",
@@ -1704,7 +1719,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "4C-3 一方向性ハッシュ関数を用いた階層構造を持つアクセス制御方式 須賀 祐治 岩村 恵市 キャノン キャノン"
+    "awards": [
+      "優秀論文賞"
+    ],
+    "search_text": "4C-3 一方向性ハッシュ関数を用いた階層構造を持つアクセス制御方式 須賀 祐治 岩村 恵市 キャノン キャノン 優秀論文賞"
   },
   {
     "event": "CSS2003",
@@ -2530,7 +2548,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "6C-4 能動的攻撃に対して情報理論的に安全なステガノグラフィ 鷹嘴 成寿 赤井 健一郎 四方 順司 松本 勉 横浜国立大学 横浜国立大学 横浜国立大学 横浜国立大学"
+    "awards": [
+      "学生論文賞"
+    ],
+    "search_text": "6C-4 能動的攻撃に対して情報理論的に安全なステガノグラフィ 鷹嘴 成寿 赤井 健一郎 四方 順司 松本 勉 横浜国立大学 横浜国立大学 横浜国立大学 横浜国立大学 学生論文賞"
   },
   {
     "event": "CSS2003",
@@ -2869,7 +2890,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "8A-2 RFIDプライバシー保護を実現する可変秘匿ID方式 木下 真吾 星野 文学 小室 智之 藤村 明子 大久保 美也子 NTT NTT NTT NTT NTT"
+    "awards": [
+      "優秀論文賞"
+    ],
+    "search_text": "8A-2 RFIDプライバシー保護を実現する可変秘匿ID方式 木下 真吾 星野 文学 小室 智之 藤村 明子 大久保 美也子 NTT NTT NTT NTT NTT 優秀論文賞"
   },
   {
     "event": "CSS2003",
@@ -3340,7 +3364,10 @@
         "presenter_symbol": ""
       }
     ],
-    "search_text": "9B-2 Collaborative Intrusion Detection System using Fuzzy ART Hyoung-Chun Kim Jung-Min Kang Jin-Seok Lee National Security Research Institute National Security Research Institute National Security Research Institute"
+    "awards": [
+      "優秀論文賞"
+    ],
+    "search_text": "9B-2 Collaborative Intrusion Detection System using Fuzzy ART Hyoung-Chun Kim Jung-Min Kang Jin-Seok Lee National Security Research Institute National Security Research Institute National Security Research Institute 優秀論文賞"
   },
   {
     "event": "CSS2003",
