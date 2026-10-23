@@ -1,7 +1,7 @@
 [
   {
     "event": "SCIS2006",
-    "session": "1C1 特別講演 1月17日 13:00 ～ 14:00",
+    "session": "1C1 特別講演",
     "id": "1C1-1",
     "title": "The Latest Changes and Trends in IT Security in the United States",
     "authors": [
@@ -18,7 +18,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "1A2 暗号理論(1) 1月17日 14:15 ～ 15:55",
+    "session": "1A2 暗号理論(1)",
     "id": "1A2-1",
     "title": "Relationships between Data-Privacy and Key-Privacy",
     "authors": [
@@ -43,7 +43,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "1A2 暗号理論(1) 1月17日 14:15 ～ 15:55",
+    "session": "1A2 暗号理論(1)",
     "id": "1A2-2",
     "title": "Ciphertext-Auditable Public Key Encryption",
     "authors": [
@@ -68,7 +68,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "1A2 暗号理論(1) 1月17日 14:15 ～ 15:55",
+    "session": "1A2 暗号理論(1)",
     "id": "1A2-3",
     "title": "Directed Acyclic Graph Encryption",
     "authors": [
@@ -104,7 +104,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "1A2 暗号理論(1) 1月17日 14:15 ～ 15:55",
+    "session": "1A2 暗号理論(1)",
     "id": "1A2-4",
     "title": "A Bridge between Standard and Strong Existential Unforgeabilities",
     "authors": [
@@ -132,7 +132,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "1A2 暗号理論(1) 1月17日 14:15 ～ 15:55",
+    "session": "1A2 暗号理論(1)",
     "id": "1A2-5",
     "title": "Tag-KEM/DEM ハイブリッド暗号の安全性証明におけるRandom Oracle Instantiationの一考察",
     "authors": [
@@ -181,7 +181,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "1C2 バイオメトリクス特別講演 1月17日 14:15 ～ 15:15",
+    "session": "1C2 バイオメトリクス特別講演",
     "id": "1C2-1",
     "title": "Biometric System Security",
     "authors": [
@@ -198,7 +198,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "1E2 擬似乱数生成 1月17日 14:15 ～ 15:55",
+    "session": "1E2 擬似乱数生成",
     "id": "1E2-1",
     "title": "Analysis of Cryptographic Mersenne Twister",
     "authors": [
@@ -239,7 +239,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "1E2 擬似乱数生成 1月17日 14:15 ～ 15:55",
+    "session": "1E2 擬似乱数生成",
     "id": "1E2-2",
     "title": "ネットワークを利用した乱数生成法の一考察",
     "authors": [
@@ -272,7 +272,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "1E2 擬似乱数生成 1月17日 14:15 ～ 15:55",
+    "session": "1E2 擬似乱数生成",
     "id": "1E2-3",
     "title": "NIST乱数検定を用いた乱数性の評価に関する考察",
     "authors": [
@@ -313,7 +313,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "1E2 擬似乱数生成 1月17日 14:15 ～ 15:55",
+    "session": "1E2 擬似乱数生成",
     "id": "1E2-4",
     "title": "ロジスティック写像を用いた擬似乱数生成器とその応用 --- 制限のある秘密情報の共有について ---",
     "authors": [
@@ -338,7 +338,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "1E2 擬似乱数生成 1月17日 14:15 ～ 15:55",
+    "session": "1E2 擬似乱数生成",
     "id": "1E2-5",
     "title": "ロジスティック写像を用いた乱数抽出について",
     "authors": [
@@ -371,7 +371,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "1F2 秘密分散 1月17日 14:15 ～ 15:55",
+    "session": "1F2 秘密分散",
     "id": "1F2-1",
     "title": "A Proactive Secret Sharing Scheme with User Controllability",
     "authors": [
@@ -404,7 +404,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "1F2 秘密分散 1月17日 14:15 ～ 15:55",
+    "session": "1F2 秘密分散",
     "id": "1F2-2",
     "title": "多項式を用いた秘密分散共有法に関数する一考察",
     "authors": [
@@ -429,7 +429,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "1F2 秘密分散 1月17日 14:15 ～ 15:55",
+    "session": "1F2 秘密分散",
     "id": "1F2-3",
     "title": "How to Compare Two Polynomially Shared Secrets Privately",
     "authors": [
@@ -454,7 +454,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "1F2 秘密分散 1月17日 14:15 ～ 15:55",
+    "session": "1F2 秘密分散",
     "id": "1F2-4",
     "title": "RSA仮定のもとで証明可能安全性をもつしきい値暗号の構成について",
     "authors": [
@@ -495,7 +495,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "1F2 秘密分散 1月17日 14:15 ～ 15:55",
+    "session": "1F2 秘密分散",
     "id": "1F2-5",
     "title": "情報漏えい防止データベースシステムの提案",
     "authors": [
@@ -520,7 +520,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "1A3 暗号理論(2) 1月17日 16:10 ～ 17:50",
+    "session": "1A3 暗号理論(2)",
     "id": "1A3-1",
     "title": "素因数分解に基づく無衝突関数を用いたコミットメント方式",
     "authors": [
@@ -553,7 +553,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "1A3 暗号理論(2) 1月17日 16:10 ～ 17:50",
+    "session": "1A3 暗号理論(2)",
     "id": "1A3-2",
     "title": "Efficient Protocols Achieving the Commitment Capacity of Noisy Correlations",
     "authors": [
@@ -586,7 +586,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "1A3 暗号理論(2) 1月17日 16:10 ～ 17:50",
+    "session": "1A3 暗号理論(2)",
     "id": "1A3-3",
     "title": "An Efficient Compiler from Σ -Protocol to 2-move Deniable Zero-Knowledge",
     "authors": [
@@ -619,7 +619,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "1A3 暗号理論(2) 1月17日 16:10 ～ 17:50",
+    "session": "1A3 暗号理論(2)",
     "id": "1A3-4",
     "title": "An Efficient Aggregate Shuffle Argument Scheme",
     "authors": [
@@ -644,7 +644,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "1A3 暗号理論(2) 1月17日 16:10 ～ 17:50",
+    "session": "1A3 暗号理論(2)",
     "id": "1A3-5",
     "title": "リアルタイム無証拠 Schnorr 認証",
     "authors": [
@@ -677,7 +677,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "1B3 実装・評価 1月17日 16:10 ～ 17:50",
+    "session": "1B3 実装・評価",
     "id": "1B3-1",
     "title": "金融分野における暗号アルゴリズムの2010年問題について",
     "authors": [
@@ -702,7 +702,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "1B3 実装・評価 1月17日 16:10 ～ 17:50",
+    "session": "1B3 実装・評価",
     "id": "1B3-2",
     "title": "Tamper-resistance Standardization Research Committee Report",
     "authors": [
@@ -775,7 +775,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "1B3 実装・評価 1月17日 16:10 ～ 17:50",
+    "session": "1B3 実装・評価",
     "id": "1B3-3",
     "title": "暗号機能モジュールの実装の正当性に関する評価法",
     "authors": [
@@ -792,7 +792,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "1B3 実装・評価 1月17日 16:10 ～ 17:50",
+    "session": "1B3 実装・評価",
     "id": "1B3-4",
     "title": "A User-Friendly Implementation of PSEC-KEM and ECDSA on the Windows Environment",
     "authors": [
@@ -817,7 +817,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "1C3 サイドチャネル攻撃(1) 1月17日 16:10 ～ 17:50",
+    "session": "1C3 サイドチャネル攻撃(1)",
     "id": "1C3-1",
     "title": "共通鍵暗号におけるテーブルを用いた電力差分解析対策法について",
     "authors": [
@@ -850,7 +850,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "1C3 サイドチャネル攻撃(1) 1月17日 16:10 ～ 17:50",
+    "session": "1C3 サイドチャネル攻撃(1)",
     "id": "1C3-2",
     "title": "ストリーム暗号に対するDPA",
     "authors": [
@@ -891,7 +891,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "1C3 サイドチャネル攻撃(1) 1月17日 16:10 ～ 17:50",
+    "session": "1C3 サイドチャネル攻撃(1)",
     "id": "1C3-3",
     "title": "2線式回路によるDPA対策方式の安全性評価",
     "authors": [
@@ -916,7 +916,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "1C3 サイドチャネル攻撃(1) 1月17日 16:10 ～ 17:50",
+    "session": "1C3 サイドチャネル攻撃(1)",
     "id": "1C3-4",
     "title": "汎用CPUにおけるサイドチャネル情報からの命令コードの解析",
     "authors": [
@@ -941,7 +941,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "1C3 サイドチャネル攻撃(1) 1月17日 16:10 ～ 17:50",
+    "session": "1C3 サイドチャネル攻撃(1)",
     "id": "1C3-5",
     "title": "FPGA上での電磁波/電界情報に基くサイドチャネル解析の試行",
     "authors": [
@@ -974,7 +974,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "1D3 バイオメトリクス(1) 1月17日 16:10 ～ 17:50",
+    "session": "1D3 バイオメトリクス(1)",
     "id": "1D3-1",
     "title": "Fuzzy Commitmentを用いた統計的AD変換の改良に関する考察（その２）",
     "authors": [
@@ -1023,7 +1023,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "1D3 バイオメトリクス(1) 1月17日 16:10 ～ 17:50",
+    "session": "1D3 バイオメトリクス(1)",
     "id": "1D3-2",
     "title": "ワンタイムテンプレートによるバイオメトリクス認証の提案",
     "authors": [
@@ -1048,7 +1048,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "1D3 バイオメトリクス(1) 1月17日 16:10 ～ 17:50",
+    "session": "1D3 バイオメトリクス(1)",
     "id": "1D3-3",
     "title": "オンライン署名認証における経時変化適応：逐次モンテカルロ的アルゴリズム",
     "authors": [
@@ -1081,7 +1081,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "1D3 バイオメトリクス(1) 1月17日 16:10 ～ 17:50",
+    "session": "1D3 バイオメトリクス(1)",
     "id": "1D3-4",
     "title": "生体認証研究に関する倫理委員会の試行",
     "authors": [
@@ -1114,7 +1114,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "1E3 数論応用(1) 1月17日 16:10 ～ 17:50",
+    "session": "1E3 数論応用(1)",
     "id": "1E3-1",
     "title": "3-dimensional i.i.d. Binary Random Vectors Generated by Jacobian Elliptic Rational Map",
     "authors": [
@@ -1139,7 +1139,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "1E3 数論応用(1) 1月17日 16:10 ～ 17:50",
+    "session": "1E3 数論応用(1)",
     "id": "1E3-2",
     "title": "On Construction of Periodic Sequences over Elliptic Curves and their Evaluations for Randomness",
     "authors": [
@@ -1164,7 +1164,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "1E3 数論応用(1) 1月17日 16:10 ～ 17:50",
+    "session": "1E3 数論応用(1)",
     "id": "1E3-3",
     "title": "A note on checking independence among rational points on an elliptic curve",
     "authors": [
@@ -1181,7 +1181,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "1E3 数論応用(1) 1月17日 16:10 ～ 17:50",
+    "session": "1E3 数論応用(1)",
     "id": "1E3-4",
     "title": "行列分割を用いたBlock Lanczos法の改良",
     "authors": [
@@ -1222,7 +1222,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "1E3 数論応用(1) 1月17日 16:10 ～ 17:50",
+    "session": "1E3 数論応用(1)",
     "id": "1E3-5",
     "title": "Design and Implementation of an ECM-based Integer Factorization Tool with GMP-ECM on Windows Platforms",
     "authors": [
@@ -1255,7 +1255,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "1F3 匿名通信 1月17日 16:10 ～ 17:50",
+    "session": "1F3 匿名通信",
     "id": "1F3-1",
     "title": "Generic Conversion for the Anonymity against the Adaptive Chosen Ciphertext Attack",
     "authors": [
@@ -1280,7 +1280,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "1F3 匿名通信 1月17日 16:10 ～ 17:50",
+    "session": "1F3 匿名通信",
     "id": "1F3-2",
     "title": "Universally Anonymizable Public-Key Encryption",
     "authors": [
@@ -1305,7 +1305,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "1F3 匿名通信 1月17日 16:10 ～ 17:50",
+    "session": "1F3 匿名通信",
     "id": "1F3-3",
     "title": "動的ネットワークにおける双方向匿名通信路構築手法の提案",
     "authors": [
@@ -1338,7 +1338,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "1F3 匿名通信 1月17日 16:10 ～ 17:50",
+    "session": "1F3 匿名通信",
     "id": "1F3-4",
     "title": "匿名通信における処理コスト削減方法",
     "authors": [
@@ -1371,7 +1371,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2A1 ユニバーサル・コンポーザビリティ 1月18日 9:00 ～ 10:40",
+    "session": "2A1 ユニバーサル・コンポーザビリティ",
     "id": "2A1-1",
     "title": "攻撃者を巻き戻すユニバーサル・コンポーザビリティ",
     "authors": [
@@ -1388,7 +1388,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2A1 ユニバーサル・コンポーザビリティ 1月18日 9:00 ～ 10:40",
+    "session": "2A1 ユニバーサル・コンポーザビリティ",
     "id": "2A1-2",
     "title": "KEA1仮定とRevocable DDH仮定を用いたUC安全なコミットメントプロトコル",
     "authors": [
@@ -1413,7 +1413,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2A1 ユニバーサル・コンポーザビリティ 1月18日 9:00 ～ 10:40",
+    "session": "2A1 ユニバーサル・コンポーザビリティ",
     "id": "2A1-3",
     "title": "Universally Composable Identity-Based Encryption",
     "authors": [
@@ -1448,7 +1448,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2A1 ユニバーサル・コンポーザビリティ 1月18日 9:00 ～ 10:40",
+    "session": "2A1 ユニバーサル・コンポーザビリティ",
     "id": "2A1-4",
     "title": "Universally Composable Blind Signatures",
     "authors": [
@@ -1483,7 +1483,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2A1 ユニバーサル・コンポーザビリティ 1月18日 9:00 ～ 10:40",
+    "session": "2A1 ユニバーサル・コンポーザビリティ",
     "id": "2A1-5",
     "title": "汎用的結合可能なFail-stop署名に関する考察",
     "authors": [
@@ -1516,7 +1516,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2B1 システム実装 1月18日 9:00 ～ 10:40",
+    "session": "2B1 システム実装",
     "id": "2B1-1",
     "title": "シンクライアントにおける完全性検証とその効率化",
     "authors": [
@@ -1549,7 +1549,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2B1 システム実装 1月18日 9:00 ～ 10:40",
+    "session": "2B1 システム実装",
     "id": "2B1-2",
     "title": "所属無効化が可能なグループ署名方式のマルチコミットメントを用いた高速化とその実装",
     "authors": [
@@ -1582,7 +1582,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2B1 システム実装 1月18日 9:00 ～ 10:40",
+    "session": "2B1 システム実装",
     "id": "2B1-3",
     "title": "PCにおけるプログラムのリアルタイム監視・制御技術の開発と情報セキュリティシステムへの応用",
     "authors": [
@@ -1615,7 +1615,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2B1 システム実装 1月18日 9:00 ～ 10:40",
+    "session": "2B1 システム実装",
     "id": "2B1-4",
     "title": "多重リスクコミュニケータのプロトタイプシステムの設計と実装",
     "authors": [
@@ -1649,7 +1649,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2C1 サイドチャネル攻撃(2) 1月18日 9:00 ～ 10:40",
+    "session": "2C1 サイドチャネル攻撃(2)",
     "id": "2C1-1",
     "title": "Side Channel Attack on Improved XTR Single Exponentiation and a New Countermeasure",
     "authors": [
@@ -1698,7 +1698,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2C1 サイドチャネル攻撃(2) 1月18日 9:00 ～ 10:40",
+    "session": "2C1 サイドチャネル攻撃(2)",
     "id": "2C1-2",
     "title": "Sbox特性を利用したDPA評価手法の有効性検証",
     "authors": [
@@ -1739,7 +1739,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2C1 サイドチャネル攻撃(2) 1月18日 9:00 ～ 10:40",
+    "session": "2C1 サイドチャネル攻撃(2)",
     "id": "2C1-3",
     "title": "鍵付きハッシュ関数に対するサイドチャネル攻撃",
     "authors": [
@@ -1756,7 +1756,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2C1 サイドチャネル攻撃(2) 1月18日 9:00 ～ 10:40",
+    "session": "2C1 サイドチャネル攻撃(2)",
     "id": "2C1-4",
     "title": "ランダム化射影座標を用いた楕円曲線暗号実装に対する電力解析",
     "authors": [
@@ -1773,7 +1773,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2D1 バイオメトリクス(2) 1月18日 9:00 ～ 10:40",
+    "session": "2D1 バイオメトリクス(2)",
     "id": "2D1-1",
     "title": "署名照合における2種類の偽筆に対するEERの検討",
     "authors": [
@@ -1814,7 +1814,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2D1 バイオメトリクス(2) 1月18日 9:00 ～ 10:40",
+    "session": "2D1 バイオメトリクス(2)",
     "id": "2D1-2",
     "title": "ユーザ独立型オンライン手書き署名認証モデルにおける文字種依存性に関する考察",
     "authors": [
@@ -1847,7 +1847,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2D1 バイオメトリクス(2) 1月18日 9:00 ～ 10:40",
+    "session": "2D1 バイオメトリクス(2)",
     "id": "2D1-3",
     "title": "テキスト提示型話者認識のための音声個人認証方式",
     "authors": [
@@ -1880,7 +1880,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2D1 バイオメトリクス(2) 1月18日 9:00 ～ 10:40",
+    "session": "2D1 バイオメトリクス(2)",
     "id": "2D1-4",
     "title": "非可聴つぶやき声を用いた個人認証",
     "authors": [
@@ -1932,7 +1932,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2D1 バイオメトリクス(2) 1月18日 9:00 ～ 10:40",
+    "session": "2D1 バイオメトリクス(2)",
     "id": "2D1-5",
     "title": "携帯電話の操作特徴に注目した個人認証",
     "authors": [
@@ -1973,7 +1973,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2E1 数論応用(2) 1月18日 9:00 ～ 10:40",
+    "session": "2E1 数論応用(2)",
     "id": "2E1-1",
     "title": "楕円曲線法によるR311の分解",
     "authors": [
@@ -1998,7 +1998,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2E1 数論応用(2) 1月18日 9:00 ～ 10:40",
+    "session": "2E1 数論応用(2)",
     "id": "2E1-2",
     "title": "数体篩法による素因数分解アルゴリズムのハードウェアDAPDNA2への実装",
     "authors": [
@@ -2047,7 +2047,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2E1 数論応用(2) 1月18日 9:00 ～ 10:40",
+    "session": "2E1 数論応用(2)",
     "id": "2E1-3",
     "title": "誤差関数を用いる素因数分解アルゴリズム",
     "authors": [
@@ -2072,7 +2072,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2E1 数論応用(2) 1月18日 9:00 ～ 10:40",
+    "session": "2E1 数論応用(2)",
     "id": "2E1-4",
     "title": "ルーティングを用いた素因数分解ハードウェアの1024-bit合成数分解に対する性能評価",
     "authors": [
@@ -2113,7 +2113,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2E1 数論応用(2) 1月18日 9:00 ～ 10:40",
+    "session": "2E1 数論応用(2)",
     "id": "2E1-5",
     "title": "On the choice of iteration function of the Pollard-rho factorization",
     "authors": [
@@ -2146,7 +2146,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2F1 RFIDセキュリティ(1) 1月18日 9:00 ～ 10:40",
+    "session": "2F1 RFIDセキュリティ(1)",
     "id": "2F1-1",
     "title": "データセキュリティとロケーションプライバシを共に確保できるRFIDシステム",
     "authors": [
@@ -2196,7 +2196,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2F1 RFIDセキュリティ(1) 1月18日 9:00 ～ 10:40",
+    "session": "2F1 RFIDセキュリティ(1)",
     "id": "2F1-2",
     "title": "Forward Secure Transferable RFID Privacy Protection Scheme",
     "authors": [
@@ -2221,7 +2221,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2F1 RFIDセキュリティ(1) 1月18日 9:00 ～ 10:40",
+    "session": "2F1 RFIDセキュリティ(1)",
     "id": "2F1-3",
     "title": "リンク不能性を持つID照合システムの実装に向けて",
     "authors": [
@@ -2270,7 +2270,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2F1 RFIDセキュリティ(1) 1月18日 9:00 ～ 10:40",
+    "session": "2F1 RFIDセキュリティ(1)",
     "id": "2F1-4",
     "title": "サーバ側におけるIDの全数探索を必要とせず同期ずれに強いRFIDシステムの実現に関する一考察",
     "authors": [
@@ -2311,7 +2311,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2F1 RFIDセキュリティ(1) 1月18日 9:00 ～ 10:40",
+    "session": "2F1 RFIDセキュリティ(1)",
     "id": "2F1-5",
     "title": "チャレンジ・レスポンス型RFID認証方式の考察",
     "authors": [
@@ -2352,7 +2352,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2A2 公開鍵暗号(1) 1月18日 10:55 ～ 12:35",
+    "session": "2A2 公開鍵暗号(1)",
     "id": "2A2-1",
     "title": "Parallel Key-Insulated Public Key Encryption",
     "authors": [
@@ -2385,7 +2385,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2A2 公開鍵暗号(1) 1月18日 10:55 ～ 12:35",
+    "session": "2A2 公開鍵暗号(1)",
     "id": "2A2-2",
     "title": "An Improved Certificateless Public Key Encryption",
     "authors": [
@@ -2410,7 +2410,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2A2 公開鍵暗号(1) 1月18日 10:55 ～ 12:35",
+    "session": "2A2 公開鍵暗号(1)",
     "id": "2A2-3",
     "title": "On a Variation of Kurosawa-Desmedt Encryption Scheme",
     "authors": [
@@ -2435,7 +2435,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2A2 公開鍵暗号(1) 1月18日 10:55 ～ 12:35",
+    "session": "2A2 公開鍵暗号(1)",
     "id": "2A2-4",
     "title": "Binary Tree Encryptionを用いた同報通信暗号",
     "authors": [
@@ -2476,7 +2476,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2B2 電子証拠 1月18日 10:55 ～ 12:35",
+    "session": "2B2 電子証拠",
     "id": "2B2-1",
     "title": "Design and Implementation of a live CD for Time-Stamping Service",
     "authors": [
@@ -2501,7 +2501,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2B2 電子証拠 1月18日 10:55 ～ 12:35",
+    "session": "2B2 電子証拠",
     "id": "2B2-2",
     "title": "タイムスタンプの危殆化に耐性のあるタイムスタンプ押印方法",
     "authors": [
@@ -2518,7 +2518,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2B2 電子証拠 1月18日 10:55 ～ 12:35",
+    "session": "2B2 電子証拠",
     "id": "2B2-3",
     "title": "無線放送を利用した、携帯端末のための時刻・位置の認証方式",
     "authors": [
@@ -2535,7 +2535,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2B2 電子証拠 1月18日 10:55 ～ 12:35",
+    "session": "2B2 電子証拠",
     "id": "2B2-4",
     "title": "電子文書の訂正・流通を考慮した部分完全性保証方式の改良(その2)",
     "authors": [
@@ -2568,7 +2568,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2B2 電子証拠 1月18日 10:55 ～ 12:35",
+    "session": "2B2 電子証拠",
     "id": "2B2-5",
     "title": "デジタル・フォレンジックのための安全で効率的なE-Discovery技術の提案",
     "authors": [
@@ -2625,7 +2625,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2C2 サイドチャネル攻撃(3) 1月18日 10:55 ～ 12:35",
+    "session": "2C2 サイドチャネル攻撃(3)",
     "id": "2C2-1",
     "title": "A power disturbance circuit for A5/1 resistant to power analysis attack",
     "authors": [
@@ -2682,7 +2682,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2C2 サイドチャネル攻撃(3) 1月18日 10:55 ～ 12:35",
+    "session": "2C2 サイドチャネル攻撃(3)",
     "id": "2C2-2",
     "title": "サイドチャネル防御機構付き分割キャッシュアーキテクチャに関する一考察",
     "authors": [
@@ -2739,7 +2739,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2C2 サイドチャネル攻撃(3) 1月18日 10:55 ～ 12:35",
+    "session": "2C2 サイドチャネル攻撃(3)",
     "id": "2C2-3",
     "title": "PCから放出する電磁気的雑音と含有するモニタ表示画像の再現",
     "authors": [
@@ -2780,7 +2780,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2D2 バイオメトリクス(3) 1月18日 10:55 ～ 12:35",
+    "session": "2D2 バイオメトリクス(3)",
     "id": "2D2-1",
     "title": "極座標センサーを用いた虹彩認証方式の実証実験",
     "authors": [
@@ -2821,7 +2821,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2D2 バイオメトリクス(3) 1月18日 10:55 ～ 12:35",
+    "session": "2D2 バイオメトリクス(3)",
     "id": "2D2-2",
     "title": "Digital Signature Scheme by Biometric Keys and Liveness Detection",
     "authors": [
@@ -2838,7 +2838,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2D2 バイオメトリクス(3) 1月18日 10:55 ～ 12:35",
+    "session": "2D2 バイオメトリクス(3)",
     "id": "2D2-3",
     "title": "耳介を用いた個人認証における耳輪軟骨の輪郭および特徴抽出",
     "authors": [
@@ -2863,7 +2863,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2D2 バイオメトリクス(3) 1月18日 10:55 ～ 12:35",
+    "session": "2D2 バイオメトリクス(3)",
     "id": "2D2-4",
     "title": "指内部の光学特性を用いた個人認証装置",
     "authors": [
@@ -2915,7 +2915,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2E2 ネットワーク監視・分析 1月18日 10:55 ～ 12:35",
+    "session": "2E2 ネットワーク監視・分析",
     "id": "2E2-1",
     "title": "広域セキュリティ監視における統合解析アーキテクチャ",
     "authors": [
@@ -2948,7 +2948,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2E2 ネットワーク監視・分析 1月18日 10:55 ～ 12:35",
+    "session": "2E2 ネットワーク監視・分析",
     "id": "2E2-2",
     "title": "変化点検出エンジンを利用したインシデント検知システムの構築",
     "authors": [
@@ -2991,7 +2991,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2E2 ネットワーク監視・分析 1月18日 10:55 ～ 12:35",
+    "session": "2E2 ネットワーク監視・分析",
     "id": "2E2-3",
     "title": "自己組織化マップを用いたネットワークインシデント分析の研究",
     "authors": [
@@ -3026,7 +3026,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2E2 ネットワーク監視・分析 1月18日 10:55 ～ 12:35",
+    "session": "2E2 ネットワーク監視・分析",
     "id": "2E2-4",
     "title": "ウェーブレット解析を用いた周波数成分変化に基づくインターネット脅威検出法",
     "authors": [
@@ -3059,7 +3059,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2E2 ネットワーク監視・分析 1月18日 10:55 ～ 12:35",
+    "session": "2E2 ネットワーク監視・分析",
     "id": "2E2-5",
     "title": "フロー情報を利用したサポートベクトルマシンによるトラフィック分類に関する考察",
     "authors": [
@@ -3095,7 +3095,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2F2 RFIDセキュリティ(2) 1月18日 10:55 ～ 12:35",
+    "session": "2F2 RFIDセキュリティ(2)",
     "id": "2F2-1",
     "title": "流通トレーサビリティにおけるセキュリティの考察",
     "authors": [
@@ -3128,7 +3128,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2F2 RFIDセキュリティ(2) 1月18日 10:55 ～ 12:35",
+    "session": "2F2 RFIDセキュリティ(2)",
     "id": "2F2-2",
     "title": "Enhancing Security of EPCglobal Gen-2 RFID Tag against Traceability and Cloning",
     "authors": [
@@ -3169,7 +3169,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2F2 RFIDセキュリティ(2) 1月18日 10:55 ～ 12:35",
+    "session": "2F2 RFIDセキュリティ(2)",
     "id": "2F2-3",
     "title": "RFID Mutual Authentication Scheme based on Synchronized Secret Information",
     "authors": [
@@ -3202,7 +3202,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2F2 RFIDセキュリティ(2) 1月18日 10:55 ～ 12:35",
+    "session": "2F2 RFIDセキュリティ(2)",
     "id": "2F2-4",
     "title": "RFID Systems - Security Problems in Existing Protocols",
     "authors": [
@@ -3227,7 +3227,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2A3 公開鍵暗号(2) 1月18日 14:10 ～ 15:50",
+    "session": "2A3 公開鍵暗号(2)",
     "id": "2A3-1",
     "title": "A Security Analysis for a Public-key Cryptosystem using Algebraic Surfaces",
     "authors": [
@@ -3252,7 +3252,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2A3 公開鍵暗号(2) 1月18日 14:10 ～ 15:50",
+    "session": "2A3 公開鍵暗号(2)",
     "id": "2A3-2",
     "title": "A Generalization of Torus Compression for Cryptography",
     "authors": [
@@ -3277,7 +3277,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2A3 公開鍵暗号(2) 1月18日 14:10 ～ 15:50",
+    "session": "2A3 公開鍵暗号(2)",
     "id": "2A3-3",
     "title": "A New Class of Public-Key Cryptosystem with Several Terms of Product-Sum Operation",
     "authors": [
@@ -3302,7 +3302,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2A3 公開鍵暗号(2) 1月18日 14:10 ～ 15:50",
+    "session": "2A3 公開鍵暗号(2)",
     "id": "2A3-4",
     "title": "Signcryption with Batch Verification",
     "authors": [
@@ -3327,7 +3327,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2B3 リスク管理 1月18日 14:10 ～ 15:50",
+    "session": "2B3 リスク管理",
     "id": "2B3-1",
     "title": "Information Security Incidents and Countermeasures: An Empirical Analysis Based on an Enterprise Survey in Japan",
     "authors": [
@@ -3360,7 +3360,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2B3 リスク管理 1月18日 14:10 ～ 15:50",
+    "session": "2B3 リスク管理",
     "id": "2B3-2",
     "title": "インタビューを組み合わせた問題構造化技法の適用による情報セキュリティ課題の把握",
     "authors": [
@@ -3385,7 +3385,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2B3 リスク管理 1月18日 14:10 ～ 15:50",
+    "session": "2B3 リスク管理",
     "id": "2B3-3",
     "title": "ネットワークインシデント分析システム構築運用におけるユーザインタフェースの検討",
     "authors": [
@@ -3442,7 +3442,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2B3 リスク管理 1月18日 14:10 ～ 15:50",
+    "session": "2B3 リスク管理",
     "id": "2B3-4",
     "title": "多重リスクコミュニケータの個人情報漏洩問題への適用性への評価",
     "authors": [
@@ -3484,7 +3484,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2B3 リスク管理 1月18日 14:10 ～ 15:50",
+    "session": "2B3 リスク管理",
     "id": "2B3-5",
     "title": "多重リスクコミュニケータにおける円滑なリスクコミュニケーション支援方法の提案",
     "authors": [
@@ -3519,7 +3519,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2C3 暗号モジュール(1) 1月18日 14:10 ～ 15:50",
+    "session": "2C3 暗号モジュール(1)",
     "id": "2C3-1",
     "title": "2並列剰余乗算を用いたベキ乗剰余算の高速化に関する考察",
     "authors": [
@@ -3536,7 +3536,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2C3 暗号モジュール(1) 1月18日 14:10 ～ 15:50",
+    "session": "2C3 暗号モジュール(1)",
     "id": "2C3-2",
     "title": "Pentium 4におけるCamelliaの高速実装",
     "authors": [
@@ -3569,7 +3569,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2C3 暗号モジュール(1) 1月18日 14:10 ～ 15:50",
+    "session": "2C3 暗号モジュール(1)",
     "id": "2C3-3",
     "title": "64-bit プロセッサにおける共通鍵暗号のソフトウェア実装性能解析",
     "authors": [
@@ -3594,7 +3594,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2C3 暗号モジュール(1) 1月18日 14:10 ～ 15:50",
+    "session": "2C3 暗号モジュール(1)",
     "id": "2C3-4",
     "title": "Itanium 2プロセッサ上におけるRSA暗号の高速実装",
     "authors": [
@@ -3651,7 +3651,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2C3 暗号モジュール(1) 1月18日 14:10 ～ 15:50",
+    "session": "2C3 暗号モジュール(1)",
     "id": "2C3-5",
     "title": "差分一様性を持つ置換を利用したメッセージ認証方式とAESによる実装について",
     "authors": [
@@ -3676,7 +3676,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2D3 認証(1) 1月18日 14:10 ～ 15:50",
+    "session": "2D3 認証(1)",
     "id": "2D3-1",
     "title": "マルチパーティプロトコルを用いた生体情報秘匿型生体認証方式",
     "authors": [
@@ -3709,7 +3709,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2D3 認証(1) 1月18日 14:10 ～ 15:50",
+    "session": "2D3 認証(1)",
     "id": "2D3-2",
     "title": "非対称バイオメトリクス認証プロトコルの安全性について",
     "authors": [
@@ -3726,7 +3726,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2D3 認証(1) 1月18日 14:10 ～ 15:50",
+    "session": "2D3 認証(1)",
     "id": "2D3-3",
     "title": "「Authen Duplica」認証システム",
     "authors": [
@@ -3751,7 +3751,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2D3 認証(1) 1月18日 14:10 ～ 15:50",
+    "session": "2D3 認証(1)",
     "id": "2D3-4",
     "title": "User-Computer間の認証に関する考察",
     "authors": [
@@ -3800,7 +3800,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2D3 認証(1) 1月18日 14:10 ～ 15:50",
+    "session": "2D3 認証(1)",
     "id": "2D3-5",
     "title": "金融取引におけるICカード認証のセキュリティ要件について",
     "authors": [
@@ -3825,7 +3825,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2E3 ネットワークセキュリティ(1) 1月18日 14:10 ～ 15:50",
+    "session": "2E3 ネットワークセキュリティ(1)",
     "id": "2E3-1",
     "title": "インターネットセキュリティ実験環境『VM Nebula2』の設計と構築",
     "authors": [
@@ -3850,7 +3850,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2E3 ネットワークセキュリティ(1) 1月18日 14:10 ～ 15:50",
+    "session": "2E3 ネットワークセキュリティ(1)",
     "id": "2E3-2",
     "title": "ベイジアンフィルタによる日本語を含むメールのフィルタリングについての考察",
     "authors": [
@@ -3875,7 +3875,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2E3 ネットワークセキュリティ(1) 1月18日 14:10 ～ 15:50",
+    "session": "2E3 ネットワークセキュリティ(1)",
     "id": "2E3-3",
     "title": "多地点観測データを用いた攻撃イベント増減予測",
     "authors": [
@@ -3908,7 +3908,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2E3 ネットワークセキュリティ(1) 1月18日 14:10 ～ 15:50",
+    "session": "2E3 ネットワークセキュリティ(1)",
     "id": "2E3-4",
     "title": "コネクション検出方式による踏み台攻撃検出手法の提案",
     "authors": [
@@ -3941,7 +3941,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2E3 ネットワークセキュリティ(1) 1月18日 14:10 ～ 15:50",
+    "session": "2E3 ネットワークセキュリティ(1)",
     "id": "2E3-5",
     "title": "IPidを用いたNAT検知技術に関する研究",
     "authors": [
@@ -3982,7 +3982,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2F3 コンテンツ保護(1) 1月18日 14:10 ～ 15:50",
+    "session": "2F3 コンテンツ保護(1)",
     "id": "2F3-1",
     "title": "携帯端末を活用したプリペイド型コンテンツ視聴システム(検討1/2)",
     "authors": [
@@ -4031,7 +4031,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2F3 コンテンツ保護(1) 1月18日 14:10 ～ 15:50",
+    "session": "2F3 コンテンツ保護(1)",
     "id": "2F3-2",
     "title": "携帯端末を活用したプリペイド型コンテンツ視聴システム(検討2/2)",
     "authors": [
@@ -4080,7 +4080,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2F3 コンテンツ保護(1) 1月18日 14:10 ～ 15:50",
+    "session": "2F3 コンテンツ保護(1)",
     "id": "2F3-3",
     "title": "An Unlinkable Interactive Drama Delivery System Allowing Rechoice of a Scene",
     "authors": [
@@ -4113,7 +4113,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2F3 コンテンツ保護(1) 1月18日 14:10 ～ 15:50",
+    "session": "2F3 コンテンツ保護(1)",
     "id": "2F3-4",
     "title": "冗長化広域分散ファイルシステムによる著作権管理に関する一提案",
     "authors": [
@@ -4130,7 +4130,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2F3 コンテンツ保護(1) 1月18日 14:10 ～ 15:50",
+    "session": "2F3 コンテンツ保護(1)",
     "id": "2F3-5",
     "title": "Tracing Traitors from Broadcasted Contents",
     "authors": [
@@ -4163,7 +4163,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2A4 公開鍵暗号(3) 1月18日 16:05 ～ 17:45",
+    "session": "2A4 公開鍵暗号(3)",
     "id": "2A4-1",
     "title": "持駒行列の提案 その 2 ―多変数多項式型公開鍵暗号の安全性強化のための汎用的手法―",
     "authors": [
@@ -4196,7 +4196,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2A4 公開鍵暗号(3) 1月18日 16:05 ～ 17:45",
+    "session": "2A4 公開鍵暗号(3)",
     "id": "2A4-2",
     "title": "行列型ナップザック暗号の安全性の検討",
     "authors": [
@@ -4221,7 +4221,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2A4 公開鍵暗号(3) 1月18日 16:05 ～ 17:45",
+    "session": "2A4 公開鍵暗号(3)",
     "id": "2A4-3",
     "title": "トラップドア複合型高密度ナップザック暗号の提案",
     "authors": [
@@ -4246,7 +4246,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2A4 公開鍵暗号(3) 1月18日 16:05 ～ 17:45",
+    "session": "2A4 公開鍵暗号(3)",
     "id": "2A4-4",
     "title": "Multi-Bit Cryptosystems based on Lattice Problems",
     "authors": [
@@ -4279,7 +4279,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2A4 公開鍵暗号(3) 1月18日 16:05 ～ 17:45",
+    "session": "2A4 公開鍵暗号(3)",
     "id": "2A4-5",
     "title": "格子攻撃に対する Low-Weight Knapsack 暗号系の安全性についての一考察",
     "authors": [
@@ -4312,7 +4312,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2B4 セキュリティと社会 1月18日 16:05 ～ 17:45",
+    "session": "2B4 セキュリティと社会",
     "id": "2B4-1",
     "title": "デジタル・フォレンジックの体系化の試みと必要技術の提案",
     "authors": [
@@ -4345,7 +4345,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2B4 セキュリティと社会 1月18日 16:05 ～ 17:45",
+    "session": "2B4 セキュリティと社会",
     "id": "2B4-2",
     "title": "高齢化に伴うアクセス権限遷移方式の提案",
     "authors": [
@@ -4378,7 +4378,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2B4 セキュリティと社会 1月18日 16:05 ～ 17:45",
+    "session": "2B4 セキュリティと社会",
     "id": "2B4-3",
     "title": "University-Industry Collaboration in SCIS Compared to the IEEE Symposium on Security and Privacy",
     "authors": [
@@ -4395,7 +4395,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2C4 暗号モジュール(2) 1月18日 16:05 ～ 17:45",
+    "session": "2C4 暗号モジュール(2)",
     "id": "2C4-1",
     "title": "積和演算器に基づくスケーラブル高基数モンゴメリ乗算器の設計と評価",
     "authors": [
@@ -4436,7 +4436,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2C4 暗号モジュール(2) 1月18日 16:05 ～ 17:45",
+    "session": "2C4 暗号モジュール(2)",
     "id": "2C4-2",
     "title": "MUGI, AES, SHA-1/256統合ハードウェアの実装",
     "authors": [
@@ -4477,7 +4477,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2C4 暗号モジュール(2) 1月18日 16:05 ～ 17:45",
+    "session": "2C4 暗号モジュール(2)",
     "id": "2C4-3",
     "title": "テーブルネットワーク型暗号ソフトウェアの一クラスの耐タンパー性評価",
     "authors": [
@@ -4502,7 +4502,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2C4 暗号モジュール(2) 1月18日 16:05 ～ 17:45",
+    "session": "2C4 暗号モジュール(2)",
     "id": "2C4-4",
     "title": "メソッド実行順序の擬似的入れ替えによる難読化手法の提案",
     "authors": [
@@ -4535,7 +4535,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2C4 暗号モジュール(2) 1月18日 16:05 ～ 17:45",
+    "session": "2C4 暗号モジュール(2)",
     "id": "2C4-5",
     "title": "Design and Implementation of a Live-CA CD/DVD on an Open Source Environment",
     "authors": [
@@ -4568,7 +4568,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2D4 認証(2) 1月18日 16:05 ～ 17:45",
+    "session": "2D4 認証(2)",
     "id": "2D4-1",
     "title": "分散属性認証方式に対する基本検討(2)",
     "authors": [
@@ -4617,7 +4617,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2D4 認証(2) 1月18日 16:05 ～ 17:45",
+    "session": "2D4 認証(2)",
     "id": "2D4-2",
     "title": "企業ネットワークにおける管理負荷の少ない認証システムＡＳＥの提案",
     "authors": [
@@ -4650,7 +4650,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2D4 認証(2) 1月18日 16:05 ～ 17:45",
+    "session": "2D4 認証(2)",
     "id": "2D4-3",
     "title": "モバイルホストのプライバシーを秘匿するIEEE802.1X認証の提案と実装",
     "authors": [
@@ -4691,7 +4691,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2D4 認証(2) 1月18日 16:05 ～ 17:45",
+    "session": "2D4 認証(2)",
     "id": "2D4-4",
     "title": "無線アドホックネットワークの公開鍵証明書管理における証明書管理ノード方式",
     "authors": [
@@ -4740,7 +4740,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2D4 認証(2) 1月18日 16:05 ～ 17:45",
+    "session": "2D4 認証(2)",
     "id": "2D4-5",
     "title": "無線アドホックネットワークにおけるOLSRプロトコルを応用した公開鍵証明書配信方式",
     "authors": [
@@ -4773,7 +4773,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2E4 ネットワークセキュリティ(2) 1月18日 16:05 ～ 17:45",
+    "session": "2E4 ネットワークセキュリティ(2)",
     "id": "2E4-1",
     "title": "動的なIPsec ポリシー構成によるセキュリティポリシー適合性にもとづく信頼グループの構築",
     "authors": [
@@ -4798,7 +4798,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2E4 ネットワークセキュリティ(2) 1月18日 16:05 ～ 17:45",
+    "session": "2E4 ネットワークセキュリティ(2)",
     "id": "2E4-2",
     "title": "フィッシング対策ツールの有効性評価のためのスキャナの提案",
     "authors": [
@@ -4839,7 +4839,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2E4 ネットワークセキュリティ(2) 1月18日 16:05 ～ 17:45",
+    "session": "2E4 ネットワークセキュリティ(2)",
     "id": "2E4-3",
     "title": "クラスタリングSSL-WEBシステムの提案と実装",
     "authors": [
@@ -4864,7 +4864,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2E4 ネットワークセキュリティ(2) 1月18日 16:05 ～ 17:45",
+    "session": "2E4 ネットワークセキュリティ(2)",
     "id": "2E4-4",
     "title": "紙幣や金券などの偽造検出をWebシステムで行う方法の検討",
     "authors": [
@@ -4897,7 +4897,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2F4 コンテンツ保護(2) 1月18日 16:05 ～ 17:45",
+    "session": "2F4 コンテンツ保護(2)",
     "id": "2F4-1",
     "title": "サーバー型放送用蓄積メディアのためのファイルシステムセキュリティ機能拡張",
     "authors": [
@@ -4954,7 +4954,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2F4 コンテンツ保護(2) 1月18日 16:05 ～ 17:45",
+    "session": "2F4 コンテンツ保護(2)",
     "id": "2F4-2",
     "title": "Optimization of Key-Management Schemes for Broadcasting Service Models",
     "authors": [
@@ -4987,7 +4987,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2F4 コンテンツ保護(2) 1月18日 16:05 ～ 17:45",
+    "session": "2F4 コンテンツ保護(2)",
     "id": "2F4-3",
     "title": "双方向放送サービスにおける検証鍵不変なプロバイダ認証システム",
     "authors": [
@@ -5020,7 +5020,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "2F4 コンテンツ保護(2) 1月18日 16:05 ～ 17:45",
+    "session": "2F4 コンテンツ保護(2)",
     "id": "2F4-4",
     "title": "背景の生成規則の多様化による視覚的検証可能署名の安全性向上",
     "authors": [
@@ -5061,7 +5061,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3A1 IDベース暗号 1月19日 9:00 ～ 10:40",
+    "session": "3A1 IDベース暗号",
     "id": "3A1-1",
     "title": "ID情報に基づく暗号方式について",
     "authors": [
@@ -5086,7 +5086,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3A1 IDベース暗号 1月19日 9:00 ～ 10:40",
+    "session": "3A1 IDベース暗号",
     "id": "3A1-2",
     "title": "Applying FO-PKC99 and REACT to ID-Based encryption",
     "authors": [
@@ -5143,7 +5143,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3A1 IDベース暗号 1月19日 9:00 ～ 10:40",
+    "session": "3A1 IDベース暗号",
     "id": "3A1-3",
     "title": "タイト安全かつ効率的な暗号文サイズのIDベース暗号",
     "authors": [
@@ -5200,7 +5200,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3A1 IDベース暗号 1月19日 9:00 ～ 10:40",
+    "session": "3A1 IDベース暗号",
     "id": "3A1-4",
     "title": "ID-based encryption scheme with a hierarchical structure and its application",
     "authors": [
@@ -5217,7 +5217,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3A1 IDベース暗号 1月19日 9:00 ～ 10:40",
+    "session": "3A1 IDベース暗号",
     "id": "3A1-5",
     "title": "On the Relationship between Identity-Based Encryption and Digital Signature",
     "authors": [
@@ -5267,7 +5267,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3B1 ネットワークセキュリティ(4) 1月19日 9:00 ～ 10:40",
+    "session": "3B1 ネットワークセキュリティ(4)",
     "id": "3B1-1",
     "title": "Detection of Covert Remote Shell in Corporate Networks",
     "authors": [
@@ -5300,7 +5300,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3B1 ネットワークセキュリティ(4) 1月19日 9:00 ～ 10:40",
+    "session": "3B1 ネットワークセキュリティ(4)",
     "id": "3B1-2",
     "title": "Design and Implementation of a Live CD/DVD for Vulnerability Scanning",
     "authors": [
@@ -5325,7 +5325,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3B1 ネットワークセキュリティ(4) 1月19日 9:00 ～ 10:40",
+    "session": "3B1 ネットワークセキュリティ(4)",
     "id": "3B1-3",
     "title": "Design and Implementation for Integrated Service Authentication System on the basis of Secure LDAP Server",
     "authors": [
@@ -5350,7 +5350,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3B1 ネットワークセキュリティ(4) 1月19日 9:00 ～ 10:40",
+    "session": "3B1 ネットワークセキュリティ(4)",
     "id": "3B1-4",
     "title": "Security Protocols Protection Based on Anomaly Behaviour of Selected Features",
     "authors": [
@@ -5375,7 +5375,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3B1 ネットワークセキュリティ(4) 1月19日 9:00 ～ 10:40",
+    "session": "3B1 ネットワークセキュリティ(4)",
     "id": "3B1-5",
     "title": "Mobile RFID Security Issues",
     "authors": [
@@ -5400,7 +5400,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3C1 量子セキュリティ(1) 1月19日 9:00 ～ 10:40",
+    "session": "3C1 量子セキュリティ(1)",
     "id": "3C1-1",
     "title": "BB84量子鍵配送プロトコルの為の非正則LDPC符号と双対符号の符号語解析",
     "authors": [
@@ -5441,7 +5441,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3C1 量子セキュリティ(1) 1月19日 9:00 ～ 10:40",
+    "session": "3C1 量子セキュリティ(1)",
     "id": "3C1-2",
     "title": "短距離量子暗号システムにおける安全な誤り訂正符号の構成",
     "authors": [
@@ -5466,7 +5466,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3C1 量子セキュリティ(1) 1月19日 9:00 ～ 10:40",
+    "session": "3C1 量子セキュリティ(1)",
     "id": "3C1-3",
     "title": "Quantum Bounded Storage Modelと不確定性関係",
     "authors": [
@@ -5492,7 +5492,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3C1 量子セキュリティ(1) 1月19日 9:00 ～ 10:40",
+    "session": "3C1 量子セキュリティ(1)",
     "id": "3C1-4",
     "title": "量子バーナム暗号",
     "authors": [
@@ -5509,7 +5509,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3C1 量子セキュリティ(1) 1月19日 9:00 ～ 10:40",
+    "session": "3C1 量子セキュリティ(1)",
     "id": "3C1-5",
     "title": "自明な“量子”ストリーム暗号と非自明な量子ストリーム暗号",
     "authors": [
@@ -5535,7 +5535,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3D1 認証(3) 1月19日 9:00 ～ 10:40",
+    "session": "3D1 認証(3)",
     "id": "3D1-1",
     "title": "分散環境に適したワンタイムIDのオフライン検証法の検討",
     "authors": [
@@ -5560,7 +5560,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3D1 認証(3) 1月19日 9:00 ～ 10:40",
+    "session": "3D1 認証(3)",
     "id": "3D1-2",
     "title": "顔写真入り許可証向け署名の提案",
     "authors": [
@@ -5593,7 +5593,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3D1 認証(3) 1月19日 9:00 ～ 10:40",
+    "session": "3D1 認証(3)",
     "id": "3D1-3",
     "title": "An Identification Scheme Based on KEA1 Assumption",
     "authors": [
@@ -5618,7 +5618,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3D1 認証(3) 1月19日 9:00 ～ 10:40",
+    "session": "3D1 認証(3)",
     "id": "3D1-4",
     "title": "IDベース暗号を用いたメール送信元サーバ認証の提案",
     "authors": [
@@ -5651,7 +5651,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3D1 認証(3) 1月19日 9:00 ～ 10:40",
+    "session": "3D1 認証(3)",
     "id": "3D1-5",
     "title": "非常時通報機能を有するユーザ認証方式のモデル化",
     "authors": [
@@ -5692,7 +5692,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3E1 ネットワークセキュリティ(3) 1月19日 9:00 ～ 10:40",
+    "session": "3E1 ネットワークセキュリティ(3)",
     "id": "3E1-1",
     "title": "ハイパーリンクへのマーキングを用いた HTTP トレースバック手法 (MapTB) の提案",
     "authors": [
@@ -5741,7 +5741,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3E1 ネットワークセキュリティ(3) 1月19日 9:00 ～ 10:40",
+    "session": "3E1 ネットワークセキュリティ(3)",
     "id": "3E1-2",
     "title": "暗号要素技術を用いない決定論的パケットマーキング法による単一パケットＩＰトレースバックについて",
     "authors": [
@@ -5774,7 +5774,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3E1 ネットワークセキュリティ(3) 1月19日 9:00 ～ 10:40",
+    "session": "3E1 ネットワークセキュリティ(3)",
     "id": "3E1-3",
     "title": "IPアドレス詐称パケットを送出しないネットワークのアドレスリストを用いたバックボーンネットワーク",
     "authors": [
@@ -5807,7 +5807,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3E1 ネットワークセキュリティ(3) 1月19日 9:00 ～ 10:40",
+    "session": "3E1 ネットワークセキュリティ(3)",
     "id": "3E1-4",
     "title": "プロキシを用いたDoS対策手法の提案",
     "authors": [
@@ -5833,7 +5833,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3F1 プライバシ保護(1) 1月19日 9:00 ～ 10:40",
+    "session": "3F1 プライバシ保護(1)",
     "id": "3F1-1",
     "title": "暗号化データに対する安全な全文検索技術について",
     "authors": [
@@ -5858,7 +5858,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3F1 プライバシ保護(1) 1月19日 9:00 ～ 10:40",
+    "session": "3F1 プライバシ保護(1)",
     "id": "3F1-2",
     "title": "検索語の秘匿と検索結果の一貫性検証を可能とする通信効率の良いデータ検索プロトコル",
     "authors": [
@@ -5899,7 +5899,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3F1 プライバシ保護(1) 1月19日 9:00 ～ 10:40",
+    "session": "3F1 プライバシ保護(1)",
     "id": "3F1-3",
     "title": "条件や状況に応じて部分開示・非開示制御可能な部分完全性保証技術の提案",
     "authors": [
@@ -5924,7 +5924,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3F1 プライバシ保護(1) 1月19日 9:00 ～ 10:40",
+    "session": "3F1 プライバシ保護(1)",
     "id": "3F1-4",
     "title": "Privacy-preserving Text Mining in Distributed Environment",
     "authors": [
@@ -5949,7 +5949,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3F1 プライバシ保護(1) 1月19日 9:00 ～ 10:40",
+    "session": "3F1 プライバシ保護(1)",
     "id": "3F1-5",
     "title": "ユーザ主導による個人情報保護方式の提案",
     "authors": [
@@ -5974,7 +5974,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3G1 バイオメトリクス招待講演 1月19日 9:00 ～ 10:40",
+    "session": "3G1 バイオメトリクス招待講演",
     "id": "3G1-1",
     "title": "Biometrics and Security: Technical Provisions to Privacy Concerns",
     "authors": [
@@ -6007,7 +6007,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3G1 バイオメトリクス招待講演 1月19日 9:00 ～ 10:40",
+    "session": "3G1 バイオメトリクス招待講演",
     "id": "3G1-2",
     "title": "Real-time Multiple Objects Tracking with Occlusion Handling in Dynamic Scenes",
     "authors": [
@@ -6048,7 +6048,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3A2 電子署名(1) 1月19日 10:55 ～ 12:35",
+    "session": "3A2 電子署名(1)",
     "id": "3A2-1",
     "title": "ディジタル署名の安全性証明に関する研究",
     "authors": [
@@ -6073,7 +6073,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3A2 電子署名(1) 1月19日 10:55 ～ 12:35",
+    "session": "3A2 電子署名(1)",
     "id": "3A2-2",
     "title": "RSA-FDH署名方式の安全性評価に関する一考察 ―RSA-FDH署名方式 対 RSA-PFDH署名方式の再評価―",
     "authors": [
@@ -6114,7 +6114,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3A2 電子署名(1) 1月19日 10:55 ～ 12:35",
+    "session": "3A2 電子署名(1)",
     "id": "3A2-3",
     "title": "Security of ESIGN-PSS",
     "authors": [
@@ -6139,7 +6139,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3A2 電子署名(1) 1月19日 10:55 ～ 12:35",
+    "session": "3A2 電子署名(1)",
     "id": "3A2-4",
     "title": "リング署名に関する匿名性の定義について",
     "authors": [
@@ -6156,7 +6156,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3A2 電子署名(1) 1月19日 10:55 ～ 12:35",
+    "session": "3A2 電子署名(1)",
     "id": "3A2-5",
     "title": "落とし戸付き一方向性置換を利用する多重署名方式の最適性の再評価",
     "authors": [
@@ -6197,7 +6197,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3B2 アクセス制御 1月19日 10:55 ～ 12:35",
+    "session": "3B2 アクセス制御",
     "id": "3B2-1",
     "title": "Controlling Access in Databases by Outsourcing Access Control to Trusted Third Parties",
     "authors": [
@@ -6230,7 +6230,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3B2 アクセス制御 1月19日 10:55 ～ 12:35",
+    "session": "3B2 アクセス制御",
     "id": "3B2-2",
     "title": "Trusted Database Interoperation Based on Collaborative Role-Based Access Control",
     "authors": [
@@ -6271,7 +6271,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3B2 アクセス制御 1月19日 10:55 ～ 12:35",
+    "session": "3B2 アクセス制御",
     "id": "3B2-3",
     "title": "A Function-based Model for XML Access Control",
     "authors": [
@@ -6296,7 +6296,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3B2 アクセス制御 1月19日 10:55 ～ 12:35",
+    "session": "3B2 アクセス制御",
     "id": "3B2-4",
     "title": "形式的仕様記述言語CafeOBJによるCommunity Based Access Control Modelの評価",
     "authors": [
@@ -6353,7 +6353,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3B2 アクセス制御 1月19日 10:55 ～ 12:35",
+    "session": "3B2 アクセス制御",
     "id": "3B2-5",
     "title": "プラットフォーム信頼性に基づくアクセス制御フレームワーク",
     "authors": [
@@ -6371,7 +6371,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3C2 量子セキュリティ(2) 1月19日 10:55 ～ 12:35",
+    "session": "3C2 量子セキュリティ(2)",
     "id": "3C2-1",
     "title": "Analysis of the Waseda-Soshi-Miyaji scheme and on Quantum Computation Signature",
     "authors": [
@@ -6396,7 +6396,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3C2 量子セキュリティ(2) 1月19日 10:55 ～ 12:35",
+    "session": "3C2 量子セキュリティ(2)",
     "id": "3C2-2",
     "title": "How to Construct Quantum Hard-Core Predicates from Any Quantum One-Way Functions",
     "authors": [
@@ -6424,7 +6424,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3C2 量子セキュリティ(2) 1月19日 10:55 ～ 12:35",
+    "session": "3C2 量子セキュリティ(2)",
     "id": "3C2-3",
     "title": "オフライン検証性を満たす追跡不可能な量子現金について",
     "authors": [
@@ -6457,7 +6457,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3C2 量子セキュリティ(2) 1月19日 10:55 ～ 12:35",
+    "session": "3C2 量子セキュリティ(2)",
     "id": "3C2-4",
     "title": "電子マネーの経済学的一考察",
     "authors": [
@@ -6474,7 +6474,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3C2 量子セキュリティ(2) 1月19日 10:55 ～ 12:35",
+    "session": "3C2 量子セキュリティ(2)",
     "id": "3C2-5",
     "title": "ターボ符号を用いた情報量的に安全な鍵共有法",
     "authors": [
@@ -6515,7 +6515,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3D2 鍵共有(1) 1月19日 10:55 ～ 12:35",
+    "session": "3D2 鍵共有(1)",
     "id": "3D2-1",
     "title": "村上-笠原 ID 鍵共有方式の実現性に関する提案とその検討",
     "authors": [
@@ -6548,7 +6548,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3D2 鍵共有(1) 1月19日 10:55 ～ 12:35",
+    "session": "3D2 鍵共有(1)",
     "id": "3D2-2",
     "title": "Security-Function Integrated Simple Cipher Communication System",
     "authors": [
@@ -6565,7 +6565,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3D2 鍵共有(1) 1月19日 10:55 ～ 12:35",
+    "session": "3D2 鍵共有(1)",
     "id": "3D2-3",
     "title": "ID情報に基づくランプ型非対称鍵配送方式について",
     "authors": [
@@ -6598,7 +6598,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3D2 鍵共有(1) 1月19日 10:55 ～ 12:35",
+    "session": "3D2 鍵共有(1)",
     "id": "3D2-4",
     "title": "グループメンバーの特性を考慮した高効率で高い信頼性を有するグループ鍵配送方式",
     "authors": [
@@ -6623,7 +6623,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3D2 鍵共有(1) 1月19日 10:55 ～ 12:35",
+    "session": "3D2 鍵共有(1)",
     "id": "3D2-5",
     "title": "P2Pマルチキャストのための頑健な動的グループ鍵構成法",
     "authors": [
@@ -6664,7 +6664,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3E2 共通鍵暗号(1) 1月19日 10:55 ～ 12:35",
+    "session": "3E2 共通鍵暗号(1)",
     "id": "3E2-1",
     "title": "（講演取り消し）",
     "authors": [],
@@ -6672,7 +6672,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3E2 共通鍵暗号(1) 1月19日 10:55 ～ 12:35",
+    "session": "3E2 共通鍵暗号(1)",
     "id": "3E2-2",
     "title": "DESの分割統治的攻撃法（その９） 複数個の偏りに対する最尤推定法を用いた暗号文単独攻撃",
     "authors": [
@@ -6713,7 +6713,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3E2 共通鍵暗号(1) 1月19日 10:55 ～ 12:35",
+    "session": "3E2 共通鍵暗号(1)",
     "id": "3E2-3",
     "title": "DESの分割統治的攻撃法（その10） 置換確率行列を用いた暗号文単独攻撃",
     "authors": [
@@ -6754,7 +6754,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3E2 共通鍵暗号(1) 1月19日 10:55 ～ 12:35",
+    "session": "3E2 共通鍵暗号(1)",
     "id": "3E2-4",
     "title": "KASUMIに対する攻撃方程式の効率的な解法(II)",
     "authors": [
@@ -6795,7 +6795,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3E2 共通鍵暗号(1) 1月19日 10:55 ～ 12:35",
+    "session": "3E2 共通鍵暗号(1)",
     "id": "3E2-5",
     "title": "RC6 のΧ二乗攻撃の効率化へのアプローチについて",
     "authors": [
@@ -6820,7 +6820,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3F2 プライバシ保護(2) 1月19日 10:55 ～ 12:35",
+    "session": "3F2 プライバシ保護(2)",
     "id": "3F2-1",
     "title": "プライバシを保護したC2Cディジタルコンテンツ売買方式",
     "authors": [
@@ -6861,7 +6861,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3F2 プライバシ保護(2) 1月19日 10:55 ～ 12:35",
+    "session": "3F2 プライバシ保護(2)",
     "id": "3F2-2",
     "title": "プロバイダへの公正な利益分配が可能な匿名課金放送システム",
     "authors": [
@@ -6902,7 +6902,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3F2 プライバシ保護(2) 1月19日 10:55 ～ 12:35",
+    "session": "3F2 プライバシ保護(2)",
     "id": "3F2-3",
     "title": "A Provably Secure Refreshable Partially Anonymous Token and its Applications",
     "authors": [
@@ -6951,7 +6951,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3F2 プライバシ保護(2) 1月19日 10:55 ～ 12:35",
+    "session": "3F2 プライバシ保護(2)",
     "id": "3F2-4",
     "title": "多者間紛失多項式評価手法の提案とプライバシ保護データマイニングへの適用",
     "authors": [
@@ -6984,7 +6984,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3F2 プライバシ保護(2) 1月19日 10:55 ～ 12:35",
+    "session": "3F2 プライバシ保護(2)",
     "id": "3F2-5",
     "title": "認証時の計算量が制限回数に依存しない回数制限匿名認証方式",
     "authors": [
@@ -7009,7 +7009,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3A3 電子署名(2) 1月19日 14:10 ～ 15:50",
+    "session": "3A3 電子署名(2)",
     "id": "3A3-1",
     "title": "Universal Designated Verifier Signature without Random Oracles",
     "authors": [
@@ -7042,7 +7042,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3A3 電子署名(2) 1月19日 14:10 ～ 15:50",
+    "session": "3A3 電子署名(2)",
     "id": "3A3-2",
     "title": "Universal Designated-Verifier Ring Signature",
     "authors": [
@@ -7067,7 +7067,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3A3 電子署名(2) 1月19日 14:10 ～ 15:50",
+    "session": "3A3 電子署名(2)",
     "id": "3A3-3",
     "title": "Universally Composable Anonymous Message Authentication using Ring Signature",
     "authors": [
@@ -7092,7 +7092,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3A3 電子署名(2) 1月19日 14:10 ～ 15:50",
+    "session": "3A3 電子署名(2)",
     "id": "3A3-4",
     "title": "ハッシュ木を用いた計算量の少ないオブリビアス署名の提案",
     "authors": [
@@ -7117,7 +7117,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3B3 ソフトウェアセキュリティ 1月19日 14:10 ～ 15:50",
+    "session": "3B3 ソフトウェアセキュリティ",
     "id": "3B3-1",
     "title": "プログラムの適応的動的改変耐性評価の一手法",
     "authors": [
@@ -7150,7 +7150,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3B3 ソフトウェアセキュリティ 1月19日 14:10 ～ 15:50",
+    "session": "3B3 ソフトウェアセキュリティ",
     "id": "3B3-2",
     "title": "携帯電話向けネイティブコード実行環境",
     "authors": [
@@ -7183,7 +7183,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3B3 ソフトウェアセキュリティ 1月19日 14:10 ～ 15:50",
+    "session": "3B3 ソフトウェアセキュリティ",
     "id": "3B3-3",
     "title": "信頼構築技術を応用したソフトウェアの実行環境の安全性保証モデル",
     "authors": [
@@ -7224,7 +7224,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3B3 ソフトウェアセキュリティ 1月19日 14:10 ～ 15:50",
+    "session": "3B3 ソフトウェアセキュリティ",
     "id": "3B3-4",
     "title": "安全性と設定の簡易化を両立させたファイルアクセスパーミッションの提案",
     "authors": [
@@ -7257,7 +7257,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3C3 実装・システム 1月19日 14:10 ～ 15:50",
+    "session": "3C3 実装・システム",
     "id": "3C3-1",
     "title": "関係データベース，XMLデータベースに於けるCovert Channelの解析と情報フィルタの構成について",
     "authors": [
@@ -7314,7 +7314,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3C3 実装・システム 1月19日 14:10 ～ 15:50",
+    "session": "3C3 実装・システム",
     "id": "3C3-2",
     "title": "モニタによるデータベースセキュリティのためのクエリ書き換え手法",
     "authors": [
@@ -7347,7 +7347,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3C3 実装・システム 1月19日 14:10 ～ 15:50",
+    "session": "3C3 実装・システム",
     "id": "3C3-3",
     "title": "Covert Channel分析メカニズムとEJBによる情報フィルタの構築",
     "authors": [
@@ -7404,7 +7404,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3C3 実装・システム 1月19日 14:10 ～ 15:50",
+    "session": "3C3 実装・システム",
     "id": "3C3-4",
     "title": "物理オブジェクトの位置証明基盤",
     "authors": [
@@ -7429,7 +7429,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3D3 鍵共有(2) 1月19日 14:10 ～ 15:50",
+    "session": "3D3 鍵共有(2)",
     "id": "3D3-1",
     "title": "Security of Authentication Key Exchange AddMA(EKE2)",
     "authors": [
@@ -7446,7 +7446,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3D3 鍵共有(2) 1月19日 14:10 ～ 15:50",
+    "session": "3D3 鍵共有(2)",
     "id": "3D3-2",
     "title": "A Password-Based Authenticated Key Exchange Protocol in the Three Party Setting",
     "authors": [
@@ -7471,7 +7471,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3D3 鍵共有(2) 1月19日 14:10 ～ 15:50",
+    "session": "3D3 鍵共有(2)",
     "id": "3D3-3",
     "title": "省リソースデバイスに適したパスワード認証鍵交換",
     "authors": [
@@ -7512,7 +7512,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3D3 鍵共有(2) 1月19日 14:10 ～ 15:50",
+    "session": "3D3 鍵共有(2)",
     "id": "3D3-4",
     "title": "Anonymous Password-Based Authenticated Key Exchange",
     "authors": [
@@ -7545,7 +7545,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3E3 共通鍵暗号(2) 1月19日 14:10 ～ 15:50",
+    "session": "3E3 共通鍵暗号(2)",
     "id": "3E3-1",
     "title": "SEEDの鍵スケジュールに関する一考察",
     "authors": [
@@ -7578,7 +7578,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3E3 共通鍵暗号(2) 1月19日 14:10 ～ 15:50",
+    "session": "3E3 共通鍵暗号(2)",
     "id": "3E3-2",
     "title": "キャッシュ攻撃によるSEEDのラウンド鍵の導出",
     "authors": [
@@ -7614,7 +7614,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3E3 共通鍵暗号(2) 1月19日 14:10 ～ 15:50",
+    "session": "3E3 共通鍵暗号(2)",
     "id": "3E3-3",
     "title": "Fast Implementation of F4 Algorithm (IPA-SMW) and Cryptanalysis of Toyocrypt",
     "authors": [
@@ -7647,7 +7647,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3E3 共通鍵暗号(2) 1月19日 14:10 ～ 15:50",
+    "session": "3E3 共通鍵暗号(2)",
     "id": "3E3-4",
     "title": "カオス・ストリーム暗号と内部状態更新に対する解析",
     "authors": [
@@ -7664,7 +7664,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3E3 共通鍵暗号(2) 1月19日 14:10 ～ 15:50",
+    "session": "3E3 共通鍵暗号(2)",
     "id": "3E3-5",
     "title": "弱IVに基づく鍵回復攻撃に対して安全なWEPの実装",
     "authors": [
@@ -7697,7 +7697,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3F3 電子透かし(1) 1月19日 14:10 ～ 15:50",
+    "session": "3F3 電子透かし(1)",
     "id": "3F3-1",
     "title": "ハフマン符号へのデータサイズ不変型情報ハイディング",
     "authors": [
@@ -7730,7 +7730,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3F3 電子透かし(1) 1月19日 14:10 ～ 15:50",
+    "session": "3F3 電子透かし(1)",
     "id": "3F3-2",
     "title": "非対称型電子透かしの実現に対する一提案 －複数の透かしを相補的に埋め込むことはできないか－",
     "authors": [
@@ -7755,7 +7755,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3F3 電子透かし(1) 1月19日 14:10 ～ 15:50",
+    "session": "3F3 電子透かし(1)",
     "id": "3F3-3",
     "title": "パッチワーク法に対する最適な透かし検出",
     "authors": [
@@ -7788,7 +7788,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3F3 電子透かし(1) 1月19日 14:10 ～ 15:50",
+    "session": "3F3 電子透かし(1)",
     "id": "3F3-4",
     "title": "Tracing Illegal Users of Video Content: Reconsideration of Tree-Specific and Endbuyer-Specific Methods",
     "authors": [
@@ -7829,7 +7829,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3A4 電子署名(3) 1月19日 16:05 ～ 17:45",
+    "session": "3A4 電子署名(3)",
     "id": "3A4-1",
     "title": "情報理論的に安全なブラインド署名方式",
     "authors": [
@@ -7870,7 +7870,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3A4 電子署名(3) 1月19日 16:05 ～ 17:45",
+    "session": "3A4 電子署名(3)",
     "id": "3A4-2",
     "title": "One-Time Anonymous Signature -- An alternative approach to anonymity and traceability",
     "authors": [
@@ -7895,7 +7895,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3A4 電子署名(3) 1月19日 16:05 ～ 17:45",
+    "session": "3A4 電子署名(3)",
     "id": "3A4-3",
     "title": "Structured Aggregate Signatures",
     "authors": [
@@ -7920,7 +7920,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3A4 電子署名(3) 1月19日 16:05 ～ 17:45",
+    "session": "3A4 電子署名(3)",
     "id": "3A4-4",
     "title": "Fair Exchange of Signatures in the Many-to-One Model",
     "authors": [
@@ -7945,7 +7945,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3B4 侵入検知 1月19日 16:05 ～ 17:45",
+    "session": "3B4 侵入検知",
     "id": "3B4-1",
     "title": "侵入検知システムにおける検知迂回攻撃に対する脆弱性の検討",
     "authors": [
@@ -7970,7 +7970,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3B4 侵入検知 1月19日 16:05 ～ 17:45",
+    "session": "3B4 侵入検知",
     "id": "3B4-2",
     "title": "ネットワーク侵入検知システムにおけるアラートベースシグネチャ自動生成方式の開発",
     "authors": [
@@ -7995,7 +7995,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3B4 侵入検知 1月19日 16:05 ～ 17:45",
+    "session": "3B4 侵入検知",
     "id": "3B4-3",
     "title": "侵入検知システムを用いた動的ファイアウォールの提案と実装",
     "authors": [
@@ -8028,7 +8028,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3B4 侵入検知 1月19日 16:05 ～ 17:45",
+    "session": "3B4 侵入検知",
     "id": "3B4-4",
     "title": "SSL/TLS通信における侵入検知のための特徴抽出手法",
     "authors": [
@@ -8061,7 +8061,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3B4 侵入検知 1月19日 16:05 ～ 17:45",
+    "session": "3B4 侵入検知",
     "id": "3B4-5",
     "title": "インターネットにおける実時間イベント分析の研究開発",
     "authors": [
@@ -8134,7 +8134,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3C4 楕円曲線暗号(1) 1月19日 16:05 ～ 17:45",
+    "session": "3C4 楕円曲線暗号(1)",
     "id": "3C4-1",
     "title": "Joint Regular Formと楕円曲線/超楕円曲線暗号への適用",
     "authors": [
@@ -8167,7 +8167,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3C4 楕円曲線暗号(1) 1月19日 16:05 ～ 17:45",
+    "session": "3C4 楕円曲線暗号(1)",
     "id": "3C4-2",
     "title": "Fast Scalar Multiplication with Small Memory on Koblitz Curves",
     "authors": [
@@ -8200,7 +8200,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3C4 楕円曲線暗号(1) 1月19日 16:05 ～ 17:45",
+    "session": "3C4 楕円曲線暗号(1)",
     "id": "3C4-3",
     "title": "Some Radix-r Representations - Efficiency and Security",
     "authors": [
@@ -8225,7 +8225,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3C4 楕円曲線暗号(1) 1月19日 16:05 ～ 17:45",
+    "session": "3C4 楕円曲線暗号(1)",
     "id": "3C4-4",
     "title": "Some Explicit Formulae of Signed Binary Representations",
     "authors": [
@@ -8258,7 +8258,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3D4 鍵共有(3) 1月19日 16:05 ～ 17:45",
+    "session": "3D4 鍵共有(3)",
     "id": "3D4-1",
     "title": "KEM-DEM同報通信における鍵配送方式の提案",
     "authors": [
@@ -8291,7 +8291,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3D4 鍵共有(3) 1月19日 16:05 ～ 17:45",
+    "session": "3D4 鍵共有(3)",
     "id": "3D4-2",
     "title": "Universally Composable Hierarchical Hybrid Authenticated Key Exchange",
     "authors": [
@@ -8340,7 +8340,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3D4 鍵共有(3) 1月19日 16:05 ～ 17:45",
+    "session": "3D4 鍵共有(3)",
     "id": "3D4-3",
     "title": "One-Round Protocol for Two-Party Verifier-Based Password-Authenticated Key Exchange",
     "authors": [
@@ -8373,7 +8373,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3D4 鍵共有(3) 1月19日 16:05 ～ 17:45",
+    "session": "3D4 鍵共有(3)",
     "id": "3D4-4",
     "title": "複数の小規模鍵プールからの鍵選択に基づくセンサノード鍵格納方式",
     "authors": [
@@ -8406,7 +8406,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3D4 鍵共有(3) 1月19日 16:05 ～ 17:45",
+    "session": "3D4 鍵共有(3)",
     "id": "3D4-5",
     "title": "P2Pネットワーク上のアクセス制御を実現するための鍵共有方式の提案",
     "authors": [
@@ -8447,7 +8447,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3E4 共通鍵暗号(3) 1月19日 16:05 ～ 17:45",
+    "session": "3E4 共通鍵暗号(3)",
     "id": "3E4-1",
     "title": "MUGIの再同期攻撃に対する耐性評価( II )",
     "authors": [
@@ -8472,7 +8472,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3E4 共通鍵暗号(3) 1月19日 16:05 ～ 17:45",
+    "session": "3E4 共通鍵暗号(3)",
     "id": "3E4-2",
     "title": "ストリーム暗号Pyに用いられるKeySchedulingアルゴリズムの安全性評価",
     "authors": [
@@ -8505,7 +8505,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3E4 共通鍵暗号(3) 1月19日 16:05 ～ 17:45",
+    "session": "3E4 共通鍵暗号(3)",
     "id": "3E4-3",
     "title": "ストリーム暗号Dragonの差分攻撃耐性に関する一考察",
     "authors": [
@@ -8538,7 +8538,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3E4 共通鍵暗号(3) 1月19日 16:05 ～ 17:45",
+    "session": "3E4 共通鍵暗号(3)",
     "id": "3E4-4",
     "title": "ストリーム暗号VSC128ににおける選択初期ベクトルを用いた出力乱数列の偏り",
     "authors": [
@@ -8587,7 +8587,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3E4 共通鍵暗号(3) 1月19日 16:05 ～ 17:45",
+    "session": "3E4 共通鍵暗号(3)",
     "id": "3E4-5",
     "title": "FMS攻撃に耐性のあるWEP実装に対する鍵復元攻撃の成功確率向上について",
     "authors": [
@@ -8620,7 +8620,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3F4 電子透かし(2) 1月19日 16:05 ～ 17:45",
+    "session": "3F4 電子透かし(2)",
     "id": "3F4-1",
     "title": "サンプル置換攻撃に対するWavelet-QIM音信号電子透かし手法の耐性評価",
     "authors": [
@@ -8661,7 +8661,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3F4 電子透かし(2) 1月19日 16:05 ～ 17:45",
+    "session": "3F4 電子透かし(2)",
     "id": "3F4-2",
     "title": "帯域分割と振幅変調に基づく音響電子透かし",
     "authors": [
@@ -8678,7 +8678,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3F4 電子透かし(2) 1月19日 16:05 ～ 17:45",
+    "session": "3F4 電子透かし(2)",
     "id": "3F4-3",
     "title": "電子透かしを用いた印刷画像の改ざん検知方法の検討",
     "authors": [
@@ -8703,7 +8703,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3F4 電子透かし(2) 1月19日 16:05 ～ 17:45",
+    "session": "3F4 電子透かし(2)",
     "id": "3F4-4",
     "title": "注目物体の速度操作を利用したデータ埋め込み",
     "authors": [
@@ -8728,7 +8728,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "3F4 電子透かし(2) 1月19日 16:05 ～ 17:45",
+    "session": "3F4 電子透かし(2)",
     "id": "3F4-5",
     "title": "STEGANOGRAPHY WITH HASHING",
     "authors": [
@@ -8753,7 +8753,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "4A1 電子署名(4) 1月20日 9:00 ～ 10:40",
+    "session": "4A1 電子署名(4)",
     "id": "4A1-1",
     "title": "ビット単位で連続領域を墨塗り可能な電子文書墨塗り技術",
     "authors": [
@@ -8789,7 +8789,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "4A1 電子署名(4) 1月20日 9:00 ～ 10:40",
+    "session": "4A1 電子署名(4)",
     "id": "4A1-2",
     "title": "Sanitizable Signature with Secret Information",
     "authors": [
@@ -8822,7 +8822,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "4A1 電子署名(4) 1月20日 9:00 ～ 10:40",
+    "session": "4A1 電子署名(4)",
     "id": "4A1-3",
     "title": "Restrictively Sanitizable Signature Scheme",
     "authors": [
@@ -8847,7 +8847,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "4A1 電子署名(4) 1月20日 9:00 ～ 10:40",
+    "session": "4A1 電子署名(4)",
     "id": "4A1-4",
     "title": "墨塗り署名方式の安全性について",
     "authors": [
@@ -8889,7 +8889,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "4A1 電子署名(4) 1月20日 9:00 ～ 10:40",
+    "session": "4A1 電子署名(4)",
     "id": "4A1-5",
     "title": "メタ署名に関する考察",
     "authors": [
@@ -8906,7 +8906,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "4B1 ウィルス対策 1月20日 9:00 ～ 10:40",
+    "session": "4B1 ウィルス対策",
     "id": "4B1-1",
     "title": "ウイルスの仮想化とその感染発症機構の記述法について",
     "authors": [
@@ -8955,7 +8955,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "4B1 ウィルス対策 1月20日 9:00 ～ 10:40",
+    "session": "4B1 ウィルス対策",
     "id": "4B1-2",
     "title": "静的／動的解析によるウイルス自動解析システム",
     "authors": [
@@ -9004,7 +9004,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "4B1 ウィルス対策 1月20日 9:00 ～ 10:40",
+    "session": "4B1 ウィルス対策",
     "id": "4B1-3",
     "title": "TrendMicro社のVirus Map(ウィルス感染報告件数データ)に見られる奇妙な振る舞いについて",
     "authors": [
@@ -9021,7 +9021,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "4B1 ウィルス対策 1月20日 9:00 ～ 10:40",
+    "session": "4B1 ウィルス対策",
     "id": "4B1-4",
     "title": "マスメール型ウィルスに対する実験疫学を含む総合的アプローチ",
     "authors": [
@@ -9070,7 +9070,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "4C1 楕円曲線暗号(2) 1月20日 9:00 ～ 10:40",
+    "session": "4C1 楕円曲線暗号(2)",
     "id": "4C1-1",
     "title": "Improvement of Explicit Addition and Doubling Formulae for Genus-4 HECC",
     "authors": [
@@ -9103,7 +9103,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "4C1 楕円曲線暗号(2) 1月20日 9:00 ～ 10:40",
+    "session": "4C1 楕円曲線暗号(2)",
     "id": "4C1-2",
     "title": "超楕円曲線暗号における因子分割手法について",
     "authors": [
@@ -9136,7 +9136,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "4C1 楕円曲線暗号(2) 1月20日 9:00 ～ 10:40",
+    "session": "4C1 楕円曲線暗号(2)",
     "id": "4C1-3",
     "title": "GHSアタックの一般化について",
     "authors": [
@@ -9161,7 +9161,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "4C1 楕円曲線暗号(2) 1月20日 9:00 ～ 10:40",
+    "session": "4C1 楕円曲線暗号(2)",
     "id": "4C1-4",
     "title": "ヤコビ多様体のl等分点を求める",
     "authors": [
@@ -9186,7 +9186,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "4C1 楕円曲線暗号(2) 1月20日 9:00 ～ 10:40",
+    "session": "4C1 楕円曲線暗号(2)",
     "id": "4C1-5",
     "title": "佐藤-荒木アタックの種数２の超楕円曲線への拡張",
     "authors": [
@@ -9211,7 +9211,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "4D1 暗号プロトコル 1月20日 9:00 ～ 10:40",
+    "session": "4D1 暗号プロトコル",
     "id": "4D1-1",
     "title": "大規模な秘密情報を効率よく検証する方式とその応用",
     "authors": [
@@ -9244,7 +9244,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "4D1 暗号プロトコル 1月20日 9:00 ～ 10:40",
+    "session": "4D1 暗号プロトコル",
     "id": "4D1-2",
     "title": "Optimistic Fair Exchange Protocol for E-Commerce",
     "authors": [
@@ -9277,7 +9277,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "4D1 暗号プロトコル 1月20日 9:00 ～ 10:40",
+    "session": "4D1 暗号プロトコル",
     "id": "4D1-3",
     "title": "ＩＤベース暗号に基づくオークションプロトコル",
     "authors": [
@@ -9302,7 +9302,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "4D1 暗号プロトコル 1月20日 9:00 ～ 10:40",
+    "session": "4D1 暗号プロトコル",
     "id": "4D1-4",
     "title": "ダイヤル錠を用いたマルチパーティープロトコル",
     "authors": [
@@ -9335,7 +9335,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "4E1 ハッシュ関数(1) 1月20日 9:00 ～ 10:40",
+    "session": "4E1 ハッシュ関数(1)",
     "id": "4E1-1",
     "title": "How to Construct Sufficient Condition in Searching Collisions of MD5",
     "authors": [
@@ -9392,7 +9392,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "4E1 ハッシュ関数(1) 1月20日 9:00 ～ 10:40",
+    "session": "4E1 ハッシュ関数(1)",
     "id": "4E1-2",
     "title": "MD5のコリジョン探索における差分パスの構築法について - Wangの差分パスは最適か －",
     "authors": [
@@ -9449,7 +9449,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "4E1 ハッシュ関数(1) 1月20日 9:00 ～ 10:40",
+    "session": "4E1 ハッシュ関数(1)",
     "id": "4E1-3",
     "title": "SHA-0に対するMessage Modificationの考察",
     "authors": [
@@ -9506,7 +9506,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "4E1 ハッシュ関数(1) 1月20日 9:00 ～ 10:40",
+    "session": "4E1 ハッシュ関数(1)",
     "id": "4E1-4",
     "title": "How to Find Wang's Differential Pattern for Cryptanalysis of SHA-1?",
     "authors": [
@@ -9531,7 +9531,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "4E1 ハッシュ関数(1) 1月20日 9:00 ～ 10:40",
+    "session": "4E1 ハッシュ関数(1)",
     "id": "4E1-5",
     "title": "Advanced Message Modification Technique of SHA-1",
     "authors": [
@@ -9556,7 +9556,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "4F1 電子透かし(3) 1月20日 9:00 ～ 10:40",
+    "session": "4F1 電子透かし(3)",
     "id": "4F1-1",
     "title": "幾何学的改変によって移動した埋め込み領域を重心を利用して同定する電子透かし法",
     "authors": [
@@ -9597,7 +9597,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "4F1 電子透かし(3) 1月20日 9:00 ～ 10:40",
+    "session": "4F1 電子透かし(3)",
     "id": "4F1-2",
     "title": "スペクトル拡散技術を用いた電子透かしに関する考察",
     "authors": [
@@ -9638,7 +9638,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "4F1 電子透かし(3) 1月20日 9:00 ～ 10:40",
+    "session": "4F1 電子透かし(3)",
     "id": "4F1-3",
     "title": "代数幾何符号の画像への応用 －512バイトエルミート符号とＪＰＥＧ画像－",
     "authors": [
@@ -9663,7 +9663,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "4F1 電子透かし(3) 1月20日 9:00 ～ 10:40",
+    "session": "4F1 電子透かし(3)",
     "id": "4F1-4",
     "title": "ＫＬ変換に基づく低強度埋め込みによる透かし画像からの復号",
     "authors": [
@@ -9696,7 +9696,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "4F1 電子透かし(3) 1月20日 9:00 ～ 10:40",
+    "session": "4F1 電子透かし(3)",
     "id": "4F1-5",
     "title": "結託攻撃耐性を有するJPEG 2000の階層性を考慮したアクセス制御型暗号化法",
     "authors": [
@@ -9737,7 +9737,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "4A2 グループ署名 1月20日 10:55 ～ 12:35",
+    "session": "4A2 グループ署名",
     "id": "4A2-1",
     "title": "グループ署名における安全性と汎用的結合可能性に関する再考察",
     "authors": [
@@ -9762,7 +9762,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "4A2 グループ署名 1月20日 10:55 ～ 12:35",
+    "session": "4A2 グループ署名",
     "id": "4A2-2",
     "title": "参加プロトコルをコンカレントに行なっても安全なグループ署名方式",
     "authors": [
@@ -9787,7 +9787,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "4A2 グループ署名 1月20日 10:55 ～ 12:35",
+    "session": "4A2 グループ署名",
     "id": "4A2-3",
     "title": "Short Group Signatures with Efficient Flexible Join",
     "authors": [
@@ -9822,7 +9822,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "4A2 グループ署名 1月20日 10:55 ～ 12:35",
+    "session": "4A2 グループ署名",
     "id": "4A2-4",
     "title": "木構造により所属無効化を効率的にした双線形写像に基づくグループ署名方式",
     "authors": [
@@ -9855,7 +9855,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "4A2 グループ署名 1月20日 10:55 ～ 12:35",
+    "session": "4A2 グループ署名",
     "id": "4A2-5",
     "title": "プロキシグループ署名",
     "authors": [
@@ -9888,7 +9888,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "4B2 安全性評価 1月20日 10:55 ～ 12:35",
+    "session": "4B2 安全性評価",
     "id": "4B2-1",
     "title": "Formalization of Possible e-residue Attacks in Password-based Authentication Protocols",
     "authors": [
@@ -9929,7 +9929,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "4B2 安全性評価 1月20日 10:55 ～ 12:35",
+    "session": "4B2 安全性評価",
     "id": "4B2-2",
     "title": "高信頼コンソーシアムのための通信プロトコル",
     "authors": [
@@ -9954,7 +9954,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "4B2 安全性評価 1月20日 10:55 ～ 12:35",
+    "session": "4B2 安全性評価",
     "id": "4B2-3",
     "title": "攻撃シナリオを組合せて用いる認証プロトコル検査器の提案と実装",
     "authors": [
@@ -9971,7 +9971,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "4B2 安全性評価 1月20日 10:55 ～ 12:35",
+    "session": "4B2 安全性評価",
     "id": "4B2-4",
     "title": "カオス型ElGamal公開鍵暗号方式における公開鍵脆弱性",
     "authors": [
@@ -9996,7 +9996,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "4B2 安全性評価 1月20日 10:55 ～ 12:35",
+    "session": "4B2 安全性評価",
     "id": "4B2-5",
     "title": "暗号SLAと暗号危殆化リスクアセスメントツールの開発",
     "authors": [
@@ -10029,7 +10029,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "4C2 楕円曲線暗号(3) 1月20日 10:55 ～ 12:35",
+    "session": "4C2 楕円曲線暗号(3)",
     "id": "4C2-1",
     "title": "Scholten forms and elliptic/hyperelliptic curves with weak Weil restrictions",
     "authors": [
@@ -10054,7 +10054,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "4C2 楕円曲線暗号(3) 1月20日 10:55 ～ 12:35",
+    "session": "4C2 楕円曲線暗号(3)",
     "id": "4C2-2",
     "title": "Security Analysis of Superelliptic Curves against Diem's Algorithm Combined with Weil Descent",
     "authors": [
@@ -10087,7 +10087,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "4C2 楕円曲線暗号(3) 1月20日 10:55 ～ 12:35",
+    "session": "4C2 楕円曲線暗号(3)",
     "id": "4C2-3",
     "title": "Distortion Map for y2=x5-αx in Characteristic Five",
     "authors": [
@@ -10120,7 +10120,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "4C2 楕円曲線暗号(3) 1月20日 10:55 ～ 12:35",
+    "session": "4C2 楕円曲線暗号(3)",
     "id": "4C2-4",
     "title": "効率的な準同型写像を用いて高速ペアリング演算を実現する楕円曲線パラメータ設定法について",
     "authors": [
@@ -10137,7 +10137,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "4C2 楕円曲線暗号(3) 1月20日 10:55 ～ 12:35",
+    "session": "4C2 楕円曲線暗号(3)",
     "id": "4C2-5",
     "title": "楕円曲線上のペアリング計算におけるバッチ検証",
     "authors": [
@@ -10178,7 +10178,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "4D2 電子投票 1月20日 10:55 ～ 12:35",
+    "session": "4D2 電子投票",
     "id": "4D2-1",
     "title": "Role Interchangeability and Verification of Electronic Voting",
     "authors": [
@@ -10219,7 +10219,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "4D2 電子投票 1月20日 10:55 ～ 12:35",
+    "session": "4D2 電子投票",
     "id": "4D2-2",
     "title": "ネットワークを利用する小規模会議用の電子投票の検討",
     "authors": [
@@ -10236,7 +10236,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "4D2 電子投票 1月20日 10:55 ～ 12:35",
+    "session": "4D2 電子投票",
     "id": "4D2-3",
     "title": "Secret Handshake with Multiple Groups",
     "authors": [
@@ -10261,7 +10261,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "4D2 電子投票 1月20日 10:55 ～ 12:35",
+    "session": "4D2 電子投票",
     "id": "4D2-4",
     "title": "電子投票方式に関する考察",
     "authors": [
@@ -10286,7 +10286,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "4D2 電子投票 1月20日 10:55 ～ 12:35",
+    "session": "4D2 電子投票",
     "id": "4D2-5",
     "title": "eGOV05とFEE2005ワークショップ参加報告",
     "authors": [
@@ -10319,7 +10319,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "4E2 ハッシュ関数(2) 1月20日 10:55 ～ 12:35",
+    "session": "4E2 ハッシュ関数(2)",
     "id": "4E2-1",
     "title": "MD4 Collision Attackの差分パスおよびSufficient Conditionについて",
     "authors": [
@@ -10344,7 +10344,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "4E2 ハッシュ関数(2) 1月20日 10:55 ～ 12:35",
+    "session": "4E2 ハッシュ関数(2)",
     "id": "4E2-2",
     "title": "最大差分特性確率と衝突攻撃耐性の関係に関する一考察",
     "authors": [
@@ -10369,7 +10369,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "4E2 ハッシュ関数(2) 1月20日 10:55 ～ 12:35",
+    "session": "4E2 ハッシュ関数(2)",
     "id": "4E2-3",
     "title": "HelixのMAC(Message Authentication Code) への差分攻撃に対する安全性評価",
     "authors": [
@@ -10394,7 +10394,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "4E2 ハッシュ関数(2) 1月20日 10:55 ～ 12:35",
+    "session": "4E2 ハッシュ関数(2)",
     "id": "4E2-4",
     "title": "Some Constructions and a New Security Notion of Double-Block-Length Hash Functions",
     "authors": [
@@ -10411,7 +10411,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "4E2 ハッシュ関数(2) 1月20日 10:55 ～ 12:35",
+    "session": "4E2 ハッシュ関数(2)",
     "id": "4E2-5",
     "title": "新しいブロック暗号利用モード",
     "authors": [
@@ -10431,7 +10431,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "4F2 無線ネットワークセキュリティ 1月20日 10:55 ～ 12:35",
+    "session": "4F2 無線ネットワークセキュリティ",
     "id": "4F2-1",
     "title": "Silent periodを用いたRFIDロケーションプライバシー保護手法 の提案",
     "authors": [
@@ -10473,7 +10473,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "4F2 無線ネットワークセキュリティ 1月20日 10:55 ～ 12:35",
+    "session": "4F2 無線ネットワークセキュリティ",
     "id": "4F2-2",
     "title": "A New Security Protocol Based on Elliptic Curve Cryptosystems for Wireless Sensor Networks",
     "authors": [
@@ -10514,7 +10514,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "4F2 無線ネットワークセキュリティ 1月20日 10:55 ～ 12:35",
+    "session": "4F2 無線ネットワークセキュリティ",
     "id": "4F2-3",
     "title": "A Level-based Hop-by-hop Authentication Framework for In-network Processing in Wireless Sensor Networks",
     "authors": [
@@ -10555,7 +10555,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "4F2 無線ネットワークセキュリティ 1月20日 10:55 ～ 12:35",
+    "session": "4F2 無線ネットワークセキュリティ",
     "id": "4F2-4",
     "title": "アドホックネットワークにおける受信トラフィック解析を利用した利己的なノードの検出法",
     "authors": [
@@ -10580,7 +10580,7 @@
   },
   {
     "event": "SCIS2006",
-    "session": "4F2 無線ネットワークセキュリティ 1月20日 10:55 ～ 12:35",
+    "session": "4F2 無線ネットワークセキュリティ",
     "id": "4F2-5",
     "title": "動的なアドレス取得に基づくセキュアなアドホックネットワークの構築手法",
     "authors": [
