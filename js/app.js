@@ -52,6 +52,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 { name: 'CSS2002', path: 'data/css2002.json' },
                 { name: 'CSS2003', path: 'data/css2003.json' },
                 { name: 'CSS2004', path: 'data/css2004.json' },
+                { name: 'CSS2005', path: 'data/css2005.json' },
                 { name: 'CSS2006', path: 'data/css2006.json' },
                 { name: 'CSS2007', path: 'data/css2007.json' },
                 { name: 'CSS2008', path: 'data/css2008.json' },
@@ -458,7 +459,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 let eventUrl = `https://www.iwsec.org/${confLower}/${yearVal}/`;
                 if (conf === 'SCIS' && yearVal <= 2012) {
                     eventUrl = `https://scis.jp/${yearVal}/program/`;
-                } else if (conf === 'CSS' && yearVal <= 2003) {
+                } else if (conf === 'CSS' && (yearVal <= 2003 || yearVal === 2005)) {
                     eventUrl = `https://www.iwsec.org/csec/css${yearVal}_program.html`;
                 }
                 eventHtml = `<a href="${eventUrl}" class="event-link" target="_blank" rel="noopener noreferrer" title="公式プログラムサイトを開く">${escapeHtml(eventStr)} <span class="link-arrow">↗</span></a>`;
