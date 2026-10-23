@@ -650,6 +650,31 @@ body {
     white-space: nowrap;
 }
 
+/* 受賞バッジ */
+.id-group {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 6px;
+}
+
+.award-badge {
+    font-size: 0.75rem;
+    font-weight: 600;
+    padding: 2px 8px;
+    border-radius: 6px;
+    white-space: nowrap;
+    color: hsl(var(--h, 45), 90%, 70%);
+    background: hsla(var(--h, 45), 90%, 55%, 0.12);
+    border: 1px solid hsla(var(--h, 45), 90%, 55%, 0.35);
+}
+.award-best { --h: 45; }
+.award-excellent { --h: 35; }
+.award-encouragement { --h: 160; }
+.award-student { --h: 205; }
+.award-concept { --h: 280; }
+.award-ethical { --h: 330; }
+
 /* 企画招待講演用の特別IDデザイン */
 .paper-item.invited .paper-id {
     color: var(--primary);

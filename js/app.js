@@ -465,11 +465,20 @@ document.addEventListener('DOMContentLoaded', () => {
                 eventHtml = `<a href="${eventUrl}" class="event-link" target="_blank" rel="noopener noreferrer" title="公式プログラムサイトを開く">${escapeHtml(eventStr)} <span class="link-arrow">↗</span></a>`;
             }
 
+            const awardIcons = { '最優秀論文賞': '🏆', '優秀論文賞': '🥇', '奨励賞': '✨', '学生論文賞': '🎓', 'コンセプト研究賞': '💡', 'エシカルプラクティス研究賞': '🧭' };
+            const awardClasses = { '最優秀論文賞': 'best', '優秀論文賞': 'excellent', '奨励賞': 'encouragement', '学生論文賞': 'student', 'コンセプト研究賞': 'concept', 'エシカルプラクティス研究賞': 'ethical' };
+            const awardsHtml = (paper.awards || []).map(a =>
+                `<span class="award-badge award-${awardClasses[a] || 'other'}">${awardIcons[a] || '🏅'} ${escapeHtml(a)}</span>`
+            ).join('');
+
             const paperIdx = state.filteredPapers.indexOf(paper);
 
             item.innerHTML = `
                 <div class="item-header">
-                    <span class="paper-id">${paper.id}</span>
+                    <span class="id-group">
+                        <span class="paper-id">${paper.id}</span>
+                        ${awardsHtml}
+                    </span>
                     <span class="session-badge" title="${cleanSession}">${cleanSession}</span>
                 </div>
                 <h3 class="paper-title">${escapeHtml(paper.title)}</h3>
