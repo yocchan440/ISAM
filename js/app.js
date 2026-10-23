@@ -443,7 +443,8 @@ document.addEventListener('DOMContentLoaded', () => {
             if (keywords.length > 0) {
                 const searchTarget = (paper.search_text || '').toLowerCase();
                 // すべてのキーワードが含まれているか (AND判定)
-                const matchAll = keywords.every(kw => searchTarget.includes(kw));
+                // 'a|b' は同義語の OR (トレンド画面からの遷移用)
+                const matchAll = keywords.every(kw => kw.split('|').some(alt => alt && searchTarget.includes(alt)));
                 if (!matchAll) return false;
             }
 

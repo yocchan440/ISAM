@@ -1,0 +1,384 @@
+/* ==========================================================================
+   トレンドページ専用スタイル (trend.html)。共通トークンは style.css を利用
+   ========================================================================== */
+
+.tr-controls {
+    gap: 20px;
+}
+
+.tr-label {
+    display: block;
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--text-muted);
+}
+
+.tr-label code {
+    font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    font-size: 0.85em;
+    padding: 1px 5px;
+    border-radius: 4px;
+    background: var(--ov-06);
+    color: var(--text-primary);
+}
+
+.tr-add-row {
+    display: flex;
+    gap: 8px;
+    margin-top: 8px;
+}
+
+.tr-input {
+    flex: 1;
+    min-width: 0;
+    padding: 12px 16px;
+    background-color: var(--field-bg);
+    border: 1.5px solid var(--border-color);
+    border-radius: 12px;
+    color: var(--text-primary);
+    font-family: var(--font-body);
+    font-size: 1rem;
+    outline: none;
+    box-shadow: var(--shadow-inset);
+    transition: var(--transition-smooth);
+}
+
+.tr-input:focus {
+    border-color: var(--primary);
+    box-shadow: 0 0 0 1px var(--primary), 0 0 18px var(--primary-glow);
+}
+
+.tr-btn {
+    padding: 10px 18px;
+    border-radius: 12px;
+    border: 1px solid var(--border-color);
+    background: var(--field-bg-soft);
+    color: var(--text-primary);
+    font-family: var(--font-body);
+    font-size: 0.9rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: var(--transition-smooth);
+}
+
+.tr-btn:hover {
+    border-color: var(--primary);
+    box-shadow: 0 0 12px var(--primary-glow);
+}
+
+.tr-btn-primary {
+    background: var(--primary);
+    border-color: var(--primary);
+    color: var(--on-primary);
+}
+
+/* おすすめキーワード */
+.tr-preset-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-top: 8px;
+}
+
+.tr-preset {
+    padding: 4px 12px;
+    border-radius: 999px;
+    border: 1px solid var(--border-color);
+    background: var(--field-bg-soft);
+    color: var(--text-muted);
+    font-family: var(--font-body);
+    font-size: 0.82rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: var(--transition-smooth);
+}
+
+.tr-preset:hover {
+    border-color: var(--primary);
+    color: var(--text-primary);
+}
+
+/* 選択中は塗り + チェック印 (色だけに頼らない) */
+.tr-preset.on {
+    background: var(--primary);
+    border-color: var(--primary);
+    color: var(--on-primary);
+}
+
+.tr-preset.on::before {
+    content: "\2713\00a0";
+}
+
+/* 表示オプション */
+.tr-options {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px 32px;
+    padding-top: 16px;
+    border-top: 1px solid var(--border-color);
+}
+
+.tr-field {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.tr-seg {
+    display: inline-flex;
+    border: 1px solid var(--border-color);
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.tr-seg label {
+    position: relative;
+    cursor: pointer;
+}
+
+.tr-seg input {
+    position: absolute;
+    opacity: 0;
+    inset: 0;
+    cursor: pointer;
+}
+
+.tr-seg span {
+    display: block;
+    padding: 7px 14px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--text-muted);
+    background: var(--field-bg-soft);
+    white-space: nowrap;
+}
+
+.tr-seg label + label span {
+    border-left: 1px solid var(--border-color);
+}
+
+.tr-seg input:checked + span {
+    background: var(--primary);
+    color: var(--on-primary);
+}
+
+.tr-seg input:focus-visible + span {
+    outline: 3px solid var(--primary);
+    outline-offset: -3px;
+}
+
+.tr-range {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    color: var(--text-muted);
+}
+
+.tr-select {
+    padding: 7px 28px 7px 12px;
+}
+
+.tr-input:focus-visible,
+.tr-btn:focus-visible,
+.tr-preset:focus-visible,
+.tr-select:focus-visible,
+.tr-chip-remove:focus-visible,
+.tr-table-details summary:focus-visible {
+    outline: 3px solid var(--primary);
+    outline-offset: 2px;
+}
+
+/* 凡例 */
+.tr-stage {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.tr-legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.tr-chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 4px 6px 4px 10px;
+    border-radius: 999px;
+    border: 1px solid var(--border-color);
+    background: var(--bg-card);
+    color: var(--text-primary);
+    font-size: 0.85rem;
+    font-weight: 600;
+}
+
+.tr-chip-line {
+    flex: none;
+}
+
+.tr-chip-remove {
+    width: 22px;
+    height: 22px;
+    border-radius: 50%;
+    border: none;
+    background: var(--ov-08);
+    color: var(--text-muted);
+    cursor: pointer;
+    line-height: 1;
+}
+
+.tr-chip-remove:hover {
+    background: var(--primary);
+    color: var(--on-primary);
+}
+
+/* グラフ */
+.tr-chart-wrap {
+    position: relative;
+    background: var(--bg-panel);
+    border: 1px solid var(--border-color);
+    border-radius: 24px;
+    padding: 12px;
+    box-shadow: var(--shadow-panel);
+    min-height: 200px;
+}
+
+#tr-chart svg {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    font-family: var(--font-body);
+}
+
+.tr-grid { stroke: var(--border-color); stroke-width: 1; }
+.tr-axis, .tr-tickline { stroke: var(--text-dim); stroke-width: 1.2; }
+.tr-tick { fill: var(--text-dim); font-size: 12px; }
+.tr-axis-title { fill: var(--text-muted); font-size: 12px; }
+.tr-endlabel { font-size: 13px; font-weight: 700; }
+.tr-guide { stroke: var(--text-dim); stroke-width: 1; stroke-dasharray: 3 3; }
+.tr-cross { fill: none; stroke-width: 2.4; stroke-linecap: round; }
+.tr-pt { cursor: pointer; outline: none; }
+.tr-marker { stroke: var(--bg-dark); stroke-width: 1.2; }
+.tr-pt:hover .tr-marker, .tr-pt:focus .tr-marker { stroke: var(--text-primary); stroke-width: 2; }
+.tr-pt:focus-visible { outline: none; }
+.tr-pt:focus-visible .tr-marker { stroke: var(--text-primary); stroke-width: 3; }
+.tr-hit { cursor: crosshair; }
+
+.tr-tooltip {
+    position: absolute;
+    z-index: 5;
+    pointer-events: none;
+    padding: 8px 12px;
+    border-radius: 10px;
+    background: var(--menu-bg);
+    color: var(--text-primary);
+    border: 1px solid var(--border-hover);
+    box-shadow: var(--shadow-menu);
+    font-size: 0.85rem;
+    min-width: 150px;
+}
+
+.tr-tip-title {
+    font-weight: 700;
+    margin-bottom: 4px;
+}
+
+.tr-tip-title small,
+.tr-tip-row small {
+    color: var(--text-muted);
+    font-weight: 500;
+}
+
+.tr-tip-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 1px 0;
+}
+
+.tr-tip-row span { flex: 1; }
+.tr-tip-row b { font-variant-numeric: tabular-nums; }
+.tr-tip-row small { min-width: 3.6em; text-align: right; font-variant-numeric: tabular-nums; }
+
+.tr-message {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 24px;
+    color: var(--text-muted);
+}
+
+.tr-hint {
+    font-size: 0.82rem;
+    color: var(--text-dim);
+    padding: 0 4px;
+    min-height: 1.2em;
+}
+
+/* 数値表 */
+.tr-table-details {
+    background: var(--bg-panel);
+    border: 1px solid var(--border-color);
+    border-radius: 16px;
+    padding: 12px 20px;
+}
+
+.tr-table-details summary {
+    cursor: pointer;
+    font-weight: 600;
+    color: var(--text-muted);
+    border-radius: 6px;
+}
+
+.tr-table-details summary:hover {
+    color: var(--text-primary);
+}
+
+.tr-table-actions {
+    margin: 12px 0;
+}
+
+.tr-table-scroll {
+    overflow-x: auto;
+}
+
+.tr-table {
+    border-collapse: collapse;
+    width: 100%;
+    font-size: 0.88rem;
+    font-variant-numeric: tabular-nums;
+}
+
+.tr-table th,
+.tr-table td {
+    padding: 6px 12px;
+    text-align: right;
+    border-bottom: 1px solid var(--border-color);
+    white-space: nowrap;
+}
+
+.tr-table thead th {
+    color: var(--text-muted);
+    font-weight: 700;
+    position: sticky;
+    top: 0;
+    background: var(--menu-bg);
+}
+
+.tr-table tbody th {
+    color: var(--text-primary);
+}
+
+.tr-table td small {
+    color: var(--text-dim);
+}
+
+@media (max-width: 600px) {
+    .tr-chart-wrap { padding: 6px; border-radius: 16px; }
+    .tr-seg span { padding: 7px 10px; }
+}
