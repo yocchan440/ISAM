@@ -28,6 +28,88 @@
     --text-primary: hsl(220, 20%, 94%);
     --text-muted: hsl(220, 15%, 72%);
     --text-dim: hsl(220, 12%, 55%);
+
+    /* テーマ依存の面・影・オーバーレイ (ダークテーマの値) */
+    color-scheme: dark;
+    --on-primary: white;
+    --ov-02: rgba(255, 255, 255, 0.02);
+    --ov-03: rgba(255, 255, 255, 0.03);
+    --ov-04: hsla(225, 15%, 100%, 0.04);
+    --ov-06: hsla(225, 10%, 100%, 0.06);
+    --ov-08: rgba(255, 255, 255, 0.08);
+    --ov-10: hsla(225, 10%, 100%, 0.1);
+    --border-faint: rgba(255, 255, 255, 0.03);
+    --field-bg: hsla(225, 20%, 6%, 0.5);
+    --field-bg-focus: hsla(225, 20%, 6%, 0.8);
+    --field-bg-soft: hsla(225, 20%, 6%, 0.4);
+    --field-bg-hover: hsla(225, 20%, 6%, 0.7);
+    --menu-bg: hsl(225, 22%, 10%);
+    --shadow-panel: 0 12px 40px rgba(0, 0, 0, 0.25);
+    --shadow-inset: inset 0 2px 4px rgba(0, 0, 0, 0.1);
+    --shadow-card: 0 4px 18px rgba(0, 0, 0, 0.15);
+    --shadow-card-hover: 0 8px 24px rgba(0, 0, 0, 0.3);
+    --shadow-menu: 0 10px 30px rgba(0, 0, 0, 0.4);
+    --logo-gradient: linear-gradient(135deg, #ffffff 30%, hsl(220, 15%, 80%) 100%);
+    --skeleton-a: hsla(225, 20%, 12%, 0.5);
+    --skeleton-b: hsla(225, 20%, 18%, 0.5);
+    --glow-opacity: 1;
+    /* 受賞バッジの色 (ダーク: 明るい文字) */
+    --badge-fg-s: 90%;
+    --badge-fg-l: 70%;
+    --badge-bg-a: 0.12;
+    --badge-bd-l: 55%;
+    --badge-bd-a: 0.35;
+}
+
+/* ライトテーマ (カラーユニバーサルデザイン配慮:
+   文字は本文で13:1以上・補助文字でも4.5:1以上のコントラストを確保し、
+   状態は色だけでなく位置・アイコン・文字でも示す) */
+:root[data-theme="light"] {
+    color-scheme: light;
+    --primary: hsl(var(--hue-primary), 62%, 44%);
+    --primary-glow: hsla(var(--hue-primary), 62%, 44%, 0.22);
+    --secondary: hsl(var(--hue-secondary), 100%, 24%);
+    --secondary-glow: hsla(var(--hue-secondary), 100%, 24%, 0.18);
+
+    --bg-dark: hsl(220, 33%, 97%);
+    --bg-card: hsla(0, 0%, 100%, 0.88);
+    --bg-card-hover: hsla(0, 0%, 100%, 1);
+    --bg-panel: hsla(0, 0%, 100%, 0.82);
+
+    --border-color: hsla(222, 30%, 25%, 0.2);
+    --border-hover: hsla(var(--hue-primary), 62%, 44%, 0.6);
+    --border-secondary: hsla(var(--hue-secondary), 100%, 24%, 0.55);
+
+    --text-primary: hsl(222, 40%, 12%);
+    --text-muted: hsl(222, 22%, 28%);
+    --text-dim: hsl(222, 14%, 38%);
+
+    --ov-02: rgba(20, 30, 70, 0.03);
+    --ov-03: rgba(20, 30, 70, 0.04);
+    --ov-04: rgba(20, 30, 70, 0.06);
+    --ov-06: rgba(20, 30, 70, 0.07);
+    --ov-08: rgba(20, 30, 70, 0.1);
+    --ov-10: rgba(20, 30, 70, 0.16);
+    --border-faint: rgba(20, 30, 70, 0.1);
+    --field-bg: hsla(0, 0%, 100%, 0.95);
+    --field-bg-focus: hsl(0, 0%, 100%);
+    --field-bg-soft: hsla(0, 0%, 100%, 0.9);
+    --field-bg-hover: hsl(0, 0%, 100%);
+    --menu-bg: hsl(0, 0%, 100%);
+    --shadow-panel: 0 12px 40px rgba(30, 40, 90, 0.12);
+    --shadow-inset: inset 0 1px 3px rgba(30, 40, 90, 0.12);
+    --shadow-card: 0 3px 14px rgba(30, 40, 90, 0.1);
+    --shadow-card-hover: 0 8px 24px rgba(30, 40, 90, 0.18);
+    --shadow-menu: 0 10px 30px rgba(30, 40, 90, 0.2);
+    --logo-gradient: linear-gradient(135deg, hsl(222, 45%, 12%) 30%, hsl(222, 30%, 30%) 100%);
+    --skeleton-a: hsla(222, 30%, 90%, 0.8);
+    --skeleton-b: hsla(222, 30%, 96%, 0.9);
+    --glow-opacity: 0.45;
+    --badge-fg-s: 90%;
+    --badge-fg-l: 24%;
+    --badge-bg-a: 0.16;
+    --badge-bd-l: 32%;
+    --badge-bd-a: 0.7;
     
     /* アニメーション */
     --transition-smooth: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
@@ -53,10 +135,12 @@ body {
     overflow-x: hidden;
     line-height: 1.6;
     position: relative;
+    transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 /* 3. 背景グラデーション・光彩 (Glow Effects) */
 .bg-glow-container {
+    opacity: var(--glow-opacity);
     position: fixed;
     top: 0;
     left: 0;
@@ -137,7 +221,7 @@ body {
     font-size: 2.5rem;
     font-weight: 800;
     letter-spacing: -0.5px;
-    background: linear-gradient(135deg, #ffffff 30%, hsl(220, 15%, 80%) 100%);
+    background: var(--logo-gradient);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -174,7 +258,7 @@ body {
     padding: 24px;
     backdrop-filter: blur(16px);
     -webkit-backdrop-filter: blur(16px);
-    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.25);
+    box-shadow: var(--shadow-panel);
     display: flex;
     flex-direction: column;
     gap: 20px;
@@ -202,7 +286,7 @@ body {
 #search-input {
     width: 100%;
     padding: 18px 60px 18px 56px;
-    background-color: hsla(225, 20%, 6%, 0.5);
+    background-color: var(--field-bg);
     border: 1.5px solid var(--border-color);
     border-radius: 16px;
     color: var(--text-primary);
@@ -210,12 +294,12 @@ body {
     font-size: 1.1rem;
     outline: none;
     transition: var(--transition-smooth);
-    box-shadow: inset 0 2px 4px rgba(0,0,0,0.1);
+    box-shadow: var(--shadow-inset);
 }
 
 #search-input:focus {
     border-color: var(--primary);
-    background-color: hsla(225, 20%, 6%, 0.8);
+    background-color: var(--field-bg-focus);
     box-shadow: 0 0 0 1px var(--primary), 0 0 24px var(--primary-glow);
 }
 
@@ -252,7 +336,7 @@ body {
 }
 
 #clear-btn:hover {
-    background-color: rgba(255, 255, 255, 0.08);
+    background-color: var(--ov-08);
     color: var(--text-primary);
 }
 
@@ -289,7 +373,7 @@ body {
 .dropdown-trigger {
     width: 100%;
     padding: 10px 16px;
-    background: hsla(225, 20%, 6%, 0.4);
+    background: var(--field-bg-soft);
     border: 1px solid var(--border-color);
     border-radius: 12px;
     color: var(--text-primary);
@@ -307,7 +391,7 @@ body {
 
 .dropdown-trigger:hover, .custom-dropdown.open .dropdown-trigger {
     border-color: var(--primary);
-    background: hsla(225, 20%, 6%, 0.7);
+    background: var(--field-bg-hover);
     box-shadow: 0 0 15px var(--primary-glow);
 }
 
@@ -330,12 +414,12 @@ body {
     width: 100%;
     max-height: 280px;
     overflow-y: auto;
-    background: hsl(225, 22%, 10%);
+    background: var(--menu-bg);
     border: 1px solid var(--border-color);
     border-radius: 14px;
     padding: 8px;
     z-index: 100;
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
+    box-shadow: var(--shadow-menu);
     backdrop-filter: blur(16px);
     -webkit-backdrop-filter: blur(16px);
     display: none;
@@ -368,7 +452,7 @@ body {
 }
 
 .dropdown-item:hover {
-    background: hsla(225, 15%, 100%, 0.04);
+    background: var(--ov-04);
     color: var(--text-primary);
 }
 
@@ -391,7 +475,7 @@ body {
     position: relative;
     height: 16px;
     width: 16px;
-    background-color: hsla(225, 10%, 100%, 0.06);
+    background-color: var(--ov-06);
     border: 1px solid var(--border-color);
     border-radius: 4px;
     transition: var(--transition-fast);
@@ -420,7 +504,7 @@ body {
     top: 2px;
     width: 4px;
     height: 8px;
-    border: solid white;
+    border: solid var(--on-primary);
     border-width: 0 2px 2px 0;
     transform: rotate(45deg);
 }
@@ -438,7 +522,7 @@ body {
     top: 7px;
     width: 8px;
     height: 2px;
-    background-color: white;
+    background-color: var(--on-primary);
 }
 
 .dropdown-item input:indeterminate ~ .checkbox-custom::before {
@@ -454,7 +538,7 @@ body {
     gap: 20px;
     flex-wrap: wrap;
     padding-top: 12px;
-    border-top: 1px dashed rgba(255, 255, 255, 0.04);
+    border-top: 1px dashed var(--border-color);
 }
 
 /* トグルスイッチ */
@@ -477,7 +561,7 @@ body {
     display: inline-block;
     width: 36px;
     height: 20px;
-    background-color: hsla(225, 10%, 100%, 0.1);
+    background-color: var(--ov-10);
     border-radius: 20px;
     transition: var(--transition-fast);
 }
@@ -500,7 +584,7 @@ body {
 
 .toggle-switch input:checked + .slider::before {
     transform: translateX(16px);
-    background-color: white;
+    background-color: var(--on-primary);
 }
 
 .toggle-label {
@@ -562,7 +646,7 @@ body {
 .spinner {
     width: 18px;
     height: 18px;
-    border: 2px solid rgba(255,255,255,0.05);
+    border: 2px solid var(--ov-06);
     border-top: 2px solid var(--secondary);
     border-radius: 50%;
     animation: spin 0.8s linear infinite;
@@ -600,7 +684,7 @@ body {
     backdrop-filter: blur(12px);
     -webkit-backdrop-filter: blur(12px);
     transition: var(--transition-smooth);
-    box-shadow: 0 4px 18px rgba(0, 0, 0, 0.15);
+    box-shadow: var(--shadow-card);
 }
 
 /* 左端の装飾用カラーボーダー */
@@ -621,7 +705,7 @@ body {
     background: var(--bg-card-hover);
     transform: translateX(4px);
     border-color: var(--border-hover);
-    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3), 0 0 15px var(--primary-glow);
+    box-shadow: var(--shadow-card-hover), 0 0 15px var(--primary-glow);
 }
 
 .paper-item:hover::before {
@@ -664,9 +748,9 @@ body {
     padding: 2px 8px;
     border-radius: 6px;
     white-space: nowrap;
-    color: hsl(var(--h, 45), 90%, 70%);
-    background: hsla(var(--h, 45), 90%, 55%, 0.12);
-    border: 1px solid hsla(var(--h, 45), 90%, 55%, 0.35);
+    color: hsl(var(--h, 45), var(--badge-fg-s), var(--badge-fg-l));
+    background: hsla(var(--h, 45), 90%, 55%, var(--badge-bg-a));
+    border: 1px solid hsla(var(--h, 45), 90%, var(--badge-bd-l), var(--badge-bd-a));
 }
 .award-best { --h: 45; }
 .award-excellent { --h: 35; }
@@ -696,7 +780,7 @@ body {
     font-size: 0.75rem;
     color: var(--text-dim);
     font-weight: 600;
-    background: rgba(255, 255, 255, 0.03);
+    background: var(--ov-03);
     border: 1px solid var(--border-color);
     padding: 2px 8px;
     border-radius: 6px;
@@ -780,7 +864,7 @@ body {
     align-items: center;
     margin-top: 4px;
     padding-top: 8px;
-    border-top: 1px solid rgba(255, 255, 255, 0.02);
+    border-top: 1px solid var(--border-faint);
 }
 
 .event-label {
@@ -841,9 +925,9 @@ body {
 .skeleton-item {
     height: 110px;
     background: linear-gradient(90deg, 
-        hsla(225, 20%, 12%, 0.5) 25%, 
-        hsla(225, 20%, 18%, 0.5) 37%, 
-        hsla(225, 20%, 12%, 0.5) 63%
+        var(--skeleton-a) 25%, 
+        var(--skeleton-b) 37%, 
+        var(--skeleton-a) 63%
     );
     background-size: 400% 100%;
     border: 1px solid var(--border-color);
@@ -893,7 +977,7 @@ body {
     align-items: center;
     gap: 4px;
     padding: 2px 6px;
-    background: rgba(255, 255, 255, 0.02);
+    background: var(--ov-02);
     border: 1px solid var(--border-color);
     border-radius: 6px;
 }
@@ -936,7 +1020,7 @@ body {
 
 .sort-select {
     padding: 8px 30px 8px 12px;
-    background: hsla(225, 20%, 6%, 0.45);
+    background: var(--field-bg-soft);
     border: 1px solid var(--border-color);
     border-radius: 10px;
     color: var(--text-muted);
@@ -953,13 +1037,13 @@ body {
     background-position: right 12px center;
     backdrop-filter: blur(8px);
     -webkit-backdrop-filter: blur(8px);
-    box-shadow: inset 0 1px 2px rgba(0,0,0,0.15);
+    box-shadow: var(--shadow-inset);
 }
 
 .sort-select:hover {
     border-color: var(--border-hover);
     color: var(--text-primary);
-    background-color: hsla(225, 20%, 6%, 0.6);
+    background-color: var(--field-bg-hover);
     box-shadow: 0 0 10px var(--primary-glow);
 }
 
@@ -970,7 +1054,7 @@ body {
 }
 
 .sort-select option {
-    background: hsl(225, 22%, 10%);
+    background: var(--menu-bg);
     color: var(--text-primary);
     padding: 8px;
 }
@@ -1000,4 +1084,89 @@ body {
 .cite-btn.copied {
     color: var(--primary);
     border-color: var(--primary);
+}
+
+/* 16. テーマ切替スイッチ (右上) */
+.theme-toggle {
+    position: absolute;
+    top: -28px;
+    right: 0;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 4px 6px 4px 12px;
+    background: var(--field-bg-soft);
+    border: 1px solid var(--border-color);
+    border-radius: 999px;
+    color: var(--text-muted);
+    font-family: var(--font-body);
+    font-size: 0.8rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: var(--transition-smooth);
+    user-select: none;
+    z-index: 20;
+}
+
+.theme-toggle:hover {
+    border-color: var(--primary);
+    color: var(--text-primary);
+    box-shadow: 0 0 12px var(--primary-glow);
+}
+
+.theme-toggle-label {
+    min-width: 5.4em;
+    text-align: right;
+}
+
+.theme-toggle-track {
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 58px;
+    height: 28px;
+    padding: 0 7px;
+    border-radius: 999px;
+    background: var(--ov-10);
+    border: 1px solid var(--border-color);
+}
+
+.theme-toggle-track svg {
+    position: relative;
+    z-index: 1;
+    width: 14px;
+    height: 14px;
+    color: var(--text-dim);
+}
+
+/* つまみ: ライトは左(太陽)、ダークは右(月)。位置とアイコンの形でも状態が分かる */
+.theme-toggle-thumb {
+    position: absolute;
+    top: 2px;
+    left: 2px;
+    width: 22px;
+    height: 22px;
+    border-radius: 50%;
+    background: var(--primary);
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.35);
+    transition: transform 0.25s cubic-bezier(0.25, 0.8, 0.25, 1);
+}
+
+:root[data-theme="dark"] .theme-toggle-thumb {
+    transform: translateX(30px);
+}
+
+:root[data-theme="light"] .theme-toggle-track .icon-sun,
+:root[data-theme="dark"] .theme-toggle-track .icon-moon {
+    color: var(--on-primary);
+}
+
+.theme-toggle:focus-visible {
+    outline: 3px solid var(--primary);
+    outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .theme-toggle-thumb, body { transition: none; }
 }

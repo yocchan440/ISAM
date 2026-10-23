@@ -751,7 +751,44 @@ document.addEventListener('DOMContentLoaded', () => {
         return 0;
     }
 
+    // テーマ切替 (ダーク/ライト)。初期値は index.html の head で適用済み
+    function setupThemeToggle() {
+        const btn = document.getElementById('theme-toggle');
+        const label = document.getElementById('theme-toggle-label');
+        if (!btn) return;
+        const root = document.documentElement;
+
+        const reflect = () => {
+            const isDark = root.getAttribute('data-theme') !== 'light';
+            btn.setAttribute('aria-checked', String(isDark));
+            btn.setAttribute('aria-label', isDark ? 'ダークモード (クリックでライトモードへ)' : 'ライトモード (クリックでダークモードへ)');
+            if (label) label.textContent = isDark ? 'ダーク' : 'ライト';
+        };
+
+        btn.addEventListener('click', () => {
+            const next = root.getAttribute('data-theme') === 'light' ? 'dark' : 'light';
+            root.setAttribute('data-theme', next);
+            try { localStorage.setItem('isam-theme', next); } catch (e) { /* 保存できなくても動作に支障なし */ }
+            reflect();
+        });
+
+        // 利用者が明示的に選んでいない間は OS の設定変更に追従
+        if (window.matchMedia) {
+            const mq = window.matchMedia('(prefers-color-scheme: light)');
+            const onChange = (e) => {
+                let saved = null;
+                try { saved = localStorage.getItem('isam-theme'); } catch (err) { /* 無視 */ }
+                if (saved === 'light' || saved === 'dark') return;
+                root.setAttribute('data-theme', e.matches ? 'light' : 'dark');
+                reflect();
+            };
+            if (mq.addEventListener) mq.addEventListener('change', onChange);
+        }
+        reflect();
+    }
+
     // アプリ起動
+    setupThemeToggle();
     setupEventListeners();
     loadData();
 });
