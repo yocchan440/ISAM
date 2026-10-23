@@ -18,3 +18,8 @@
 
 # ローカル専用ドキュメント (データ更新手順書・参考スクリプト) は管理しない
 docs/
+
+# ワードクラウド機能 (feature/wordcloud)
+!wordcloud.html
+!tools/
+!tools/**
