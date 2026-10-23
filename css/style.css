@@ -184,7 +184,7 @@ body {
 .app-container {
     max-width: 1200px;
     margin: 0 auto;
-    padding: 40px 20px;
+    padding: 20px 20px 40px;
     display: flex;
     flex-direction: column;
     min-height: 100vh;
@@ -1088,9 +1088,7 @@ body {
 
 /* 16. テーマ切替スイッチ (右上) */
 .theme-toggle {
-    position: absolute;
-    top: -28px;
-    right: 0;
+    position: relative;
     display: inline-flex;
     align-items: center;
     gap: 8px;
@@ -1169,4 +1167,61 @@ body {
 
 @media (prefers-reduced-motion: reduce) {
     .theme-toggle-thumb, body { transition: none; }
+}
+
+/* 17. 上部バー: 機能ナビゲーション(左) と テーマ切替(右) */
+.app-topbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px 16px;
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.site-nav ul {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+}
+
+.site-nav a,
+.back-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 6px 14px;
+    border-radius: 999px;
+    border: 1px solid var(--border-color);
+    background: var(--field-bg-soft);
+    color: var(--text-muted);
+    font-size: 0.85rem;
+    font-weight: 600;
+    text-decoration: none;
+    transition: var(--transition-smooth);
+}
+
+.site-nav a:hover,
+.back-link:hover {
+    border-color: var(--primary);
+    color: var(--text-primary);
+    box-shadow: 0 0 12px var(--primary-glow);
+}
+
+/* 現在のページ: 色だけに頼らず、太字・下線・塗りで示す */
+.site-nav a[aria-current="page"] {
+    color: var(--on-primary);
+    background: var(--primary);
+    border-color: var(--primary);
+    text-decoration: underline;
+    text-underline-offset: 4px;
+    cursor: default;
+}
+
+.site-nav a:focus-visible,
+.back-link:focus-visible {
+    outline: 3px solid var(--primary);
+    outline-offset: 2px;
 }
