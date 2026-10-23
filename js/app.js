@@ -15,6 +15,8 @@ document.addEventListener('DOMContentLoaded', () => {
         searchQuery: '',     // 現在の検索キーワード
         presenterOnly: false, // 登壇発表のみ
         invitedOnly: false,   // 企画・特別セッションのみ
+        awardedOnly: false,   // 受賞論文のみ
+        initialEvents: null,  // URLの ev= で指定された選択イベント (null: 指定なし=すべて)
         // 新しい動的ドロップダウンフィルター用状態
         selectedEvents: [],   // 選択されたイベント (例: ["CSS2025", "SCIS2026"])
         sortOrder: 'desc',    // ソート順 ('desc' (降順/新しい順) or 'asc' (昇順/古い順))
@@ -32,11 +34,75 @@ document.addEventListener('DOMContentLoaded', () => {
         loadingIndicator: document.getElementById('loading-indicator'),
         presenterToggle: document.getElementById('presenter-only-toggle'),
         invitedToggle: document.getElementById('invited-only-toggle'),
+        awardedToggle: document.getElementById('awarded-only-toggle'),
         // 動的フィルター用コンテナ
         dynamicFiltersContainer: document.getElementById('dynamic-filters-container'),
         // ソート順選択要素
         sortSelect: document.getElementById('sort-select'),
     };
+
+    // 0. 検索条件とURLクエリの相互変換
+    //    ?q=キーワード&pres=1&inv=1&award=1&sort=asc&ev=CSS2025,SCIS2026
+    function readStateFromUrl() {
+        const params = new URLSearchParams(window.location.search);
+        const q = params.get('q');
+        if (q) {
+            state.searchQuery = q;
+            el.searchInput.value = q;
+            el.clearBtn.classList.add('show');
+        }
+        const flag = (name) => ['1', 'true', 'on'].includes((params.get(name) || '').toLowerCase());
+        state.presenterOnly = flag('pres');
+        state.invitedOnly = flag('inv');
+        state.awardedOnly = flag('award');
+        el.presenterToggle.checked = state.presenterOnly;
+        el.invitedToggle.checked = state.invitedOnly;
+        el.awardedToggle.checked = state.awardedOnly;
+        if (params.get('sort') === 'asc') {
+            state.sortOrder = 'asc';
+            el.sortSelect.value = 'asc';
+        }
+        const ev = params.get('ev');
+        if (ev) {
+            state.initialEvents = ev.split(',').map(x => x.trim()).filter(Boolean);
+        }
+    }
+
+    function syncUrlWithState() {
+        const params = new URLSearchParams();
+        const q = state.searchQuery.trim();
+        if (q) params.set('q', q);
+        if (state.presenterOnly) params.set('pres', '1');
+        if (state.invitedOnly) params.set('inv', '1');
+        if (state.awardedOnly) params.set('award', '1');
+        if (state.sortOrder === 'asc') params.set('sort', 'asc');
+        // すべてのイベントが選択されているとき以外は、選択中のイベントを記録
+        const total = document.querySelectorAll('.event-checkbox').length;
+        if (total > 0 && state.selectedEvents.length !== total) {
+            params.set('ev', state.selectedEvents.join(','));
+        }
+        const qs = params.toString();
+        const url = window.location.pathname + (qs ? '?' + qs : '') + window.location.hash;
+        try {
+            window.history.replaceState(null, '', url);
+        } catch (e) { /* file:// など履歴を書き換えられない環境では無視 */ }
+    }
+
+    // URLの ev= で指定されたイベントだけをチェック状態にする
+    function applyInitialEventSelection() {
+        if (!state.initialEvents) return;
+        const boxes = Array.from(document.querySelectorAll('.event-checkbox'));
+        const known = new Set(boxes.map(b => b.getAttribute('data-event')));
+        const wanted = new Set(state.initialEvents.filter(e => known.has(e)));
+        if (wanted.size === 0) return; // 有効な指定が無ければ無視 (すべて選択のまま)
+        boxes.forEach(b => { b.checked = wanted.has(b.getAttribute('data-event')); });
+        document.querySelectorAll('.conf-select-all').forEach(allBox => {
+            const siblings = boxes.filter(b => b.getAttribute('data-conf') === allBox.getAttribute('data-conf'));
+            const n = siblings.filter(b => b.checked).length;
+            allBox.checked = n === siblings.length;
+            allBox.indeterminate = n > 0 && n < siblings.length;
+        });
+    }
 
     // 1. データの非同期ロード
     async function loadData() {
@@ -208,7 +274,8 @@ document.addEventListener('DOMContentLoaded', () => {
         html += '</div>';
         el.dynamicFiltersContainer.innerHTML = html;
 
-        // イベントリスナーの登録
+        // URLの ev= 指定を反映してからイベントリスナーを登録
+        applyInitialEventSelection();
         setupDynamicFilterListeners();
     }
 
@@ -356,6 +423,11 @@ document.addEventListener('DOMContentLoaded', () => {
                 if (!hasPresenter) return false;
             }
 
+            // B2. 受賞論文のみフィルター
+            if (state.awardedOnly) {
+                if (!paper.awards || paper.awards.length === 0) return false;
+            }
+
             // C. 企画・特別セッションのみフィルター
             if (state.invitedOnly) {
                 const isInvited = paper.id.includes('invited') || 
@@ -395,6 +467,7 @@ document.addEventListener('DOMContentLoaded', () => {
         // UI更新
         updateStats();
         renderResults();
+        syncUrlWithState();
     }
 
     // 3. 結果のHTML描画 (DocumentFragmentによる高速DOM描画)
@@ -576,6 +649,12 @@ document.addEventListener('DOMContentLoaded', () => {
         // 登壇発表のみトグル
         el.presenterToggle.addEventListener('change', (e) => {
             state.presenterOnly = e.target.checked;
+            applyFiltersAndSearch();
+        });
+
+        // 受賞論文のみトグル
+        el.awardedToggle.addEventListener('change', (e) => {
+            state.awardedOnly = e.target.checked;
             applyFiltersAndSearch();
         });
 
@@ -789,6 +868,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // アプリ起動
     setupThemeToggle();
+    readStateFromUrl();
     setupEventListeners();
     loadData();
 });
