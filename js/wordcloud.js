@@ -156,40 +156,58 @@
         const minPx = (cssWidth < 480 ? 11 : 13) * dpr;
         const span = Math.max(1, max - min);
         // 頻度→フォントサイズ。中間の語も読めるよう、冪を弱めて最小サイズを確保する
-        const sizeOf = (count) => minPx + Math.pow((count - min) / span, 0.8) * (maxPx - minPx);
+        const sizeOf = (count) => minPx + Math.pow(Math.max(0, count - min) / span, 0.8) * (maxPx - minPx);
 
         const token = ++renderToken;
-        WordCloud(canvas, {
-            list: words,
-            fontFamily: FONT_FAMILY,
-            fontWeight: '700',
-            gridSize: Math.round(6 * dpr),
-            weightFactor: sizeOf,
-            color: (word) => colors[hashIndex(word, colors.length)],
-            backgroundColor: 'rgba(0,0,0,0)',
-            rotateRatio: 0,
-            shape: 'square',
-            drawOutOfBound: false,
-            shrinkToFit: true,
-            minSize: 8 * dpr,
-            hover: (item, dimension, evt) => {
+        const hover = (item, dimension, evt) => {
+            if (token !== renderToken) return;
+            if (!item) {
+                el.tooltip.classList.add('hide');
+                canvas.style.cursor = 'default';
+                return;
+            }
+            canvas.style.cursor = 'pointer';
+            const rect = el.wrap.getBoundingClientRect();
+            el.tooltip.textContent = `${item[0]}：${item[1]}件`;
+            el.tooltip.classList.remove('hide');
+            el.tooltip.style.left = Math.min(rect.width - 140, Math.max(8, evt.clientX - rect.left + 12)) + 'px';
+            el.tooltip.style.top = Math.max(8, evt.clientY - rect.top - 36) + 'px';
+        };
+
+        // すべての語が収まらなければ、文字サイズを縮めて描き直す (wordcloud2 の shrinkToFit は
+        // 重みを直接縮める方式で、非線形のサイズ関数と相性が悪いため自前で行う)
+        const attempt = (scale) => {
+            if (token !== renderToken) return;
+            let drawn = 0;
+            const onDrawn = (e) => { if (e.detail && e.detail.drawn) drawn++; };
+            const onStop = () => {
+                canvas.removeEventListener('wordclouddrawn', onDrawn);
+                canvas.removeEventListener('wordcloudstop', onStop);
                 if (token !== renderToken) return;
-                if (!item) {
-                    el.tooltip.classList.add('hide');
-                    canvas.style.cursor = 'default';
-                    return;
-                }
-                canvas.style.cursor = 'pointer';
-                const rect = el.wrap.getBoundingClientRect();
-                el.tooltip.textContent = `${item[0]}：${item[1]}件`;
-                el.tooltip.classList.remove('hide');
-                el.tooltip.style.left = Math.min(rect.width - 140, Math.max(8, evt.clientX - rect.left + 12)) + 'px';
-                el.tooltip.style.top = Math.max(8, evt.clientY - rect.top - 36) + 'px';
-            },
-            click: (item) => {
-                if (item) window.location.href = searchUrl(item[0]);
-            },
-        });
+                if (drawn < words.length && scale > 0.45) attempt(scale * 0.88);
+            };
+            canvas.addEventListener('wordclouddrawn', onDrawn);
+            canvas.addEventListener('wordcloudstop', onStop);
+            WordCloud(canvas, {
+                list: words,
+                fontFamily: FONT_FAMILY,
+                fontWeight: '700',
+                gridSize: Math.round(6 * dpr),
+                weightFactor: (count) => sizeOf(count) * scale,
+                color: (word) => colors[hashIndex(word, colors.length)],
+                backgroundColor: 'rgba(0,0,0,0)',
+                rotateRatio: 0,
+                shape: 'square',
+                drawOutOfBound: false,
+                shrinkToFit: false,
+                minSize: 8 * dpr,
+                hover,
+                click: (item) => {
+                    if (item) window.location.href = searchUrl(item[0]);
+                },
+            });
+        };
+        attempt(1);
     }
 
     // ---------------------------------------------------------------- イベント選択
